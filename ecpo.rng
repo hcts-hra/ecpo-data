@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
+    xmlns="http://relaxng.org/ns/structure/1.0"
+    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
+    <start>
+        <element name="fold">
+            <attribute name="xml:id"/>
+            <oneOrMore>
+                <element name="div">
+                    <attribute name="type">
+                        <choice>
+                            <value>article</value>
+                            <value>image</value>
+                            <value>advert</value>
+                            <value>other</value>
+                        </choice>
+                    </attribute>
+                    <choice>
+                        <oneOrMore>
+                            <element name="p">
+                                <ref name="contents"/>
+                            </element>
+                        </oneOrMore>
+                        <ref name="contents"/>
+                    </choice>
+                </element>
+            </oneOrMore>
+        </element>
+    </start>
+    <define name="contents">
+        <interleave>
+            <text/>
+            <oneOrMore>
+                <element name="lb">
+                    <empty/>
+                </element>
+            </oneOrMore>
+        </interleave>
+    </define>
+</grammar>
