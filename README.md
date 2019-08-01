@@ -1,5 +1,7 @@
+[![Build Status](https://travis-ci.com/exc-asia-and-europe/ecpo.svg?branch=master)](https://travis-ci.com/exc-asia-and-europe/ecpo)
+
 # ECPO
-Early Chinese Periodicals Online: 
+Early Chinese Periodicals Online:
 -   web: https://uni-heidelberg.de/ecpo
 -   git: https://github.com/exc-asia-and-europe/ecpo
 
