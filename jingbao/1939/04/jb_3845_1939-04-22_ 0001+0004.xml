@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!DOCTYPE ecpo [
+    <!ENTITY gaiji "&#xe111;">
+]>
 <fold xml:id="jb_3797_1939-04-22_0001+0004">
-    <div type="other">
+    <div type="head">
         <p>
             報晶<lb/>
             The Crystal<lb/>
@@ -12,21 +16,6 @@
             日三月三年八國民於刊創報本 厘四分貳幣國售張全兩日今 六期星 日二廿月四年捌拾貳國民華中<lb/>
         </p>
 	</div>
-	<div type="other">
-		<p>
-		    本報忠實報道新聞說人人要說的話文字淺近趣味濃厚是最平民化的刊物<lb/>
-		</p>
-	</div>
-	<div type="other">
-		<p>
-		    本報具有廿一年的歷史是小型報紙鼻祖銷路普遍全國刊登廣告最有效力<lb/>
-		</p>
-	</div>
-	<div type="other">
-		<p>
-		    版四第 六期星 報晶 日二廿月四年八十二國民華中<lb/>
-		</p> 	
-    </div>
 	<div type="advert">
 	    <p>
 		    相照登摩<lb/>
@@ -93,6 +82,21 @@
 		</p>
 		<p>
 		    
+		</p>
+	</div>
+	<div type="margin">
+		<p>
+		    本報忠實報道新聞說人人要說的話文字淺近趣味濃厚是最平民化的刊物<lb/>
+		</p>
+	</div>
+	<div type="margin">
+		<p>
+		    版四第 六期星 報晶 日二廿月四年八十二國民華中<lb/>
+		</p> 	
+    </div>
+	<div type="margin">
+		<p>
+		    本報具有廿一年的歷史是小型報紙鼻祖銷路普遍全國刊登廣告最有效力<lb/>
 		</p>
 	</div>
 	<div type="advert">
@@ -259,14 +263,14 @@
 			小便點滴<lb/>
 		</p>
 		<p>
-			??<lb/>
+			&gaiji; &gaiji;<lb/>
 			通利<lb/>
 		</p>
 		<p>
 			血淋<lb/>
 		</p>
 		<p>
-			??<lb/>
+			&gaiji; &gaiji;<lb/>
 			即止<lb/>
 		</p>
 		<p>
