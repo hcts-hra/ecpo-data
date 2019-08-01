@@ -6,35 +6,50 @@
         <element name="fold">
             <attribute name="xml:id"/>
             <oneOrMore>
-                <element name="div">
-                    <attribute name="type">
-                        <choice>
-                            <value>article</value>
-                            <value>image</value>
-                            <value>advert</value>
-                            <value>other</value>
-                        </choice>
-                    </attribute>
-                    <choice>
-                        <oneOrMore>
-                            <element name="p">
-                                <ref name="contents"/>
-                            </element>
-                        </oneOrMore>
-                        <ref name="contents"/>
-                    </choice>
-                </element>
+                <ref name="structure"/>
             </oneOrMore>
         </element>
     </start>
     <define name="contents">
         <interleave>
             <text/>
-            <oneOrMore>
+            <zeroOrMore>
                 <element name="lb">
                     <empty/>
                 </element>
-            </oneOrMore>
+            </zeroOrMore>
         </interleave>
+        <choice>
+            <element name="lb">
+                <empty/>
+            </element>
+            <!-- TODO thx Paul -->
+            <element name="pb">
+                <empty/>
+            </element>
+        </choice>
+    </define>
+    <define name="structure">
+        <element name="div">
+            <attribute name="type">
+                <choice>
+                    <value>article</value>
+                    <value>image</value>
+                    <value>advert</value>
+                    <value>other</value>
+                    <value>head</value>
+                    <value>margin</value>
+                </choice>
+            </attribute>
+            <choice>
+                <oneOrMore>
+                    <element name="p">
+                        <ref name="contents"/>
+                    </element>
+                </oneOrMore>
+                <ref name="contents"/>
+                <ref name="structure"/>
+            </choice>
+        </element>
     </define>
 </grammar>
