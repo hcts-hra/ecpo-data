@@ -5,3 +5,4 @@ Early Chinese Periodicals Online:
 
 To enter special characters use e.g. [BabelMap](http://www.babelstone.co.uk/Software/BabelMap.html) or [Babel Map Online](http://www.babelstone.co.uk/Unicode/babelmap.html)
 
+for more inormation see https://github.com/exc-asia-and-europe/ecpo/wiki/Rare-Characters-and-Special-Glyphs/
