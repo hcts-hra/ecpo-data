@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!DOCTYPE ecpo [
+    <!ENTITY gaiji "&#xe111;">
+]>
+<!-- Delete this line after adjusting the xml:id below -->
+<fold xml:id="jb_3797_1939-04-23">
+<!-- start page   -->
+    <div type="other">
+        <div type="other"> 
+            <pb/> 
+        </div>
+    </div>
+    
+<!-- start center block   -->
+    <div type="other"> 
+        <div type="advert"> 
+            <lb/> 
+        </div>
+    </div>
+    
+<!-- start page   -->
+    <div type="other">
+        <div type="article">
+            <p>
+                <pb/>
+            </p>
+        </div>
+    </div>
+</fold>
