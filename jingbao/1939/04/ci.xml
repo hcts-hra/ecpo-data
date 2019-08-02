@@ -3,22 +3,23 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
+<!-- THIS IS A TEST FILE DELETE THIS ONCE ACTUAL TRANSCRIPTS ARE IN MASTER -->
 <!-- Delete this line after adjusting the xml:id below -->
 <fold xml:id="jb_3797_1939-04-23">
 <!-- start page   -->
     <div type="other">
-        <div type="other"> 
+        <div type="other">
             <pb/> 
         </div>
     </div>
-    
+
 <!-- start center block   -->
-    <div type="other"> 
-        <div type="advert"> 
-            <lb/> 
+    <div type="other">
+        <div type="advert">
+            <lb/>
         </div>
     </div>
-    
+
 <!-- start page   -->
     <div type="other">
         <div type="article">
