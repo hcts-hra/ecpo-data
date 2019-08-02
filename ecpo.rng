@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<grammar datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
-    xmlns="http://relaxng.org/ns/structure/1.0"
-    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
+<grammar datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes" xmlns="http://relaxng.org/ns/structure/1.0" xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
     <start>
         <element name="fold">
             <attribute name="xml:id"/>
@@ -23,7 +21,7 @@
             <element name="lb">
                 <empty/>
             </element>
-            <!-- TODO thx Paul -->
+            <!-- thx ⌘ Paul ⌘ -->
             <element name="pb">
                 <empty/>
             </element>
@@ -39,8 +37,45 @@
                     <value>other</value>
                     <value>head</value>
                     <value>margin</value>
+                    <value>page</value>
                 </choice>
             </attribute>
+            <optional>
+                <attribute name="xml:id"/>
+                <group>
+                    <!-- see https://www.w3.org/International/articles/vertical-text/ -->
+                    <attribute name="mode">
+                        <!--  see https://developer.mozilla.org/en-US/docs/Web/CSS/writing-mode -->
+                        <choice>
+                            <value>horizontal-tb</value>
+                            <value>vertical-rl</value>
+                            <!--the default-->
+                            <value>vertical-lr</value>
+                            <value>sideways-rl</value>
+                            <value>sideways-lr</value>
+                        </choice>
+                    </attribute>
+                    <attribute name="dir">
+                        <!--  see https://developer.mozilla.org/en-US/docs/Web/CSS/direction -->
+                        <choice>
+                            <value>ltr</value>
+                            <value>rtl</value>
+                            <!--the default-->
+                        </choice>
+                    </attribute>
+                </group>
+                <group>
+                    <attribute name="page">
+                        <choice>
+                            <value>recto</value>
+                            <value>verso</value>
+                        </choice>
+                    </attribute>
+                    <attribute name="n">
+                        <data type="positiveInteger"/>
+                    </attribute>
+                </group>
+            </optional>
             <choice>
                 <oneOrMore>
                     <element name="p">
@@ -48,7 +83,9 @@
                     </element>
                 </oneOrMore>
                 <ref name="contents"/>
-                <ref name="structure"/>
+                <zeroOrMore>
+                    <ref name="structure"/>
+                </zeroOrMore>
             </choice>
         </element>
     </define>

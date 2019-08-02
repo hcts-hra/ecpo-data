@@ -4,24 +4,25 @@
     <!ENTITY gaiji "&#xe111;">
 ]>
 <!-- Delete this line after adjusting the xml:id below -->
-<fold xml:id="jb_3797_1939-04-23">
-<!-- start page   -->
-    <div type="other">
+<fold xml:id="jb_3798_1939-04-24_0001+0004">
+<!-- start verso page   -->
+<!--  DELETE the line after adjusting page numbers  -->
+    <div type="page" page="verso" n="4">
         <div type="other"> 
             <pb/> 
         </div>
     </div>
     
 <!-- start center block   -->
-    <div type="other"> 
+    <div type="other" mode="vertical-rl"> 
         <div type="advert"> 
             <lb/> 
         </div>
     </div>
     
-<!-- start page   -->
-    <div type="other">
-        <div type="article">
+<!-- start recto page   -->
+    <div type="page" page="recto" n="1">
+        <div type="article" xml:id="A1">
             <p>
                 <pb/>
             </p>
