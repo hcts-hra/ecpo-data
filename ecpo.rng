@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<grammar datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes" xmlns="http://relaxng.org/ns/structure/1.0" xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
+<grammar datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
+    xmlns="http://relaxng.org/ns/structure/1.0"
+    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
     <start>
         <element name="fold">
             <attribute name="xml:id"/>
@@ -29,19 +31,23 @@
     </define>
     <define name="structure">
         <element name="div">
-            <attribute name="type">
-                <choice>
-                    <value>article</value>
-                    <value>image</value>
-                    <value>advert</value>
-                    <value>other</value>
-                    <value>head</value>
-                    <value>margin</value>
-                    <value>page</value>
-                </choice>
-            </attribute>
+            <optional>
+                <attribute name="type">
+                    <choice>
+                        <value>article</value>
+                        <value>image</value>
+                        <value>advert</value>
+                        <value>other</value>
+                        <value>head</value>
+                        <value>margin</value>
+                        <value>page</value>
+                    </choice>
+                </attribute>
+            </optional>
             <optional>
                 <attribute name="xml:id"/>
+            </optional>
+            <optional>
                 <group>
                     <!-- see https://www.w3.org/International/articles/vertical-text/ -->
                     <attribute name="mode">
@@ -64,6 +70,8 @@
                         </choice>
                     </attribute>
                 </group>
+            </optional>
+            <optional>
                 <group>
                     <attribute name="page">
                         <choice>
