@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!DOCTYPE ecpo [
+    <!ENTITY gaiji "&#xe111;">
+]>
+<fold xml:id="jb_3798_1939-04-24_0006+0007">
+    <!-- … start recto page   -->
+    <div type="page" page="recto" n="6" mode="vertical-rl" dir="rtl">
+        <div type="margin">
+            <div type="other" mode="horizontal-tb" dir="rtl">
+                中華民國二十八年四月廿四日　晶報　星期一　第六版<lb/>
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                天文臺重金延記者　（一得自香港寄）<lb/>
+            </div>
+            <div>
+                <p>
+                    每星期發行兩次之香港天文臺小型報，為六不將軍陳向元所主辦，本晶介紹<lb/>
+                    &gaiji;矣，陳與白崇禧將軍保定軍官同學，曾招至廣西，倚畀甚殷，而陳野鶴行雲，<lb/>
+                    不喜戎馬，轉親筆硯，居港創天文臺，以評論見長，捲筒機印刷，銷行甚多，今<lb/>
+                    刊啟事，月奉國幣五百元，延聘編輯一人，但附有條件十則，似於陳將軍之外，<lb/>
+                    誠意，延聘具有左列條件之編輯一名：（一）絕對信仰『國家民族高於一切者』<lb/>
+                    。（二）有習苦耐勞之優越品性者。（三）有高深之軍事學識者。（四）有實戰<lb/>
+                    經驗者。（五）能判斷三個月後之戰場態勢與國際形勢之特殊天才者。（六）熟<lb/>
+                    悉古今中外戰史者。（七）熟悉中外兵要地理者。（八）有中國舊文學修養者。<lb/>
+                    （九）有新聞藝術與學術者。（十）有國際外交政治財政經濟水準以上常識者。<lb/>
+                    凡自信具有右列十條件之學者專家，且願應本報之竭誠聘請賜予合作者，請書明<lb/>
+                    ：姓名，籍貫學歷，并其最近著作，寄交本社，選定合格後，近者則親自造府延<lb/>
+                    訪，不敢有勞大駕枉臨，遠者，則另行具函聘請，不合格者，著作品奉還，履歷<lb/>
+                    存。<lb/>
+                </p>
+            </div>
+        </div>
+        
+        
+        
+        
+        
+        <div type="margin">
+            <div type="other">
+                本刊忠實報導新聞說人人要說的話文字淺近趣味濃厚是最平民化的物刊<pb/>
+            </div>
+        </div>
+    </div>
+</fold>
