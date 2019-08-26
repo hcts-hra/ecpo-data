@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!DOCTYPE ecpo [
+    <!ENTITY gaiji "&#xe111;">
+]>
+<fold xml:id="jb_3798_1939-04-28_0001+0004">
+    <!-- start page   -->
+    <div type="page" page="recto" n="1" mode="vertical-rl" dir="rtl">
+        <div type="head" dir="rtl" mode="horizontal-tb">
+            <div>
+                晶報<lb/>
+            </div>
+            <div dir="ltr" mode="horizontal-tb">
+                The Crystal<lb/>
+                發行人 A. L. Teodoro<lb/>
+            </div>
+            <div>
+                館址漢口路二九九號　電話九三四二八<lb/>
+                中華郵政特准掛號立券按照總包優益寄送之報紙<lb/>
+                ◀公共租界工部局登記證Ｃ字廿四號▶<lb/>
+                ◀第三千七百九十八號▶<lb/>
+                中華民國貳拾捌年四月廿八日　星期五　今日兩全張售國幣貳分四厘　本報創刊於民國八年三月三日<lb/>
+            </div> 
+        </div>
+        <div type="advert">
+            <div>
+                眼科<lb/>
+                專家<lb/>
+            </div>
+            <div>
+                秦錫祺醫師<lb/>
+            </div>
+            <div>
+                新法根治砂眼赤眼腫痛流淚<lb/>
+                儂漏眼白翳內障等目疾<lb/>
+                時間：上午十至二十　下午三至六<lb/>
+                診所：靜安寺路卡德路口靜安大樓<lb/>
+                電話<lb/>
+            </div>
+            <div>
+                …診所三二四六一號<lb/>
+                …住宅二〇七〇九號<lb/>
+            </div>
+            <div mode="horizontal-tb" dir="rtl">
+                發明<lb/>
+            </div>
+            <div>
+                秦氏砂眼藥水<lb/>
+            </div>
+            <div>
+                本藥水專治砂眼癢痛風火赤眼模糊怕光流淚等一切目<lb/>
+                疾功能消&gaiji;退紅止癢明目一&gaiji;點用藥到病除&gaiji;驗非凡<lb/>
+                永安•新新•大新三公司代售<lb/>
+            </div>
+        </div>
+        <div type="advert">
+            <div mode="horizontal-tb" dir="rtl">
+                天樂園酒樓<lb/>
+            </div>
+            <div>
+                △三馬路浙江路西首▽<lb/>
+                本樓專備　高尚禮廳<lb/>
+                婚禮喜慶　設備週全<lb/>
+                名師特製　上等酒筵<lb/>
+                經濟小吃　味美價廉<lb/>
+                △電話九四九四七號▽<lb/>
+            </div>
+        </div>
+        <div type="article">
+        </div>   
+        
+        <div type="other">
+            <div type="margin">
+                本報忠實報導新聞說人人要說的話文字淺近趣味濃厚是最平民化的刊物<pb/>
+            </div>
+        </div> 
+   <!-- start middle of the fold -->
+    <div type="margin" dir="rtl" mode="vertical-rl">
+        <div type="advert">
+            <div mode="horizontal-tb" dir="rtl">
+                四馬路<lb/>
+                晝錦里口<lb/>
+            </div>
+            <div>
+                杏花酒樓<lb/>
+            </div>
+            <div mode="horizontal-tb" dir="rtl">
+                電話<lb/>
+                九三五五五<lb/>
+                九二六四九<lb/>
+            </div>
+            <div mode="horizontal-tb" dir="rtl">
+                轉辦<lb/>
+            </div>
+            <div>
+                高尚粵菜<lb/>
+            </div>
+            <div>
+                大小筵席<lb/>
+                隨意小酌<lb/>
+            </div>
+            <div>
+                華貴禮堂　租費從廉<lb/>
+            </div>
+        </div>
+        <div type="advert">
+            申江醫院<lb/>
+            附設戒菸專科<lb/>
+            戒法新穎。毫無痛苦。住院走戒。均聽其便。<lb/>
+            內外各科。照常應診。女醫接生。隨請隨到。<lb/>
+            院址。法租界霞飛路口馬浪路。<lb/>
+            電話。八三一三〇。<lb/>
+        </div>
+        <div type="advert">
+            <div>
+                小兒科<lb/>
+                內科<lb/>
+            </div>
+            <div>
+                專門<lb/>
+                醫師<lb/>
+            </div>
+            <div>
+                宋虞琪<lb/>
+            </div>
+            <div>
+                ▲診所霞飛路馬斯路口東首先施公司<lb/>
+                一元商店對面六百二十二弄泰<lb/>
+                山公寓六號內五十三號<lb/>
+                ▲時間門診上午十時至十二時下午三<lb/>
+                時至五時餘時出診<lb/>
+                ▲電話八一〇四二號<lb/>
+            </div>
+        </div>
+    </div>
+    <!-- start verso page   -->
+    <div type="page" page="verso" n="4" mode="vertical-rl" dir="rtl">
+        <div type="other">
+            <div type="margin" mode="horizontal-tb" dir="rtl">
+                中華民國二十八年四月廿八日　晶報　星期五　第四版<lb/>
+            </div>
+        </div>
+        <div type="article">
+        </div>
+        
+        <div type="margin">
+            <div type="other">
+               本報具有廿一年的歷史是小型報紙鼻祖銷路普遍全國刊登廣告最有效力<pb/>
+            </div>
+        </div>
+    </div>
+    </div>
+</fold>
+    
+
+    
+
+
+
