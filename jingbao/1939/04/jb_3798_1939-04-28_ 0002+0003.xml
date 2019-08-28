@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!DOCTYPE ecpo [
+    <!ENTITY gaiji "&#xe111;">
+]>
+<fold xml:id="jb_3798_1939-04-28_0002+0003">
+    <div type="page" page="verso" n="2" mode="vertical-rl" dir="rtl">
+        <div type="other">
+            <div type="margin" mode="horizontal-tb"  dir="rtl" > 
+                中華民國二十八年四月廿八日　晶報　星期五　第二版<lb/>     
+            </div>
+        </div>
+        <div type="article">
+            <div mode="horizontal-tb" dir="rtl">
+                英致牒蘇聯政府<lb/>
+            </div>
+            <div>
+                要求蘇聯對於鄰邦<lb/>
+                提供援助保證<lb/>
+                波羅兩國均同意此新建議<lb/>
+                蘇駐英使邁斯基過法往返<lb/>
+            </div>
+            <div>
+                <p>
+                    （倫敦廿七日海通電）據今日「	每日快報」載稱：英政府業已訓令駐蘇聯大使<lb/>
+                    西慈爵士、將英國牒文、送達蘇聯政府、要求蘇聯、對鄰邦提供援助保證、倘各<lb/>
+                    該國遭受攻擊時、蘇聯當立卽出而援助也、英國政界人士申稱、英國之牒文、乃<lb/>
+                    係答覆前日蘇聯所提之建議、倘蘇聯接受英國之要求、則一旦發生戰禍、蘇聯當<lb/>
+                    在陸海空三方面、援助其保證之鄰邦、或以軍火接濟之、據悉、波蘭、羅馬尼亞<lb/>
+                    兩國、對英國向蘇聯提出之心新建議、現已表示同意云、<lb/>
+                </p>
+                <p>
+                    （倫敦廿六日電）現由莫斯科、起程返倫敦任所之蘇聯駐英大使邁斯基、將在<lb/>
+                    巴黎稍作停留、聞邁氏將以英蘇談話之情形&gaiji;告諸蘇聯駐法大使蘇里資、<lb/>
+                </p>
+                <p>
+                    （瑞典京城廿七日美聯電）據蘇聯駐英大使今日稱、關於英蘇兩國、在歐洲共<lb/>
+                    同防範協定事、彼未悉有&gaiji;建議、該大使乘飛機抵達此間、謂在莫斯科時、並未<lb/>
+                    接獲特別訓令云、<lb/>
+                </p>
+            </div>
+        </div>
+        
+        <div type="margin">
+            <div type="other">
+                <p>
+                    廣告刊例：　報名旁　每日每方二十元　長行計七寸高　每日每行一元八角　短行計三寸半高　每日每行九角　中縫計三寸半高二寸濶　每日每格八元<lb/>
+                </p>
+            </div>
+        </div>
+    </div>
+    <!--start middle of the fold-->
+    <div type="margin">
+        <div type="advert">
+        </div>
+    </div>
+    <!-- start recto page   -->
+    <div page="recto" n="3" mode="vertical-rl" dir="rtl">
+        <div type="margin">
+            <div type="other" mode="horizontal-tb" dir="rtl">
+                中華民國二十八年四月廿八日　晶報　星期五　第三版<lb/>
+            </div>
+        </div>
+        
+        <div type="margin">
+            <div type="other">
+                定報價目：　本埠　每月五角　三個月一元四角　外埠　每月六角　三月一元七角　半年三元二角　全年六元　郵費在內　國外加倍報資先惠<pb/>
+            </div>
+        </div>
+    </div>
+</fold>
+
