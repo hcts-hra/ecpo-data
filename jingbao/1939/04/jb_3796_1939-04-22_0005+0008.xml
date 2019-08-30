@@ -3,18 +3,91 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3797_1939-04-22_0001+0004">
-    <div type="page" page="recto" n="5">
+<fold xml:id="jb_3796_1939-04-22_0005+0008">
+	<div type="page" page="recto" n="5" dir="rtl" mode="vertical-rl">
 	    <div type="margin" dir="rtl" mode="horizontal-tb">
-		    中華民國二十八年四月廿二日　晶報　星期六　第三版<lb/>	
+		    中華民國二十八年四月廿二日　晶報　星期六　第五版<lb/>	
         </div>
-		<div>
-		sfdfdf df fd 
-		
+		<div type="other">
+		    <div dir="rtl" mode="horizontal-tb">
+		    	文化營<lb/>
+		    </div>
+		    <div type="image">
+		    	
+		    </div>
+			<div>
+				<div dir="rtl" mode="horizontal-tb">
+					黔野主編<lb/>
+				</div>
+				<div>
+					<p>
+						詩經話繹　（如鐘）<lb/>
+					</p>
+					<p>
+						二，著（齊風）<lb/>
+						佩着瓊華，<lb/>
+						素絲的充耳下垂在<lb/>
+						兩鬢邊，－<lb/>
+						是她啊，<lb/>
+						候我在屏門間！<lb/>
+					</p>
+					<p>
+						佩着瓊瑩，<lb/>
+						青絲的充耳下垂在<lb/>
+						兩鬢邊，－<lb/>
+						是她啊，<lb/>
+						候我在小庭院！<lb/>
+					</p>
+					<p>
+						佩着瓊英，<lb/>
+						黃絲的充耳下垂在<lb/>
+						兩鬢邊，－<lb/>
+						是她啊，<lb/>
+						候我在畫堂前！<lb/>
+					</p>
+					<p>
+						（解）這是赴情<lb/>
+						人約會以前的想像<lb/>
+						之詞。<lb/>
+					</p>
+					<p>
+						原文：<lb/>
+					</p>
+					<p>
+						俟我於著乎而，<lb/>
+						充耳以素乎而，尚<lb/>
+						之以瓊華乎而。<lb/>
+					</p>
+					<p>
+						俟我於庭乎而，<lb/>
+						充耳以青乎而，尚<lb/>
+						之以瓊瑩乎而。<lb/>
+					</p>
+					<p>
+						俟我於堂乎而，<lb/>
+						充耳以黃乎而，尚<lb/>
+						之以瓊英乎而。<lb/>
+					</p>
+				</div>	
+			</div>
 		</div> 
-
-	<div type="page" page="verso" n="8">
-
-	
+		<div type="article">
+			
+		</div>
+    	<div type="margin" >
+    		本報具有二十年的歷史是小型報紙鼻祖銷路普遍全國刊登廣告最有效力<lb/>	
+    	</div>
+    </div>
+	<div type="page" page="verso" n="8" dir="rtl" mode="vertical-rl">
+		<div type="margin" dir="rtl" mode="horizontal-tb">
+			中華民國二十八年四月廿二日　晶報　星期六　第八版<lb/>	
+		</div>
+		<div type="margin">
+			本報忠實報道新聞說人人要說的話文字淺近趣味濃厚是最平民化的物刊<lb/>	
+		</div>
+		
+	</div>
+	<div>
+		
 	</div>
 </fold>
