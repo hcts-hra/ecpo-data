@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!DOCTYPE ecpo [
+    <!ENTITY gaiji "&#xe111;">
+]>
+<fold xml:id="jb_3796_1939-04-22_0006+0007">
+	<div type="page" page="recto" n="6" dir="rtl" mode="vertical-rl">
+	    <div type="margin" dir="rtl" mode="horizontal-tb">
+		    中華民國二十八年四月廿二日　晶報　星期六　第七版<lb/>	
+        </div>
+
+    	<div type="margin" >
+    		本報具有二十年的歷史是小型報紙鼻祖銷路普遍全國刊登廣告最有效力<lb/>	
+    	</div>
+    </div>
+	<div type="page" page="verso" n="7" dir="rtl" mode="vertical-rl">
+		<div type="margin" dir="rtl" mode="horizontal-tb">
+			中華民國二十八年四月廿二日　晶報　星期六　第六版<lb/>	
+		</div>
+		<div type="margin">
+			本報忠實報道新聞說人人要說的話文字淺近趣味濃厚是最平民化的物刊<lb/>	
+		</div>
+	</div>
+	<div dir="rtl" mode="vertical-rl">
+		<div type="advert">
+
+		</div>
+	</div>
+</fold>
