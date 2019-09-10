@@ -3,6 +3,7 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
+<fold xml:id="jb_3795_1939-04-21_0001+0004">
 <div type="page" page="recto" n="1">
     <div type="head" dir="rtl" mode="horizontal-tb">
         <div>
@@ -389,14 +390,14 @@
     <p mode='horizontal-tb'>
         四馬路<lb/>
         畫盡里口<lb/>
-        <p mode="vertical-rl">
-            杏花酒楼<lb/>
-        </p>
-        <p mode='horizontal-tb'>
-            電話<lb/>
-            九三五五五<lb/>
-            九二六四九<lb/>
-        </p>
+    </p>
+    <p mode="vertical-rl">
+        杏花酒楼<lb/>
+    </p>
+    <p mode='horizontal-tb'>
+        電話<lb/>
+        九三五五五<lb/>
+        九二六四九<lb/>
     </p>
     <p mode='vertical-rl'>
         <p mode='horizontal-tb'>
@@ -430,10 +431,11 @@
     </p>
     <p mode='vertical-rl'>
         好莱坞剧团<lb/>
-
-        <p 'vertical-rl'>
-            妙<lb/>
-        </p>
+    </p>
+    <p mode='vertical-rl'>
+        妙<lb/>
+    </p>
+    <p mode='vertical-rl'>
         演员出色<lb/>
         表演动人<lb/>
         尋飲求樂<lb/>
@@ -452,29 +454,35 @@
 <div type='advert' dir='rtl' mode = "vertical-rl">
     <t>
         陽痿
-        <p>
-            可以限日治癒<lb/>
-        </p>
-    </t>
-    <t>
-        早洩
-        <p>
-            保能<lb/>
-            如期<lb/>
-            耐久<lb/>
-        </p>
     </t>
     <p>
+        可以限日治癒<lb/>
+    </p>
+
+    <t>
+        早洩
+    </t>
+    <p>
+        保能<lb/>
+        如期<lb/>
+        耐久<lb/>
+    </p>
+
+    <p>
         小便點滴
-        <p>
-            歷日<lb/>
-            運利<lb/>
-        </p>
+    </p>
+    <p>
+        歷日<lb/>
+        運利<lb/>
+    </p>
+    <p>
         血淋<lb/>
-        <p>
-            當日<lb/>
-            即止<lb/>
-        </p>
+    </p>
+    <p>
+        當日<lb/>
+        即止<lb/>
+    </p>
+    <p>
         滑精、遺精、老白濁、<lb/>
     </p>
     <p>
