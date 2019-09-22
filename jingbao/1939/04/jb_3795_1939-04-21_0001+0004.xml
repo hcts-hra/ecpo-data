@@ -501,18 +501,10 @@
 
         </div>
         </div>
-
     <div type="margin" dir="rtl" mode="vertical-rl">
       本報忠實報道新聞說人人要說的話文字淺近趣味濃厚是最平民化的刊物<lb/>
-
     </div>
-    <div type="page" page="verso" n="4" dir='rtl'>
-          <div type="margin" dir="rtl" mode="horizontal-tb">
-            中華民國二十八年四月廿一日　晶報　星期五　第四版<lb/>
-          </div>
-          <div type="margin" dir="rtl" mode="vertical-rl">
-            本報具有廿一年的歷史是小型報紙鼻祖銷路普遍全國刊登廣告最有效力<lb/>
-          </div>
+    <div type="page" page="verso" n="4" dir='rtl' mode="horizontal-tb">
           <p dir="rtl" mode="horizontal-tb">
             法租界懸旗糾紛<lb/>
           </p>
@@ -875,14 +867,20 @@
             這裏有許多老樹，就叫我們來裁掉，借他們區炊飯了。<lb/>
           </p>
         </div>
+        <div type="advert">
+          <lb/>
+        </div>
+        <div type="advert">
+          <lb/>
+        </div>
+        <div type="advert">
+          <lb/>
+        </div>
+    </div>    
+    <div type="margin" dir="rtl" mode="horizontal-tb">
+      中華民國二十八年四月廿一日　晶報　星期五　第四版<lb/>
     </div>
-    <div type="advert">
-      <lb/>
-    </div>
-    <div type="advert">
-      <lb/>
-    </div>
-    <div type="advert">
-      <lb/>
+    <div type="margin" dir="rtl" mode="vertical-rl">
+      本報具有廿一年的歷史是小型報紙鼻祖銷路普遍全國刊登廣告最有效力<lb/>
     </div>
 </fold>
