@@ -5,7 +5,7 @@
 ]>
 <fold xml:id="jb_3795_1939-04-21_0001+0004">
     <!-- start page   -->
-    <div type="page" page="recto" n="1">
+    <div type="page" page="recto" n="1" dir="rtl" mode="horizontal-tb">
         <div type="head" dir="rtl" mode="horizontal-tb">
             <div>
                 晶報<lb/>
@@ -388,40 +388,43 @@
             </p>
         </div>
 
+        </div>
 
-        <div type='advert' dir='rtl' mode='horizontal-tb'>
-            <p dir='rtl' mode='horizontal-tb'>
+        <div type='margin' dir='rtl' mode='horizontal-tb'>
+            <div type="advert" dir='rtl' mode='horizontal-tb'>
+              <div>
                 四馬路<lb/>
                 畫盡里口<lb/>
-            </p>
-            <p dir='rtl' mode="vertical-rl">
+              </div>
+            </div>
+            <div type="advert" dir='rtl' mode="vertical-rl">
                 杏花酒楼<lb/>
-            </p>
-            <p dir='rtl' mode='horizontal-tb'>
+            </div>
+            <div type="advert" dir='rtl' mode='horizontal-tb'>
                 電話<lb/>
                 九三五五五<lb/>
                 九二六四九<lb/>
-            </p>
-            <p dir='rtl' mode='vertical-rl'>
-                <p dir='rtl' mode='horizontal-tb'>
+            </div>
+            <div type="advert" dir='rtl' mode='vertical-rl'>
+                <div dir='rtl' mode='horizontal-tb'>
                     專辦<lb/>
-                </p>
-                <p>
+                </div>
+                <div>
                     高尚粵菜<lb/>
-                </p>
-                <p>
+                </div>
+                <div>
                     大小筵席<lb/>
                     隨意小酌<lb/>
-                </p>
-            </p>
-            <p dir='rtl' mode = 'vertical-rl'>
-                <p>
+                </div>
+            </div>
+            <div dir='rtl' mode = 'vertical-rl'>
+                <div>
                     華貴禮堂<lb/>
                     租賃從廉<lb/>
-                </p>
-            </p>
+                </div>
+            </div>
 
-        </div>
+
         <div type='advert' dir='rtl' mode = "horizontal-tb">
             <p dir='rtl' mode = "horizontal-tb">
                 好萊塢樂團<lb/>
@@ -497,12 +500,13 @@
             </p>
 
         </div>
-    </div>
+        </div>
+
     <div type="margin" dir="rtl" mode="vertical-rl">
       本報忠實報道新聞說人人要說的話文字淺近趣味濃厚是最平民化的刊物<lb/>
 
     </div>
-    <div page="verso" n="4" type='article' dir='rtl'>
+    <div type="page" page="verso" n="4" type='article' dir='rtl'>
           <div type="margin" dir="rtl" mode="horizontal-tb">
             中華民國二十八年四月廿一日　晶報　星期五　第四版<lb/>
           </div>
