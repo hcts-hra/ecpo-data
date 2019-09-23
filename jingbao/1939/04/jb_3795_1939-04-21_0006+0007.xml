@@ -4,8 +4,8 @@
     <!ENTITY gaiji "&#xe111;">
 ]>
 <fold xml:id="jb_3795_1939-04-21_0006+0007">
-    <!-- … start recto page   -->
-    <div type="page" page="recto" n="6" mode="vertical-rl" dir="rtl">
+    <!-- … start verso page   -->
+    <div type="page" page="verso" n="6" mode="vertical-rl" dir="rtl">
         <div type="margin">
             <div type="other" mode="horizontal-tb" dir="rtl">
                 中華民國二十八年四月廿一日　晶報　星期五　第六版<lb/>
@@ -487,8 +487,8 @@
             電話。八三一三〇。<lb/>
         </div>
     </div>
-    <!-- … start verso page   -->
-    <div type="page" page="verso" n="7" mode="vertical-rl" dir="rtl">
+    <!-- … start recto page   -->
+    <div type="page" page="recto" n="7" mode="vertical-rl" dir="rtl">
         <div mode="horizontal-tb" dir="rtl">
             中華民國二十八年四月廿一日　晶報　星期五　第七版<lb/>
         </div>
