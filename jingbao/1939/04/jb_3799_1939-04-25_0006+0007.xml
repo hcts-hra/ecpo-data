@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!DOCTYPE ecpo [
+    <!ENTITY gaiji "&#xe111;">
+]>
+<fold xml:id="jb_3799_1939-04-25_0006+0007">
+    <!-- … start verso page   -->
+    <div type="page" page="verso" n="6" mode="vertical-rl" dir="rtl">
+        <div type="margin">
+            <div type="other" mode="horizontal-tb" dir="rtl">
+                中華民國二十八年四月廿五日　晶報　星期二　第六版<lb/>
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                追悼吳瞿安先生　（微妙）<lb/>
+                四十年前老友又弱一個<lb/>
+            </div>
+            <div>
+                <p>
+                    吾吳詞曲大家吳瞿安先生，前月在雲南逝世，&gaiji;內悼惜。憶愚之識瞿安先生，<lb/>
+                    尚在四十年前。瞿安先生早孤，爲其祖父所育，祖父爲一老儒，自課其孫，旣勤<lb/>
+                    且嚴。設帳於某紳家，出入必携其孫自隨，而瞿安幼時，卽頗爲聰穎特異也。爾<lb/>
+                    時我輩在蘇，時作茗敘，瞿安&gaiji;一臨存，卽喜研究詞曲，同人卽慫恿彼自寫一曲<lb/>
+                    本。乃爲之覓材料&gaiji;時在先緒末季，有人以拳匪之變，兩宮出狩，珍妃爲西太后<lb/>
+                    逼之令投於井事，可以譜一曲本，名之曰『胭脂井』。瞿安亦欣然握管，旣而語<lb/>
+                    我曰：『此事雖淒艷，但爲愛新覺羅氏家事，無甚宏旨。余近得一題材，可以發<lb/>
+                    揚民族意識，已得數囘，可以請君評閱也』。愚詢以書名，則以『風洞山』對。<lb/>
+                    旣而瞿安卽出示其開頭數齣，愚於詞曲實爲外行，游夏不能贊一字。惟於其道白<lb/>
+                    中，以爲詞章氣太重，常駢四儷六至數排。（今見風洞山傳奇單行本，已刪繁就<lb/>
+                    簡，聞瞿安自行刪去不少）。厥後各爲衣食奔走，恆數年不得謀一面，二十年前<lb/>
+                    在北平，吳中人士有曲會，瞿安亦與會。惟彼之度曲，對於音韻，極爲認真，而<lb/>
+                    笛師必受其指揮。且往往陳具過高之原理，大有曲高和寡之&gaiji;。瞿安之逝世，其<lb/>
+                    病爲喉癌，癌本爲絕症，而彼之嗜酒，不能謂無關係也。瞿安爲一寒儒，加以世<lb/>
+                    亂時危，身後當益蕭然。聞政府卹以三千元治喪之資，倘在承平，優惠學者，當<lb/>
+                    不僅此戔戔之數也。<lb/>
+                </p>
+            </div>
+        </div>
+        <div type="article">
+            <div mode="horizontal-tb" dir="rtl">
+                佹失記<lb/>
+                （兼巢老人沈淇泉太史作）<lb/>
+            </div>
+            <div>
+                （五）<lb/>
+            </div>
+            <div>
+                <p>
+                    徐姓，本科下第舉<lb/>
+                    人。素善相法，特<lb/>
+                    來覺狀頭也。並云<lb/>
+                    ：己丑相李木齋（<lb/>
+                    盛鐸德化人，己丑<lb/>
+                    榜眼）不謬。今君<lb/>
+                    紫氣布滿天庭，必<lb/>
+                    獲首選無疑。余笑<lb/>
+                    語之云，狀元已有<lb/>
+                    人定去矣。卽拉彼<lb/>
+                    往迹張季直（見季<lb/>
+                    直外褂下露有忠孝<lb/>
+                    帶，定例必面　聖<lb/>
+                    ，始懸此帶，時未<lb/>
+                    臚唱，而季直已先<lb/>
+                    懸，此若預知者）<lb/>
+                    徐左右環視密告余<lb/>
+                    云：此君秋氣滿面<lb/>
+                    ，必分刑部，卽翰<lb/>
+                    林亦不能得，遑言<lb/>
+                    狀元，君放心可矣<lb/>
+                    愼老翻閱余卷一過。翹拇<lb/>
+                    指作大聲曰好好殺了，殺<lb/>
+                    了。余詢以季直若何。愼<lb/>
+                    老云：不興，不興，放心<lb/>
+                    放心。復以余卷尾小有筆<lb/>
+                    誤爲之改正。余是夜，仍<lb/>
+                    &gaiji;穰卿宿會典館，次日歸<lb/>
+                    寓，越二日，與銘伯昆仲<lb/>
+                    &gaiji;至&gaiji;乾清門聽宣。（卽<lb/>
+                    小臚唱）&gaiji;眾中突有攀余<lb/>
+                    肩臂，長揖而道賀者。異<lb/>
+                    而詢之。其人自言，江西<lb/>
+                    我庽鴻陛店某號<lb/>
+                    ，明日請我吃喜酒<lb/>
+                    ，不靈打招牌，一<lb/>
+                    笑而散。<lb/>
+                </p>
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                浪裏<lb/>
+                魁星<lb/>
+            </div>
+            <div>
+                <p>
+                    上年度，美國各<lb/>
+                    酒排間之「浪舞魁<lb/>
+                    星」，係「紐約樂<lb/>
+                    國」之狄拉卡洛爾<lb/>
+                    （Della Carol）娘<lb/>
+                    子。魁星纖瘦適中<lb/>
+                    ，魔術極夥，每有<lb/>
+                    新戲，市警察局輒<lb/>
+                    招之人，命風化委<lb/>
+                    員檢查內容，有無<lb/>
+                    修正必要，習以爲<lb/>
+                    常。其最多賞鑑道<lb/>
+                    者，有曰「浮雲掩<lb/>
+                    月」單人表演。起<lb/>
+                    舞時，肌體外塗以<lb/>
+                    羊脂，頂梳羅馬式<lb/>
+                    髮鬈，乳及腹下，<lb/>
+                    覆以雜色錦銹，隱<lb/>
+                    約若蓓蕾朶朶。手<lb/>
+                    擎丈餘薄紗，上有<lb/>
+                    淺色星標，循樂聲<lb/>
+                    咿啞，&gaiji;側登場，<lb/>
+                    始面左右掩映，繼<lb/>
+                    而上下&gaiji;盪。迨銀<lb/>
+                    燈暗紅，則局部螺<lb/>
+                    旋顛簸急轉直下，<lb/>
+                    如轟炸機發動。赤<lb/>
+                    足重踏，目徵凝，<lb/>
+                    鼻哼重，身愈柔而<lb/>
+                    身愈鮮明。復次摘<lb/>
+                    去蓓蕾，卽畢事。<lb/>
+                    此係公堂訂正後之<lb/>
+                    姿態，原本如何，<lb/>
+                    無從對照以（S）<lb/>
+                </p>
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                梨園消息話春明　（禪翁）<lb/>
+            </div>
+            <div>
+                <p>
+                    武生行中，李少<lb/>
+                    &gaiji;與李萬春競爭至<lb/>
+                    <!--missing is 春-->
+                    烈，少春才兼文武<lb/>
+                    ，且鬚生戲得乃師<lb/>
+                    叔岩爲之整理，萬<lb/>
+                    春似手稍輸一着，<lb/>
+                    此外劉宗楊亦偶爾<lb/>
+                    一露，雖排文武雙<lb/>
+                    齣，然亦非少春敵<lb/>
+                    也。<lb/>
+                </p>
+                <p>
+                    坤旦中，有長安<lb/>
+                    之吳素秋，廣德之<lb/>
+                    趙瀟瀾，而王門弟<lb/>
+                    子宋德珠，及南方<lb/>
+                    名旦黃玉麟，亦在<lb/>
+                    安長吉祥分演。<lb/>
+                </p>
+                <p>
+                    廣德樓正邀山西<lb/>
+                    梆子眞正菓子紅，<lb/>
+                    三日劇目，爲「太<lb/>
+                    白醉寫」「戰北原<lb/>
+                    」「伍員逃國」，<lb/>
+                    頗俱一部分勢力。<lb/>
+                </p>
+                <p>
+                    &gaiji;&gaiji;戲，有白玉<lb/>
+                    霜與喜彩蓮二人，<lb/>
+                    玉霜所演，仍爲原<lb/>
+                    有「馬寡婦」「鎗<lb/>
+                    斃小老媽」，等劇<lb/>
+                    ，不若喜彩蓮之「<lb/>
+                    玉堂春」「新經堂<lb/>
+                    」翻自平劇者，較<lb/>
+                    爲可觀耳。（T）<lb/>
+                    （續完）<lb/>
+                </p>
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                蔣委員長之平生<lb/>              
+            </div>
+            <div mode="horizontal-tb" dir="ltr">
+                （五）<lb/>
+            </div>
+            <div>
+                （毛思誠）<lb/>
+            </div>
+            <div>
+                民國前十六年至民國前八年卽十歲至十八歲<lb/>
+            </div>
+            <div>
+                <p>
+                    民國紀元前十六年，清光緒二十二年<lb/>
+                    ，丙申，（西曆一八九六）公十歲。<lb/>
+                </p>
+                <p>
+                    仍從蔣謹藩讀至戊戌冬止，凡閱三年<lb/>
+                    &gaiji;，謹藩嘗謂王太夫人曰。「令郎天資<lb/>
+                    穎異，他日必成大器，汝節操貞潔，天<lb/>
+                    固有以報之也。」<lb/>
+                </p>
+                <p>
+                    王太夫人始教以禮。嘗於將蒞祀事詔<lb/>
+                    之曰。「凡升降拜跪必須與音樂節奏相<lb/>
+                    應合兒毋忘旃。」<lb/>
+                </p>
+                <p>
+                    是年十月十一日。總理蒙難於倫敦。<lb/>
+                    幽禁中國駐英使館，凡十三日，以香港<lb/>
+                    醫校教員英人康德黎營救，得釋出。<lb/>
+                </p>
+                <p>
+                    民國紀元前十五年，清光緒二十三年<lb/>
+                    ，丁酉，（西曆一八九七）公十一歲。<lb/>
+                </p>
+                <p>
+                    聞謹藩師講美國共和國歷史，至「大<lb/>
+                    總統爲國家公僕，出入扈從甚簡」云云<lb/>
+                    。聽者皆訝，公起立言曰。「大總統是<lb/>
+                    一個人，平民亦是一個人，總統行動，<lb/>
+                    固應如平民，何足爲奇」，謹藩頷之。<lb/>
+                </p>
+                <p>
+                    少時，承王太夫人命侍客，侑觴務至<lb/>
+                    醉，客或舉粗&gaiji;，急掣箸使不得下，并<lb/>
+                    卽撤去，臥具必進華美者，其天性慷慨<lb/>
+                    如此。<lb/>
+                </p>
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                新游俠傳　張恨水<lb/>
+                五十八　一個青年犯人<lb/>
+            </div>
+        </div>
+        <div type="advert">
+            <div mode="horizontal-tb" dir="rtl">
+                回力球<lb/>
+                今晚七時起賽<lb/>
+                前八盤<lb/>
+            </div>
+            <div>
+                1海&gaiji;多<lb/>
+                2伊却利<lb/>
+                3莫克力骨<lb/>
+                4拉飛爾<lb/>
+                5佛蘭多<lb/>
+                6安力凱<lb/>
+            </div>
+            <div mode="horizontal-tb" dir="rtl">
+                後八盤<lb/>
+            </div>
+            <div>
+                1安杜利<lb/>
+                2古禮地<lb/>
+                3蘇&gaiji;沙伯<lb/>
+                4阿斯蒂<lb/>
+                5奧　&gaiji;<lb/>
+                6沙薩門地<lb/>
+            </div>
+        </div>
+        <div type="advert">
+            <div mode="horizontal-tb" dir="rtl">
+                救一死<lb/>
+            </div>
+            <div>
+                花柳毒症<lb/>
+                性命交關<lb/>
+            </div>
+            <div mode="horizontal-tb" dir="rtl">
+                九一四<lb/>
+                內服新藥<lb/>
+            </div>
+            <div>
+                清血&gaiji;<lb/>
+                &gaiji;藥力<lb/>
+                強大專<lb/>
+                治花柳<lb/>
+                各症效<lb/>
+                同注射<lb/>
+            </div>
+            <div>
+                備此良藥<lb/>
+                斷根不難<lb/>
+            </div>
+            <div mode="horizontal-tb" dir="rtl">
+                九一四<lb/>
+                外用藥膏<lb/>
+            </div>
+            <div>
+                消炎退<lb/>
+                &gaiji;找&gaiji;<lb/>
+                生肌醫<lb/>
+                治一切<lb/>
+                皮病效<lb/>
+                &gaiji;&gaiji;速<lb/>
+            </div>
+            <div mode="horizontal-tb" dir="rtl">
+                九一四<lb/>
+                白濁新藥<lb/>
+            </div>
+            <div>
+                利尿止<lb/>
+                痛&gaiji;&gaiji;<lb/>
+                &gaiji;淋斷<lb/>
+                久白&gaiji;<lb/>
+                服之永<lb/>
+                遠斷根<lb/>
+            </div>
+            <div mode="horizontal-tb" dir="rtl">
+                上海中法大藥房總發行<lb/>
+            </div>
+        </div>
+        <div type="margin">
+            <div type="other">
+                廣告刊例：　報名旁　每日每方二十元　長行計七寸高　每日每行一元八角　短行計三寸半高　每日每行九角　中縫計三寸半高二寸濶　每日每格八元<pb/>
+            </div>
+        </div>
+    </div>
+    <!-- … start margin between pages   -->   
+    <div type="margin" mode="vertical-rl" dir="rtl">
+        <div type="advert">
+            東南醫院<lb/>
+            施診　每日上午八時至十時　診金貳角四分<lb/>
+            例診　每日上午十時至十二時　診金陸角<lb/>
+            特診每日下午一時至五時　診金壹元三角<lb/>
+            出診　隨請隨診　診金七元<lb/>
+            卽日起施種牛痘衹收號金不另取費<lb/>
+            本院設有病室環境幽靜空氣清新適於療養<lb/>
+            院址法租界薩頗賽路二九九號電話八〇六〇八號<lb/>
+        </div>
+    </div>
+    <!-- … start recto page   -->
+    <div type="page" page="recto" n="7" mode="vertical-rl" dir="rtl">
+        <div mode="horizontal-tb" dir="rtl">
+            中華民國二十八年四月廿五日　晶報　星期二　第七版<lb/>
+        </div>
+        
+        <div type="article">
+            <div>
+                怎樣使&gaiji;健康美<lb/>
+            </div>
+            <div mode="horizontal-tb" dir="ltr">
+                （五）<lb/>
+            </div>
+            <div>
+                （芸芸）<lb/>
+            </div>
+            <div>
+                第二章　直立姿勢<lb/>
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                烏托邦（一）<lb/>
+            </div>
+            <div>
+                （一名理想的世界）<lb/>
+                （五）畢倚紅遺著<lb/>
+            </div>
+        </div>
+        <div type="advert">
+            <div>
+                電話<lb/>
+                八四八〇八<lb/>
+                八五八八九<lb/>
+            </div>
+            <div mode="horizontal-tb" dir="rtl">
+                榮記<lb/>
+                共舞台<lb/>
+            </div>
+            <div>
+                地址<lb/>
+                大世界東<lb/>
+                愛多亞路<lb/>
+            </div>
+            <div mode="horizontal-tb" dir="rtl">
+                價目<lb/>
+            </div>
+            <div>
+                日戲<lb/>
+                一角<lb/>
+                二角<lb/>
+                三角<lb/>
+                四角<lb/>
+                五角<lb/>
+                六角<lb/>
+                夜戲<lb/>
+                一角<lb/>
+                二角<lb/>
+                三角<lb/>
+                半<lb/>
+                四角<lb/>
+                半<lb/>
+                六角<lb/>
+                八角<lb/>
+            </div>
+            <div>
+                苗頭十足道地<lb/>
+                軋得石實結棍<lb/>
+            </div>
+            <div>
+                今夜<lb/>
+                務請<lb/>
+                早臨<lb/>
+            </div>
+            <div>
+                第三<lb/>
+                十集<lb/>
+            </div>
+            <div mode="horizontal-tb" dir="rtl">
+                燈光有苗頭<lb/>
+            </div>
+            <div>
+                一忽<lb/>
+                兒瑞<lb/>
+                雲紛<lb/>
+                飛一<lb/>
+                忽兒<lb/>
+                紅日<lb/>
+                高昇<lb/>
+            </div>
+            <div mode="horizontal-tb" dir="rtl">
+                追魂珠<lb/>
+            </div>
+            <div>
+                忽然男<lb/>
+                聲忽然<lb/>
+                女音說<lb/>
+                得響亮<lb/>
+                听得清<lb/>
+                楚<lb/>
+            </div>
+            <div mode="horizontal-tb" dir="rtl">
+                火燒紅蓮寺<lb/>
+            </div>
+        </div>
+        <div type="margin">
+            <div type="other">
+                定報價目：本埠　每月五角　三個月一元四角　外埠　每月六角　三月一元七角　半年三元二角　全年六元　郵費在內　國外加倍報資先惠<pb/>
+            </div>
+        </div>
+    </div>
+</fold>
