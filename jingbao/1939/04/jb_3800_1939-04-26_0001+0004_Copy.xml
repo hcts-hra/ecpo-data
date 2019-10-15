@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!DOCTYPE ecpo [
+    <!ENTITY gaiji "&#xe111;">
+]>
+<fold xml:id="jb_3800_1939-04-26_0001+0004_copy">
+    <!-- start recto page   -->
+    <div type="page" page="recto" n="1" mode="vertical-rl" dir="rtl">
+        <div type="head" dir="rtl" mode="horizontal-tb">
+            <div>
+                晶報<lb/>
+            </div>
+            <div dir="ltr" mode="horizontal-tb">
+                The Crystal<lb/>
+                發行人 A. L. Teodoro<lb/>
+            </div>
+            <div>
+                館址漢口路二九九號　電話九三四二八<lb/>
+                中華郵政特准掛號立券按照總包優益寄送之報紙<lb/>
+                ◀公共租界工部局登記證Ｃ字廿四號▶<lb/>
+                ◀第三千八百號▶<lb/>
+                中華民國貳拾捌年四月廿六日　星期三　今日兩全張售國幣貳分四厘　本報創刊於民國八年三月三日<lb/>
+            </div> 
+            <div type="advert">
+                <div mode="horizontal-tb" dir="rtl">
+                    金字塔香煙<lb/>
+                </div>
+                <div>
+                    煙中<lb/>
+                </div>
+                <div type="image"></div>
+                <div>
+                    鐵軍<lb/>
+                </div>
+                <div mode="horizontal-tb" dir="rtl">
+                    中國福新煙公司出品<lb/>
+                </div>
+            </div>
+            <div type="advert" mode="horizontal-tb" dir="rtl">
+                海上第一流攝影專家<lb/>
+                國泰藝術照相館<lb/>
+                定價經濟化照相貴族化<lb/>
+                際此春光攝影良機<lb/>
+                地址南京路石路西<lb/>
+                電話九〇三九三號<lb/>
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                粵漢路新解站收復<lb/>
+                華軍兩路夾攻廣州<lb/>
+                日軍數度進攻新會城均遭痛擊<lb/>
+                華機昨飛九江轟炸日死傷奇重<lb/>
+            </div>
+            <div>
+                <p>
+                    （重慶廿五日海通電）據此間消息靈通人士宣稱、廣東省南線昨日發生戰事之<lb/>
+                    結果、華軍已收復粵漢鐵道之新街車站、該路華軍、現正會合其他各路軍隊、向<lb/>
+                    廣州方面進迫、自東西兩面、夾攻廣州、但截至此時、尚無重大接觸云、<lb/>
+                </p>
+                <p>
+                    （翁源廿五日電）日軍連日反攻新會城、被華軍痛擊不逞、新會城廿三日仍<lb/>
+                    在華軍手、日華兩軍、仍在城之西北門一帶激戰中、又九江河清一帶日軍、連日<lb/>
+                    增兵數千、廿三日河清日軍、向華軍馬鞍岡炮擊、華方無損失、同時沙口一帶泊<lb/>
+                    有日軍橡皮艇六七十艘、形勢頗緊、<lb/>
+                </p>
+                <p>
+                    （宣城廿五日電）華軍神勇機隊xxx架、廿二日晨突現九江上空、在該處結<lb/>
+                    集之日軍二萬餘人、見狀大恐、四出亂奔、華機遂分展數小隊、猛烈轟炸、達而<lb/>
+                    小時、事後日軍死傷奇重、<lb/>
+                </p>
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                前鋒迫近南昌<lb/>
+                華軍克大城<lb/>
+                奉新日軍有潰退勢<lb/>
+            </div>
+            <div>
+                <p>
+                    （重慶廿五日海<lb/>
+                    通電）據此間所接<lb/>
+                    消息江西前線之戰<lb/>
+                    事、現仍在高安附<lb/>
+                    近進行中、華方宣<lb/>
+                    稱、高安之日軍七<lb/>
+                    百人、已被華軍全<lb/>
+                    數消滅、二度收復<lb/>
+                    高安之時、僅發生<lb/>
+                    兩小時激戰、卽告<lb/>
+                    攻克、華軍現繼續<lb/>
+                    推進、已抵達高安<lb/>
+                    與南昌之中點、此<lb/>
+                    間各報指陳、華軍<lb/>
+                    最近之勝利、證明<lb/>
+                    其作戰能力、仍極<lb/>
+                    堅强、足以予日軍<lb/>
+                    重創云、<lb/>
+                </p>
+            </div>
+            <div>
+                鄂南<lb/>
+                捷報<lb/>
+            </div>
+            <div>
+                <p>
+                    （重慶<lb/>
+                    廿五日<lb/>
+                    海通電）據此間華<lb/>
+                    方人士宣稱、中國<lb/>
+                    軍隊、近日在湖北<lb/>
+                    省南部、甚爲活躍<lb/>
+                    、已經收復松&gaiji;（<lb/>
+                    譯音）、該區日軍<lb/>
+                    、已受極大威脅、<lb/>
+                    衆料日軍將大舉增<lb/>
+                    援、以資頑抗云、<lb/>
+                </p>
+            </div>
+            <div>
+                大城<lb/>
+                克復<lb/>
+            </div>
+            <div>
+                <p>
+                    （樟樹<lb/>
+                    廿五日<lb/>
+                    電）華軍向大城攻<lb/>
+                    擊部隊、經一晝夜<lb/>
+                    之劇戰、卒於廿四<lb/>
+                    日午後二時、正式<lb/>
+                    克復大城、殘日向<lb/>
+                    北逃竄、南昌奉新<lb/>
+                    間之聯絡、已完全<lb/>
+                    爲華軍切斷、<lb/>
+                </p>
+            </div>
+            <div>
+                奉新<lb/>
+                劇戰<lb/>
+            </div>
+            <div>
+                <p>
+                    （樟樹<lb/>
+                    廿五日<lb/>
+                    電）華軍向奉新挺<lb/>
+                    進部隊、現已迫近<lb/>
+                    城郊、戰事異常劇<lb/>
+                    烈、城內日軍、已<lb/>
+                    有潰退之勢、<lb/>
+                </p>
+                <p>
+                    （東鄉廿五日電<lb/>
+                    ）華軍贛河東岸出<lb/>
+                    擊南昌部隊、連日<lb/>
+                    均有甚大進展、一<lb/>
+                    路由□□□渡過撫<lb/>
+                    河、進達少林街、<lb/>
+                    （蓮塘東三公里、<lb/>
+                    ）一路於廿三日晚<lb/>
+                    克復新村墟、續向<lb/>
+                    蓮塘挺進、一路攻<lb/>
+                    佔崗上街、各路戰<lb/>
+                    況、異常激烈、<lb/>
+                </p>
+            </div>
+        </div>
+        <div type="article">
+            <div mode="horizontal-tb" dir="rtl">
+                柏林羅馬軸心⋯⋯國際時事地圖之六<lb/>
+            </div>
+            <div type="image"></div>
+            <div>
+                <p>
+                    現在歐洲地圖上<lb/>
+                    德義兩國佔顯著重<lb/>
+                    要之地位。自德國<lb/>
+                    兼併奧大利後柏林<lb/>
+                    與羅馬相連成一北<lb/>
+                    起波羅的海南至地<lb/>
+                    中海的直線。這兩<lb/>
+                    個法西斯國家於是<lb/>
+                    在歐洲大陸上進行<lb/>
+                    其帝國主義侵略其<lb/>
+                    四周之弱小國家。<lb/>
+                    西班牙內戰中德義<lb/>
+                    的聯合行動對於英<lb/>
+                    法兩國地中海航路<lb/>
+                    實屬嚴重之威脅。<lb/>
+                </p>
+            </div>
+        </div>
+        <div type="article">
+            <p>
+                （刊誤）昨圖與今日之圖顚倒。此圖卽柏林羅馬軸心，故仍將昨日說<lb/>
+                明附刊。至波蘭—國際時事地圖之五—之說明如下：<lb/>
+            </p>
+            <p>
+                波蘭於一七九五年爲俄，普，奧所瓜分，在歐戰之後重行建國，當時其東部國<lb/>
+                界經凡爾賽最高會議所裁定爲自布什支那得布金（卽丰布蘭斯立托夫斯克）向南北<lb/>
+                走之綫而波蘭烏克蘭則爲自治區歸波蘭統治，但在一九二〇俄波戰爭之後波蘭之<lb/>
+                國界更向東推進包括白俄斯與烏克蘭之一部。同年波蘭進兵立陶宛佔領尼門以北<lb/>
+                的土地。於一九三八年三月向立陶宛提出最後覺書要求開放米美爾。至於凡爾賽<lb/>
+                會議允許自治之波蘭烏克蘭，雖經烏克蘭向政府提出要求自治，但至今尚未實現<lb/>
+            </p>
+        </div>
+        <div type="article">
+            <div>
+                國府命令<lb/>
+            </div>
+            <div>
+                <p>
+                    （重慶廿五日電<lb/>
+                    ）（一）任命李世<lb/>
+                    軍爲甘肅省政府委<lb/>
+                    員、此令、（二）<lb/>
+                    任命李世軍&gaiji;甘肅<lb/>
+                    省政府建設廳廳長<lb/>
+                    、此令、<lb/>
+                </p>
+            </div>
+        </div>
+        <div type="article">
+            <div mode="horizontal-tb" dir="rtl">
+                晉南血戰<lb/>
+            </div>
+            <div>
+                華陣地未動<lb/>
+                日屍盈野<lb/>
+                同蒲西連日有接觸<lb/>
+            </div>
+            <div>
+                <p>
+                    （興集廿五日電<lb/>
+                    ）浮山附近日軍千<lb/>
+                    餘、經華軍不斷進<lb/>
+                    擊、敗城內頑抗、<lb/>
+                    上週復由臨汾增援<lb/>
+                    四千餘人、分兩路<lb/>
+                    撲華軍陣地、圍城<lb/>
+                    西官雀&gaiji;韓等村、<lb/>
+                    及西南之聖王莊南<lb/>
+                    王村一帶、展開血<lb/>
+                    戰、斃日軍盈野、<lb/>
+                    利仍在激戰中、<lb/>
+                </p>
+                <p>
+                    （興集廿五日電<lb/>
+                    ）華軍某部、廿日<lb/>
+                    越同蒲路西進、出<lb/>
+                    大張村（運城西北<lb/>
+                    ）後、日軍分由南<lb/>
+                    北陽姚（運城西北<lb/>
+                    ）、及金井廟（解<lb/>
+                    縣北）、向我反攻<lb/>
+                    、廿二日晨安邑及<lb/>
+                    張良村（安邑北）<lb/>
+                    日軍四五百、向師<lb/>
+                    村（安邑東北）反<lb/>
+                    攻、同時夏縣之日<lb/>
+                    軍、四百東犯文德<lb/>
+                    、均經華軍擊退、<lb/>
+                </p>
+                <p>
+                    （興集廿五日電<lb/>
+                    ）同蒲以西之敦&gaiji;<lb/>
+                    稷山河津等地、連<lb/>
+                    日接觸、解縣猗氏<lb/>
+                    運城萬泉各公路及<lb/>
+                    雷線、完全爲華軍<lb/>
+                    破壞、<lb/>
+                </p>
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                日機在太平建機場<lb/>
+                香港感受威脅<lb/>
+                兩處僅需十分鐘可達<lb/>
+            </div>
+            <div>
+                <p>
+                    （香港廿五日海<lb/>
+                    通電）此間各報、<lb/>
+                    今日登載、日本<lb/>
+                    在太平建築大飛機<lb/>
+                    場之消息後、引起<lb/>
+                    此間各界人士之極<lb/>
+                    大驚愕、按太平距<lb/>
+                    香港僅十分鐘之距<lb/>
+                    離、今建機場、自<lb/>
+                    予香港以不安印象<lb/>
+                    、據悉&gaiji;項機場已<lb/>
+                    經動工、完成之後<lb/>
+                    、或將爲日軍在華<lb/>
+                    南軍事活動之根據<lb/>
+                    地云、<lb/>
+                </p>
+                <p>
+                    （香港廿五日路<lb/>
+                    透電）香港電聞報<lb/>
+                    、今日以顯明地位<lb/>
+                    、刊載日軍刻在虎<lb/>
+                    門砲台附近、距香<lb/>
+                    港不足五十&gaiji;處、<lb/>
+                    建造飛機場之消息<lb/>
+                    、但此訊未能由他<lb/>
+                    方證實云、<lb/>
+                </p>
+            </div>
+        </div>
+        <div type="article">
+            <div mode="horizontal-tb" dir="rtl">
+                港當局勸民衆<lb/>
+                準備應付危機<lb/>
+            </div>
+            <div>
+                <p>
+                    （香港廿五日海<lb/>
+                    通社電）香港當<lb/>
+                    局、今日通告居<lb/>
+                    民主婦<lb/>
+                    、將罐<lb/>
+                    頭食物<lb/>
+                    、盡量<lb/>
+                    儲藏、<lb/>
+                    以備緊<lb/>
+                    急之用<lb/>
+                    、并以<lb/>
+                    鄭重詞謂、勸令<lb/>
+                    全島居民、隨時<lb/>
+                    準備、以應付未<lb/>
+                    來危機云、<lb/>
+                </p>
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                法警告日本<lb/>
+                反對日機越防<lb/>
+            </div>
+            <div>
+                <p>
+                    （重慶廿五日路<lb/>
+                    透社電）華資報載<lb/>
+                    稱、中國向法大使<lb/>
+                    抗議、四月十三日<lb/>
+                    日方飛機飛過越南<lb/>
+                    領土、轟炸蒙自事<lb/>
+                    後、法當局已向日<lb/>
+                    本提出警告、反對<lb/>
+                    日機飛過法國領土<lb/>
+                </p>
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                中政府已擬定方案<lb/>
+                增強抗戰經濟力<lb/>
+                各地銀行皆受中央統制<lb/>
+                打銷日人破壞法幣行動<lb/>
+            </div>
+            <div>
+                <p>
+                    （重慶廿四日美<lb/>
+                    聯電）中國政府、<lb/>
+                    爲圖增强抗戰之經<lb/>
+                    濟力量、打銷日人<lb/>
+                    在華北破壞法幣之<lb/>
+                    種種行動、及防止<lb/>
+                    日本工業家吸收淪<lb/>
+                    陷區中之原料計、<lb/>
+                    現擬定數種應付方<lb/>
+                    策、其中一種爲授<lb/>
+                    權各省各地銀行（<lb/>
+                    尤其鄰近戰區中之<lb/>
+                    銀行）以增發紙幣<lb/>
+                    權同時爲免日人沒<lb/>
+                    收法幣計、各銀行<lb/>
+                    有臨時撤囘法幣之<lb/>
+                    權、蓋法幣或地方<lb/>
+                    銀行紙幣查被日人<lb/>
+                    沒收之後、卽能易<lb/>
+                    取外匯、而危及法<lb/>
+                    幣在外匯上之地位<lb/>
+                    也、同時各省<lb/>
+                </p>
+            </div>
+            <div>
+                地方銀行<lb/>
+            </div>
+            <div>
+                <p>
+                    更應調查當地之<lb/>
+                    經濟資源報告政府<lb/>
+                    、經核准後、則由<lb/>
+                    政府人民銀行家合<lb/>
+                    力投資開發、並由<lb/>
+                    中央交&gaiji;四行負責<lb/>
+                    、作工業礦業上之<lb/>
+                    長期短放欵、同時<lb/>
+                    四行又負輸出貿易<lb/>
+                    委員會、及農&gaiji;放<lb/>
+                    欵部之主要責任、<lb/>
+                    舉凡可供出口之農<lb/>
+                    礦物產、悉予以收<lb/>
+                    買、各銀行自建貸<lb/>
+                    庫、躠購之貸、可<lb/>
+                    由中央信託擔保、<lb/>
+                    從事物產轉運之人<lb/>
+                    員、可免軍役、交<lb/>
+                    通工具缺乏時、各<lb/>
+                    銀行更可商請當地<lb/>
+                    軍事當局、予以便<lb/>
+                    利、以便軍事力量<lb/>
+                    與經濟力量、打成<lb/>
+                    一片、關於調劑、<lb/>
+                </p>
+            </div>
+            <div>
+                各地物產<lb/>
+            </div>
+            <div>
+                <p>
+                    防止躉積居奇、<lb/>
+                    各銀行亦須設法運<lb/>
+                    用金融力量爲之平<lb/>
+                    衡、及運輸方法、<lb/>
+                    以通有無、物價高<lb/>
+                    漲時、須考其所以<lb/>
+                    然之原因、爲之調<lb/>
+                    劑、各地方政府、<lb/>
+                    更須合同各地商會<lb/>
+                    工會、設立物價平<lb/>
+                    衡委員會、運用種<lb/>
+                    種方法、以謀各地<lb/>
+                    物價之平衡、各省<lb/>
+                    各地之銀行、皆有<lb/>
+                    財部代表坐駐其間<lb/>
+                    、就近指導、<lb/>
+                </p>
+            </div>
+            <div>
+                各地銀行<lb/>
+            </div>
+            <div>
+                <p>
+                    皆負有爲四行搜<lb/>
+                    集全國金銀之責任<lb/>
+                    、此次金銀提交政<lb/>
+                    府時、由政府作爲<lb/>
+                    某一銀行之現金準<lb/>
+                    備、各行更負有推<lb/>
+                    動『建國儲金』之<lb/>
+                    使命、又各地方銀<lb/>
+                    行、更可以其所收<lb/>
+                    買之原料、作爲發<lb/>
+                    行副幣之基金、此<lb/>
+                    種辦法推行之後、<lb/>
+                    全國各地之金融、<lb/>
+                    皆可受中央之指揮<lb/>
+                    、詢屬抗戰中之喜<lb/>
+                    獻也、<lb/>
+                </p>
+            </div>
+        </div>
+        <div type="other">
+            <div type="margin">
+                本報忠實報導新聞說人人要說的話文字淺近趣味濃厚是最平民化的刊物<pb/>
+            </div>
+        </div>
+    </div>
+   <!-- start middle of the fold -->
+    <div type="margin" dir="rtl" mode="vertical-rl">
+    </div>
+    <!-- start verso page   -->
+    <div type="page" page="verso" n="4" mode="vertical-rl" dir="rtl">
+        <div type="other">
+            <div type="margin" mode="horizontal-tb" dir="rtl">
+                中華民國二十八年四月廿六日　晶報　星期三　第四版<lb/>
+            </div>
+        </div>
+        
+        <div type="article">
+            <div mode="horizontal-tb" dir="rtl">
+                小說<lb/>
+            </div>
+            <div>
+                妹妹我愛你　卓呆<lb/>
+            </div>
+            <div>
+                一　睡態<lb/>
+            </div>
+        </div>
+        
+        <div type="advert">
+            <div mode="horizontal-tb" dir="rtl">
+                質香味效<lb/>
+            </div>
+            <div type="image"></div>
+            <div mode="horizontal-tb" dir="ltr">
+                BIOZTCEN<lb/>
+            </div>
+            <div>
+                上海新亞藥廠製造<lb/>
+                藥房均售<lb/>
+            </div>
+            <div>
+                寶青春<lb/>
+            </div>
+            <!--too vague to tell the direction; given that it is numbers on the right, my guess it is left to right-->
+            <div mode="horizontal-tb" dir="ltr">
+                &gaiji;&gaiji;&gaiji;2&gaiji;<lb/>
+            </div>
+            <div>
+                寶青春為真正&gaiji;&gaiji;&gaiji;&gaiji;酵母精製，富含各<lb/>
+                種維他命，功能開胃强&gaiji;，治療腳氣，&gaiji;<lb/>
+                理胃腸，促進新陳代謝，&gaiji;出新活力，質<lb/>
+                香味效，無不越人一等。<lb/>
+            </div>
+            <div mode="horizontal-tb" dir="rtl">
+                質香味效<lb/>
+            </div>
+            <div>
+                含量充足<lb/>
+                芬芳開胃<lb/>
+                鮮美可口<lb/>
+                靈驗偉大<lb/>
+            </div>
+            <div type="image"></div>
+        </div>
+        <div type="advert">
+            <div>
+                痰敵<lb/>
+            </div>
+            <div>
+                除痰鎮咳<lb/>
+                平喘止嗆<lb/>
+                順氣祛風<lb/>
+                益肺防癆<lb/>
+            </div>
+            <div mode="horizontal-tb" dir="rtl">
+                片露<lb/>
+            </div>
+            <div>
+                大瓶二元小瓶一元<lb/>
+                每瓶一元五角<lb/>
+            </div>
+            <div mode="horizontal-tb" dir="rtl">
+                上海<lb/>
+            </div>
+            <div>
+                中西大藥房<lb/>
+            </div>
+            <div mode="horizontal-tb" dir="rtl">
+                發行<lb/>
+            </div>
+            <div type="image"></div>
+            <div>
+                分片露<lb/>
+            </div>
+            <div type="image"></div>
+        </div>
+        <div type="margin">
+            <div type="other">
+               本報具有廿一年的歷史是小型報紙鼻祖銷路普遍全國刊登廣告最有效力<pb/>
+            </div>
+        </div>
+    </div>
+</fold>
+    
+
+    
+
+
+
