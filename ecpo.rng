@@ -7,7 +7,7 @@
             <attribute name="xml:id"/>
             <optional>
                 <attribute name="lastedit">
-                    <data type="dateTime"/>
+                    <data type="date"/>
                 </attribute>
                 <attribute name="lasteditor"/>
             </optional>
