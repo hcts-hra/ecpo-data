@@ -5,6 +5,12 @@
     <start>
         <element name="fold">
             <attribute name="xml:id"/>
+            <optional>
+                <attribute name="lastedit">
+                    <data type="date"/>
+                </attribute>
+                <attribute name="lasteditor"/>
+            </optional>
             <oneOrMore>
                 <ref name="structure"/>
             </oneOrMore>
