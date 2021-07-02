@@ -4,7 +4,6 @@
     <!ENTITY gaiji "&#xe111;">
 ]>
 <fold xml:id="jb_3796_1939-04-22_0005+0008" lastedit="2021-07-01" lasteditor="xiejia1995">
-	<!-- check 爲 - 爲; 卽 - 卽; 值 - 値; 册 - 冊; inserted (CHECK!) or (VARIANT) in other doubtful cases -->
 	<div type="page" page="recto" n="5" dir="rtl" mode="vertical-rl">
 	    <div type="margin" dir="rtl" mode="horizontal-tb">
 		    中華民國二十八年四月廿二日　晶報　星期六　第五版<lb/>	
@@ -499,9 +498,8 @@
 				袁寒雲先生手寫<lb/>
 				丁卯日記之二<lb/>
 			</div>
-			<div>
-				<p>
-					輕度黃昏任凮𠕒江樓百尺鏡鸞且共温存𦝫<lb/>
+			<div type="image">
+				<!-- 輕度黃昏任凮𠕒江樓百尺鏡鸞且共温存𦝫<lb/>
 					圍料應柔減正歌敎珠落舞並𥞌屯鳳𧙏鴛<lb/>
 			    	釵今宵何處多少緒疊離痕禁寒知否人憔悴<lb/>
 					黯芳艸咽斷王孫𠊳吹𠛮杏𠌶開了馬嘶可許<lb/>
@@ -510,8 +508,7 @@
 				     哭失聲哀感不輟予亦為之慘然流涕王煥<lb/>
 					然自濟南来䙷桐𣶒書<lb/>
 					初𠄡日煥然来託敎畣桐𣶒書夕邀之竝偕六<lb/>
-					良及睂&gaiji;<!--calligraphic "雲"-->十妹初觀嘏彰騮三兒觀影劇于<lb/>
-				</p>
+					良及睂雲十妹初觀嘏彰騮三兒觀影劇于<lb/> -->
 			</div>
 		</div>
     	<div type="margin" >
@@ -1022,7 +1019,7 @@
 					見功<lb/>
 				</div>
 				<div>
-					⬨一滴清眼藥水主治之眼病⬨<lb/>
+					◇一滴清眼藥水主治之眼病◇<lb/>
 				</div>
 				<div>
 					<p>
