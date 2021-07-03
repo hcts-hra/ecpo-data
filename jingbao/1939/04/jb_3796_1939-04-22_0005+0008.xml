@@ -3,6 +3,7 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
+
 <fold xml:id="jb_3796_1939-04-22_0005+0008" lastedit="2021-07-01" lasteditor="xiejia1995">
 	<div type="page" page="recto" n="5" dir="rtl" mode="vertical-rl">
 	    <div type="margin" dir="rtl" mode="horizontal-tb">
@@ -653,7 +654,7 @@
 				就因爲這樣，便爲上海「少爺小開」們<lb/>
 				所愛，這大概也是「物以希爲貴」的意<lb/>
 				思，因爲這樣的汽車在上海簡直沒有第<lb/>
-			<!-- character shows font-dependent variations, char found here: ⿺𠃊𥃭 -->
+  		<!-- character shows font-dependent variations, char found here: ⿺𠃊𥃭 -->
 				二部。王引在一年前從一個「小開」手<lb/>
 				裏以一千八百元買進，現在車價驟增，<lb/>
 				王引目算以二千元賣出，曾經刊出一個<lb/>
@@ -1007,7 +1008,7 @@
 			</div>
 			<div dir="rtl" mode="horizontal-tb">
 				一滴淸<lb/>
-				眼薬水<lb/>
+        眼薬水<lb/>
 			</div>
 			<div type="image">
 				<div>
