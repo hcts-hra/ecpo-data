@@ -3,7 +3,7 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3796_1939-04-22_0001+0004" lastedit="2021-06-24" lasteditor="xiejia1995">
+<fold xml:id="jb_3796_1939-04-22_0001+0004" lastedit="2021-06-28" lasteditor="xiejia1995">
 	<div type="page" page="recto" n="1">
 		<div type="head" dir="rtl" mode="horizontal-tb">
 			<div> 
@@ -114,7 +114,7 @@
 				</p>
 			</div>
 		</div>
-	</div>
+
 	  <div type="article" dir="rtl" mode="vertical-rl">
 		<div dir="rtl" mode="horizontal-tb"> 
 			舉世矚目<lb/>
@@ -406,8 +406,8 @@
 	 	  <div type="margin" dir="rtl" mode="vertical-rl">
 		本報忠實報道新聞說人人要說的話文字淺近趣味濃厚是最平民化的刊物<lb/>
 	 	  </div>
-	<div/>
-
+	
+</div>
 	<div type="page" page="verso" n="4">
 		<div type="margin" dir="rtl" mode="horizontal-tb"> 
 			中華民國二十八年四月廿二日　晶報　星期六　第四版<lb/>
@@ -860,7 +860,6 @@
 				送來的，鬼跟鬼鬼混，才有鬼趣。<lb/>
 			</div>
 		</div>
-	</div>
 	<div type="advert" dir="rtl" mode="vertical-rl">
 		<div dir="rtl" mode="horizontal-tb"> 
 			暑期之必需品<lb/>
@@ -943,9 +942,9 @@
 			<lb/>
 		</div>
 	</div>
-
-	<div>
-		<div type="advert" dir="rtl" mode="vertical-rl">
+	</div>
+	<div type="margin" dir="rtl" mode="vertical-rl">
+		<div type="advert">
 			<div dir="rtl" mode="horizontal-tb"> 
 				四馬路<lb/> 
 				晝錦里口<lb/>
