@@ -565,11 +565,13 @@
         <div type="margin" mode="horizontal-tb" dir="rtl">
             中華民國二十八年四月廿一日　晶報　星期五　第八版<lb/>
         </div>
-        <div type="article" mode="horizontal-tb" dir="rtl">
+        <div type="article">
             <div type="image"></div>
             <div>
                 影<lb/>
                 城<lb/>
+            </div>
+            <div mode="horizontal-tb" dir="rtl">
                 豐田編輯<lb/>
             </div>
         </div>
