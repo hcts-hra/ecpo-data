@@ -526,7 +526,7 @@
     </div>
     <!-- … start recto page   -->
     <div type="page" page="recto" n="7" mode="vertical-rl" dir="rtl">
-        <div mode="horizontal-tb" dir="rtl">
+        <div type="margin" mode="horizontal-tb" dir="rtl">
             中華民國二十八年四月廿一日　晶報　星期五　第七版<lb/>
         </div>
         <div type="article">
