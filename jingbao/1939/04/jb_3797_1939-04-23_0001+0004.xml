@@ -338,7 +338,7 @@
 		</div>
 		<div type="article">
 			<div dir="rtl" mode="horizontal-tb">
-				國際時事地圖之三　－　意大利與紅海<lb/>
+				國際時事地圖之三　－　<!-- It is a dash but only occpuies one space. -->意大利與紅海<lb/>
 			</div>
 			<div type="image">
 
