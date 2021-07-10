@@ -918,23 +918,19 @@
     		</div>
     	</div>
     	<div type="advert">
-    		<div dir="rtl" mode="horizontal-tb">
+    		<div mode="horizontal-tb" dir="rtl">
     			冒鑰&gaiji;<lb/>
     		</div>
-    		<div type="image">
-
-    		</div>
-    		<div type="image">
-
-    		</div>
-    		<div type="image">
-
-    		</div>
-    		<div dir="rtl" mode="horizontal-tb">
+    		<div type="image"></div>
+    		<div type="image"></div>
+    		<div type="image"></div>
+    		<div mode="horizontal-tb" dir="rtl">
     			上海中西大藥房發行<lb/>
     		</div>
     	</div>
 	</div>
+	
+
     <div>
     	<div type="advert">
     	    <div dir="rtl" mode="horizontal-tb">
