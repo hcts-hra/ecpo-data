@@ -929,21 +929,21 @@
 	     本報具有廿一年的歷史是小型報紙鼻祖銷路普遍全國刊登廣告最有效力<pb/>
 	</div>
 	</div>
-      
-	<div>
-    	<div type="advert">
-    	    <div dir="rtl" mode="horizontal-tb">
-    	    	四馬路<lb/>
-    	    	晝錦里口<lb/>
-    	    </div>
-    		<div>
-    			杏花酒楼<lb/>
-    		</div>
-    		<div dir="rtl" mode="horizontal-tb">
-    			電話<lb/>
-    			九三五五五<lb/>
-    			九二六四九<lb/>
-    		</div>
+	<!-- start middle of the fold -->
+	<div type="margin" dir="rtl" mode="vertical-rl">
+           <div type="advert">
+           	     <div mode="horizontal-tb" dir="rtl">
+                      四馬路<lb/>
+                      晝錦里口<lb/>
+    	           </div>
+    	           <div>
+                      杏花酒楼<lb/>
+                 </div>
+    	           <div dir="rtl" mode="horizontal-tb">
+                      電話<lb/>
+                      九三五五五<lb/>
+                      九二六四九<lb/>
+                 </div>
     		<div dir="rtl" mode="horizontal-tb">
     			專辦<lb/>
     		</div>
