@@ -23,19 +23,17 @@
 			</div>
 	    </div>
 	    <div type="advert">
-	    	<div dir="rtl" mode="horizontal-tb">
+	    	<div mode="horizontal-tb" dir="rtl">
 	            金字塔香煙<lb/>
 	    	</div>
 	    	<div>
 	    		煙中<lb/>
 	    	</div>
-	    	<div type="image">
-
-	    	</div>
+	    	<div type="image"></div>
 	    	<div>
 	    		鉄軍<lb/>
 	    	</div>
-	    	<div dir="rtl" mode="horizontal-tb">
+	    	<div mode="horizontal-tb" dir="rtl">
 	    		中國福新煙公司出品<lb/>
 	    	</div>
 	    </div>
