@@ -10,7 +10,7 @@
             <div>
                 晶報<lb/>
 			</div>
-			<div dir="ltr" mode="horizontal-tb">
+		      <div mode="horizontal-tb" dir="ltr">
                 The Crystal<lb/>
                 發行人 A. L. Teodoro<lb/>
 			</div>
@@ -23,19 +23,17 @@
 			</div>
 	    </div>
 	    <div type="advert">
-	    	<div dir="rtl" mode="horizontal-tb">
+	      <div mode="horizontal-tb" dir="rtl">
 	            金字塔香煙<lb/>
 	    	</div>
 	    	<div>
 	    		煙中<lb/>
 	    	</div>
-	    	<div type="image">
-
-	    	</div>
+	    	<div type="image"></div>
 	    	<div>
 	    		鉄軍<lb/>
 	    	</div>
-	    	<div dir="rtl" mode="horizontal-tb">
+	      <div mode="horizontal-tb" dir="rtl">
 	    		中國福新煙公司出品<lb/>
 	    	</div>
 	    </div>
@@ -230,7 +228,7 @@
 					桓二三週、駐渝英<lb/>
 					外交使節辦公處、<lb/>
 					雖在長江北岸、而<lb/>
-					寇爾爵士目前則留<lb/>
+                              寇爾爵士目前則留<lb/>
 					市區所在地南岸之<lb/>
 					外賓招待所中、蓋<lb/>
 					欲與中國領袖誌、<lb/>
