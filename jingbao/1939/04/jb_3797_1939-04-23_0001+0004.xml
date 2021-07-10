@@ -844,10 +844,8 @@
     		<div>
     			效<lb/>
     		</div>
-    		<div type="image">
-
-    		</div>
-    		<div dir="ltr" mode="horizontal-tb">
+    		<div type="image"></div>
+    		<div mode="horizontal-tb" dir="ltr">
     			BIOZTGEN<lb/>
     		</div>
     		<div>
