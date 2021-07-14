@@ -494,37 +494,36 @@
                   廣告刊例：　報名旁　每日每方二十元　長行計七寸高　每日每行一元八角　短行計三寸半高　每日每行九角　中縫計三寸半高二寸濶　每日每格八元<pb/>
 		</div>
 	</div>
-    <div dir="rtl" mode="vertical-rl">
+	<!--start middle of the fold-->
+	<div type="margin" mode="vertical-rl" dir="rtl">
     	<div type="advert">
-    		<div dir="rtl" mode="horizontal-tb">
-    			梅邨<lb/>
+    		<div mode="horizontal-tb" dir="rtl">
+    			  梅邨<lb/>
     		</div>
     		<div>
-    			<p>
-    				專營上等罐頭食品<lb/>
-    			</p>
-    			<p>
-    				擇吉開幕<lb/>
-    			</p>
-    			<p>
-    				裝璜淸秀<lb/>
-    				售價便宜<lb/>
-    			</p>
-    			<p>
-    				糖果餅乾麵包冷飲<lb/>
-    			</p>
-    			<p>
-    				地址<lb/>
-    				嵩山<lb/>
-    				路二<lb/>
-    				號<lb/>
-    			</p>
-    			<p>
-    				滬光<lb/>
-    				大戲<lb/>
-    				院隔<lb/>
-    				壁<lb/>
-    			</p>
+    			  專營上等罐頭食品<lb/>
+    		</div>
+    		<div>
+    			  擇吉開幕<lb/>
+    		</div>
+    		<div>
+    			  裝璜淸秀<lb/>
+    			  售價便宜<lb/>
+    		</div>
+    		<div>
+    		  	糖果餅乾麵包冷飲<lb/>
+    		</div>
+    		<div>
+    			  地址<lb/>
+    			  嵩山<lb/>
+    			  路二<lb/>
+    			  號<lb/>
+    		</div>
+    		<div>
+    			  滬光<lb/>
+    			  大戲<lb/>
+    			  院隔<lb/>
+    			  壁<lb/>
     		</div>
     	</div>
     	<div type="advert">
