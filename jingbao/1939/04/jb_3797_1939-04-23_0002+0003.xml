@@ -4,9 +4,10 @@
     <!ENTITY gaiji "&#xe111;">
 ]>
 <fold xml:id="jb_3797_1939-04-23_0002+0003" lastedit="2021-07-14" lasteditor="ysmlouis">
-	<div type="page" page="verso" n="3" dir="rtl" mode="vertical-rl">
-		<div type="margin" dir="rtl" mode="horizontal-tb">
-			中華民國二十八年四月廿三日　晶報　星期日　第二版<lb/>
+	<!-- start verso page -->
+	<div type="page" page="verso" n="2" mode="vertical-rl" dir="rtl">
+		<div type="margin" mode="horizontal-tb" dir="rtl">
+			 中華民國二十八年四月廿三日　晶報　星期日　第二版<lb/>
 		</div>
 		<div type="margin">
 			廣告刊例：　報名旁　每日每方二十元　長行計七寸高　每日每行一元八角　短行計三寸半高　每日每行九角　中縫計三寸半高二寸潤　每日每格八元<lb/>
