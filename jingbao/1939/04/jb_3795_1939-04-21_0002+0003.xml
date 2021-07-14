@@ -485,7 +485,7 @@
         </div>
     </div>
     <!--start middle of the fold-->
-    <div type="margin">
+    <div type="margin" mode="vertical-rl" dir="rtl">
         <div type="advert">
             <div mode="horizontal-tb" dir="rtl">
                 梅邨<lb/>
