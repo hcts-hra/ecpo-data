@@ -337,22 +337,24 @@
                           </p>
 			</div>
 		</div>
-		<div type="other">
-			<div dir="rtl" mode="horizontal-tb">
+		<div type="article">
+			<div mode="horizontal-tb" dir="rtl">
 				袁寒雲先生手寫<lb/>
 				丁卯日記之三<lb/>
 			</div>
-			<div>
-				光明社所演黑海盜乃范朋克最近傑&gaiji;也<lb/>
+			<div type="image">
+				<!--<p>
+				光明社所演黑海盜乃范朋克最近傑作也<lb/>
 				初六日&gaiji;秋來譚敍今覺書<lb/>
 				初七日&gaiji;秋芝岩來代&gaiji;&gaiji;寄家書郵估李<lb/>
 				估攜券來選民國欠資券欲求倫敦版者百數<lb/>
 				十枚竟未一見可知海上此券全套已視原直增二<lb/>
 				十倍爲不妄也<lb/>
-				初八日敍今覺書&gaiji;航空郵政寄芥&gaiji;<lb/>
-				初九日效坤生日値上元節壽之曰上元&gaiji;生日<lb/>
+				初八日敍今覺書記航空郵政寄芥塵<lb/>
+				初九日效坤生日値上元節壽之日上元作生日<lb/>
 				東海有神仙&gaiji;爲裁八尺金&gaiji;書一壽字&gaiji;<lb/>
 				今覺書<lb/>
+				</p>-->
 			</div>
 		</div>
 		<div type="advert" dir="rtl" mode="vertical-rl">
@@ -362,7 +364,7 @@
 			<div>
 				順風牌<lb/>
 				鮮桔水<lb/>
-				汽水<lb/>
+				汽　水<lb/>
 			</div>
 			<div dir="rtl" mode="horizontal-tb">
 				四大特點<lb/>
@@ -371,7 +373,7 @@
 				滴滴蒸餾<lb/>
 				鮮美可口<lb/>
 				科學製造<lb/>
-				淸潔衛生<lb/>
+				淸潔衞生<lb/>
 			</div>
 			<div dir="rtl" mode="horizontal-tb">
 				美華汽水公司出品<lb/>
