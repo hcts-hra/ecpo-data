@@ -13,17 +13,15 @@
 			<div dir="rtl" mode="horizontal-tb">
 				文化營<lb/>
 			</div>
-			<div type="image">
-				
+			<div type="image"></div>
+			<div dir="rtl" mode="horizontal-tb">
+					黔野主編<lb/>
+			</div>
+		<div type="article">
+			<div>
+					詩經話繹　（如鐘）<lb/>
 			</div>
 			<div>
-				<div dir="rtl" mode="horizontal-tb">
-					黔野主編<lb/>
-				</div>
-				<div>
-					<p>
-						詩經話繹　（如鐘）<lb/>
-					</p>
 					<p>
 						&gaiji;有梅（召南）<lb/>
 						採梅採梅須及時，<lb/>
@@ -72,8 +70,8 @@
 						之；求我庶士，迨<lb/>
 						其謂之。<lb/>
 					</p>
-				</div>
 			</div>
+		</div>
 		</div>
 		<div type="article">
 			<p>
