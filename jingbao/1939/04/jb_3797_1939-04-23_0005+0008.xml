@@ -394,31 +394,27 @@
 				樂隊會集<lb/>
 				世界佳曲<lb/>
 			</div>
-			<div>
-				<div dir="rtl" mode="horizontal-tb">
-					天天茶舞<lb/>
-				</div>
-				<div>
-					四時<lb/>
-					起八<lb/>
-					時止<lb/>
-					奉送<lb/>
-					淸紅<lb/>
-					香茗<lb/>
-				</div>
+			<div dir="rtl" mode="horizontal-tb">
+				天天茶舞<lb/>
 			</div>
 			<div>
-				<div>
-					地址<lb/>
-					愛多<lb/>
-					亞路<lb/>
-					馬霍<lb/>
-					路口<lb/>
-				</div>
-				<div dir="rtl" mode="horizontal-tb">
-					電話八一三八一號<lb/>
-				</div>					
+				四時<lb/>
+				起八<lb/>
+				時止<lb/>
+				奉送<lb/>
+				淸紅<lb/>
+				香茗<lb/>
 			</div>
+			<div>
+				地址<lb/>
+				愛多<lb/>
+				亞路<lb/>
+				馬霍<lb/>
+				路口<lb/>
+			</div>
+			<div dir="rtl" mode="horizontal-tb">
+				電話八一三八一號<lb/>
+			</div>					
 		</div>
 		<div type="advert" >
 			<div dir="rtl" mode="horizontal-tb">
@@ -426,6 +422,8 @@
 			</div>
 			<div>
 				頭痛粉<lb/>
+			</div>
+			<div>
 				提神養腦<lb/>
 				驅風散邪<lb/>
 				頭痛牙痛<lb/>
@@ -436,7 +434,7 @@
 			</div>
 		</div>
 		<div type="margin" >
-			本報具有二十年的歷史是小型報紙鼻祖銷路普遍全國刊登廣告最有效力<lb/>	
+			本報具有二十年的歷史是小型報紙鼻祖銷路普遍全國刊登廣告最有效力<pb/>	
 		</div>
 	</div>
 	<div type="page" page="verso" n="8" dir="rtl" mode="vertical-rl">
