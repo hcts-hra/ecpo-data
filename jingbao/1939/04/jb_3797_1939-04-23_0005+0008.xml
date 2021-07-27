@@ -709,37 +709,28 @@
 			</div>
 		</div>
 		<div type="advert">
-			<div dir="rtl" mode="horizontal-tb">
-				常服<lb/>
-				中英菓子塩<lb/>
+			<div mode="horizontal-tb" dir="rtl">
+                        常服<lb/>
+                        中英菓子塩<lb/>
+			</div>
+			<div mode="horizontal-tb" dir="rtl">
+                        永保健康<lb/>
+			</div>
+			<div type="image"></div>
+			<div>
+                        降火消積<lb/>
+                        淸血潤腸<lb/>
+                        平肝利氣<lb/>
+                        開胃提神<lb/>
 			</div>
 			<div>
-				<div dir="rtl" mode="horizontal-tb">
-					永保健康<lb/>
-				</div>
-				<div type="image">
-					
-				</div>
-				<div>
-					<p>
-						降火消積<lb/>
-						淸血潤腸<lb/>
-						平肝利氣<lb/>
-						開胃提神<lb/>
-					</p>
-					<p>
-						○<lb/>
-					</p>
-					<p>
-						衛生署成藥許<lb/>
-						可證第八一六號<lb/>
-					</p>
-				</div>
+                        衞生署成藥許<lb/>
+                        可證第八一六號<lb/>
 			</div>
-			<div dir="rtl" mode="horizontal-tb">
-				中英大藥房發行<lb/>
-				總公司　上海四馬路<lb/>
-				分發行　霞飛路國泰大戲院對面<lb/>
+			<div mode="horizontal-tb" dir="rtl">
+                        中英大藥房發行<lb/>
+                        總公司　上　海　四　馬　路<lb/>
+                        分發行　霞飛路國泰大戲院對面<lb/>
 			</div>
 		</div>
 		<div type="advert">
