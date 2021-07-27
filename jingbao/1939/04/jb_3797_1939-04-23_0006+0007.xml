@@ -442,7 +442,9 @@
 		<div type="margin">
 			廣告刊例：　報名旁　每日每方二十元　長行計七寸高　每日每行一元八角　短行計三寸半高　每日每行九角　中縫計三寸半高二寸潤　每日每格八元<pb/>	
 		</div>
-	<div dir="rtl" mode="vertical-rl">
+	</div>
+	<!-- start margin between pages   -->	
+	<div type="margin" mode="vertical-rl" dir="rtl">
 		<div type="advert">
 			<p>
 				東南醫院<lb/>
@@ -572,7 +574,8 @@
 			</div>
 		</div>
 	</div>
-	<div type="page" page="verso" n="7" dir="rtl" mode="vertical-rl">
+	<!-- start recto page   -->
+	<div type="page" page="recto" n="7" dir="rtl" mode="vertical-rl">
 	    <div type="margin" dir="rtl" mode="horizontal-tb">
 		    中華民國二十八年四月廿三日　晶報　星期日　第七版<lb/>	
         </div>
@@ -1128,6 +1131,5 @@
     	<div type="margin" >
     		定報價目：　本埠　每月四角　三個月一元　外埠　每月五角　三月一元四角　半年二元六角　全年五元　郵費在內　國外加倍報資先惠<lb/>	
     	</div>
-           </div>
-	</div>
+    </div>
 </fold>
