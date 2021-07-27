@@ -922,67 +922,58 @@
 			</div>
 		</div>
 		<div type="advert">
-			<div type="image">
-				
+			<div type="image"></div>
+			<div mode="horizontal-tb" dir="rtl">
+                        一滴清<lb/>
+				眼薬水<lb/>
 			</div>
-			<div dir="rtl" mode="horizontal-tb">
-				一滴淸<lb/>
-				眼藥水<lb/>
+			<div type="image"></div>
+			<div>
+                        統治<lb/>
+                        目疾<lb/>
 			</div>
-			<div type="image">
-				<div>
-					統治<lb/>
-					目疾<lb/>
-				</div>
-				<div>
-					一滴<lb/>
-					見功<lb/>
-				</div>
-				<div type="image">
-					
-				</div>
-				<div>
-					⬨一滴淸眼藥水主治之眼病⬨<lb/>
-				</div>
-				<div>
-					<p>
-						砂眼赤眼<lb/>
-						羞明畏光<lb/>
-						顆粒密生<lb/>
-						雲翳外障<lb/>
-					</p>
-					<p>
-						瘙癢多脂<lb/>
-						迎風流淚<lb/>
-						視力模糊<lb/>
-						眼皮發紅<lb/>
-					</p>
-					<p>
-						消毒完全<lb/>
-						功効確實<lb/>
-						攜帶便利<lb/>
-						價値低廉<lb/>
-						（每瓶貳角四）<lb/>
-					</p>
-					<p>
-						三洋涇橋<lb/>
-						江西路口<lb/>
-					</p>
-					<p>
-						新華藥行發行<lb/>
-					</p>
-				</div>
-				<div type="image">
-					
-				</div>
-				<div>
-					認明<lb/>
-					商標<lb/>
-				</div>
-				<div dir="rtl" mode="horizontal-tb">
-					新華大藥行監製<lb/>
-					上海江西路十號<lb/>
-				</div>
+			<div>
+                        一滴<lb/>
+                        見功<lb/>
+			</div>
+                  <div type="image"></div>
+                  <div>
+                        ◇一滴淸眼藥水主治之眼病◇<lb/>
+			</div>
+            	<div>
+                        砂眼赤眼<lb/>
+                        羞明畏光<lb/>
+                        顆粒密生<lb/>
+                        雲翳外障<lb/>
+			</div>
+			<div>
+                        瘙癢多脂<lb/>
+                        迎風流淚<lb/>
+                        視力糢糊<lb/>
+                        眼皮發紅<lb/>
+			</div>
+			<div>
+                        消毒完全<lb/>
+                        功効確實<lb/>
+                        攜帶便利<lb/>
+                        價値低廉<lb/>
+                        （每瓶貳角四）<lb/>
+			</div>
+			<div>
+                        三洋涇橋<lb/>
+                        江西路口<lb/>
+			</div>
+			<div>
+                        新華藥行發行<lb/>
+			</div>
+			<div type="image"></div>
+			<div>
+                        認明<lb/>
+                        商標<lb/>
+			</div>
+			<div mode="horizontal-tb" dir="rtl">
+                        新華大藥行監製<lb/>
+                        上海江西路十號<lb/>
 			</div>
 		</div>
 	</div>
