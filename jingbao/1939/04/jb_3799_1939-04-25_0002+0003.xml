@@ -3,12 +3,11 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3799_1939-04-25_0002+0003">
+<fold xml:id="jb_3799_1939-04-25_0002+0003" lastedit="2021-07-29" lasteditor="ysmlouis">
+    <!-- start verso page -->
     <div type="page" page="verso" n="2" mode="vertical-rl" dir="rtl">
-        <div type="other">
-            <div type="margin" mode="horizontal-tb"  dir="rtl" > 
-                中華民國二十八年四月廿五日　晶報　星期二　第二版<lb/>     
-            </div>
+        <div type="margin" mode="horizontal-tb" dir="rtl" > 
+             中華民國二十八年四月廿五日　晶報　星期二　第二版<lb/>     
         </div>
         <div type="article">
             <div>
