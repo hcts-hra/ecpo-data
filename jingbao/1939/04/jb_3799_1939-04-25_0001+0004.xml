@@ -6,11 +6,11 @@
 <fold xml:id="jb_3799_1939-04-25_0001+0004" lastedit="2021-07-28" lasteditor="ysmlouis">
     <!-- start recto page   -->
     <div type="page" page="recto" n="1" mode="vertical-rl" dir="rtl">
-         <div type="head" dir="rtl" mode="horizontal-tb">
+         <div type="head" mode="horizontal-tb" dir="rtl" >
                <div>
                       晶報<lb/>
                </div>
-               <div dir="ltr" mode="horizontal-tb">
+               <div mode="horizontal-tb" dir="ltr">
                       The Crystal<lb/>
                       發　行　人　A.　L.　Teodoro<lb/>
                </div>
@@ -37,14 +37,14 @@
                      中國福新煙公司出品<lb/>
                 </div>
          </div>
-            <div type="advert" mode="horizontal-tb" dir="rtl">
+         <div type="advert" mode="horizontal-tb" dir="rtl">
                 海上第一流攝影專家<lb/>
                 國泰藝術照相館<lb/>
                 定價經濟化照相貴族化<lb/>
                 際此春光攝影良機<lb/>
                 地址南京路石路西<lb/>
                 電話九〇三九三號<lb/>
-            </div>
+        </div>
         <div type="article">
             <div mode="horizontal-tb" dir="rtl">
                 日反攻新會失敗<lb/>
