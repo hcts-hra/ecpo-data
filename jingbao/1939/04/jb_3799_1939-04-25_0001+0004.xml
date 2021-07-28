@@ -6,21 +6,22 @@
 <fold xml:id="jb_3799_1939-04-25_0001+0004" lastedit="2021-07-28" lasteditor="ysmlouis">
     <!-- start recto page   -->
     <div type="page" page="recto" n="1" mode="vertical-rl" dir="rtl">
-        <div type="head" dir="rtl" mode="horizontal-tb">
-            <div>
-                晶報<lb/>
-            </div>
-            <div dir="ltr" mode="horizontal-tb">
-                The Crystal<lb/>
-                發行人 A. L. Teodoro<lb/>
-            </div>
-            <div>
-                館址漢口路二九九號　電話九三四二八<lb/>
-                中華郵政特准掛號立券按照總包優益寄送之報紙<lb/>
-                ◀公共租界工部局登記證Ｃ字廿四號▶<lb/>
-                ◀第三千七百九十九號▶<lb/>
-                中華民國貳拾捌年四月廿五日　星期二　今日兩全張售國幣貳分四厘　本報創刊於民國八年三月三日<lb/>
-            </div> 
+         <div type="head" dir="rtl" mode="horizontal-tb">
+               <div>
+                      晶報<lb/>
+               </div>
+               <div dir="ltr" mode="horizontal-tb">
+                      The Crystal<lb/>
+                      發　行　人　A.　L.　Teodoro<lb/>
+               </div>
+               <div>
+                      館址漢口路二九九號　　電話九三四二八<lb/>
+                      中華郵政特准掛號立券按照總包優益寄送之報紙<lb/>
+                      ◀公共租界工部局登記證Ｃ字廿四號▶<lb/>
+                      ◀第三千七百九十九號▶<lb/>
+                      中華民國貳拾捌年四月廿五日　星期二　今日兩全張售國幣貳分四厘　本報創刊於民國八年三月三日<lb/>
+               </div> 
+         </div>
             <div type="advert">
                 <div mode="horizontal-tb" dir="rtl">
                     金字塔香煙<lb/>
@@ -44,7 +45,6 @@
                 地址南京路石路西<lb/>
                 電話九〇三九三號<lb/>
             </div>
-        </div>
         <div type="article">
             <div mode="horizontal-tb" dir="rtl">
                 日反攻新會失敗<lb/>
@@ -418,6 +418,7 @@
             </div>
         </div>
     </div>
+
    <!-- start middle of the fold -->
     <div type="margin" dir="rtl" mode="vertical-rl">
         <div type="advert">
