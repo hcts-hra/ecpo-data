@@ -978,15 +978,19 @@
     <div type="margin" mode="vertical-rl" dir="rtl">
         <div type="advert">
             <div>
-                摩登照相<lb/>
-                派司照相　六張三角　當日可取<lb/>
-                美術照相　贈送放大！<lb/>
+                  摩登照相<lb/>
             </div>
             <div>
-                新制精美&gaiji;&gaiji;服裝<lb/>
-                <!--should be 戲劇's 異體字-->
-                地址　南京路英華街永安公司對面<lb/>
-                電話　九三八八四號<lb/>
+                  派司照相　六張三角　當日可取<lb/>
+                  美術照相　贈送放大！<lb/>
+            </div>
+            <div>
+                  新制精美戲劇服裝<lb/>
+                  <!-- "戲劇" is written in their variants. -->
+            </div>
+            <div>
+                  地址　南京路英華街永安公司對面<lb/>
+                  電話　九三八八四號<lb/>
             </div>
         </div>
         <div type="advert">
