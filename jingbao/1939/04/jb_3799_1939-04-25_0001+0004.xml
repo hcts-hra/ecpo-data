@@ -457,28 +457,26 @@
     </div>
     <!-- start verso page   -->
     <div type="page" page="verso" n="4" mode="vertical-rl" dir="rtl">
-        <div type="other">
-            <div type="margin" mode="horizontal-tb" dir="rtl">
-                中華民國二十八年四月廿五日　晶報　星期二　第四版<lb/>
-            </div>
-        </div>
-        <div type="article">
-            <div>
-                滬浙交通暫斷<lb/>
-                甌江嚴密戒備<lb/>
-                駐紮重兵枕戈待命<lb/>
-                日機日艦昨又擾温<lb/>
-            </div>
-            <div>
-                <p>
-                    温台防守司令部、禁止任何船隻出入温州之甌江後、温州<lb/>
-                    昨日起、已無船隻出入甌江、甌江口之磐石、早已實施封鎖<lb/>
-                    、惟封鎖線上之缺口、尚未堵塞、甌江以內、放有水雷、磐<lb/>
-                    石黃華等處、&gaiji;有防禦工程、駐紮重兵、枕戈待命、而嚴防<lb/>
-                    日軍之偷渡登陸、至於此次之禁航、係暫時性質<lb/>
-                </p>
-            </div>
-            <div>
+         <div type="margin" mode="horizontal-tb" dir="rtl">
+              中華民國二十八年四月廿五日　晶報　星期二　第四版<lb/>
+         </div>
+         <div type="article">
+              <div>
+                    滬浙交通暫斷<lb/>
+                    甌江嚴密戒備<lb/>
+                    駐紮重兵枕戈待命<lb/>
+                    日機日艦昨又擾温<lb/>
+              </div>
+              <div>
+                    <p>
+                         温台防守司令部、禁止任何船隻出入温州之甌江後、温州<lb/>
+                         昨日起、已無船隻出入甌江、甌江口之磐石、早已實施封鎖<lb/>
+                         、惟封鎖線上之缺口、尚未堵塞、甌江以內、放有水雷、磐<lb/>
+                         石黃華等處、&gaiji;有防禦工程、駐紮重兵、枕戈待命、而嚴防<lb/>
+                         日軍之偷渡登陸、至於此次之禁航、係暫時性質<lb/>
+                    </p>
+              </div>
+              <div>
                 甌江炮戰<lb/>
                 日機投彈<lb/>
             </div>
