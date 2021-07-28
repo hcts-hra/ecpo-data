@@ -418,43 +418,6 @@
              本報忠實報道新聞說人人要說的話文字淺近趣味濃厚是最平民化的刊物<pb/>
         </div>
     </div>
-   <!-- start middle of the fold -->
-    <div type="margin" dir="rtl" mode="vertical-rl">
-        <div type="advert">
-            <div>
-                摩登照相<lb/>
-                派司照相　六張三角　當日可取<lb/>
-                美術照相　贈送放大！<lb/>
-            </div>
-            <div>
-                新制精美&gaiji;&gaiji;服裝<lb/>
-                <!--should be 戲劇's 異體字-->
-                地址　南京路英華街永安公司對面<lb/>
-                電話　九三八八四號<lb/>
-            </div>
-        </div>
-        <div type="advert">
-            <div>
-                小兒科<lb/>
-                內科<lb/>
-            </div>
-            <div>
-                專門<lb/>
-                醫師<lb/>
-            </div>
-            <div>
-                宋虞琪<lb/>
-            </div>
-            <div>
-                ▲診所霞飛路馬斯路口東首先施公<lb/>
-                司一元商店對面六百二十二<lb/>
-                弄泰山公寓六號內五十三號<lb/>
-                ▲時間門診上午十時至十二時下午<lb/>
-                三時至五時餘時出診<lb/>
-                ▲電話八一〇四二號<lb/>
-            </div>
-        </div>
-    </div>
     <!-- start verso page   -->
     <div type="page" page="verso" n="4" mode="vertical-rl" dir="rtl">
          <div type="margin" mode="horizontal-tb" dir="rtl">
@@ -1009,6 +972,43 @@
         </div>
         <div type="margin">
                本報具有廿一年的歷史是小型報紙鼻祖銷路普遍全國刊登廣告最有效力<pb/>
+        </div>
+    </div>
+    <!-- start middle of the fold -->
+    <div type="margin" mode="vertical-rl" dir="rtl">
+        <div type="advert">
+            <div>
+                摩登照相<lb/>
+                派司照相　六張三角　當日可取<lb/>
+                美術照相　贈送放大！<lb/>
+            </div>
+            <div>
+                新制精美&gaiji;&gaiji;服裝<lb/>
+                <!--should be 戲劇's 異體字-->
+                地址　南京路英華街永安公司對面<lb/>
+                電話　九三八八四號<lb/>
+            </div>
+        </div>
+        <div type="advert">
+            <div>
+                小兒科<lb/>
+                內科<lb/>
+            </div>
+            <div>
+                專門<lb/>
+                醫師<lb/>
+            </div>
+            <div>
+                宋虞琪<lb/>
+            </div>
+            <div>
+                ▲診所霞飛路馬斯路口東首先施公<lb/>
+                司一元商店對面六百二十二<lb/>
+                弄泰山公寓六號內五十三號<lb/>
+                ▲時間門診上午十時至十二時下午<lb/>
+                三時至五時餘時出診<lb/>
+                ▲電話八一〇四二號<lb/>
+            </div>
         </div>
     </div>
 </fold>
