@@ -95,6 +95,12 @@
                     <element name="p">
                         <ref name="contents"/>
                     </element>
+                    <element name="r">
+                        <group>
+                            <attribute name="style"/>
+                        </group>
+                        <ref name="contents"/>
+                    </element>
                 </oneOrMore>
                 <ref name="contents"/>
                 <zeroOrMore>
