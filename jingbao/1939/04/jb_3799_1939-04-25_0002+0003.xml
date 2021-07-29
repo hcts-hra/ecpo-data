@@ -602,10 +602,8 @@
     </div>
     <!-- start recto page   -->
     <div page="recto" n="3" mode="vertical-rl" dir="rtl">
-        <div type="margin">
-            <div type="other" mode="horizontal-tb" dir="rtl">
-                中華民國二十八年四月廿五日　晶報　星期二　第三版<lb/>
-            </div>
+        <div type="margin" mode="horizontal-tb" dir="rtl">
+             中華民國二十八年四月廿五日　晶報　星期二　第三版<lb/>
         </div>
         <div type="article">
             <div mode="horizontal-tb" dir="rtl">
