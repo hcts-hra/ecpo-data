@@ -36,7 +36,7 @@
 	      <div mode="horizontal-tb" dir="rtl">
 	    		中國福新煙公司出品<lb/>
 	    	</div>
-	    </div>
+	      </div>
 		<div type="advert" mode="horizontal-tb" dir="rtl">
 			海上第一流攝影專家<lb/>
 			國泰藝術照相館<lb/>
@@ -150,10 +150,10 @@
 			</div>
 		</div>
 		<div type="article">
-			<div>
+               <div>
 		         蔣委員長通令<lb/>
 		         整理物價<lb/>
-	    	</div>
+              </div>
 	        <div>
 	     		<p>
 		    		（重慶廿二日美<lb/>
