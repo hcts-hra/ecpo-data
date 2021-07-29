@@ -10,7 +10,8 @@
 				晶報<lb/>
 			</div>
 			<div dir="ltr" mode="horizontal-tb"> 
-				The Crystal<lb/> 發行人 A. L. Teodoro<lb/>
+				The Crystal<lb/> 
+				發行人 A. L. Teodoro<lb/>
 			</div>
 			<div> 
 				館址漢口路二九九號　電話九三四二八<lb/> 
@@ -25,7 +26,7 @@
 				摩登照相<lb/> 
 				新製精美戲劇服裝<lb/>
 			</div>
-			<div dir="rtl" mode="vertical-rl"> 
+	    	<div>
 				派司照相<lb/> 
 				六張三角<lb/> 
 				當日可取<lb/> 
@@ -45,7 +46,7 @@
 			地址南京路五五號<lb/> 
 			電話九〇三九三號<lb/>
 		</div>
-		<div type="article" dir="rtl" mode="vertical-rl">
+	    <div type="article">
 			<div dir="rtl" mode="horizontal-tb"> 
 				粵南戰事激烈<lb/>
 			</div>
@@ -70,7 +71,7 @@
 					城現在華軍手中、日軍屢圖進犯、均未得逞、<lb/>
 				</p>
 				<p> 
-					（重慶廿一日海通電）據華方報吿、江西省前線、日來較爲沉寂、日軍并無若<lb/> 
+					（重慶廿一日海通電）據華方報吿、江西省前線、日來較爲沉寂、日軍幷無若<lb/> 
 					何活動、中國軍隊則奉令進行反攻、以收復五甯高安爲目標、昨日華軍已進迫高<lb/>
 					安、而將武甯完全包圍矣、<lb/>
 				</p>
@@ -115,7 +116,7 @@
 			</div>
 		</div>
 
-	  <div type="article" dir="rtl" mode="vertical-rl">
+	  <div type="article">
 		<div dir="rtl" mode="horizontal-tb"> 
 			舉世矚目<lb/>
 		</div>
@@ -197,7 +198,7 @@
 			</p>
 		</div>
 	  </div>
-	  <div type="article" dir="rtl" mode="vertical-rl">
+		<div type="article">
 		<div> 
 			華軍全線總反攻<lb/> 
 			現猶未開始<lb/> 
@@ -292,7 +293,7 @@
 			</p>
 		</div>
 	  </div>
-	  <div type="article" dir="rtl" mode="vertical-rl">
+		<div type="article">
 		<div> 
 			軍會政治部<lb/> 
 			駁斥汪論文<lb/>
@@ -322,7 +323,7 @@
 			</p>
 		</div>
 	  </div>
-	  <div type="article" dir="rtl" mode="vertical-rl">
+		<div type="article">
 		<div> 
 			華北華軍活躍<lb/> 
 			破壞火車炸毀煤礦<lb/>
@@ -367,7 +368,7 @@
 			</p>
 		</div>
 	  </div>
-	  <div type="article" dir="rtl" mode="vertical-rl">
+		<div type="article">
 		<div> 
 			陳中孚組織<lb/> 
 			『和平會』<lb/>
@@ -411,7 +412,7 @@
 		<div type="margin" dir="rtl" mode="horizontal-tb"> 
 			中華民國二十八年四月廿二日　晶報　星期六　第四版<lb/>
 		</div>
-		<div type="article" dir="rtl" mode="vertical-rl">
+		<div type="article">
 			<div> 
 				日艦又窺鎭海<lb/> 
 				登陸决難逞<lb/> 
@@ -433,7 +434,7 @@
 				</p>
 			</div>
 		</div>
-		<div type="article" dir="rtl" mode="vertical-rl">
+		<div type="article">
 			<div> 
 				法捕房<lb/> 
 				昨仍嚴密戒備<lb/> 
@@ -485,7 +486,7 @@
 				</p>
 			</div>
 		</div>
-		<div type="article" dir="rtl" mode="vertical-rl">
+		<div type="article">
 			<div> 
 				租界當局<lb/> 
 				函謝米業<lb/>
@@ -504,7 +505,7 @@
 				</p>
 			</div>
 		</div>
-		<div type="article" dir="rtl" mode="vertical-rl">
+		<div type="article">
 			<div> 
 				日艦干涉<lb/> 
 				英輪<lb/>
@@ -530,7 +531,7 @@
 				</p>
 			</div>
 		</div>
-		<div type="article" dir="rtl" mode="vertical-rl">
+		<div type="article">
 			<div> 
 				各重要公團<lb/> 
 				對美中立法案表示立場<lb/> 
@@ -581,7 +582,7 @@
 				</p>
 			</div>
 		</div>
-		<div type="article" dir="rtl" mode="vertical-rl">
+		<div type="article">
 			<div> 
 				「吃角子老虎」<lb/> 
 				製造廠破獲<lb/> 
@@ -616,7 +617,7 @@
 				</p>
 			</div>
 		</div>
-		<div type="article" dir="rtl" mode="vertical-rl">
+		<div type="article">
 			<div dir="rtl" mode="horizontal-tb"> 
 				法租界<lb/> 
 				發現花會聽筒<lb/>
@@ -647,7 +648,7 @@
 				徒刑四月、<lb/>
 			</div>
 		</div>
-		<div type="article" dir="rtl" mode="vertical-rl">
+		<div type="article">
 			<div> 
 				本市新聞從業員<lb/> 
 				嚴正表示<lb/>
@@ -684,7 +685,7 @@
 				</p>
 			</div>
 		</div>
-		<div type="article" dir="rtl" mode="vertical-rl">
+		<div type="article">
 			<div> 
 				鮮豬業<lb/> 
 				組制裁委員會<lb/>
@@ -703,7 +704,7 @@
 				</p>
 			</div>
 		</div>
-		<div type="article" dir="rtl" mode="vertical-rl">
+		<div type="article">
 			<div> 
 				人力車夫獻金<lb/> 
 				並組同人會加强團結<lb/>
@@ -732,7 +733,7 @@
 				</p>
 			</div>
 		</div>
-		<div type="article" dir="rtl" mode="vertical-rl">
+		<div type="article">
 			<div> 
 				十種物品<lb/> 
 				准運滬<lb/>
@@ -755,7 +756,7 @@
 				</p>
 			</div>
 		</div>
-		<div type="article" dir="rtl" mode="vertical-rl">
+		<div type="article">
 			<div> 
 				公價減息謠言<lb/> 
 				政府切實否認<lb/>
@@ -775,7 +776,7 @@
 				</p>
 			</div>
 		</div>
-		<div type="article" dir="rtl" mode="vertical-rl">
+		<div type="article">
 			<div dir="rtl" mode="horizontal-tb"> 
 				公共汽車<lb/> 
 				營業特盛<lb/> 
@@ -818,13 +819,12 @@
 				</p>
 			</div>
 		</div>
-		<div type="article" dir="rtl" mode="vertical-rl">
+		<div type="article">
 			<div> 
 				滑稽<lb/> 
 				小說<lb/> 
 			</div>
-			<div> 
-				一重天<lb/></div>
+			<div>一重天<lb/></div>
 			<div dir="rtl" mode="horizontal-tb"> 
 				（一五〇）<lb/>
 			</div>
@@ -856,7 +856,7 @@
 				送來的，鬼跟鬼鬼混，才有鬼趣。<lb/>
 			</div>
 		</div>
-	<div type="advert" dir="rtl" mode="vertical-rl">
+	<div type="advert">
 		<div dir="rtl" mode="horizontal-tb"> 
 			暑期之必需品<lb/>
 		</div>
@@ -878,7 +878,7 @@
 			美華汽水公司出品<lb/>
 		</div>
 	</div>
-	<div type="advert" dir="rtl" mode="vertical-rl">
+	    <div type="advert">		
 		<div> 
 			煙中<lb/> 
 			鐵軍<lb/>
@@ -888,26 +888,26 @@
 			雋永<lb/>
 		</div>
 		<div type="image">
-			<lb/>
+
 		</div>
 		<div dir="rtl" mode="horizontal-tb"> 
 			認明老牌<lb/> 
 			最不吃虧<lb/>
 		</div>
 		<div type="image">
-			<lb/>
+
 		</div>
 		<div dir="rtl" mode="horizontal-tb"> 
 			金字塔香煙<lb/> 
 			中國福新煙公司出品<lb/>
 		</div>
 	</div>
-	<div type="advert" dir="rtl" mode="vertical-rl">
+	    <div type="advert">
 		<div> 
 			痰敵<lb/>
 		</div>
 		<div type="image">
-			<lb/>
+
 		</div>
 		<div> 
 			分片露<lb/>
@@ -938,7 +938,7 @@
 			<lb/>
 		</div>
 	</div>
-		<div type="margin" dir="rtl" mode="vertical-rl"> 
+		<div type="margin"> 
 			本報具有廿一年的歷史是小型報紙鼻祖銷路普遍全國刊登廣吿最有效力<pb/>
 		</div>
 	</div>
@@ -969,7 +969,7 @@
 			<div> 華貴禮堂 租費從廉<lb/>
 			</div>
 		</div>
-		<div type="advert" dir="rtl" mode="vertical-rl">
+		<div type="advert">
 			<div dir="rtl" mode="horizontal-tb"> 
 				好美塢樂園<lb/>
 			</div>
@@ -1001,7 +1001,7 @@
 				一二〇四號七八〇〇二<lb/>
 			</div>
 		</div>
-		<div type="advert" dir="rtl" mode="vertical-rl">
+		<div type="advert">
 			<div> 
 				陽痿<lb/>
 			</div>			
