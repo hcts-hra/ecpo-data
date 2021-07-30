@@ -90,6 +90,9 @@
                     </attribute>
                 </group>
             </optional>
+            <optional>
+                <attribute name="itemid"/>  <!-- ID of the item in ECPO -->
+            </optional>
             <choice>
                 <oneOrMore>
                     <element name="p">
@@ -97,7 +100,7 @@
                     </element>
                     <element name="r">
                         <group>
-                            <attribute name="style"/>
+                            <attribute name="style"/>  <!-- to allow CSS formatting, e.g. "transform: rotate(90deg);" -->
                         </group>
                         <ref name="contents"/>
                     </element>
