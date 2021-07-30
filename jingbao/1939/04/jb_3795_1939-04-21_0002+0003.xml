@@ -350,7 +350,7 @@
                 時裝<lb/>
             </div>
             <div mode="horizontal-tb" dir="rtl">
-                方室<lb/>
+                衣室<lb/>
             </div>
             <div>
                 開幕大犧牲<lb/>
@@ -485,7 +485,7 @@
         </div>
     </div>
     <!--start middle of the fold-->
-    <div type="margin">
+    <div type="margin" mode="vertical-rl" dir="rtl">
         <div type="advert">
             <div mode="horizontal-tb" dir="rtl">
                 梅邨<lb/>

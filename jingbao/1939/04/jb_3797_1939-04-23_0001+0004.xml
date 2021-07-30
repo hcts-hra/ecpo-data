@@ -7,19 +7,19 @@
 	<!-- start recto page -->
 	<div type="page" page="recto" n="1" mode="vertical-rl" dir="rtl">
 		<div type="head" mode="horizontal-tb" dir="rtl">
-            <div>
-                晶報<lb/>
+                  <div>
+                         晶報<lb/>
 			</div>
 		      <div mode="horizontal-tb" dir="ltr">
-                The Crystal<lb/>
-                發行人 A. L. Teodoro<lb/>
+                         The Crystal<lb/>
+                         發行人 A. L. Teodoro<lb/>
 			</div>
 			<div>
-				館址漢口路二九九號　　電話九三四二八<lb/>
-				中華郵政特准掛號立券按照總包優益寄送之報紙<lb/>
-                ◀公共租界工部局登記證Ｃ字廿四號▶<lb/>
-                ◀第三千七百九十七號▶<lb/>
-                中華民國貳拾捌年四月廿三日　星期日　今日兩全張售國幣貳分四厘　本報創刊於民國八年三月三日<lb/>
+                        館址漢口路二九九號　　電話九三四二八<lb/>
+                        中華郵政特准掛號立券按照總包優益寄送之報紙<lb/>
+                        ◀公共租界工部局登記證Ｃ字廿四號▶<lb/>
+                        ◀第三千七百九十七號▶<lb/>
+                        中華民國貳拾捌年四月廿三日　星期日　今日兩全張售國幣貳分四厘　本報創刊於民國八年三月三日<lb/>
 			</div>
 	    </div>
 	    <div type="advert">
@@ -36,7 +36,7 @@
 	      <div mode="horizontal-tb" dir="rtl">
 	    		中國福新煙公司出品<lb/>
 	    	</div>
-	    </div>
+	      </div>
 		<div type="advert" mode="horizontal-tb" dir="rtl">
 			海上第一流攝影專家<lb/>
 			國泰藝術照相館<lb/>
@@ -150,10 +150,10 @@
 			</div>
 		</div>
 		<div type="article">
-			<div>
+               <div>
 		         蔣委員長通令<lb/>
 		         整理物價<lb/>
-	    	</div>
+              </div>
 	        <div>
 	     		<p>
 		    		（重慶廿二日美<lb/>
@@ -174,18 +174,18 @@
 				 採取攻勢<lb/>
 			</div>
 			<div>
-		     	<p>
-		    		（金華廿二日電<lb/>
-		     		）軍息華軍在東戰<lb/>
-		     		場採取攻勢後、各<lb/>
-		     		線均有進展、京杭<lb/>
-		     		國道方面、正分三<lb/>
-		     		路向京鎭推進、另<lb/>
-		     		一路則向湖州進發<lb/>
-		     		、錢江渡河部隊、<lb/>
-		     		則向杭嘉一帶發展<lb/>
-	     			、<lb/>
-	     		</p>
+		      	<p>
+                            （金華廿二日電<lb/>
+                             ）軍息華軍在東戰<lb/>
+                            場採取攻勢後、各<lb/>
+                            線均有進展、京杭<lb/>
+                            國道方面、正分三<lb/>
+                            路向京鎭推進、另<lb/>
+                            一路則向湖州進發<lb/>
+                            、錢江渡河部隊、<lb/>
+                            則向杭嘉一帶發展<lb/>
+                            、<lb/>
+	     	      	</p>
 			</div>
 		</div>
 		<div type="article">
@@ -195,15 +195,15 @@
 			</div>
 			<div>
 				<p>
-			   	（紐約廿二日路透電）<lb/>
-		   		消息靈通之紐約時報今<lb/>
-	   			日載稱、現聞訂購飛機<lb/>
-	   			百架、或不止百架、運<lb/>
-		   		往中國之合同、刻在談<lb/>
-		   		判中、此外更談判訂購<lb/>
-		   		價值七百萬元至一千五<lb/>
-		   		百萬元之飛機引擎等物<lb/>
-		   		、此事現守秘密、<lb/>
+                            （紐約廿二日路透電）<lb/>
+                            消息靈通之紐約時報今<lb/>
+                            日載稱、現聞訂購飛機<lb/>
+                            百架、或不止百架、運<lb/>
+                            往中國之合同、刻在談<lb/>
+                            判中、此外更談判訂購<lb/>
+                            價值七百萬元至一千五<lb/>
+                            百萬元之飛機引擎等物<lb/>
+                            、此事現守秘密、<lb/>
 				</p>
 			</div>
 		</div>
@@ -259,16 +259,16 @@
 				國府命令<lb/>
 			</div>
 			<div>
-		    	<p>
-			   	（重慶廿二日電<lb/>
-		   		）國府廿二日令、<lb/>
-		   		（一）軍參院參議<lb/>
-		   		華南帆、另任免職<lb/>
-		   		、（二）任命張爲<lb/>
-		   		煜爲西康省府秘長<lb/>
-		   		、（三）任命聞均<lb/>
-		   		天爲內部禮俗司長<lb/>
-	    		</p>
+		    	       <p>
+                              （重慶廿二日電<lb/>
+                               ）國府廿二日令、<lb/>
+                              （一）軍參院參議<lb/>
+                              華南帆、另任免職<lb/>
+                              、（二）任命張爲<lb/>
+                              煜爲西康省府秘長<lb/>
+                              、（三）任命聞均<lb/>
+                              天爲內部禮俗司長<lb/>
+	    		      </p>
 			</div>
 		</div>
 		<div type="article">
@@ -278,19 +278,19 @@
 			</div>
 			<div>
 				<p>
-			   	（重慶廿<lb/>
-		   		一日美聯<lb/>
-		   		社電）在<lb/>
-		   		本星期中<lb/>
-		   		、此間市<lb/>
-		   		上已極少<lb/>
-		   		乞丐可見、蓋市政<lb/>
-	   			府最近曾下令各警<lb/>
-		   		察局、從事搜&gaiji;市<lb/>
-			   	上乞丐、集中於「<lb/>
-   				工作營」中也、此<lb/>
-	   			營現暫設於城外某<lb/>
-	   			佛寺中、<lb/>
+                             （重慶廿<lb/>
+                             一日美聯<lb/>
+                             社電）在<lb/>
+                             本星期中<lb/>
+                             、此間市<lb/>
+                             上已極少<lb/>
+                             乞丐可見、蓋市政<lb/>
+                             府最近曾下令各警<lb/>
+                             察局、從事搜&gaiji;市<lb/>
+                             上乞丐、集中於「<lb/>
+                             工作營」中也、此<lb/>
+                             營現暫設於城外某<lb/>
+                             佛寺中、<lb/>
 			    </p>
 			</div>
 		</div>
@@ -341,25 +341,25 @@
 			<div type="image"></div>
 			<div>
 				<p>
-	   			（設期）意大利<lb/>
-	   			在非洲之殖地，除<lb/>
-	   			於一九一一年得自<lb/>
-		   		土耳其的利比亞與<lb/>
-	   			一九三六年吞併的<lb/>
-		   		阿比西尼亞外、尚<lb/>
-	   			有紅海沿岸與亞丁<lb/>
-	   			灣上的厄立特里亞<lb/>
-		   		與意屬索馬利蘭兩<lb/>
-		   		地、因此意大利對<lb/>
-				於蘇彝士紅海航路<lb/>
-	   			甚感興趣而夢想控<lb/>
-		   		制之、更因謀鞏固<lb/>
-		   		其在非洲之精力於<lb/>
-			   	是向埃及與阿剌伯<lb/>
-		   		諸國家竭力宣傳同<lb/>
-	   			時準備在紅海彼岸<lb/>
-		   		的阿剌伯國家葉門<lb/>
-		   		樹立友好的關係、<lb/>
+                             （設期）意大利<lb/>
+                             在非洲之殖地，除<lb/>
+                             於一九一一年得自<lb/>
+                             土耳其的利比亞與<lb/>
+                             一九三六年吞併的<lb/>
+                             阿比西尼亞外、尚<lb/>
+                             有紅海沿岸與亞丁<lb/>
+                             灣上的厄立特里亞<lb/>
+                             與意屬索馬利蘭兩<lb/>
+                             地、因此意大利對<lb/>
+                             於蘇彝士紅海航路<lb/>
+                             甚感興趣而夢想控<lb/>
+                             制之、更因謀鞏固<lb/>
+                             其在非洲之精力於<lb/>
+                             是向埃及與阿剌伯<lb/>
+                             諸國家竭力宣傳同<lb/>
+                             時準備在紅海彼岸<lb/>
+                             的阿剌伯國家葉門<lb/>
+                             樹立友好的關係、<lb/>
 				</p>
 			</div>
 		</div>
@@ -422,7 +422,7 @@
                    魯麟洋行飛康輪、<lb/>
                    以上四輪、均定今<lb/>
                    日（二十三日）由<lb/>
-                	滬裝貨載客直 <!-- character shows font-dependent variations, char found here: ⿺𠃊𥃭 --> 放温<lb/>
+                   滬裝貨載客直 <!-- character shows font-dependent variations, char found here: ⿺𠃊𥃭 --> 放温<lb/>
                    州、昨晨自得寶利<lb/>
                    輪被阻消息後、卽<lb/>
                    分別電温訊問眞相<lb/>
@@ -822,7 +822,7 @@
     				女打抱不平，他還是剛送罷灶，躺在床上休息。他定一定神<lb/>
     				，默忖，倒也奇怪！我怎麼會到天上去呢？不知道天上的陰<lb/>
     				雲妖霧，要什麼時候才可以肅清？天堂上决不是被魔鬼們永<lb/>
-                   	久可以在那裏擾亂的罷？　　　　　　（完）<lb/>
+                   	久可以在那裏擾亂的罷？　（完）<lb/>
     			</p>
     		</div>
     	</div>
@@ -852,42 +852,25 @@
     		<div>
     			寶青春<lb/>
     		</div>
-    		<div>
+            <div mode="horizontal-tb" dir="ltr">
     			&gaiji;&gaiji;&gaiji;　3L<lb/>
-    		</div>
-    		<div>
-    			<div>
-    				寶青春爲真正譽滿乾燥酵母精製．富含各<lb/>
-    				種維他命．功能開胃强身．治療脚氣．整<lb/>
-    				理胃腸．促進新陳代謝．舉止新活力．質<lb/>
-    				香、味、效．無不超人一等．<lb/>
-    			</div>
-    			<div>
-    				質<lb/>
-    			</div>
-    			<div>
-    				含量充足<lb/>
-    			</div>
-    			<div>
-    				香<lb/>
-    			</div>
-    			<div>
-    				芬芳開胃<lb/>
-    			</div>
-    			<div>
-    				味<lb/>
-    			</div>
-    			<div>
-    				鮮美可口<lb/>
-    			</div>
-    			<div>
-    				效<lb/>
-    			</div>
-    			<div>
-    				靈驗偉大<lb/>
-    			</div>
-    			<div type="image"></div>
-    		</div>
+            </div>
+            <div>
+                    寶青春爲真正譽滿乾燥酵母精製．富含各<lb/>
+                    種維他命．功能開胃强身．治療脚氣．整<lb/>
+                    理胃腸．促進新陳代謝．舉止新活力．質<lb/>
+                    香、味、效．無不超人一等．<lb/>
+            </div>
+    	      <div mode="horizontal-tb" dir="rtl">
+    		        質香味效<lb/>
+    	      </div>
+    	      <div>
+    		        含量充足<lb/>
+    		        芬芳開胃<lb/>
+    		        鮮美可口<lb/>
+    		        靈驗偉大<lb/>
+    	      </div>
+    	      <div type="image"></div>
     	</div>
     	<div type="advert">
     		<div>
@@ -912,17 +895,27 @@
     			賓　（地址）卡德路四十一弄七十二號樓上久號房間<lb/>
     		</div>
     	</div>
-    	<div type="advert">
-    		<div mode="horizontal-tb" dir="rtl">
-    			冒鑰&gaiji;<lb/>
-    		</div>
-    		<div type="image"></div>
-    		<div type="image"></div>
-    		<div type="image"></div>
-    		<div mode="horizontal-tb" dir="rtl">
-    			上海中西大藥房發行<lb/>
-    		</div>
-    	</div>
+	    <div type="advert">
+	        <!-- The same advertisement on 1939.04.25_P4 is referenced. -->
+	        <div mode="horizontal-tb" dir="rtl">
+	            胃鑰<lb/>
+	        </div>
+	        <div>
+	            分片<lb/>
+	            &gaiji;<lb/>
+	        </div>
+	        <div mode="horizontal-tb" dir="rtl">
+	            增進消化能力<lb/>
+	            主治肝胃氣痛<lb/>
+	            抑止吞酸嘔吐<lb/>
+	        </div>
+	        <div type="image"></div>
+	        <div type="image"></div>
+	        <div mode="horizontal-tb" dir="rtl">
+	            上海中西大薬房發行<lb/>
+	        </div>
+	        <div type="image"></div>
+	    </div>
 	<div type="margin">
 	     本報具有廿一年的歷史是小型報紙鼻祖銷路普遍全國刊登廣吿最有效力<pb/>
 	</div>
