@@ -583,14 +583,15 @@
     <!-- start recto page -->
     <div type="page" page="recto" n="8" dir="rtl" mode="vertical-rl">
         <div type="margin" mode="horizontal-tb" dir="rtl">
-            中華民國二十八年四月廿五日　晶報　星期二　第八版<lb/>
+             中華民國二十八年四月廿五日　晶報　星期二　第八版<lb/>
         </div>
         <div type="article" mode="horizontal-tb" dir="rtl">
-            <div type="image"></div>
-            <div>
-                影城<lb/>
-                趙廉•田豐合輯<lb/>
-            </div>
+              <div>
+                    影城<lb/>
+              </div>
+              <div>
+                    趙廉•田豐合輯<lb/>
+              </div>
         </div>
         <div type="article">
             <div>
