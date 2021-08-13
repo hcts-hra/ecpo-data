@@ -4,8 +4,9 @@
     <!ENTITY gaiji "&#xe111;">
 ]>
 <fold xml:id="jb_3801_1939-04-27_0001+0004" lastedit="2021-08-13" lasteditor="ysmlouis">
-	<div type="page" page="recto" n="1" dir="rtl" mode="vertical-rl">
-        <div type="head" dir="rtl" mode="horizontal-tb">
+	<!-- start recto page -->
+	<div type="page" page="recto" n="1" mode="vertical-rl" dir="rtl">
+		<div type="head" mode="horizontal-tb" dir="rtl">
             <div>
                 晶報<lb/>
 			</div>
