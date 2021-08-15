@@ -1109,7 +1109,8 @@
                  本報具有廿一年的歷史是小型報紙鼻祖銷路普遍全國刊登廣告最有效力<pb/>
           </div>
 	</div>
-	<div dir="rtl" mode="vertical-rl">
+     <!-- start middle of the fold -->
+     <div type="margin" dir="rtl" mode="vertical-rl">
 		<div type="advert">	
 			<div dir="rtl" mode="horizontal-tb">
 				四馬路<lb/>
