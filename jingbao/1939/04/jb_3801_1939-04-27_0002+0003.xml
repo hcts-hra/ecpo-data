@@ -5,13 +5,11 @@
 ]>
 <fold xml:id="jb_3801_1939-04-27_0002+0003" lastedit="2021-08-16" lasteditor="ysmlouis">
 	<!-- start verso page -->
-	<div type="page" page="verso" n="2" dir="rtl" mode="vertical-rl">
-	    <div type="margin" dir="rtl" mode="horizontal-tb">
-		    中華民國二十八年四月廿七日　晶報　星期四　第二版<lb/>	
-        </div>
-		<div type="margin">
-		    廣告刊例：　報名旁　每日每方二十元　長行計七寸高　每日每行一元八角　短行計三寸半高　每日每行九角　中縫計三寸半高二寸瀾　每日每格八元<lb/>
-	    </div>
+    <div type="page" page="verso" n="2" dir="rtl" mode="vertical-rl">
+           <div type="margin" dir="rtl" mode="horizontal-tb">
+                  中華民國二十八年四月廿七日　晶報　星期四　第二版<lb/>	
+           </div>
+
 		<div type="article">
 			<p>
 				英內閣已决定<lb/>
@@ -553,6 +551,9 @@
 				中國福新煙公司出品<lb/>
 			</div>			
 		</div>
+    	<div type="margin">
+    		廣告刊例：　報名旁　每日每方二十元　長行計七寸高　每日每行一元八角　短行計三寸半高　每日每行九角　中縫計三寸半高二寸瀾　每日每格八元<lb/>
+    	</div>
 	</div>
 	<div dir="rtl" mode="vertical-rl">
 		<div type="advert">
