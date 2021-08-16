@@ -536,40 +536,26 @@
                           </p>
                    </div>				
             </div>
-		<div type="advert" dir="rtl" mode="horizontal-tb">
-			<div>
-				胃鑰<lb/>
-			</div>
-			<div dir="rtl" mode="vertical-rl">
-				分片<lb/>
-				&gaiji;&gaiji;<lb/>
-			</div>
-			<div>
-				增進消化能力<lb/>
-				主治肝胃氣痛<lb/>
-				抑止吞酸嘔吐<lb/>
-			</div>
-			<div type="image">
-				
-			</div>
-			<div type="image">
-				
-			</div>
-			<div type="image">
-				
-			</div>
-			<div>
-				上海中西大藥房發行<lb/>
-			</div>
-			<div dir="rtl" mode="vertical-rl">
-				（&gaiji;&gaiji;）<lb/>
-				&gaiji;&gaiji;&gaiji;<lb/>
-				&gaiji;&gaiji;&gaiji;<lb/>
-				&gaiji;&gaiji;<lb/>
-				九十元<lb/>
-				&gaiji;<lb/>
-			</div>
-		</div>
+            <div type="advert" dir="rtl" mode="horizontal-tb">
+                   <div>
+                          胃鑰<lb/>
+                   </div>
+                   <div dir="rtl" mode="vertical-rl">
+                          分片<lb/>
+                          &gaiji;&gaiji;<lb/>
+                   </div>
+                   <div>
+                          增進消化能力<lb/>
+                          主治肝胃氣痛<lb/>
+                          抑止吞酸嘔吐<lb/>
+                   </div>
+                   <div type="image"></div>
+                   <div type="image"></div>
+                   <div type="image"></div>
+                   <div>
+                          上海中西大藥房發行<lb/>
+                   </div>
+            </div>
 		<div type="advert">
 			<div dir="rtl" mode="horizontal-tb">		
 				金字塔香煙<lb/>
