@@ -698,11 +698,11 @@
                     </div>
              </div>
       </div>
-	
-		<div type="page" page="recto" n="3" dir="rtl" mode="vertical-rl">
-	    <div type="margin" dir="rtl" mode="horizontal-tb">
-		    中華民國二十八年四月廿七日　晶報　星期四　第三版<lb/>
-        </div>
+      <!-- start recto page -->
+      <div type="page" page="recto" n="3" dir="rtl" mode="vertical-rl">
+             <div type="margin" dir="rtl" mode="horizontal-tb">
+                    中華民國二十八年四月廿七日　晶報　星期四　第三版<lb/>
+             </div>
 		<div type="article">
 			<p>
 				工部局三樓發生<lb/>
