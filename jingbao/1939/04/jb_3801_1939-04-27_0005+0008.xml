@@ -394,30 +394,26 @@
                          五<lb/>
                   </div>
            </div>
-		<div type="other">
-			<div dir="rtl" mode="horizontal-tb">
-				袁寒雲先生手寫<lb/>
-				丁卯日記之七<lb/>
-			</div>
-			<div>
-				<p>
-					彎閣應巢鳳望天涯芳艸天末驚鴻&gaiji;&gaiji;索&gaiji;<lb/>
-					聯帖<lb/>
-				</p>
-				<p>
-					二十二日爲鳳珠寫&gaiji;帖子&gaiji;曰泉文美富洗字吉<lb/>
-					&gaiji;散祝向東夙願鳳翼雙犀靈一點　帖寫&gaiji;<lb/>
-					&gaiji;樓名燕子還來就南國看珠充萬丈月色十分<lb/>
-					午南行弄燕翼偕夕過德縣同山鑄&gaiji;六良迎候于<lb/>
-					驛舍<lb/>
-				</p>
-				<p>
-					二十三日車中口占二首驛亭揮手念當時忍涕何<lb/>
-					堪說別離征夢天涯吹漸遠沽流不盡繫人思<lb/>
-					一雨關山未盡歲寒郊艸木已蒼&gaiji;飛車直指<lb/>
-				</p>
-			</div>
-		</div>		
+           <div type="article">
+                  <div dir="rtl" mode="horizontal-tb">
+                         袁寒雲先生手寫<lb/>
+                         丁卯日記之七<lb/>
+                  </div>
+                  <div type="image">
+                         <!--<p>
+                         彎閣應巢鳳望天涯芳艸天末驚鴻𩠐 &gaiji;索瑑<lb/>
+                         聯帖<lb/>
+                         二十二日爲鳳珠寫旾帖子&gaiji;曰泉文美富洗字吉<lb/>
+                         羊散祝向東夙願鳳翼雙犀靈一點　帖寫&gaiji;<lb/>
+                         旾樓名燕子還來就南國看珠充萬丈月色十分<lb/>
+                         午南行弄燕翼偕夕過德縣同山鑄&gaiji;六良迎候于<lb/>
+                         驛舍<lb/>
+                         二十三日車中口占二首驛亭揮手念當時忍涕何<lb/>
+                         堪說別離征夢天涯吹漸遠沽流不盡繫人思<lb/>
+                         一雨關山未盡歲寒郊艸木已蒼茫飛車直指<lb/>
+                         </p>-->
+                  </div>
+           </div>		
 		<div type="advert" dir="rtl" mode="vertical-rl">
 			<div dir="rtl" mode="horizontal-tb">
 				暑期之必需品<lb/>
