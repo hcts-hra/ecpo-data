@@ -998,26 +998,24 @@
                 </div>
                 <div type="image"></div>
          </div>
-        <div type="advert">
-            <div mode="horizontal-tb" dir="rtl">
-                金字塔香煙<lb/>
-            </div>
-            <div>
-                煙中<lb/>
-            </div>
-            <div type="image"></div>
-            <div>
-                鐵軍<lb/>
-            </div>
-            <div mode="horizontal-tb" dir="rtl">
-                中國福新煙公司出品<lb/>
-            </div>
-        </div>
-        <div type="margin">
-            <div type="other">
-               本報具有廿一年的歷史是小型報紙鼻祖銷路普遍全國刊登廣告最有效力<pb/>
-            </div>
-        </div>
+         <div type="advert">
+                <div mode="horizontal-tb" dir="rtl">
+                       金字塔香煙<lb/>
+                </div>
+                <div>
+                       煙中<lb/>
+                </div>
+                <div type="image"></div>
+                <div>
+                       鉄軍<lb/>
+                </div>
+                <div mode="horizontal-tb" dir="rtl">
+                       中國福新煙公司出品<lb/>
+                </div>
+         </div>
+         <div type="margin">
+                本報具有廿一年的歷史是小型報紙鼻祖銷路普遍全國刊登廣告最有效力<pb/>
+         </div>
     </div>
     <!-- start middle of the fold -->
     <div type="margin" dir="rtl" mode="vertical-rl">
