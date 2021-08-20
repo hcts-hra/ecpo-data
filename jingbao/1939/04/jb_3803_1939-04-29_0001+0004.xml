@@ -475,11 +475,10 @@
     </div>
     <!-- start verso page   -->
     <div type="page" page="verso" n="4" mode="vertical-rl" dir="rtl">
-        <div type="other">
-            <div type="margin" mode="horizontal-tb" dir="rtl">
-                中華民國二十八年四月廿九日　晶報　星期六　第四版<lb/>
-            </div>
-        </div>
+           <div type="margin" mode="horizontal-tb" dir="rtl">
+                  中華民國二十八年四月廿九日　晶報　星期六　第四版<lb/>
+           </div>
+        
         <div type="article">
             <div mode="horizontal-tb" dir="rtl">
                 寧波市區<lb/>
