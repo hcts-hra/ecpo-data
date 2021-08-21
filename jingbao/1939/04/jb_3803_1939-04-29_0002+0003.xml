@@ -527,44 +527,50 @@
                        </p>
                 </div>
          </div>
-        <div type="advert">
-            <div mode="horizontal-tb" dir="rtl">
-                質香味效<lb/>
-            </div>
-            <div type="image"></div>
-            <div mode="horizontal-tb" dir="ltr">
-                BIOZTCEN<lb/>
-            </div>
-            <div>
-                上海新亞藥廠製造<lb/>
-                藥房均售<lb/>
-            </div>
-            <div>
-                寶靑春<lb/>
-            </div>
-            <!--too vague to tell the direction; given that it is numbers on the right, my guess it is left to right-->
-            <div mode="horizontal-tb" dir="ltr">
-                &gaiji;&gaiji;&gaiji;2&gaiji;<lb/>
-            </div>
-            <div>
-                <p>
-                    寶靑春爲眞正&gaiji;&gaiji;&gaiji;&gaiji;酵母精製，富含各<lb/>
-                    種維他命，功能開胃强&gaiji;，治療腳氣，&gaiji;<lb/>
-                    理胃腸，促進新陳代謝，產生新活力，質<lb/>
-                    香味效，無不越人一等。<lb/>
-                </p>
-            </div>
-            <div mode="horizontal-tb" dir="rtl">
-                質香味效<lb/>
-            </div>
-            <div>
-                含量充足<lb/>
-                芬芳開胃<lb/>
-                鮮美可口<lb/>
-                靈驗偉大<lb/>
-            </div>
-            <div type="image"></div>
-        </div>
+         <div type="advert">
+                <div>
+                       質<lb/>
+                </div>
+                <div>
+                       香<lb/>
+                </div>
+                <div>
+                       味<lb/>
+                </div>
+                <div>
+                       效<lb/>
+                </div>
+                <div type="image"></div>
+                <div mode="horizontal-tb" dir="ltr">
+                       BIOZTCEN<lb/>
+                </div>
+                <div>
+                       上海新亞藥廠製造<lb/>
+                       藥房均售<lb/>
+                </div>
+                <div>
+                       寶青春<lb/>
+                </div>
+                <div mode="horizontal-tb" dir="ltr">
+                       &gaiji;&gaiji;&gaiji;2L<lb/>
+                </div>
+                <div>
+                       寶青春爲真正麥&gaiji;乾燥酵母精製，富含各<lb/>
+                       種惟他命，功能開胃强身，治療脚氣，整<lb/>
+                       理胃腸，促進新陳代謝，產生新活力，質<lb/>
+                       香味效，無不超人一等。<lb/>
+                </div>
+                <div mode="horizontal-tb" dir="rtl">
+                       質香味效<lb/>
+                </div>
+                <div>
+                       含量充足<lb/>
+                       芬芳開胃<lb/>
+                       鮮美可口<lb/>
+                       靈騐偉大<lb/>
+                </div>
+                <div type="image"></div>
+         </div>
         <div type="margin">
             <div type="other">
                 <p>
