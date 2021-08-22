@@ -471,18 +471,19 @@
               本報忠實報道新聞說人人要說的話文字淺近趣味濃厚是最平民化的物刊<pb/>
          </div>    
     </div>
-
     <!-- start verso page -->
     <div type="page" page="verso" n="8" dir="rtl" mode="vertical-rl">
-        <div type="margin" mode="horizontal-tb" dir="rtl">
-            中華民國二十八年四月廿九日　晶報　星期六　第八版<lb/>
-        </div>
-        <div type="article" mode="horizontal-tb" dir="rtl">
-            <div>
-                影城<lb/>
-                &gaiji;廉•老田合&gaiji;<lb/>
-            </div>
-        </div>
+         <div type="margin" mode="horizontal-tb" dir="rtl">
+              中華民國二十八年四月廿九日　晶報　星期六　第八版<lb/>
+         </div>
+         <div type="article" mode="horizontal-tb" dir="rtl">
+                <div>
+                       影城<lb/>
+                </div>
+                <div>
+                       趙廉•老田合輯<lb/>
+                </div>
+         </div>
         <div type="article">
             <div>
                 關於「中華藝術劇團」<lb/>
