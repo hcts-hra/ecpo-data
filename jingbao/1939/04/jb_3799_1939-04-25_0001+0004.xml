@@ -4,7 +4,7 @@
     <!ENTITY gaiji "&#xe111;">
 ]>
 <fold xml:id="jb_3799_1939-04-25_0001+0004" lastedit="2021-07-28" lasteditor="ysmlouis">
-    <!-- start recto page   -->
+    <!-- start recto page -->
     <div type="page" page="recto" n="1" mode="vertical-rl" dir="rtl">
          <div type="head" mode="horizontal-tb" dir="rtl" >
                <div>
@@ -57,8 +57,8 @@
              </div>
              <div>
                    <p>
-                        （重慶廿四日海通社電）據華方報告稱、華軍反攻贛北、迭奏奇勛、除高安已再度克復<lb/>
-                        外、高安與南昌間之鄉村、亦有多處均欣吿克復、長沙人民聞捷報後、熱烈慶祝、<lb/>
+                        （重慶廿四日海通社電）據華方報吿稱、華軍反攻贛北、迭奏奇勛、除高安已再度克復<lb/>
+                        外、高安與南昌間之鄕村、亦有多處均欣吿克復、長沙人民聞捷報後、熱烈慶祝、<lb/>
                    </p>
                    <p>
                         （重慶廿四日路透社電）今日此間綏軍訊稱、四月二十二日夜、華軍突襲鄂湘邊境武長<lb/>
@@ -215,7 +215,7 @@
         <div type="article">
              <div>
                    日機飛越南領空<lb/>
-                   法提出警告<lb/>
+                   法提出警吿<lb/>
                    不得再有越軌行動<lb/>
              </div>
              <div>
@@ -231,7 +231,7 @@
                          、係自東京 <!-- character 京 rotated by 270 degrees --> 灣&gaiji;洲<lb/>
                          島起飛、侵入廣西<lb/>
                          鎭南關後、卽折入<lb/>
-                         法屬越南領 <!-- character 領 rotated by 270 degrees --> 空、直<lb/>
+                         法屬越南領 <!-- character 領 rotated by 270 degrees --> 空、直<!-- ⿺𠃊𥃭 --><lb/>
                          飛雲南省境、在華<lb/>
                          未設防之蒙自、濫<lb/>
                          施轟炸、外交部據<lb/>
@@ -244,8 +244,8 @@
                          止同樣事件之發生<lb/>
                          、聞法方對日機侵<lb/>
                          越越南領空、同深<lb/>
-                         憤慨、已向日方提<lb/>
-                         出警告、不得再有<lb/>
+                         憤慨<!-- character shows font-dependent variations, char found here: ⿰忄 旣 -->、已向日方提<lb/>
+                         出警吿、不得再有<lb/>
                          此類越軌行動、<lb/>
                     </p>
              </div>
@@ -286,7 +286,7 @@
         <div type="article">
              <div>
                    漢『市府』慶祝會<lb/>
-                   戲台炸彈爆發<lb/>
+                   戯台炸彈爆發<lb/>
                    當場死傷四十四人<lb/>
              </div>
              <div>
@@ -299,7 +299,7 @@
                          有重傷者四十四人、送入監理會醫院、<lb/>
                          其中三人、死於途中、尚有四人、甫入<lb/>
                          醫院、亦卽殞命、日軍事當局、在難民區<lb/>
-                         外、佈置警備線、並已拘獲多人、死傷<lb/>
+                         外、佈置<!-- character shows font-dependent variations, char found here: ⿱四⿺𠃊𥃭 -->警備線、並已拘獲多人、死傷<lb/>
                          者、除一菲列濱音樂家索倫外、盡屬華<lb/>
                          人、<lb/>
                     </p>
@@ -348,7 +348,7 @@
              <div>
                     <p>
                          （常德廿四日電<lb/>
-                         ）前方報告、湘邊<lb/>
+                         ）前方報吿、湘邊<lb/>
                          日來無接觸、岳陽<lb/>
                          江面、及雷公湖扁<lb/>
                          山三處、日艦矣無<lb/>
@@ -418,7 +418,7 @@
              本報忠實報道新聞說人人要說的話文字淺近趣味濃厚是最平民化的刊物<pb/>
         </div>
     </div>
-    <!-- start verso page   -->
+    <!-- start verso page -->
     <div type="page" page="verso" n="4" mode="vertical-rl" dir="rtl">
          <div type="margin" mode="horizontal-tb" dir="rtl">
               中華民國二十八年四月廿五日　晶報　星期二　第四版<lb/>
@@ -551,7 +551,7 @@
                          各省政府、轉奉<lb/>
                          蔣委員長手諭、略<lb/>
                          云、查國民參政會<lb/>
-                         第二次大會之建&gaiji;<lb/>
+                         第二次大會之建&gaiji; <!-- It should be 議. --><lb/>
                          、確立戰時新聞政<lb/>
                          策、促進新聞事業<lb/>
                          發展等、其中第三<lb/>
@@ -597,9 +597,9 @@
                     <p>
                          本月二十日爲日機<lb/>
                          轟炸之後、城市居<lb/>
-                         民、均已向鄉間&gaiji;難、地方<lb/>
-                         雖告安謐、但有若干商店、<lb/>
-                         因避&gaiji;關係、不得已暫停營<lb/>
+                         民、均已向鄕間避難、地方<lb/>
+                         雖吿安謐、但有若干商店、<lb/>
+                         因避難關係、不得已暫停營<lb/>
                          業、二十二日日機三架、飛<lb/>
                          温投彈、城區落彈七枚、小<lb/>
                          南門某當被毀、死傷市民十<lb/>
@@ -631,7 +631,7 @@
         </div>
         <div type="article">
              <div>
-                   寇　爾<lb/>
+                   寇爾<lb/>
                    在渝小作勾留<lb/>
                    下月初可返滬<lb/>
              </div>
@@ -639,7 +639,7 @@
                     <p>
                          外人消息、英大<lb/>
                          使寇爾在渝、尚有<lb/>
-                         其&gaiji;&gaiji;&gaiji;未畢、須<lb/>
+                         其他任務未畢、須<lb/>
                          作短時間勾留、最<lb/>
                          早須下月初旬、方<lb/>
                          可返滬、又聞大使<lb/>
@@ -721,8 +721,8 @@
                          較目前行程、約遲<lb/>
                          三四日、如係赴湘<lb/>
                          桂者、則可由江山<lb/>
-                         乘浙贛鐵路車、直<lb/>
-                         達東鄉後轉往、與<lb/>
+                         乘浙贛鐵路車、直<!-- ⿺𠃊𥃭 --><lb/>
+                         達東鄕後轉往、與<lb/>
                          現在行程、僅差一<lb/>
                          二日、預料在浙東<lb/>
                          沿海封鎖期中、滬<lb/>
@@ -740,7 +740,7 @@
                          某銀<lb/>
                          行、<lb/>
                          頃得浙東金麗温三<lb/>
-                         分行覆幣報告眞相<lb/>
+                         分行覆幣報吿眞相<lb/>
                          、據&gaiji;&gaiji;州口岸封<lb/>
                          鎖後、此間&gaiji;無異<lb/>
                          動、社會秩序照常<lb/>
@@ -752,7 +752,7 @@
                          爲人民所注意、故<lb/>
                          一切照常進行、惟<lb/>
                          交通稍見緊張、又<lb/>
-                         據銀行&gaiji;日答記者<lb/>
+                         據銀行今日答記者<lb/>
                          問、温甬海岸之封<lb/>
                          鎖、滬浙間匯兌、<lb/>
                          仍照常收受、<lb/>
@@ -807,7 +807,7 @@
         </div>
         <div type="article">
              <div mode="horizontal-tb" dir="rtl">
-                小說<lb/>
+                   小說<lb/>
              </div>
              <div>
                    妹妹我愛你<lb/>
@@ -929,9 +929,9 @@
              <div>
                    寶青春<lb/>
              </div>
-             <!--too vague to tell the direction; given that it is numbers on the right, my guess it is left to right-->
+             <!--too vague to tell the direction; given that there is "2L" on the right, it should be read from left to right.-->
              <div mode="horizontal-tb" dir="ltr">
-                   &gaiji;&gaiji;&gaiji;2&gaiji;<lb/>
+                   &gaiji;&gaiji;&gaiji;2L<lb/>
              </div>
              <div>
                    寶青春爲真正譽滿乾燥酵母精製．富含各<lb/>
@@ -946,7 +946,7 @@
                    含量充足<lb/>
                    芬芳開胃<lb/>
                    鮮美可口<lb/>
-                   靈驗偉大<lb/>
+                   靈騐偉大<lb/>
              </div>
              <div type="image"></div>
         </div>
@@ -971,7 +971,7 @@
             <div type="image"></div>
         </div>
         <div type="margin">
-               本報具有廿一年的歷史是小型報紙鼻祖銷路普遍全國刊登廣告最有效力<pb/>
+               本報具有廿一年的歷史是小型報紙鼻祖銷路普遍全國刊登廣吿最有效力<pb/>
         </div>
     </div>
     <!-- start middle of the fold -->
