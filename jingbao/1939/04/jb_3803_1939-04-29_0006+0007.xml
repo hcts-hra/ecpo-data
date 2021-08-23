@@ -599,16 +599,21 @@
                 </div>
          </div>
     </div>
-    <!-- … start recto page   -->
+    <!-- start recto page -->
     <div type="page" page="recto" n="7" mode="vertical-rl" dir="rtl">
-        <div mode="horizontal-tb" dir="rtl">
-            中華民國二十八年四月廿九日　晶報　星期六　第七版<lb/>
-        </div>
-        <div type="article">
-            <div>
-                十問閻王異同說　（老生）<lb/>
-                △要問高吹萬的鬼友▽<lb/>
-            </div>
+         <div mode="horizontal-tb" dir="rtl">
+              中華民國二十八年四月廿九日　晶報　星期六　第七版<lb/>
+         </div>
+         <div type="article">
+                <div>
+                       十問閻王異同說<lb/>
+                </div>
+                <div>
+                       （老生）<lb/>
+                </div>
+                <div>
+                       △要問高吹萬的鬼友▽<lb/>
+                </div>
             <div>
                 <p>
                     我們一翻玉歷鈔傳，或是一游十王殿，都知道陰間有個十殿閻王。凡是一<lb/>
