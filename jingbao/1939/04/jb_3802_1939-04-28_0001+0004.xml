@@ -491,19 +491,15 @@
                 </p>
             </div>
         </div>
-        <div type="other">
             <div type="margin">
                 本報忠實報導新聞說人人要說的話文字淺近趣味濃厚是最平民化的刊物<pb/>
             </div>
-        </div>
     </div>
     <!-- start verso page   -->
     <div type="page" page="verso" n="4" mode="vertical-rl" dir="rtl">
-        <div type="other">
             <div type="margin" mode="horizontal-tb" dir="rtl">
                 中華民國二十八年四月廿八日　晶報　星期五　第四版<lb/>
             </div>
-        </div>
         <div type="article">
             <div>
                 各國在華航業<lb/>
@@ -1117,9 +1113,7 @@
             </div>
         </div>
         <div type="margin">
-            <div type="other">
                本報具有廿一年的歷史是小型報紙鼻祖銷路普遍全國刊登廣吿最有效力<pb/>
-            </div>
         </div>
     </div>
    <!-- start middle of the fold -->
