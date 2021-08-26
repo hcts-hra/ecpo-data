@@ -3,7 +3,7 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3802_1939-04-28_0001+0004" lastedit="2021-08-12" lasteditor="xiejia1995">
+<fold xml:id="jb_3802_1939-04-28_0001+0004" lastedit="2021-08-26" lasteditor="xiejia1995">
     <!-- start recto page   -->
     <div type="page" page="recto" n="1" mode="vertical-rl" dir="rtl">
         <div type="head" dir="rtl" mode="horizontal-tb">
@@ -1117,7 +1117,7 @@
         </div>
     </div>
    <!-- start middle of the fold -->
-    <div type="margin" dir="rtl" mode="vertical-rl">
+    <div type="margin">
         <div type="advert">
             <div mode="horizontal-tb" dir="rtl">
                 四馬路<lb/>
