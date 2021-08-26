@@ -435,7 +435,7 @@
 			廣吿刊例：　報名旁　每日每方二十元　長行計七寸高　每日每行一元八角　短行計三寸半高　每日每行九角　中縫計三寸半高二寸潤　每日每格八元<pb/>	
 		</div>
 	</div>
-	<div type="margin" dir="rtl" mode="vertical-rl">
+	<div type="margin">
 		<div type="advert">
 			<div>
 				陳效懷醫師<lb/>
@@ -502,7 +502,7 @@
 				寺路西摩路口滄州飯店隔壁滄州別墅卅二號樓上<lb/>
 			</p>
 		</div>
-		<div type="advert" dir="rtl" mode="vertical-rl">	
+		<div type="advert">	
 			<div>
 				陽痿<lb/>
 			</div>
@@ -701,7 +701,7 @@
 				葫蘆測字記<lb/>				
 			</div>
 			<div>
-			（三工）<lb/>
+			       （三工）<lb/>
 			</div>
 			<div>
 			<p>
@@ -1068,9 +1068,9 @@
 					四角<lb/>
 					五角<lb/>
 					六角<lb/>
-					<lb/>
+					
 					夜戲<lb/>
-					<lb/>
+					
 					一角<lb/>
 					二角<lb/>
 					三角<lb/>
