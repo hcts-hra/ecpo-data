@@ -450,8 +450,8 @@
                     尼拉方面爲然、蓋<lb/>
                     美國國旗在該處之<lb/>
                     飄揚可達一九四六<lb/>
-                    年也」、渠不眞有<lb/><!--年 rotated by 90 degrees-->
-                    何國家、敢於變更<lb/><!--何 rotated by 90 degrees-->
+                    <r style="transform: rotate(90deg);">年</r>也」、渠不眞有<lb/>
+                    <r style="transform: rotate(90deg);">何</r>國家、敢於變更<lb/>
                     該處之現狀也、<lb/>
                 </p>
             </div>

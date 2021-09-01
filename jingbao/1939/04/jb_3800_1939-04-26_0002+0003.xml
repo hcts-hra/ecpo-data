@@ -507,7 +507,7 @@
             </div>
             <div>
                 打針服藥電療<lb/>
-                檢驗完全在內<lb/><!--檢rotated by 90 degrees -->
+                <r style="transform: rotate(90deg);">檢</r>驗完全在內<lb/>
             </div>
             <div>
                 永不復發<lb/>
