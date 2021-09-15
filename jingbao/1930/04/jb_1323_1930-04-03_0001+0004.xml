@@ -182,12 +182,29 @@
             -->
         </div>
        <div type="margin" dir="rtl" mode="vertical-rl">
-           <!-- margin --><pb/>
+           中華郵政特准掛號立券按照總包特別優益寄送之報紙<pb/>
        </div> 
     </div>
     <!-- start verso page   -->
     <div type="page" page="verso" n="4" mode="vertical-rl" dir="rtl">
-        <div type="head"></div>
+        <div type="head">
+            <div>
+                此處<lb/>
+                招登<lb/>
+                廣告<lb/>
+                價格<lb/>
+                面議<lb/>
+            </div>
+            <div mode="horizontal-tb" dir="rtl">晶報<lb/>
+            </div>
+            <div>
+                此處<lb/>
+                招登<lb/>
+                廣告<lb/>
+                價格<lb/>
+                面議<lb/>
+            </div>
+        </div>
         <div type="advert" itemid="857">
             <!-- 逸園
             亞爾培路，本年開始比賽，第二屆大賽，明晚星期五四月四日，九時起賽。
