@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!DOCTYPE ecpo [
+    <!ENTITY gaiji "&#xe111;">
+]>
+<fold xml:id="jb_1324_1930-04-06_0002+0003" lastedit="2021-09-15" lasteditor="xiejia1995">
+	<div type="page" page="verso" n="2" dir="rtl" mode="vertical-rl">
+	    <div type="margin">
+	    	<div dir="rtl" mode="horizontal-tb">
+	    		晶報<lb/>
+	    	</div>
+	    	<div dir="rtl" mode="horizontal-tb">
+	    		三日刊之創始者<lb/>
+	    	</div>
+	    	<div>
+	    		此處<lb/>
+	    		招登<lb/>
+	    		廣告<lb/>
+	    		價格<lb/>
+	    		面議<lb/>
+	    	</div>
+        </div>
+		<div type="article">
+		    <div>
+			　　梅蘭芳赴美之成功<lb/>
+		    </div>
+			<div dir="rtl" mode="horizontal-tb">
+			    （丹翁）<lb/>
+			</div>
+			<div>
+		    <p>
+				梅蘭芳赴美演劇、號稱宣傳中國藝術、三日、新聞報紐約電、謂在紐約計<lb/>
+				演三星期、觀者極衆、中國藝術在美、可謂十分成功、然則所謂十分成功、<lb/>
+		    	卽以觀者極衆耶、至美國之蘭芳月旦、僅見捧梅著名之申報、三月廿七八<lb/>
+		    	兩日、有『畹華在美之榮譽』一則、蓋節譯紐約晚郵報之論文、今有好事、<lb/>
+				亦就文中之要語、錄以眎我、一若爲申報宣傳、而證實其所謂成功如是如<lb/>
+		    	是也者、儻亦申報『涵』君引爲榮譽者也、<lb/>
+			</p>
+			<p>
+			    文云、昔日紐約之最好奇者、將放棄其黑人夜宮生活轉而崇拜東方藝術、<lb/>
+				又云、悉如記者、耳雖有聞、目雖有覩、然皆渺茫不可捉摸、吾聞人高呼『<lb/>
+				勃拉福、』但吾知彼等爲何而高呼、自身亦茫然不知也、又聞人高談闊論<lb/>
+				東方之藝術、然究竟東方之藝術爲何、又似尚在五里霧中也、吾人對之、<lb/>
+				惟能瞠目、僅覺其滑稽、實少感觸之因也<lb/>
+			</p>
+			<p>
+				又云、苟吾人不欲虛言者、直可謂始聼之但覺其滑稽、幾欲失聲而笑、但<lb/>
+				吾人竭力支撐一虛抑之腦筋以接受之、<lb/>
+			</p>
+			<p>
+				綜上所評、<lb/>
+				<lb/>
+				<lb/>				
+			</p>
+			</div>
+		</div>
+		<div type="article">
+			<div></div>
+			<div>
+				<lb/>
+				<lb/>
+				<lb/>
+				<lb/>
+				<lb/>
+				<lb/>
+				<lb/>
+				<lb/>
+				<lb/>
+				<lb/>
+				<lb/>
+				<lb/>
+			</div>
+		</div>
+	    <div type="article">
+			<div>
+				<lb/>
+				<lb/>
+				<lb/>
+				<lb/>
+			</div>
+			<div>
+				<lb/>
+				<lb/>
+				<lb/>
+				<lb/>
+			</div>
+			<div>
+				<p>
+					<lb/>
+					<lb/>
+					<lb/>
+					<lb/>
+				</p>
+				<p>
+					<lb/>
+					<lb/>
+					<lb/>
+					<lb/>
+				</p>
+			</div>
+		</div>			
+		<div type="article">
+			<div>
+			　　<lb/>
+			　  <lb/>
+			</div>
+			<div>
+			<p>
+				<lb/>
+				<lb/>
+				<lb/>
+				<lb/>
+			</p>
+			</div>
+		</div>
+		<div type="article">
+			<div>
+				<lb/>
+				<lb/>				
+			</div>
+			<div>
+			<p>
+				<lb/>
+				<lb/>
+				<lb/>
+				<lb/>
+			</p>
+			</div>
+		</div>
+		<div type="article">
+			<div>
+				<lb/>
+			</div>
+			<div>
+			<p>
+				<lb/>
+				<lb/>
+				<lb/>
+				<lb/>
+			</p>
+			</div>
+		</div>
+		<div type="article">
+			<div>
+			　　<lb/>
+			　   <lb/>
+			</div>
+			<div>
+				<p>
+					<lb/>
+					<lb/>
+					<lb/>
+					<lb/>
+				</p>
+			</div>
+		</div>
+		<div type="article">
+			<div dir="rtl" mode="horizontal-tb">
+				<lb/>
+				<lb/>
+				<lb/>
+				<lb/>
+		    </div>
+			<div>
+				<lb/>
+				<lb/>
+				<lb/>
+				<lb/>
+			</div>
+		</div>
+		<div type="article">
+			<div>
+			　 <lb/>
+			</div>
+			<div>
+				<p>
+					<lb/>
+					<lb/>
+					<lb/>
+					<lb/>
+				</p>
+		    </div>
+		</div>
+		<div type="article">
+			<div>			
+				<lb/>
+				<lb/>
+			</div>
+			<div>
+				<p>
+					<lb/>
+					<lb/>
+					<lb/>
+					<lb/>
+				</p>
+			</div>
+		</div>
+		<div type="article">
+			<div>
+			　　<lb/>
+				<lb/>
+			</div>
+			<div>
+				<p>
+					<lb/>
+					<lb/>
+					<lb/>
+					<lb/>
+				</p>
+			</div>
+		</div>
+		<div type="article">
+			<div>
+			　 <lb/>
+			　　<lb/>
+			</div>
+			<div>
+				<lb/>
+			</div>
+			<div>
+				<lb/>
+			</div>			
+			<div>
+				<lb/>
+				<lb/>
+				<lb/>
+				<lb/>
+				<lb/>
+				<lb/>
+				<lb/>
+				<lb/>
+			</div>
+		</div>
+		<div type="article">
+			<div>
+				<lb/>
+				<lb/>
+			</div>
+			<div dir="rtl" mode="horizontal-tb">
+				<pb/>
+			</div>
+		</div>
+	</div>
+	<div type= "margin" dir="rtl" mode="vertical-rl">
+	    <div type="advert" itemid="???">
+			<!-->
+			    大前門香烟
+			    品質超美 枝枝一律
+			<-->
+	    </div>
+	
+	</div>
+	<div type="page" page="recto" n="3" dir="rtl" mode="vertical-rl">
+		<div>
+			此處<lb/>
+			招登<lb/>
+			廣告<lb/>
+			價格<lb/>
+			面議<lb/>
+		</div>
+	    <div type="margin" dir="rtl" mode="horizontal-tb">
+		    社會文藝之結晶<lb/>
+	    </div>
+		<div type="margin" dir="rtl" mode="horizontal-tb">
+			晶報<lb/>
+		<div type="article">
+		    <div>
+		    	無缐電學生恐校長<lb/>		    	
+		    </div>
+			<div dir="rtl" mode="horizontal-tb">
+				（益軫）<lb/>	
+			</div>
+			<div>
+		    	<p>
+		    		<lb/>
+		    		<lb/>		    		
+		    		<lb/>
+		    		<lb/>
+		    		<lb/>
+		    		<lb/>		    		
+		    		<lb/>
+		    		<lb/>
+				</p>
+	    	</div>
+		</div>
+		<div type="article">
+			<div>
+				<lb/>
+			    <lb/>
+			    <lb/>
+			</div>
+			<div>
+				<lb/>
+				<lb/>		    		
+				<lb/>
+				<lb/>
+			</div>
+		</div>
+        <div type="article">
+			<div dir="rtl" mode="horizontal-tb">
+			    <lb/>
+				<lb/>
+			</div>
+			<div>
+				<lb/>
+				<lb/>		    		
+				<lb/>
+				<lb/>
+			</div>
+        </div>
+		<div type="article">
+			<div>
+				<lb/>
+				<lb/>		    		
+				<lb/>
+				<lb/>
+			</div>
+			<div>
+			<p>
+				<lb/>
+				<lb/>		    		
+				<lb/>
+				<lb/>
+		    </p>
+			</div>			
+		    <div>	
+		    <p>
+		    	<lb/>
+		    	<lb/>		    		
+		    	<lb/>
+		    	<lb/>
+			</p>
+            <p>
+				<lb/>
+		    </p>
+			<p>
+				<lb/>
+			</p>
+		</div>
+	   </div>
+		<div type="article">
+			<div>
+			    <lb/>
+			    lb/>
+			</div>
+			<div>
+			<p>
+				<lb/>
+				<lb/>		    		
+				<lb/>
+				<lb/>
+			</p>
+			</div>
+		</div>
+		<div type="article">
+		    <div dir="rtl" mode="horizontal-tb">
+			    <lb/>
+			</div>
+			<div>
+				<p>
+				    <lb/>
+				</p>
+			    <p>
+			    	<lb/>
+			    	<lb/>		    		
+			    	<lb/>
+			    	<lb/>
+				</p>
+			</div>
+		</div>
+		<div type="article">
+			<div>
+			    <lb/>
+			</div>
+			<div>
+		    <p>
+		    	<lb/>
+		    	<lb/>		    		
+		    	<lb/>
+		    	<lb/>
+			</p>
+			</div>
+		</div>
+		<div type="article">
+			<div>
+				<lb/>
+				<lb/>
+			</div>
+			<div>
+				<lb/>
+			</div>
+		</div>
+		<div type="article">
+			<div>
+			　　<lb/>
+			</div>
+			<div>
+			<p>
+				<lb/>
+				<lb/>		    		
+				<lb/>
+				<lb/>
+			</p>
+			</div>
+	    </div>
+		<div type="article">
+			<div>
+			　　<lb/>
+			</div>
+			<div>
+			<p>
+				<lb/>
+				<lb/>		    		
+				<lb/>
+				<lb/>
+		    </p>
+			</div>
+		</div>
+		<div type="article">
+			<div>
+			　　<lb/>
+			</div>
+			<div>
+				<lb/>
+			</div>			
+	    </div>
+		<div type="article">
+			<div>
+			　　<lb/>
+			</div>
+			<div>
+			<p>
+				<lb/>
+				<lb/>		    		
+				<lb/>
+				<lb/>
+		    </p>
+		</div>		
+		<div type="margin" dir="rtl" mode="vertical-rl">
+			各稿版權均歸本社所有禁止轉載翻印譒譯<pb/>
+		</div>
+	</div>
+</fold>
