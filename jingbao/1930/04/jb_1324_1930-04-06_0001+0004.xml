@@ -3,15 +3,15 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_1323_1930-04-03_0001+0004" lastedit="2021-09-15" lasteditor="Xiejia1995">
+<fold xml:id="jb_1324_1930-04-06_0001+0004" lastedit="2021-09-29" lasteditor="Xiejia1995">
     <!-- start recto page   -->
     <div type="page" page="recto" n="1" mode="vertical-rl" dir="rtl">
-        <div type="head" mode="horizontal-tb" dir="rtl">
+        <div type="margin" mode="horizontal-tb" dir="rtl">
             <div>
-                民國十九年四月三日<lb/>
+                民國十九年四月六日<lb/>
             </div>
             <div>
-                星期四<lb/>
+                星期日<lb/>
             </div>
             <div  mode="vertical-lr" dir="ltr">
                 The　Crystal<lb/>
@@ -21,7 +21,7 @@
             </div>
         </div>
         <div type="advert">
-            <div type="other" mode="horizontal-tb" dir="rtl">
+            <div mode="horizontal-tb" dir="rtl">
                 定報價格<lb/>
             </div>
             <div>
@@ -32,8 +32,8 @@
                 郵費在内郵票加一<lb/>
             </div>
         </div>
-        <div type="advert">
-                今日一張零售大樣二分四釐<lb/> 
+        <div type="other">
+                今日一張零售大洋二分四釐<lb/> 
         </div>
         <div type="head" dir="rtl" mode="horizontal-tb">
             <div>
@@ -51,7 +51,7 @@
         </div>
         <div type="advert">
             <div type="other" mode="horizontal-tb" dir="rtl">
-                廣告刊例<lb/>
+                廣吿刊例<lb/>
             </div> 
             <div>
                 『新聞欄中』價面議『新聞中縫』<lb/> 
@@ -191,7 +191,7 @@
             <div>
                 此處<lb/>
                 招登<lb/>
-                廣告<lb/>
+                廣吿<lb/>
                 價格<lb/>
                 面議<lb/>
             </div>
@@ -200,7 +200,7 @@
             <div>
                 此處<lb/>
                 招登<lb/>
-                廣告<lb/>
+                廣吿<lb/>
                 價格<lb/>
                 面議<lb/>
             </div>
