@@ -5,20 +5,20 @@
 ]>
 <fold xml:id="jb_1323_1930-04-03_0002+0003" lastedit="2021-10-01" lasteditor="ysmlouis">
 	<div type="page" page="verso" n="2" dir="rtl" mode="vertical-rl">
-	    <div type="margin">
-	    	<div dir="rtl" mode="horizontal-tb">
-	    		晶報<lb/>
-	    	</div>
-	    	<div dir="rtl" mode="horizontal-tb">
-	    		三日刊之創始者<lb/>
-	    	</div>
-	    	<div>
-	    		此處<lb/>
-	    		招登<lb/>
-	    		廣吿<lb/>
-	    		價格<lb/>
-	    		面議<lb/>
-	    	</div>
+           <div type="margin">
+                  <div dir="rtl" mode="horizontal-tb">
+                         晶報<lb/>
+                  </div>
+                  <div dir="rtl" mode="horizontal-tb">
+                         三日刊之創始者<lb/>
+                  </div>
+                  <div>
+                         <r style="transform: rotate(180deg);">議面<lb/>
+                                                               格價<lb/>
+                                                               吿廣<lb/>
+                                                               登招<lb/>
+                                                               處此</r><lb/>
+                  </div>
         </div>
 		<div type="article">
 		    <div>
