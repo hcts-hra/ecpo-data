@@ -100,7 +100,7 @@
                     </element>
                     <element name="r">
                         <group>
-                            <attribute name="style"/>  <!-- to allow CSS formatting, e.g. "transform: rotate(90deg);" -->
+                            <attribute name="style"/>  <!-- to allow CSS formatting, e.g. "transform: rotate(90deg);" update -->
                         </group>
                         <ref name="contents"/>
                     </element>
