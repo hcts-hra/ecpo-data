@@ -10,6 +10,7 @@
                     <data type="date"/>
                 </attribute>
                 <attribute name="lasteditor"/>
+                <attribute name="issueid"/>  <!-- ID of issue in ECPO -->
             </optional>
             <oneOrMore>
                 <ref name="structure"/>
@@ -60,8 +61,7 @@
                         <!--  see https://developer.mozilla.org/en-US/docs/Web/CSS/writing-mode -->
                         <choice>
                             <value>horizontal-tb</value>
-                            <value>vertical-rl</value>
-                            <!--the default-->
+                            <value>vertical-rl</value> <!--the default-->
                             <value>vertical-lr</value>
                             <value>sideways-rl</value>
                             <value>sideways-lr</value>
@@ -71,8 +71,7 @@
                         <!--  see https://developer.mozilla.org/en-US/docs/Web/CSS/direction -->
                         <choice>
                             <value>ltr</value>
-                            <value>rtl</value>
-                            <!--the default-->
+                            <value>rtl</value> <!--the default-->
                         </choice>
                     </attribute>
                 </group>
@@ -102,7 +101,7 @@
                 <optional>
                     <element name="r">
                         <group>
-                            <attribute name="style"/>  <!-- to allow CSS formatting, e.g. "transform: rotate(90deg);" update -->
+                            <attribute name="style"/>  <!-- to allow CSS formatting, e.g. "transform: rotate(90deg);" -->
                         </group>
                         <ref name="contents"/>
                     </element>
