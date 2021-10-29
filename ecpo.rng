@@ -10,6 +10,8 @@
                     <data type="date"/>
                 </attribute>
                 <attribute name="lasteditor"/>
+            </optional>
+            <optional>
                 <attribute name="issueid"/>  <!-- ID of issue in ECPO -->
             </optional>
             <oneOrMore>
