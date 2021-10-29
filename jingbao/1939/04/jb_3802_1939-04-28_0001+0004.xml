@@ -450,8 +450,8 @@
                     尼拉方面爲然、蓋<lb/>
                     美國國旗在該處之<lb/>
                     飄揚可達一九四六<lb/>
-                    年也」、渠不眞有<lb/><!--年 rotated by 90 degrees-->
-                    何國家、敢於變更<lb/><!--何 rotated by 90 degrees-->
+                    <r style="transform: rotate(90deg);">年</r>也」、渠不眞有<lb/>
+                    <r style="transform: rotate(90deg);">何</r>國家、敢於變更<lb/>
                     該處之現狀也、<lb/>
                 </p>
             </div>
@@ -508,10 +508,10 @@
                 領海風波一波未平一波又起<lb/>
             </div>
             <div>
-                <p>
+                <p lat="transform: rotate(90deg);">
                     日艦任意檢查扣留各國商輪、阻撓各國在華航業後、被扣<lb/>
                     之葡商棠貝等十艘、迄今未釋放、今又有太平輪船公司代理<lb/>
-                    之挪威&gaiji;輪&gaiji;&gaiji;號、（IROMISE）於本月二十日、由滬<lb/>
+                    之挪威&gaiji;輪&gaiji;&gaiji;號、（PROMISE）於本月二十日、由滬<lb/>
                     裝麵粉雜貨&gaiji;福州、公司方面迄今未得船主之&gaiji;福州電報、今<lb/>
                     始證實該輪、在滬閔途中、已爲日&gaiji;扣留、&gaiji;公司方面决俟<lb/>
                     該輪被扣完全證實後、卽報吿挪威駐&gaiji;總領向日交涉、<lb/>
@@ -727,7 +727,7 @@
                     火輪往來檢查民船、藉丈量爲名、大肆<lb/>
                     敲詐、甚之拘押船戶、並在浦東高橋、<lb/>
                     私設法庭、打傷船民、不計其數、船民<lb/>
-                    呼冤無門、悽慘之狀、不忍目睹、<lb/>
+                    呼寃無門、悽慘之狀、不忍目睹、<lb/>
                 </p>
             </div>
         </div>
