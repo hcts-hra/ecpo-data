@@ -314,6 +314,32 @@
         </div>
     </div>
     <!-- start middle of the fold -->
+    <div type= "margin" dir="rtl" mode="vertical-rl">
+        <div type="advert" itemid="868">
+            <!--
+                       大前門香烟
+                       香味純美
+                   -->
+        </div>	
+    </div>
+    <!-- start recto page -->
+    <div type="page" page="recto" n="3" dir="rtl" mode="vertical-rl">
+        <div type="margin">
+            <div>
+                此處<lb/>
+                招登<lb/>
+                廣吿<lb/>
+                價格<lb/>
+                面議<lb/>			
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                社會文藝之結晶<lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                晶報<lb/>
+            </div>
+        </div>
+        
     
         
         
