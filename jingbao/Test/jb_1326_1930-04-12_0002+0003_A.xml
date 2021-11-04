@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!DOCTYPE ecpo [
+    <!ENTITY gaiji "&#xe111;">
+]>
+<fold xml:id="jb_1325_1930-04-09_0002+0003" lastedit="2021-11-04" lasteditor="ysr2021">
+    <!-- start verso page -->
+    <div type="page" page="verso" n="2" dir="rtl" mode="vertical-rl">
+        <div type="margin">
+            <div dir="rtl" mode="horizontal-tb">
+                晶報<lb/>
+            </div>
+            <div type="advert" dir="rtl" mode="horizontal-tb">
+                <!--  請飲金納氏巴德補血酒以健尊體<lb/> -->
+            </div>
+        </div>
+        <div type="article"> 
+            <div>
+                  雄婦人<lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                 （丹翁）<lb/>
+            </div>
+            <div>
+                  泰西文字、分男女兩性甚嚴、某<lb/>
+                  夫人精通華語、一日、言及牝狗<lb/>
+                  、忽忘牝字、竟呼爲『女人狗』、<lb/>
+                  聞者大詫、某文豪留學法蘭西、<lb/>
+                  欲市母雞、僅記雞蛋之名、乃往<lb/>
+                  肆求『蛋之娘』而終得之、白黨<lb/>
+                  健將鄂呂弓君、近得美國郵寄<lb/>
+                  報紙、偶揭梅蘭芳象、大書『中<lb/>
+                  國領袖之雄婦人』、吾儕遽聞此<lb/>
+                  雄婦人三字、故覺新穎、惟巾幗<lb/>
+                  男子、鬚眉婦人、種種嘉名、得<lb/>
+                  勿爲此輩而設、雖然、觀美報署<lb/>
+                  此頭銜之旨趣、未始不涉調謔、<lb/>
+                  其實吾國所謂美人、婦人之名<lb/>
+                  也、而美國又近似合衆婦人之<lb/>
+                  國矣、以彼兩性而一性之國、無<lb/>
+                  惑疑梅爲一性而兩性之人戲賦<lb/>
+                  浣溪紗小詞、不啻代梅報
+            </div>
+        </div>
