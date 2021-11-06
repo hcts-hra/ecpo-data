@@ -277,7 +277,7 @@
             </div>
             <div type="article">
                 <div>
-                    記自西伯利亜&gaiji;者<lb/>
+                    記自西伯利亜䧒<!-- yitizi -->者<lb/>
                 </div>
                 <div dir="rtl" mode="horizontal-tb">
                     （曼妙）<lb/>
@@ -430,7 +430,7 @@
                 法院、請得執行憑證、交由姚之代理<lb/>
                 人洪珮言在徽起訴、請求將吳等<!-- This character is rotated 90 degrees counterclockwise. --><lb/>
                 所有休寗南鄉溪頭村安裕堂之房<lb/>
-                屋地產扣押、交易所之流毒　至今<lb/>
+                屋地產扣押、交易所之流毒<!-- there is a half space -->至今<lb/>
                 未已、亦商界之怪現狀也、<lb/>
             </div>
         </div>      
@@ -531,10 +531,12 @@
                 況至英倫報紙焉、<lb/>
             </div>
         </div>
-        <div>
-            ◘連珠箭之好身手◘<lb/>
-        </div>
-        <div type="image"></div>
+        <div type="article">
+            <div>
+                ◘連珠箭之好身手◘<lb/>
+            </div>
+            <div type="image"></div>
+        </div>       
         <div type="article">
             <div>
                 星月同輝之釣法<lb/>
