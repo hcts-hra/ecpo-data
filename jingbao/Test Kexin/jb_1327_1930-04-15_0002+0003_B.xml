@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!DOCTYPE ecpo [
+    <!ENTITY gaiji "&#xe111;">
+]>
+<fold xml:id="jb_1327_1930-04-15_0002+0003" lastedit="2021-11-08" lasteditor="KexinZhang4118">
+    <!-- start verso page -->
+    <div type="page" page="verso" n="2" dir="rtl" mode="vertical-rl">
+        <div type="margin">
+            <div dir="rtl" mode="horizontal-tb">
+                晶報<lb/>
+            </div>
+            <div type="advert" dir="rtl" mode="horizontal-tb">
+                <!-- 請飲金納氏巴德補血酒以健尊體<lb/> -->
+            </div>   
+        </div>
+        <div type="article">
+            <div>
+                錦標<lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （丹翁）<lb/>
+            </div>
+            <div>
+              全國運動大會選手先説男標總
+              錦標滬港粵其次則推津遼女總
+              錦標仍粵次平津哈亦饒運動一
+              時勝負想見平日體操南方之强
+              如此不怪北強爭高何以長江流
+              域小讓
+            </div>
+        </div>
+        
