@@ -297,16 +297,101 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+    </div>
+    <!-- start middle of the fold -->
+    <div type= "margin" dir="rtl" mode="vertical-rl">
+        <div type="advert" itemid="868">
+            <!--
+                  絞盤牌
+                  社會上最漂亮的香烟
+                -->
+        </div>	
+    </div>
+    <!-- start recto page -->
+    <div type="page" page="recto" n="3" dir="rtl" mode="vertical-rl">
+        <div type="margin">
             <div>
-                <lb/>
+                此處<lb/>
+                招登<lb/>
+                廣吿<lb/>
+                價格<lb/>
+                面議<lb/>			
             </div>
             <div dir="rtl" mode="horizontal-tb">
-                （）<lb/>
+                社會文藝之結晶<lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                晶報<lb/>
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                汽車上碼之卜術<lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （乃公）<lb/>
             </div>
             <div>
-                
+                某寓公精卜巫術、能以汽車號碼<!--there is a half space-->斷<lb/>
+                人休各、有奇驗、律師清河二郎、聞<lb/>
+                而異之、以自備二五〇〇號睛卜、時<lb/>
+                方二月、寓公曰、車碼首爲二五兩字<lb/>
+                、君行二、必得行五者爲侶、〇〇則<lb/>
+                月圓二度、會合當在二月、但〇有活<lb/>
+                動之象、猶未固定、二五爲十、須十<lb/>
+                月後方可圓滿、二千五百之數、以十<lb/>
+                月分配之、則未圓滿前、君應每月担<lb/>
+                負二百五十元、且十字爲陰陽交錯<lb/>
+                之形、下承〇〇爲卵形、他年應得二<lb/>
+                子、二郎聞之、大笑而退、以爲此術、<lb/>
             </div>
+        </div>
+        <div type="article">
+            <div>
+                新興木人頭戲<lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （曼妙）<lb/>
+            </div>
+            <div>
+                傀儡之數、吾國自古已有之、即所謂木人頭戲也、兒時於新年中、每見有<lb/>
+                此演傀儡戲者、荷一担、其一頭則爲戲台、一頭爲圓箱、藏木人及種種道<lb/>
+                具、演時以戲台矗立擔桿上、下垂以幕、遮其圓箱、乃出木人、以手握之、<lb/>
+                作種種姿勢、亦有大小鑼各一、以足踏之、鏜然作聲、兒童則團而觀之、得<lb/>
+                百文錢、可以暢觀所有之劇矣、既而上海流行之一種提線戲者、亦木人戲<lb/>
+                之流亞也、比諸唇挑游行各處之木人戯、規模略大、凡遇人家有喜慶事、<lb/>
+                以此爲娛寶計、而其戲台亦較大、并有各種裝飾、其戲劇亦有狸貓換太子<lb/>
+                全本等等<!--there is a half space-->是則以提線爲配置、在幕後有人牽綫者也、近日之新興戲劇家<lb/>
+                、亦有提倡木人戲者、因此木人戲、不爲中國所獨有、而爲各國所習有者、<lb/>
+                在恒河之旁、在倫敦的小路裏、在巴黎的愛特阿爾、在紐倫堡的城角、日<lb/>
+                本現在也有人提倡木人戲、寫了許多用木人演的戲曲、因爲這是極簡單<lb/>
+                的、有流動性的、無論何處的鄉村僻壤都可以做的、我們中國也有人想提<lb/>
+                倡而改良木人頭戲、説了好久、我們卻很盼望新興的木人頭戲、<lb/>
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                珮影<lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （小英）<lb/>
+            </div>
+            <div>
+                周五小姐之居、元名易居、近改爲周<lb/>
+                公館、幼女佩珮出走後、厭厭無生氣<lb/>
+                、客往多談珮事、聞珮於兩三年間、<lb/>
+                讀教科書至第六本、五且授以古文<lb/>
+                觀止、如本晶文字、可以了解、五視<lb/>
+                若己出、珮所臥之榻、設於樓畔廊間<lb/>
+                、玩物紛列、一如襄日、五時被以薰<lb/>
+                染、珮以是盆慧、去時僅揣一小鑽戒<lb/>
+                、五思之甚、猶夢想其翩然來歸也、<lb/>
+            </div>
+            <div>
+                ◘易居之花◘<lb/>
+                （佩珮去年小影）<lb/>
+            </div>
+            <div type="image"></div>
         </div>
         <div type="article">
             <div>
@@ -330,7 +415,17 @@
                 
             </div>
         </div>
-
+        <div type="article">
+            <div>
+                <lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （）<lb/>
+            </div>
+            <div>
+                
+            </div>
+        </div>
 
         <div type="margin" dir="rtl" mode="vertical-rl">
             各稿版權均歸本社所有禁止轉載翻印譒譯<pb/>
