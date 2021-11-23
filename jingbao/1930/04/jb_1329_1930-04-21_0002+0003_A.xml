@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!DOCTYPE ecpo [
+    <!ENTITY gaiji "&#xe111;">
+]>
+<fold xml:id="jb_1329_1930-04-21_0002+0003" lastedit="2021-11-23" lasteditor="ysr2021">
+    <!-- start verso page -->
+    <div type="page" page="verso" n="2" dir="rtl" mode="vertical-rl">
+        <div type="margin">
+            <div dir="rtl" mode="horizontal-tb">
+                晶報<lb/>
+            </div>
+            <div type="advert" dir="rtl" mode="horizontal-tb">
+                <!--  請飲金納氏巴德補血酒以健尊體<lb/> -->
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                三頭&gaiji;&gaiji;<lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （丹翁）<lb/>
+            </div>
+            <div>
+                工部局承認華董自三人增至五<lb/>
+                人納稅西人之年會居然&gaiji;過而<lb/>
+                未能何物律師麥克道上台亂道<lb/> 
+                眞奇聞『外國租界』甚言語？『讀<lb/>
+                書五年』甚批評正恐彼欠五年<lb/>
+                讀才作此等不合選輯之云云人<lb/>
+                而無禮胡不死號稱『難死』非無<lb/>
+                因合作利益豈華獨莫名其妙攘<lb/>
+                臂爭三頭六進五頭抑入臂加二<lb/>
+                奚害蓮花身挑撥雙方生惡感志<lb/>
+                在奪主喧其賓口乾舌燥徒自苦<lb/>
+                茶壺雖小嘴可親者般吃茶是華<lb/>
+                式書場誇彼能師承熱嘲冷笑對<lb/>
+                我國博得寥寥數掌聲但憐此曹<lb/>
+                暫富麗毛尙得附皮猶存<lb/>              
+            </div>
+        </div>
+        
+        
+        
+        
+    </div>
+</fold>
