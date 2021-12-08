@@ -3,18 +3,18 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_1325_1930-04-09_0002+0003" lastedit="2021-12-05" lasteditor="xiejia1995">
+<fold xml:id="jb_1325_1930-04-09_0002+0003" lastedit="2021-12-05" lasteditor="xiejia1995" issueid="934">
     <!-- start verso page -->
     <div type="page" page="verso" n="2" dir="rtl" mode="vertical-rl">
         <div type="margin">
             <div dir="rtl" mode="horizontal-tb">
                 晶報<lb/>
             </div>
-            <div type="advert" dir="rtl" mode="horizontal-tb">
+            <div type="advert" dir="rtl" mode="horizontal-tb" itemid="1087">
                 <!--  請飲金納氏巴德補血酒以健尊體<lb/> -->
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1156">
             <div> 
                 報恥<lb/>
             </div>
@@ -42,7 +42,7 @@
                     暫時未報非無報因果循環勿要忙<lb/>
             </div>
          </div>
-         <div type="article">
+         <div type="article" itemid="1156">
              <div>
                  交際四花<lb/>
              </div>
@@ -64,7 +64,7 @@
                     色相示人也、<lb/>
              </div>
          </div>
-         <div type="article">
+        <div type="article" itemid="1178">
              <div>
                  國際宮傍之人才濟濟<lb/>
              </div>
@@ -96,7 +96,7 @@
                  </p>
              </div>
          </div>
-         <div type="article">
+        <div type="article" itemid="1202">
              <div>
                  不怕死下場如何<lb/>
              </div>
@@ -129,12 +129,12 @@
              </div> 
          </div>
          <div>
-             <div type="image"></div>
+             <div type="image" itemid="639"></div>
              <div>
                   ◘二百五十三歲之李青雲君◘<lb/>
              </div>
          </div>
-         <div type="article">
+         <div type="article" itemid="1203">
              <div>
                     老河口戒嚴時之運土<lb/>
              </div>
@@ -171,7 +171,7 @@
                     未可知也、<lb/>
              </div>
          </div>
-         <div type="article">
+        <div type="article" itemid="1204">
                 <div>
                        ◘欲娶郎德山之<lb/>
                        女、而與方椒伯<lb/>
@@ -185,14 +185,14 @@
                        人多異之、（柳）<lb/>
                 </div>
          </div>         
-         <div type="article">
+        <div type="article" itemid="640">
                 <div type="image"></div>  
                 <div mode="horizontal-tb" dir="rtl">
                        ◘茂豐洋行之保險玻璃◘<lb/>
                       （快槍在四五步射擊後之狀）&gaiji;<lb/>
                 </div>
          </div>
-         <div type="article">
+        <div type="article" itemid="1205">
                 <div>
                        今日之隴海路<lb/>
                 </div>
@@ -236,7 +236,7 @@
                        見、今乃成爲軍事重要之利器也、<lb/>
                 </div>
          </div>
-         <div type="article">
+        <div type="article" itemid="1206">
                 <div>
                        某要人之特別汽車<lb/>
                 </div>
@@ -264,7 +264,7 @@
                     可運滬交貨矣、<lb/>
                 </div>
          </div>
-         <div type="article">
+        <div type="article" itemid="1207">
                 <div>
                        ◘前匯豐銀行買辦席鹿笙遇害後、<lb/>
                        其如夫人（卽舜琴老五、）力求節儉、<lb/>
@@ -275,7 +275,7 @@
                        元賃於人、開設高等俱樂部、（禹）<lb/>
                 </div>
          </div>
-         <div type="article">
+        <div type="article" itemid="1208">
                 <div>
                        ◘貌似牛奶總統之霞珍老七、本節<lb/>
                        已嫁人去、所天似爲一要人、故嫁時<lb/>
@@ -283,7 +283,7 @@
                        老八、（是）<lb/>
                 </div>
          </div>
-         <div type="article">
+        <div type="article" itemid="1209">
                 <div>
                        揩油博士<lb/>
                 </div>
@@ -317,7 +317,7 @@
     </div>
     <!-- start middle of the fold -->
     <div type= "margin" dir="rtl" mode="vertical-rl">
-        <div type="advert">
+        <div type="advert" itemid="642">
             <!--
                        絞盤牌香烟
                        交際必備
@@ -341,7 +341,7 @@
                 晶報<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1210">
             <div>
                 招商局案中之一滑稽圅<lb/>		    	
             </div>
@@ -372,7 +372,7 @@
                 吻、是亦本案中滑稽之一幕也、<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1211">
             <div>
                 新蘼蕪曲之表演<lb/>
             </div>
@@ -390,7 +390,7 @@
                 酬酢其間、益覺其瘁、而昔日蘼蕪之詠、至是始更識其佳也、<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1212">
             <div>
                 盛宅堂會之小問題<lb/>
             </div>
@@ -418,7 +418,7 @@
                 以好事而成憾事、亦祝嘏中趣談也、<lb/>      
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1262">
             <div>
                 饞貓攫肉之京兆生<lb/>
             </div>
@@ -456,16 +456,16 @@
                 地址極秘、不識饞貓攫肉、匿于<lb/>
                 何所、其父終愛女、遍發傳單、<lb/>
                 述生無狀、大有鳴鼓而攻之意、<lb/>
-                若京兆生者、亦敎育界中之蟊
+                若京兆生者、亦敎育界中之蟊<lb/>
                 賊者已、<lb/>
             </div>
         </div>
-        <div type="article" mode="horizontal-tb" dir="rtl">
+        <div type="article" mode="horizontal-tb" dir="rtl" itemid="643">
             <div>◘華洋電話發達之<lb/></div>
             <div>障碍物◘<lb/></div>
             <div type="image"></div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1263">
             <div>
                 鍾雪琴之遊連歸後談<lb/>
             </div>
@@ -506,13 +506,13 @@
                 落寞、完全一日人世界耳、<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="644">
             <div>
                 ◘前名牡丹花之文琴老六（寶芳攝）<lb/>  
             </div>
             <div type="image"></div>
         </div> 
-        <div type="article">
+        <div type="article" itemid="1264">
             <div>
                 海上文虎一席䛡<lb/>
             </div>
@@ -537,7 +537,7 @@
                 、亦不數數觀也、<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1265">
             <div>
                 ◘自華<lb/>
                 女按摩<lb/>
@@ -557,7 +557,7 @@
                 他家亦爭用名刺宣傳法、（摩爾登）<lb/>
             </div>           
         </div>
-        <div type="article">
+        <div type="article" itemid="1266">
             <div>
                 ◘有虎頭後人者、以畫家自詡、曾廁<lb/>
                 明星中、實則俗骨一把、非潘衞之流<lb/>
@@ -568,7 +568,7 @@
                 謀法律救濟、（道聽）<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1056">
             <div>
                 ◘交通無線電信傳習所來函　逕啟<lb/>
                 者、頃閱四月六日貴報、所載敝校新<lb/>
@@ -583,7 +583,7 @@
                 報主筆台鑒、趙曾玨尤佳章同啓、<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1057">
             <div>
                 ◘傅增湘來函　晶報館主筆台鑒、<lb/>
                 頃聞貴館三月六日報紙載圖章預刻<lb/>
@@ -600,7 +600,7 @@
             </div>
         </div>
         
-        <div type="article">
+        <div type="article" itemid="1267">
             <div>
                 張瑞珍之逆旅癖<lb/>
             </div>
@@ -629,7 +629,7 @@
             <div>
                 ◘張瑞珍七小姐◘<lb/>
             </div>
-            <div type="image"></div>
+            <div type="image" itemid="645"></div>
         </div>
         <div type="margin" dir="rtl" mode="vertical-rl">
                各稿版權均歸本社所有禁止轉載翻印譒譯<pb/>
