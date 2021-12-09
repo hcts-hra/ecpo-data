@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!DOCTYPE ecpo [
+    <!ENTITY gaiji "&#xe111;">
+]>
+<fold xml:id="jb_1330_1930-04-24_0001+0004" lastedit="2021-12-09" lasteditor="xiejia1995" issueid="939">
+    <!-- start recto page -->
+    <div type="page" page="recto" n="1" mode="vertical-rl" dir="rtl">
+           <div type="margin" mode="horizontal-tb" dir="rtl">
+                  <div>
+                         民國十九年四月二十四日<lb/>
+                  </div>
+                  <div>
+                         星期四<lb/>
+                  </div>
+                  <div  mode="horizontal-tb" dir="ltr">
+                         The　Crystal<lb/>
+                  </div>
+                  <div  mode="horizontal-tb" dir="ltr">
+                         ESTABLISHED　1919<lb/>
+                  </div>
+           </div> 
+           <div type="advert">
+                  <div mode="horizontal-tb" dir="rtl">
+                         定報價格<lb/>
+                  </div>
+                  <div>
+                         每三日出一張增刊無定<lb/>
+                         中國境內全年二元半年一元一<lb/>
+                         角每月二角日本同其餘外國各<lb/>
+                         埠加倍均作大洋計算報資先惠<lb/>
+                         郵費在內郵票加一<lb/>
+                  </div> 
+           </div>
+           <div type="other">
+                  今日一張零售大洋二分四釐<lb/> 
+           </div>
+           <div type="head" dir="rtl" mode="horizontal-tb">
+                  <div>
+                         晶報<lb/>
+                  </div>
+                  <div>
+                         ◘自動電話一二四二八號◘<lb/> 
+                  </div>
+                  <div>
+                         ◘電報掛號四三七七卽神字◘<lb/> 
+                  </div>
+           </div> 
+           <div type="other">
+                  第一千三百三十號<lb/> 
+           </div>
+           <div type="advert">
+                  <div mode="horizontal-tb" dir="rtl">
+                         廣吿刊例<lb/>
+                  </div> 
+                  <div>
+                         『新聞欄中』價面議『新聞中縫』<lb/> 
+                         計三十字長十字寬爲一格以半<lb/> 
+                         格起碼每期每格洋八元『封面<lb/>
+                         中縫』分格等與新聞中縫同每<lb/>
+                         期每格洋五元『封面』計十五字<lb/>
+                         高十九字寬爲一格以半格起碼<lb/>
+                         每期每格洋六元『後幅』分格等<lb/>
+                         與封面同每期每格洋五元<lb/>               
+                  </div>
+           </div>
+           <div type="advert" itemid="1303">
+                  <!-- 專醫婦女停經
+                       體　弱　怕　育
+                       保　險　通　經
+                       女科專家黃石峯醫士、對於婦科一道素有經驗、專治婦女停經、腹大
+                       如孕或經行不順、致成乾血勞病、以及生產過密、體弱多病、憂孕怕育
+                       、不願生產、醫士有祖傳秘方、能於一星期間、負責保證通經、確能解
+                       决婦女一切痛苦、門診一元、
+                       診所跑馬廳二馬路口平樂里九十四號候診
+                   -->
+           </div> 
+           <div type="advert" itemid="1304">
+                  <!-- 上海南京路抛球場 
+                       餘綸綢緞局
+                       双九折大廉價
+                       三星期
+                       春夏各式綢緞
+                       花樣新潁美麗
+                       業已到齊
+                       定價公道
+                   -->
+           </div> 
+           <div type="advert" itemid="1305">
+                  <!-- 萬應黃金油主治
+                       每盒大洋二角　郵寄加一角
+                       跌打損傷　內外痔漏
+                       徧身骨痛　厚皮玩癬
+                       多年肉瘤　天寒凍瘡
+                       頭痛難忍　傷風鼻瘡
+                       山嵐嶂氣　手足燥烈
+                       天熱心燥　口角熱瘡
+                       寄售處　上海　五馬路棋盤街屯鎭胡開文筆墨莊發行
+                   -->
+           </div> 
+           <div type="advert" itemid="1306">
+                  <!-- 明星花露香水  
+                       上海中西大藥房發行
+                       乃現社會青年男女必需之品
+                       質料高貴而純清：
+                       香氣幽久而遠長：
+                       梳粧，洗臉，揩身，沐浴，不可不用此品：
+                       閨閣，家庭，旅行，居室，不可不備此物：
+                       如逢交際宴飲，男女跳舞，會晤異性，
+                       以及夏令衞生，防疫辟瘟，虫咬蚊叮，
+                       此品尤不可缺！
+                       若夫交際明星，跳舞明星，電影明星，社會之花，
+                       更不可不多多購備，以免用時不及之
+                       每當春日遊玩，夏夜凭風之際，䨇䨇情侶，或携手緩行，
+                       或駕車疾駛，清風徐來，香閣數里之外，
+                       安得不令路旁行人，妬熬羨煞？…
+                       (全國各洋廣貨店巧粉店各大商店均有代售)
+                   -->
+           </div>
+           <div type="advert" itemid="no id - need to add>
+                  <!-- 解决女子停經問題
+                       「有孕怕育」
+                       「保險通經」
+                       專醫女子停經、腹大如孕、生產過多、
+                       體弱多病、有孕怕育、不願生產、先生
+                       祖傳秘方、靈騐無比、解决女子停經
+                       問題、頗具確實把握、可於最短期間
+                       負責保證通經、門診一元、醫庽英大
+                       馬路、大慶里東二弄、一百九十五號、
+                       女科專家馬春波啟
+                   -->
+           </div>
+           <div type="advert" itemid="1307">
+                  <!-- 南京路虹廟弄
+                       南洋藥房
+                       大亷價贈品一個月
+                       專家配方　經驗宏富　調劑認真
+                       分量準確　各種藥品　莫不美備
+                   -->
+           </div>
+           <div type="advert" itemid="1308">
+                  <!-- 百齡機 
+                       大瓶二元
+                       小瓶一元
+                       有意想不到之效力
+                       上海九福公司
+                   -->
+           </div>
+           <div type="advert" itemid="1309">
+                  <!-- 九福乳白魚肝油  
+                       九福公司發行
+                       唯一國貨優良製劑
+                       濃厚二百二十餘倍
+                   -->
+           </div>
+           <div type="advert" itemid="1309">
+            無敵牌蝶霜
+           </div>
+           <div type="margin" dir="rtl" mode="horizontal-tb">
+                  中華郵政特准掛號立券按照總包特別優益寄送之報紙<pb/>
+           </div> 
+    </div>
+    <!-- start verso page -->
+    <div type="page" page="verso" n="4" mode="vertical-rl" dir="rtl">
+           <div type="head">
+                  <div>
+                         此處<lb/>
+                         招登<lb/>
+                         廣告<lb/>
+                         價格<lb/>
+                         面議<lb/>
+                  </div>
+                  <div mode="horizontal-tb" dir="rtl">
+                         晶報<lb/>
+                  </div>
+                  <div>
+                         此處<lb/>
+                         招登<lb/>
+                         廣告<lb/>
+                         價格<lb/>
+                         面議<lb/>
+                  </div>
+           </div>
+           <div type="advert" itemid="">
+              
+           </div>
+           <div type="advert" itemid="">
+              
+           </div>
+           <div type="advert" itemid="">
+                                
+           </div>
+           
+    </div>   
+    <!-- start middle of the fold -->
+    <div type="margin" dir="rtl" mode="vertical-rl">      
+           <div type="advert" itemid="">
+                   <!-- 
+                     -->                    
+           </div>
+           <div type="advert" itemid="">
+                   <!-- 
+                     -->
+           </div>  
+           <div type="advert" itemid="">
+                                
+           </div>  
+    </div> 
+</fold>
