@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!DOCTYPE ecpo [
+    <!ENTITY gaiji "&#xe111;">
+]>
+<fold xml:id="jb_1331_1930-04-27_0002+0003" lastedit="2021-12-12" lasteditor="ysr2021">
+    <!-- start verso page -->
+    <div type="page" page="verso" n="2" dir="rtl" mode="vertical-rl">
+        <div type="margin">
+            <div dir="rtl" mode="horizontal-tb">
+                晶報<lb/>
+            </div>
+            <div type="advert" dir="rtl" mode="horizontal-tb">
+                <!--  請飲金納氏巴德補血酒以健尊體<lb/> -->
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                不見一定像女子比真女子尚美的多<lb/>
+            </div>
+            <div>
+                （倣八）<lb/>
+                （股體）<lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （丹翁）<lb/>
+            </div>
+            <div>
+                不眞不像。不美亦美矣。<lb/>
+                夫像美人。眞美人。像眞美人。美人皆不以爲美。而反以不像不眞爲美。此<lb/>
+                美國人之所以爲美人歟？而卽所以美非美人歟？<lb/>
+                且夫女子從而美之者。以其眞女子也。不得已。以其像也。不眞矣。且不像<lb/>
+                矣。正不知美在何處。美國人白。美就在不一定像。吾因以知美人之不一<lb/>
+                定像英人<!-- there is a half space -->不一定像法人德人。並不害其美於英法德。而用此以評梅蘭芳<lb/>
+                君。宜美人眼光之合乎美術云。<lb/>
+                美國人謂梅君是美術中女子。於是眞美與像美。可得而言焉。<lb/>
+                不眞而像。古代之雕刻。自大可觀。奈金石聲名。終未擅吳下閨襜之絕技。<lb/>
+                不像而眞。全國之錦標。亦堪奪得。奈氍毹價值。已難侔哈濱小姐之奇材。<lb/>
+                然則不像未必美。不見一定像則美矣。汾河灣戲中身段。所以其後簸箕連<lb/>
+                掃。實不及初次之美觀。寫實派固將打倒。<lb/>
+                以爲不但比眞女子美。比眞女子且美得多矣。打魚稅曲意求全。才信中國<lb/>
+                姑娘孝思。殆遠勝我們之美族。皇后選敢不讓賢。<lb/>
+                大家爲取樂來乎。抑大家爲硏究來乎。正如吃飯。雖餚饌而未能可口。則<lb/>
+                器皿精妙<!-- there is a half space -->亦何嘗不足以恭維。况東方藝術。鄭重負其使命而來。什麼板<lb/>
+                眼尖團。一榻刮子都不管。<lb/>
+                梅君何必氣餒哉。看梅君又何必氣餒哉。又似品畫。縱筆意之未能如心。<lb/>
+                則塗抹丹靑。又安在不堪以狂捧。况西方文明。急切爲厥祖邦而吸。不過<lb/>
+                哀皮細底。稍有點兒成問題。（參照申報自由談）<lb/>
+            </div>
+        </div>
