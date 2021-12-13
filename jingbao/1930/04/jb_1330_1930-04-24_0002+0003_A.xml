@@ -3,7 +3,7 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_1327_1930-04-15_0002+0003" lastedit="2021-11-09" lasteditor="ysr2021">
+<fold xml:id="jb_1330_1930-04-24_0002+0003" lastedit="2021-12-02" lasteditor="ysr2021">
     <!-- start verso page -->
     <div type="page" page="verso" n="2" dir="rtl" mode="vertical-rl">
         <div type="margin">
@@ -173,7 +173,7 @@
         <div type="image"></div>
         <div type="article">
             <div>
-                ◘全國童子軍在檢閱前之淸晨露營（南京中華&gaiji;）◘<lb/>
+                ◘全國童子軍在檢閱前之淸晨露營（南京中華攝）◘<lb/>
             </div>
         </div>
         <div type="article">
@@ -227,7 +227,7 @@
         </div>
         <div type="article">
             <div>
-                劉紀文江海&gaiji;讀書<lb/>
+                劉紀文江海關讀書<lb/>
             </div>
             <div dir="rtl" mode="horizontal-tb">
                 （絳雪）<lb/>
@@ -239,10 +239,10 @@
                 陳初以江蘇財政、勾乙記畫、繁於他<lb/>
                 省、而江海關務較閑、以是頗擬辭職<lb/>
                 、蘇省府主席葉楚傖君、因陳君諳於<lb/>
-                財政、長浙省財廳時、開源節流、&gaiji;<lb/>
+                財政、長浙省財廳時、開源節流、𤀹<lb/>
                 壅與利、無不措置裕如、故必欲陳長<lb/>
                 蘇財、中央亦深知陳之長才、恐其高<lb/>
-                &gaiji;<!-- 踏 -->、故任免之令、購時&gaiji;<!-- 井 -->下、陳去、劉<lb/>
+                蹈、故任免之令、同時幷下、陳去、劉<lb/>
                 乃走馬上任、於二十一日晨、抵江海<lb/>
                 關監督公署接事、僅在紀念週上、略<lb/>
                 表意見、並無長篇演詞、有人晤劉、<lb/>
@@ -264,7 +264,7 @@
         </div>
         <div type="article">
             <div>
-                小抖亂之不抖&gaiji;<!-- 滬 -->生活<lb/>
+                小抖亂之不抖亂生活<lb/><!-- the second "luan" ist written in caoshu -->
             </div>
             <div dir="rtl" mode="horizontal-tb">
                 （文治）<lb/>
@@ -301,8 +301,8 @@
                 軍專員杜錫珪上將、歷遊日本美英法德<lb/>
                 荷諸邦、或乘潛艇、下窮滄海之深<!-- there is a half space -->或駕<lb/>
                 飛機、上絕雲霄之頂、法國南方地中海<lb/>
-                岸之&gaiji;龍、Touion<!-- there is a half space -->海戰史上、久占重要<lb/>
-                地位、海口各&gaiji;<!-- 艦 -->、因由駐法高使、向法政<lb/>
+                岸之鼉龍、Toulon<!-- there is a half space -->海戰史上、久占重要<lb/>
+                地位、海口各艦、因由駐法高使、向法政<lb/>
                 府接洽在先、迎送指陳、從容有準、杜上<lb/>
                 將擅英語、遇有關乎專門學識之講解、<lb/>
                 由高使親任傳譯、至扼要處、杜上將偶<lb/>
@@ -313,7 +313,7 @@
             <div type="image"></div>
             <div type="article">
                 <div>
-                    （上）杜君近影（下）法國&gaiji;龍港<lb/>
+                    （上）杜君近影（下）法國鼉龍港<lb/>
                 </div>
             </div>
             <div type="image"></div>
@@ -387,13 +387,7 @@
                 了、爲甚的兆豐花園有敎師帶領<lb/>
                 也、還不許小學生進去呢、<lb/>
             </div>
-        </div>
-        <div type="article">
-            <div>
-                ◘一唱三嘆◘<lb/>
-            </div>
-            <div type="image"></div>
-        </div>
+        </div>        
         <div type="article">
             <div>
                 ◘上海生絲檢驗處副主任黃蒲仲君<lb/>
@@ -425,7 +419,7 @@
                 望君勸其來滬、尙未决、<lb/>
                 諸提案中、如上海李次山君之巡迴裁判案、夏口郭宗燮君之廢除行賄<lb/>
                 罪案、夏口律會之婚姻廢止專屬管轄案、均趣、廢除行賄罪案、主將條<lb/>
-                文行賄者得免除其刑之得字、改爲應字、婚姻案主夫&gaiji;訴訟、不必專依<lb/>
+                文行賄者得免除其刑之得字、改爲應字、婚姻案主夫婦訴訟、不必專依<lb/>
                 夫之住所起訴、<lb/>
                 江寗代表吳邁君、在三日開大會時演說、謂乘某船、見便所上貼『洋人廁<lb/>
                 所華人莫入』之牌、怒而交涉、塗去洋人及莫入四字、乃至翌日往觀、方知<lb/>
@@ -440,7 +434,7 @@
         </div>
         <div type="article">
             <div>
-                &gaiji;德俱備之三郎<lb/>
+                五德俱備之三郎<lb/><!-- "wu" written as "𠄡" -->
             </div>
             <div dir="rtl" mode="horizontal-tb">
                 （如是）<lb/>
@@ -477,6 +471,12 @@
                 而潘驢小閒之技則全備、<lb/>
                 亦<!-- this character is crooked -->一綺羅場中之驕子哉、<lb/>
             </div>
+        </div>
+        <div type="article">
+            <div>
+                ◘一唱三嘆◘<lb/>
+            </div>
+            <div type="image"></div>
         </div>
         <div type="article">
             <div>
@@ -536,42 +536,11 @@
                 ◘戴周婉娥女士◘<lb/>
             </div>
             <div type="image"></div>
-        </div>
-        <div type="article">
-            <div>
-                風塵固如寄也<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
-                （傍花）<lb/>
-            </div>
-            <div>
-                去載小四金剛出缺時、人多主張以寄塵小阿媛遞補、媛行六、、聰明伶俐、<lb/>
-                足膺上選、而遭際則殊轗軻、元姓宓、吳&gaiji;<!-- 縣 -->產、年十<lb/>
-                四、墮入倡門、體育發達甚早、鴇命應客、有花衣商<lb/>
-                張某、以千五百羊爲上頭、旋妊、遂嫁張、誕一女、<lb/>
-                鴇得身價過萬、而六以未笄之年、竟爲人母、在小<lb/>
-                阿媛輩中、僉歡惜之、所居在斜橋總會側之善慶坊<lb/>
-                、卽西名愛弄者、六與張相愛未久、大婦忽至、虐待<lb/>
-                之餘、張且攜其大婦<!-- there is a half space -->絕裾遠走漢<lb/>
-                皋、置六不顧、六數<lb/>
-                致書索贍養、張不<lb/>
-                覆、六提挈呱呱、無<lb/>
-                以自給、不獲已重<lb/>
-                入風塵、仍歸羣玉<lb/>
-                坊老二處、以寄塵<lb/>
-                原名應徵、六今年甫十六、已<lb/>
-                俁俁如成人、而憨態猶昔、但輕磨礱以後、愁腸百結、不似往日之嚶寗時<lb/>
-                見矣、貎則較前益麗、語云、金剛不壞身、六之所遇、或亦華嚴小劫者乎、<lb/>
-            </div>
-            <div type="image"></div>
-            <div>
-                ◘寄塵老六◘<lb/>
-            </div>
-        </div>
+        </div>       
         <div type="article">
             <div>
                 ◘首都之新聞攝影、初祇有中華照<lb/>
-                相館主人汪&gaiji;榮君、汪兼任新聞報<lb/>
+                相館主人汪艦榮君、汪兼任新聞報<lb/>
                 駐京攝影記者、成績甚佳、此次檢閱<lb/>
                 全國童子軍之役、第三日、職員江某<lb/>
                 忽楚漢汪在塲內攝影、謂已特約光華<lb/>
@@ -609,6 +578,37 @@
                 串操摩女生涯、而寶媛亦否認此事<lb/>
                 當係誤傳、（記者）<lb/>
             </div>          
+        </div>
+        <div type="article">
+            <div>
+                風塵固如寄也<lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （傍花）<lb/>
+            </div>
+            <div>
+                去載小四金剛出缺時、人多主張以寄塵小阿媛遞補、媛行六、、聰明伶俐、<lb/>
+                足膺上選、而遭際則殊轗軻、元姓宓、吳縣產、年十<lb/>
+                四、墮入倡門、體育發達甚早、鴇命應客、有花衣商<lb/>
+                張某、以千五百羊爲上頭、旋妊、遂嫁張、誕一女、<lb/>
+                鴇得身價過萬、而六以未笄之年、竟爲人母、在小<lb/>
+                阿媛輩中、僉歡惜之、所居在斜橋總會側之善慶坊<lb/>
+                、卽西名愛弄者、六與張相愛未久、大婦忽至、虐待<lb/>
+                之餘、張且攜其大婦<!-- there is a half space -->絕裾遠走漢<lb/>
+                皋、置六不顧、六數<lb/>
+                致書索贍養、張不<lb/>
+                覆、六提挈呱呱、無<lb/>
+                以自給、不獲已重<lb/>
+                入風塵、仍歸羣玉<lb/>
+                坊老二處、以寄塵<lb/>
+                原名應徵、六今年甫十六、已<lb/>
+                俁俁如成人、而憨態猶昔、但輕磨礱以後、愁腸百結、不似往日之嚶寗時<lb/>
+                見矣、貎則較前益麗、語云、金剛不壞身、六之所遇、或亦華嚴小劫者乎、<lb/>
+            </div>
+            <div type="image"></div>
+            <div>
+                ◘寄塵老六◘<lb/>
+            </div>
         </div>
         <div type="margin" dir="rtl" mode="vertical-rl">
             各稿版權均歸本社所有禁止轉載翻印譒譯<pb/>
