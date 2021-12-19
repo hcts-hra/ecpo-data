@@ -1,2 +1,167 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+<?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!DOCTYPE ecpo [
+    <!ENTITY gaiji "&#xe111;">
+]>
+<fold xml:id="jb_1332_1930-04-30_0002+0003" lastedit="2021-11-30" lasteditor="KexinZhang4118">
+    <!-- start verso page -->
+    <div type="page" page="verso" n="2" dir="rtl" mode="vertical-rl">
+        <div type="margin">
+            <div dir="rtl" mode="horizontal-tb">
+                晶報<lb/>
+            </div>
+            <div type="advert" dir="rtl" mode="horizontal-tb">
+                <!-- 請飲金納氏巴德補血酒以健尊體<lb/> -->
+            </div>   
+        </div>
+        <div type="article">
+            <div>
+                姓氏婚姻家庭三問題<lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （丹翁）<lb/>
+            </div>           
+            <div>
+                姓氏葛藤本不生。從父從母因起爭。<lb/>
+                其實取締姓。更宜取締名。姓爭二人<lb/>
+                耳。名則人人爭。但是姓名皆不要。<lb/>
+                究爲何物問一聲。<lb/>
+                男女即從而男女。何必曰夫又曰婦。<lb/>
+                夫爲天覆婦地載。未免上下齊叫苦。<lb/>
+                打破婚姻之紀錄。男亦可嫁女可娶。<lb/>
+                提及家庭各頭大。自造家庭自害怕。<lb/>
+                未有家庭想家庭。既有家庭又乞卸。<lb/>
+                取締未有家庭者。焉肯預退避三舍。<lb/>
+                哲學科學大發明。一切不顧難爲情。<lb/>
+                例如李石岑君謂周孔。崇拜乃在生<lb/>
+                殖靈。所以姓氏聖藥變腐藥。影響多<lb/>
+                少婚姻與家庭。今且不成問題矣。腐<lb/>
+                化諸君請勿聽。<lb/>
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                <lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （）<lb/>
+            </div>           
+            <div>
+                
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                <lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （）<lb/>
+            </div>           
+            <div>
+                
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                <lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （）<lb/>
+            </div>           
+            <div>
+                
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                <lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （）<lb/>
+            </div>           
+            <div>
+                
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                <lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （）<lb/>
+            </div>           
+            <div>
+                
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                <lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （）<lb/>
+            </div>           
+            <div>
+                
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                <lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （）<lb/>
+            </div>           
+            <div>
+                
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                <lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （）<lb/>
+            </div>           
+            <div>
+                
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                <lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （）<lb/>
+            </div>           
+            <div>
+                
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                <lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （）<lb/>
+            </div>           
+            <div>
+                
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                <lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （）<lb/>
+            </div>           
+            <div>
+                
+            </div>
+        </div>
+        <div type="margin" dir="rtl" mode="vertical-rl">
+            各稿版權均歸本社所有禁止轉載翻印譒譯<pb/>
+        </div>
+    </div>
+</fold>
