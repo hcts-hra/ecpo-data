@@ -610,9 +610,9 @@
            </div>
            <div type="article">
                   <div>
-                         樓上𣊨凮咲〻聲<lb/>
-                         <!-- 「𣊨」(variant of 「春」)  -->
-                         <!-- 「凮」(variant of 「風」)  -->
+                         樓上春風咲〻聲<lb/>
+                         <!-- 「春」 is written as 「𣊨」(its variant).  -->
+                         <!-- 「風」 is written as 「凮」(its variant).  -->
                          <!-- 「〻」(U+303B) is a symbol representing the repeat of the former character「咲」) -->
                   </div>
                   <div dir="rtl" mode="horizontal-tb">
