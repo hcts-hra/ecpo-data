@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!DOCTYPE ecpo [
+    <!ENTITY gaiji "&#xe111;">
+]>
+<fold xml:id="jb_0129_1930-04-03_0002+0003" lastedit="2022-01-02" lasteditor="xiejia1995" issueid="932">
+    <!-- start recto page -->
+    <div type="page" page="recto" n="1" mode="vertical-rl" dir="rtl">
+        <div type="margin" mode="horizontal-tb" dir="rtl">
+            <div>
+                第二版　民國九年四月三日<lb/>
+            </div>
+            <div  mode="horizontal-tb" dir="ltr">
+                THE　CRYSTAL<lb/>
+            </div>
+            <div>
+                庚申年二月十五日　星期六<lb/>
+            </div>
+        </div> 
+        <div type="article">
+            <div>
+                肯定<lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （丹翁）<lb/>
+            </div>
+            <div>
+               擇善而從、古訓也、既不能自立、又不能師人之長、人何以人、國何以國
+               、自民治主義東漸以後、效外國之自治、而不顧何者爲公益、效外國之舉
+               債、而不計何者爲用途、效外國之政爭、而不知何者爲黨綱、效外國之代
+               議制、而不思何者爲民請命、效外國之密約、而不明何者爲利害、且歐戰
+               以前、爭言軍國民教育、及德奧敗績、則又高談公理人道、應聲而鳴、隨
+               風而糜、直如無行之婦人、無所不可、爲強盜妻、則一悍鷙之牝賊、及
+               再醮僧侶、則又一慈善之梵嫂也、故西人識中國之言論、無異於皮肉所
+               製之蓄音機、易青衫之戲片、一變而爲花面不難也、豈不信哉、問何以必
+               改政改俗、曰、『外國如是、外國如是、』問何以必舍我而從外國、則曰『外
+               國富强、』問外國如是何以富强、能言之成理者、十不及五、問外國之政
+               俗、果否合於今日中國之時宜、則瞠目結舌、幾十無一二能言其真際
+               者、但高呼曰『外國外國、』一若神聖不可侵犯者、有進而與爲商兌者、則
+               視若左道惑人、大逆謀畔、如腹誹偶語之應棄市矣、余生斯世、束縛言論
+               、不得自由、能無孤憤耶、雖然、余小報之記者耳、『齊家治國平天下、自
+               有周公孔聖人、』小報而語大、罪也、請作小言、
+               
+               
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                <lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （）<lb/>
+            </div>
+            <div>
+                
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                <lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （）<lb/>
+            </div>
+            <div>
+                
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                <lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （）<lb/>
+            </div>
+            <div>
+                
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                <lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （）<lb/>
+            </div>
+            <div>
+                
+            </div>
+        </div>
+
