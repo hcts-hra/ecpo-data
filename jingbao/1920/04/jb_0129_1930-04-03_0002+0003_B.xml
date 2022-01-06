@@ -249,6 +249,15 @@
                 生啓<lb/>
             </div>
         </div>
+    </div>
+    <!-- start middle of the fold -->
+    <div type="margin" dir="rtl" mode="vertical-rl">
+    </div>
+    <!-- start verso page -->
+    <div type="page" page="verso" n="4" mode="vertical-rl" dir="rtl">
+        <div type="head">
+            第四版　民國九年四月三日　晶　報　庚申年二月十五日　星期六<lb/>                               
+        </div>
         <div type="article">
             <div>
                 愛<lb/>
@@ -507,26 +516,6 @@
         </div>
         <div type="article">
             <div>
-                
-            </div>
-        </div>
-        <div type="article">
-            <div>
-                
-            </div>
-        </div>
-        <div type="article">
-            <div>
-                
-            </div>
-        </div>
-        <div type="article">
-            <div>
-                
-            </div>
-        </div>
-        <div type="article">
-            <div>
                 春江花事<lb/>
             </div>
             <div dir="rtl" mode="horizontal-tb">
@@ -586,28 +575,5 @@
                 是黃遺、我狠想去實地調查一下、<lb/>
             </div>
         </div>
-        <div type="article">
-            <div>
-                <lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
-                （）<lb/>
-            </div>
-            <div>
-                
-            </div>
-        </div>
-        <!-- start verso page -->
-        <div type="page" page="verso" n="4" mode="vertical-rl" dir="rtl">
-            <div type="head">
-                第四版　民國九年四月三日　晶　報　庚申年二月十五日　星期六<lb/>                               
-            </div>
-            <div type="advert" itemid="">
-                <!-- 
-                   -->
-            </div>            
-        </div>
-        <!-- start middle of the fold -->
-        <div type="margin" dir="rtl" mode="vertical-rl">
-        </div>
+       </div>
 </fold>        
