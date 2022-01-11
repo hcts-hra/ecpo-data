@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!DOCTYPE ecpo [
+    <!ENTITY gaiji "&#xe111;">
+]>
+<fold xml:id="jb_0129_1930-04-03_0002+0003" lastedit="2022-01-02" lasteditor="xiejia1995" issueid="932">
+    <!-- start recto page -->
+    <div type="page" page="recto" n="2" mode="vertical-rl" dir="rtl">
+        <div type="margin" mode="horizontal-tb" dir="rtl">
+            <div>
+                第二版　民國九年四月三日 晶報  庚申年二月十五日　星期六<lb/>
+            </div>
+            
+        </div> 
+        <div type="article">
+            <div>
+                北京女校長換女子感言<lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （丹翁）<lb/>
+            </div>
+            <div>
+                前日時事新報載北京女學校、由學務局在春假期内、俱改派了女校長
+                、人說是進化、我説是退化、怎麽説是進化呢、從前女子只能做教員、現
+                在女子、居然做到校長、女子的程度高起來、豈不是進化了嗎、怎麽説是
+                退化呢、女子未被解放的那個時候、連雇用的全是女僕、教員雖有男子、
+                大約也是不得已而用之的、只有校長、雖然是老拙無能、迂腐不堪、總還
+                算是用的男子、現在除大學堂準女子去聽講、一般的女學堂、并沒有準
+                男子來旁聽、聚了幾十個幾百個女子在一道兒、并沒有一點男子的影
+                兒味兒、要是外國文明人來參觀、不把他當作中國最頑固的立貞堂崇節
+                堂、就要把他當做天主教的女修院、那裏有一點像文明的學堂呢、豈不
+                是退化了嗎、中國人辦事、向來毫無系統、一方面要和外國人改正商約
+                、廢除釐捐、一方面又將徽收官任用條例、一條一條的頒佈出來、那第
+                四條說經徽官第一款裏面、就明明白白的寫着是各省區稅釐各局的局
+                長、第五條說分徽官、第一款裏面、就明明白白寫着是各省區稅釐局
+                所轄的分局局長、所以外國人看見、說中國并沒有廢除釐捐的誠意、中
+                國也沒法分辨了、辦財政是這樣、辦教育也是這樣、一方冒充文明、準
+                女子到大學堂去、仿佛漸有男女同校的希望、一方面又將女校的校長&gaiji;<!--not clearly-->
+                除、豈不是和如今財政家一樣的『進退失據』嗎、要是有人請問辦教育的
+                、到底抱定一個甚麽宗旨、我也難代他囘答、有人説、女子進男校、在
+                大庭廣衆的地方、耳目衆多、自然除文明二字以外、沒有別的可疑了、一
+                個男校長在女學堂内、除了他之外、并沒有比他再闊的男子、要是這女
+                學堂内全是女教員、好像是宮中只有一個皇帝、假若稍有一點專制的
+                野心、濫用起威權來、女生們求學的心裏面、或者稍&gaiji;<!--not clearly-->了一點升班畢業
+                的名譽心、迎合上去、那種危險、就真有流涕痛哭長太息口不忍言的了、
+                好在過去的男校長、全是正人君子、以前的女生、果然除實在求學以外、
+                沒有一點旁的心、真是中國女界的榮光、將來讀教育史的人、不知要崇
+                拜到甚麽地步、辦教育的人、明知這件事危險、總覺得是『繳天之幸、』現
+                在女人程度既高、當然有『曲突徙薪』的計畫、女學堂用女校長、豈不是
+                格外穩健嗎、我説、此公的頭腦、真是舊不可言、瞿愛棠先生説、女子不
+                肯剪髮、代他想這個原故、大約因爲女子剪髮店、如今還沒有成立、剪了
+                髮就沒處理髮、瞿先生便大聲疾呼道、女子實行剪髮、也沒有開辦女
+                子剪髮店的必要、既高唱女子解放、男女既是平等、男女既可共同生活
+                、剪髮店又何必有男女之分呢、這句話真有價值、剪髮店不分男女、學堂
+                内倒是分起男女來、豈不是不知大小輕重了嗎、男女同校、不過是一種作
+                用、女子解放、才算得個真正的精神、既說解放、就無須此公過慮了、還
+                成問題嗎、又有人説、校長這一席、除管理教育一部分外、兼要辦本校
+                外交、狠有舊社會鹽店當典『出宮』的性質、官廳下的訓令、全叫校長遵
+                辦、校内有要變更的事體、也要校長去請求、好像是官廳和學校中間的
+                一個樞紐、女子做了校長、遇着甚麽事情、不能書函來往的、自然是女
+                校長、親自到官廳裏去接洽、從此學務局的招待室内、常常有女校長出
+                來進去、豈不是狠文明的氣象、怎能說辦教育的錯呢、我説、此公的議論
+                、又是『知二五而不知一十、』只顧官廳文明、不顧女學堂不文明、豈不是
+                『見牛未見羊』嗎、現在學生的勢力大了、要是派去的校長、學生不歡迎
+                他、就要開會罷課宣言請顧拒絕校長、這樣不幸的事實、男學堂已不止
+                一次了、諸公須細想想、男學堂裏被拒絕的校長、可全是男子、并不是
+                異性的女子、假若女子覺悟、明白了『自助』的道理、也順着學界的新潮
+                流、拒絕新校長、堅留舊校長、豈不是官廳自己爲難了嗎、我倒有個愚見
+                、因爲北京振振有聲的大教育家狠多、自然有人提議到此、我何敢先出
+                風頭呢、但我相信我這個意見、倒應着古人的話『聖人復起、不易吾言、』
+                了、我又何敢懷寶迷邦呢、諸君定要聽是甚麽妙計、我説不難、女學堂
+                仍舊用男校長、男學堂却用女校長、這才是『有進無退』的文化呢、唉、
+                
+                
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                <lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （丹翁）<lb/>
+            </div>
+            <div>
+                
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                <lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （丹翁）<lb/>
+            </div>
+            <div>
+                
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                <lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （丹翁）<lb/>
+            </div>
+            <div>
+                
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                <lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （丹翁）<lb/>
+            </div>
+            <div>
+                
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                <lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （丹翁）<lb/>
+            </div>
+            <div>
+                
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                <lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （丹翁）<lb/>
+            </div>
+            <div>
+                
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                <lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （丹翁）<lb/>
+            </div>
+            <div>
+                
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                <lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （丹翁）<lb/>
+            </div>
+            <div>
+                
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                <lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （丹翁）<lb/>
+            </div>
+            <div>
+                
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                <lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （丹翁）<lb/>
+            </div>
+            <div>
+                
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                <lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （丹翁）<lb/>
+            </div>
+            <div>
+                
+            </div>
+        </div>
+        <div type="article">
+            <div>
+                <lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （丹翁）<lb/>
+            </div>
+            <div>
+                
+            </div>
+        </div><div type="article">
+            <div>
+                <lb/>
+            </div>
+            <div dir="rtl" mode="horizontal-tb">
+                （丹翁）<lb/>
+            </div>
+            <div>
+                
+            </div>
+        </div>
+
