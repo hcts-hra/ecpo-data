@@ -10,11 +10,11 @@
             <div dir="rtl" mode="horizontal-tb">
                 晶報<lb/>
             </div>
-            <div type="advert" dir="rtl" mode="horizontal-tb">
+            <div type="advert" dir="rtl" mode="horizontal-tb" itemid="1423">
                 <!--  請飲金納氏巴德補血酒以健尊體<lb/> -->
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1545">
             <div>
                 姓氏婚姻家庭三問題<lb/>
             </div>
@@ -39,7 +39,7 @@
                 化諸君請勿聽。<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1546">
             <div>
                 賣妻契約<lb/>
             </div>
@@ -69,7 +69,7 @@
                 研究的價値吧、<lb/>               
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1550">
             <div>
                 兩個半字之特稅清理<lb/>
             </div>
@@ -106,7 +106,7 @@
                 處處理、直兜一圈子耳、<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1547">
             <div>
                 宋子良好事多磨<lb/>
             </div>
@@ -129,7 +129,7 @@
                 學、好事多磨、識者頗爲扼腕不置、<lb/>               
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1548">
             <div>
                 ◘前傳某府振災會、僅募得捐欵十<lb/>
                 餘萬元、而請得振米護照一百七十<lb/>
@@ -139,7 +139,7 @@
                 無關係云、（米虫）<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1549">
             <div>
                 ◘譚辛震律師之汽車夫助手肇禍案<lb/>
                 中、傷重致死之譚潤生、爲新新花園<lb/>
@@ -151,7 +151,7 @@
                 、狀至可慘、（方）<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1551">
             <div>
                 積餘帳中之招商局欠欵<lb/>
             </div>
@@ -185,14 +185,14 @@
                 葉律師未語及也、<lb/>                              
             </div>
         </div>
-        <div type="image">
+        <div type="image" itemid="873">
             <div>
                 ◘厦門集美學校童子軍參觀西區救<lb/>
                 火會並由夏主任率隊至體育塲表<lb/>
                 演指導各種消防方法（順麟攝）<lb/>
             </div>            
         </div>
-        <div type="article">
+        <div type="article" itemid="1552">
             <div>
                 無忌公子左遷記<lb/>
             </div>
@@ -212,13 +212,13 @@
                 、乃將其左遷爲京兆尹云、<lb/>
             </div>
         </div>
-        <div type="image">
+        <div type="image" itemid="874">
             <div>
                 ◘西區救火會演畢整隊<lb/>
                 攝影藉留紀念（順麟）<lb/>
             </div>            
         </div>
-        <div type="article">
+        <div type="article" itemid="1553">
             <div>
                 老女爭產危及老父<lb/>
             </div>
@@ -254,7 +254,7 @@
                 抑鬱增疾、不知此女將何以爲情也、<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1554">
             <div>
                 牛頭董委<lb/>
             </div>
@@ -284,7 +284,7 @@
                 緊進行、勿成爲牛步化耳、<lb/>               
             </div>
         </div>        
-        <div type="article">
+        <div type="article" itemid="1555">
             <div>
                 跑馬場之節孝坊<lb/>
             </div>
@@ -312,7 +312,7 @@
     </div>    
     <!-- start middle of the fold -->
     <div type= "margin" dir="rtl" mode="vertical-rl">
-        <div type="advert">
+        <div type="advert" itemid="1422">
             <!--
                        大炮台香烟
                        可愛之至
@@ -336,7 +336,7 @@
                 晶報<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1556">
             <div>
                 七命血案之餘瀝<lb/>
             </div>
@@ -370,7 +370,7 @@
                 起本被選、因一妻二子、同時被害、<lb/>
                 感觸尤深、故已决辭遠東之選、<lb/>
             </div>           
-            <div type="image"> 
+            <div type="image" itemid="875"> 
                 <div>
                 ◘盛蘋臣七公<lb/>
                 ◘子與魏秀琦<lb/>
@@ -379,7 +379,7 @@
             </div>
             </div>
         </div> 
-        <div type="article">
+        <div type="article" itemid="1594">
             <div>
                 ◘前國務總理李根源君、與其棄妾<lb/>
                 程佩彝、在蘇涉訟、業已辯論終結、<lb/>
@@ -388,7 +388,7 @@
                 請爲設法等語、（波）<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1595">
             <div>
                 ◘盛五六兩小姐、控其兄弟妹姪、聲<lb/>
                 請繼承遺產一案、現已經人調停、將<lb/>
@@ -396,7 +396,7 @@
                 七八四位小姐分配、訟可和解、（李）<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1596">
             <div>
                 輪機軋〻之私盐<lb/>
             </div>
@@ -445,7 +445,7 @@
                 想也、<lb/>
             </div>
         </div>        
-        <div type="article">
+        <div type="article" itemid="1597">
             <div>
                 九十壽翁之家產累<lb/>
             </div>
@@ -473,7 +473,7 @@
                 馬或以證人地位到庭也、<lb/>
             </div>           
         </div>
-        <div type="article">
+        <div type="article" itemid="1598">
             <div>
                 ◘江蘇省政府之新聞記者招待室、<lb/>
                 現改爲女職員休息室、曩之破筆爛<lb/>
@@ -483,13 +483,12 @@
                 鎭江寄）<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="image" itemid="876">
             <div>
                 ◘市虎之盲目精神◘<lb/>
-            </div>
-            <div type="image"></div>
+            </div>           
         </div>
-        <div type="article">
+        <div type="article" itemid="1599">
             <div>
                 朱雀神家門客談<lb/>
             </div>
@@ -529,7 +528,7 @@
                 者、侯嬴馮驩諸賢耳、<lb/>
             </div>           
         </div>
-        <div type="article">
+        <div type="article" itemid="1600">
             <div>
                 瞿俞之上論蕭曹<!-- yitizi 𣍘 --><lb/>
             </div>
@@ -579,7 +578,7 @@
                 、豈登台之先、未一對鏡耶、<lb/>
             </div>           
         </div>
-        <div type="article">
+        <div type="article" itemid="1601">
             <div>
                 ◘綽號小滑頭之寶琴老六、以善唱<lb/>
                 法門寺諸戲著名、近附麗於平望街<lb/>
@@ -595,14 +594,14 @@
                 之活潑<lb/>
                 （綏）<lb/>
             </div> 
-            <div type="image">
+            <div type="image" itemid="877">
                 <div dir="rtl" mode="horizontal-tb">
                     ◘惠然老九所書◘<lb/>
                 </div> 
                 <!--The texts in the image: 我们來過了。你們到什麽地方去了。我們來過二湯。等不其你們了。我們則得回去了。-->
             </div>        
         </div>
-        <div type="article">
+        <div type="article" itemid="1602">
             <div>
                 記寶鳳題名由來<lb/>
             </div>
@@ -630,7 +629,7 @@
                 用之、數及寶鳳、四首肯、名乃定、此題名之由來也、四與吳蓮洲醫師之眷<lb/>
                 屬、亦常往還、四喜交懸壺者、殆亦昔日高齊雲綽號衞生堂差乎、<lb/>
             </div>            
-            <div type="image">
+            <div type="image" itemid="878">
                 <div dir="rtl" mode="horizontal-tb">
                     ◘寶鳳老四近影◘<lb/>               
                 </div>
