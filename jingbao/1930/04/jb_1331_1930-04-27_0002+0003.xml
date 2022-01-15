@@ -10,11 +10,11 @@
             <div dir="rtl" mode="horizontal-tb">
                 晶報<lb/>
             </div>
-            <div type="advert" dir="rtl" mode="horizontal-tb">
+            <div type="advert" dir="rtl" mode="horizontal-tb" itemid="1398">
                 <!--  請飲金納氏巴德補血酒以健尊體<lb/> -->
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1498">
             <div>
                 不見一定像女子比真女子尚美的多<lb/>
             </div>
@@ -64,7 +64,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1499">
             <div>
                 取締迷信物<lb/>
             </div>
@@ -98,7 +98,7 @@
                 社會革命之不易也、<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1500">
             <div>
                 記近年上海之地價<lb/>
             </div>
@@ -146,7 +146,7 @@
                 已、<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1501">
             <div>
                 吳經熊長哈佛法理學科<lb/>
             </div>
@@ -165,9 +165,9 @@
             <div>
                 ◘特區法院封後之壽聖庵◘<lb/>
             </div>
-            <div type="image"></div>
+            <div type="image" itemid="846"></div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1502">
             <div>
                 律師休息室外之毛坑<lb/>
             </div>
@@ -203,7 +203,7 @@
                 今猶未定也、<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1503">
             <div>
                 善飛者墮<lb/>
             </div>
@@ -230,7 +230,7 @@
                 莫不贊嘆、至今猶傳爲佳話也、<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1504">
             <div>
                 溥儀籌欵興學<lb/>
             </div>
@@ -251,7 +251,7 @@
                 視明之福唐諸邸、實有霄壤之別矣、<lb/>                             
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1505">
             <div>
                 ◘洪深君曾於二十三日邀請所聘姚<lb/>
                 永勵詹紀鳳兩律師晚餐、商議進行<lb/>
@@ -270,23 +270,23 @@
             <div dir="rtl" mode="horizontal-tb">
                 ◘美國飛機郵票◘<lb/>
             </div>
-            <div type="image"></div>
+            <div type="image" itemid="847"></div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1506">
             <div>
                 ◘繆斌賄報案、無錫縣黨整會、已呈<lb/>
                 省黨整會、轉呈中央、意以不能使各<lb/>
                 小報、自由起減、（試）<lb/>
             </div>
         </div>       
-        <div type="article">
+        <div type="article" itemid="1507">
             <div>
                 ◘外交部長王正廷君及夫人王施美<lb/>
                 利女士、訂五月四日、在霞飛路一〇<lb/>
                 六六號開園遊會邀請中外賓從甚多<lb/>               
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1508">
             <div>
                 ◘徽紳程霖生君、爲做金磅虧損、積<lb/>
                 欠朝鮮台灣住友諸銀行老中庸洋行<lb/>
@@ -294,7 +294,7 @@
                 交涉中、（獅）<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1509">
             <div>
                 站長棄母談<lb/>
             </div>
@@ -322,14 +322,14 @@
                 宜投豺虎、<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1510">
             <div>
                 ◘某大棺材店小主人蔡某、偶一翁<lb/>
                 姓僑女、以富著、每日所吸芙蓉膏、<lb/>
                 達八十餘元、（鼎）<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1511">
             <div>
                 劉紀文就職時之許淑珍<lb/>
             </div>
@@ -351,11 +351,12 @@
     </div>
     <!-- start middle of the fold -->
     <div type= "margin" dir="rtl" mode="vertical-rl">
-        <div type="advert" itemid="?">
+        <div type="advert" itemid="1399">
             <!--
                  絞盤牌香烟
                  交際必備
              -->
+        <div type="image" itemid="845"></div>
         </div>	
     </div>
     <!-- start recto page -->
@@ -375,7 +376,7 @@
                 晶報<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1512">
             <div>
                 讀越縵堂日記<lb/>
             </div>
@@ -398,7 +399,7 @@
                 石印、可見李蓴客先生之墨蹟、乃由<lb/>
                 張岱杉君先墊付版權費三千元、及<lb/>
                 與商務印書館訂立印刷合同時、張<lb/>
-                    岱杉君又墊付三分之一之印費六千<lb/>
+                岱杉君又墊付三分之一之印費六千<lb/>
                 七百六十元、於是乃得開印、已而預<lb/>
                 約券卽售出三百張以上、及書旣出<lb/>
                 版、千部殆卽售罄、今已絕版矣、余<lb/>
@@ -414,7 +415,7 @@
                 相公堂子事、亦有吾人所不知者、<lb/>                            
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1513">
             <div>
                 戴雪〻之汗漫游<lb/>
             </div>
@@ -440,9 +441,9 @@
             <div>
                 ◘戴雪雪女士◘<lb/>
             </div>
-            <div type="image"></div>
+            <div type="image" itemid="848"></div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1514">
             <div>
                 ◘前濟東銀行經理陳昌浠君、現任<lb/>
                 郵政儲金匯業總局營業股股長、郵<lb/>
@@ -451,7 +452,7 @@
                 嘉君控訴事、有願和解之說、（方）<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1515">
             <div>
                 吳大少爺綁後之餘波<lb/>
             </div>
@@ -482,7 +483,7 @@
                 能減罪否也、<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1516">
             <div>
                  俄樂師一撞控光藝<lb/>
             </div>
@@ -534,9 +535,9 @@
             <div>
                 ◘操縱如意◘<lb/>
             </div>
-            <div type="image"></div>
+            <div type="image" itemid="849"></div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1538">
             <div>
                  小書塲之釵光鬢影<lb/>
             </div>
@@ -565,7 +566,7 @@
                 敗也、<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1540">
             <div>
                  聖婉猶屬山陰<lb/>
             </div>
@@ -588,7 +589,7 @@
                 能預定耳、<lb/>
             </div>
         </div>
-        <div type="article">          
+        <div type="article" itemid="1541">          
             <div>
                 ◘此次童子軍總檢閱、有某處女童<lb/>
                 子軍、所攜臥具<!-- there is a half space -->皆爲華絲葛製品、<lb/>
@@ -598,7 +599,7 @@
                 云、（怡自京寄）<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1539">
             <div>
                 ◘袁六公子昨年返自湖湘、淡於仕<lb/>
                 進、鑒於年來骨董業之發達、近於河<lb/>
@@ -609,7 +610,7 @@
                 瓶兩件、値價七八萬元、（𣏌）<lb/>
             </div>
         </div>
-        <div type="article">          
+        <div type="article" itemid="1542">          
             <div>
                 ◘某處有紅丸出售處、所用之夜壺<lb/>
                 燈及磁斗、恒爲選者擊碎、而出產之<lb/>
@@ -617,7 +618,7 @@
                 起恐慌、（元）<lb/>
             </div>
         </div>
-        <div type="article">          
+        <div type="article" itemid="1543">          
             <div>
                 ◘申報劉碩甫君來函<!-- there is a half space -->逕啓者、頃<lb/>
                 閱貴報載有『兆豐花園拒絕小學生』<lb/>
@@ -642,7 +643,7 @@
                 頌晶報主筆先生刻安、劉碩甫啓、<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1544">
             <div>
                 其人如玉<lb/>
             </div>
@@ -672,11 +673,10 @@
                   ◘玉人老七<lb/>
                   （明媚贈）<lb/>
             </div>
-            <div type="image"></div>
+            <div type="image" itemid="850"></div>
         </div>
         <div type="margin" dir="rtl" mode="vertical-rl">
             各稿版權均歸本社所有禁止轉載翻印譒譯<pb/>
         </div>   
     </div>
 </fold>
-        
