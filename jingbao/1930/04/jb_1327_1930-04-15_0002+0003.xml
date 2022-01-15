@@ -10,11 +10,11 @@
             <div dir="rtl" mode="horizontal-tb">
                 晶報<lb/>
             </div>
-            <div type="advert" dir="rtl" mode="horizontal-tb">
+            <div type="advert" dir="rtl" mode="horizontal-tb" itemid="1209">
                 <!--  請飲金納氏巴德補血酒以健尊體<lb/> -->
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1328">
             <div>
                 錦標<lb/>
             </div>
@@ -32,7 +32,7 @@
                 又女中人豪<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1329">
             <div>
                 官場如戲場<lb/>
             </div>
@@ -58,7 +58,7 @@
                  上台、紳商煩演了、<lb/>
              </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="?">
             <div>
                 ◘金屋書店主人新文學家邵洵美君<lb/>
                 、將偕其夫人盛佩玉女士下旬出洋<lb/>
@@ -67,7 +67,7 @@
                 約往襄助、（董）<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1330">
             <div>
                 段合肥之概世談<!-- 「概」 and 「世」 are written as 「嘅」 and 「卋」(the variants). --><lb/>
             </div>
@@ -98,7 +98,7 @@
                 觀此可斷言其必不出矣<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1331">
             <div>
                 京市府之張宗昌樂隊<lb/>
             </div>
@@ -127,7 +127,7 @@
                 以送此賢長官歟、<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1332">
             <div>
                 運動大會之北方健兒談<!-- 「談」 is written as 「谈」(its variant). --><lb/>
             </div>
@@ -166,9 +166,9 @@
             <div dir="rtl" mode="horizontal-tb">
                 ◘四一二上海南市淸黨三周紀念大會◘<lb/>
             </div>
-            <div type="image"></div>
+            <div type="image" itemid="722"></div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1335">
             <div>
                 ◘此次全國運動會、各省女選手大<lb/>
                 出風頭、惟女子究以生理上關係、每<lb/>
@@ -179,7 +179,7 @@
                 進也、同人皆爲粲然、（曼）<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1336">
             <div>
                 ◘光華煤油公司協理顧子<lb/>
                 言君、雖任福建財部特派<lb/>
@@ -188,7 +188,7 @@
                 廳長事、（黃）<lb/>             
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1337">
             <div>
                 ◘上期報載無線電查出情<lb/>
                 話新聞、蕪湖電台一報務<lb/>
@@ -200,7 +200,7 @@
                 情話、（方）<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1338">
             <div>
                 ◘麟鳳閣、新由津平一帶、聘來一歌<lb/>
                 妓、芳名「想容」碩人頎頎、<lb/>
@@ -212,8 +212,7 @@
                 自南京寄）<lb/>
             </div>
         </div>
-        
-        <div type="article">
+        <div type="article" itemid="1333">
             <div>
                 虞琰的湖風<lb/>
             </div>   
@@ -257,7 +256,7 @@
             </p>
          </div>       
     </div>
-        <div type="article">
+        <div type="article" itemid="1334">
             <div>
                 招商局案調停說<lb/>
             </div>
@@ -283,14 +282,14 @@
                 迄無辦法耳、<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1339">
             <div>
                 德實業團由滬至京<lb/>
             </div>
             <div dir="rtl" mode="horizontal-tb">
                 （春華）<lb/>
             </div>
-            <div type="image"></div>
+            <div type="image" itemid="723"></div>
             <div>
                 圖中戴帽者爲團長雷慈<lb/>
                 滿君、正中握救命圈者、<lb/>
@@ -329,11 +328,12 @@
     </div>
     <!-- start middle of the fold -->
     <div type= "margin" dir="rtl" mode="vertical-rl">
-        <div type="advert" itemid="?">
+        <div type="advert" itemid="1208">
             <!--
                  大前門
                  香味純美
              -->
+        <div type="image" itemid="724"></div>
         </div>	
     </div>
     <!-- start recto page -->
@@ -353,7 +353,7 @@
                 晶報<lb/>
             </div>
         </div>
-    <div type="article">
+    <div type="article" itemid="1340">
         <div>
              怡盛洋貨號之舊賬訟<lb/>
         </div>
@@ -392,7 +392,7 @@
             來開庭時、牽涉貝潤生等人必多也、<lb/>           
         </div>
     </div>
-        <div type="article">
+        <div type="article" itemid="1341">
             <div>
                 西郊俱樂部<!-- 「樂」 is written as its variant. --><lb/>
             </div>
@@ -423,7 +423,7 @@
                 則又見慣司空、未必擾及蘇州刺史者也、<lb/>
             </div>          
         </div>
-        <div type="article">
+        <div type="article" itemid="1342">
             <div>
                 小財神家之昏姻新想<lb/>
             </div>
@@ -460,9 +460,9 @@
             <div>
                  ◘進出口之往來船◘<lb/>
             </div>
-            <div type="image"></div>
+            <div type="image" itemid="725"></div>
         </div>
-        <div type="article">
+        <div type="article" itemid="?">
             <div>
                 祝玲丁〻下野<lb/>
             </div>
@@ -490,13 +490,13 @@
                 故都春夢<lb/>
                 影片中與<lb/>
             </div>
-            <div type="image"></div>
+            <div type="image" itemid="726"></div>
             <div>
                 阮玲玉（右）<lb/>
                 合演之一幕（民新公司贈）<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1343">
             <div>
                 一水果店之盜殺案<lb/>
             </div>
@@ -526,7 +526,7 @@
                 理吿訴也、<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1344">
             <div>
                 天池中之紫陽<lb/>
             </div>
@@ -556,7 +556,7 @@
                 寥中也、紫陽所遇、亦數見不鮮者、<lb/>               
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1345">
             <div>
                 ◘丹桂第一台、唱至月抄、卽將拆造<lb/>
                 、前顧無爲欲控徐耀祥賠償損失事、<lb/>
@@ -564,7 +564,7 @@
                 賠一千與顧、事已寢、（綏）<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1346">
             <div>
                 ◘著名之交際處、近有梅白格路之<lb/>	
                 小脚老二、孟德蘭路之唐老九、白克<lb/>
@@ -574,7 +574,7 @@
                 楚、合駐韶華、（百）<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1347">
             <div>
                 碔砆中之假寶玉<lb/>
             </div>
@@ -605,7 +605,7 @@
                 所交皆豪貴也者、識者嗤之、而九猶自若、怡紅公子有知、當亦不復與女<lb/>
                 子是水做的之嘆矣、<lb/>                            
             </div>
-            <div type="image"></div>
+            <div type="image" itemid="727"></div>
             <div dir="rtl" mode="horizontal-tb">
                     ◘賈寶玉老九（明媚贈）◘<lb/>
             </div>
