@@ -10,8 +10,14 @@
                   <div dir="rtl" mode="horizontal-tb">
                          晶報<lb/>
                   </div>
-                  <div type="advert" dir="rtl" mode="horizontal-tb">
-                         <!--  請飲金納氏巴德補血酒以健尊體<lb/> -->
+                  <div type="advert" dir="rtl" mode="horizontal-tb" itemid="?">
+                         <!--  請飲金納氏巴德補血酒以健尊體 -->
+                  </div>
+                  <div type="image" itemid="?">
+                         <!-- It is a dog's head. -->
+                  </div>
+                  <div type="image" itemid="?">
+                         <!-- It is a cat. -->
                   </div>
            </div>
            <div type="article" itemid="1291"> 
