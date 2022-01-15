@@ -3,7 +3,7 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_1323_1930-04-03_0002+0003" lastedit="2021-12-31" lasteditor="ysmlouis" issueid="932">
+<fold xml:id="jb_1323_1930-04-03_0002+0003" lastedit="2022-01-15" lasteditor="ysmlouis" issueid="932">
        <!-- start verso page -->
 	<div type="page" page="verso" n="2" dir="rtl" mode="vertical-rl">
            <div type="margin">
@@ -21,7 +21,7 @@
                                                                處此</r><lb/>
                   </div>
            </div>
-           <div type="article">
+           <div type="article" itemid="1067">
                   <div>
                          荷蘭跳舞<lb/>
                   </div>
@@ -61,7 +61,7 @@
                               疑猶舊式久新式頑錮荷蘭勿再提<lb/>
                   </div>
            </div>
-           <div type="article">
+           <div type="article" itemid="1068">
                   <div>
                          革命博物館<lb/>
                   </div>
@@ -90,7 +90,7 @@
                          備案、亦不能遵省令而讓賢路也、<lb/>
                   </div>
            </div>
-           <div type="article">
+           <div type="article" itemid="1083">
                   <div>
                          米價飛漲之索隱譚<lb/>
                          <!-- 「隱」is written as「隐」(its variant). -->
@@ -137,7 +137,7 @@
                          滬米價飛漲奈何、<lb/>
                   </div>
            </div>
-           <div type="article">
+           <div type="article" itemid="1080">
                   <div>
                          蔣主席過西湖記<lb/>
                   </div>
@@ -165,7 +165,7 @@
                          勞疲也、<lb/>
                   </div>
            </div>
-           <div type="article">
+           <div type="article" itemid="1082">
                   <div>
                          ◘蘇民廳長胡樸安君、二十九日下<lb/>
                          午、至蘇省國術館、召集學員訓話、<lb/>
@@ -179,9 +179,9 @@
                   <div mode="horizontal-tb" dir="rtl">
                          ◘蕪屯公路休屯段三月望日通車羣衆環觀圖（浩如攝）<lb/>
                   </div>
-                  <div type="image"></div>
+                  <div type="image" itemid="526"></div>
            </div>
-           <div type="article">
+           <div type="article" itemid="1084">
                   <div>
                          警犬世家<lb/>
                   </div>
@@ -201,7 +201,7 @@
                          看人怪道皆低了誰某之兒誰某孫<lb/>
                   </div>
            </div>
-           <div type="article">
+           <div type="article" itemid="1085">
                   <div>
                          盛七公子壽筵之請柬<lb/>
                   </div>
@@ -234,7 +234,7 @@
                          小蝶君提調其事、<lb/>
                   </div>
            </div>
-           <div type="article">
+           <div type="article" itemid="1086">
                   <div>
                          南京與上海<!-- 「與」is written as 「与」(its variant). --><lb/>
                   </div>
@@ -267,16 +267,16 @@
                   <div dir="rtl" mode="horizontal-tb">
                          ◘休屯車開行時情形圖（浩如攝）<lb/>
                   </div>
-                  <div type="image"></div>
+                  <div type="image" itemid="527"></div>
            </div>
-           <div type="article">
+           <div type="article" itemid="1087">
                   <div>
                          近有人發明輪盤賭法、謂照圖所<lb/>
                          列、每行從第一二號上着想、可有把<lb/>
                          握、確否待考、（聞）<lb/>
                   </div>
            </div>  
-           <div type="article">
+           <div type="article" itemid="1088">
                   <div>
                          上海特區法院之新寫眞<!-- The character 「眞」 in the title is written like this: ⿳匕目大. --><lb/>
                          <!-- 「法」 is written as 「㳒」(its variant). -->
@@ -314,7 +314,7 @@
                          </p>
                   </div>
            </div>
-           <div type="article">
+           <div type="article" itemid="1089">
                   <div>
                          積餘經理委任狀之研究<!-- 「經」 and 「狀」 are written as 「经」and 「状」. --><lb/>
                   </div> 
@@ -343,6 +343,7 @@
                   <!-- 大前門香烟
                        品質超美　枝枝一律
                    -->
+           <div type="image" itemid="561"></div>
            </div>	
     </div>
     <!-- start recto page -->
@@ -362,7 +363,7 @@
                          晶報<lb/>
                   </div>
            </div>
-           <div type="article">
+           <div type="article" itemid="1090">
                   <div>
                          全國運動會之會外瓊屑<lb/>		    	
                   </div>
@@ -394,7 +395,7 @@
                          湖新市塲、不過六七里之遙耳、<lb/>
                   </div>
            </div>
-           <div type="article">
+           <div type="article" itemid="1091">
                   <div>
                          老女兒向老頭子爭產<lb/>
                          <!-- 「兒」 is written as 「児」(its variant). -->
@@ -422,7 +423,7 @@
                          轉至滬審理云、<lb/>
                   </div>
            </div>
-           <div type="article">			
+           <div type="article" itemid="1093">			
                   <div>
                          ◘三育中學校長黃慶瀾君之母朱太<lb/>
                          君、年臻九十、壽期在四月二十日、<lb/>
@@ -433,7 +434,7 @@
                          （伽）<lb/>
                   </div>
            </div>
-           <div type="article">
+           <div type="article" itemid="1098">
                   <div>
                          迷藏鴻雪記<lb/>
                   </div>
@@ -495,9 +496,9 @@
                   <div mode="horizontal-tb" dir="rtl">
                          ◘試看手腕◘<lb/>
                   </div>
-                  <div type="image"></div>
+                  <div type="image" itemid="528"></div>
            </div>
-           <div type="article">
+           <div type="article" itemid="1102">
                   <div>
                          新新舞場之一踢<lb/>
                   </div>
@@ -530,7 +531,7 @@
                          之進止也、<lb/>
                   </div>
            </div>
-           <div type="article">			
+           <div type="article" itemid="?">			
                   <div>
                          ◘地圖專家童世亨、爲妾沈素文控<lb/>
                          遺棄罪一案、經地方法院判决、由童<lb/>
@@ -538,7 +539,7 @@
                          關係、將學看護婦業、以謀獨立（天）<lb/>
                   </div>
            </div>
-           <div type="article">			
+           <div type="article" itemid="?">			
                   <div>
                          ◘易居周五小姐處、有小女郎佩珮<lb/>
                          者、年十二三、伶俐善伺客意、面娟<lb/>
@@ -547,13 +548,13 @@
                   </div>
            </div>
            <div type="article">
-                  <div type="image"></div>
+                  <div type="image" itemid="529"></div>
                   <div>
                          ◘三元坊玉葉老九（坐）老三（立<lb/>
                          <!-- The close bracket is missing in the article. -->
                   </div>
            </div>
-           <div type="article">
+           <div type="article" itemid="1103">
                   <div>
                          楊花有主記<lb/>
                   </div>
@@ -569,7 +570,7 @@
                          爲布置房間什物、不日當可雙棲、<lb/>
                   </div>
            </div>
-           <div type="article">
+           <div type="article" itemid="1104">
                   <div>
                          天曉得之華女按摩<lb/>
                   </div>
@@ -590,7 +591,7 @@
                          上寫按摩女士、頭銜亦至趣也、（狻）<lb/>
                   </div>
            </div>
-           <div type="article">
+           <div type="article" itemid="1105">
                   <div>
                          ◘愛文義路聯珠廣仁兩里房屋、皆<lb/>
                          盛氏產、廣仁里內一宅門上、署雙玉<lb/>
@@ -598,7 +599,7 @@
                          <!-- The open bracket is missing in the article. -->
                   </div>
            </div>
-           <div type="article">
+           <div type="article" itemid="1106">
                   <div>
                          ◘高齊雲老二身材苗條、並無頎頎<lb/>
                          之態、而以齊雲名、昔唐諺城南韋杜<lb/>
@@ -606,7 +607,7 @@
                          乃高唐雲雨之雲（粲）<lb/>
                   </div>
            </div>
-           <div type="article">
+           <div type="article" itemid="1107">
                   <div>
                          樓上春風咲〻聲<lb/>
                          <!-- 「春」 is written as 「𣊨」(its variant).  -->
@@ -636,7 +637,7 @@
                          子延醫市藥、榻際鼎旁、十分體貼、三心大慰、疴亦旋瘥、每對人云、公子<lb/>
                          爲二天、感不去懷、近聞公子有南來訊、輒雀躍不巳、<lb/>
                   </div>
-                  <div type="image"></div>
+                  <div type="image" itemid="530"></div>
                   <div>
                          ◘沈笑笑老三◘<lb/>
                   </div>
