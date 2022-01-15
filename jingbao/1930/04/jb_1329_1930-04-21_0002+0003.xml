@@ -10,11 +10,11 @@
             <div dir="rtl" mode="horizontal-tb">
                 晶報<lb/>
             </div>
-            <div type="advert" dir="rtl" mode="horizontal-tb">
+            <div type="advert" dir="rtl" mode="horizontal-tb" itemid="1301">
                 <!--  請飲金納氏巴德補血酒以健尊體<lb/> -->
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1430">
             <div>
                 三頭八臂<lb/>
             </div>
@@ -39,7 +39,7 @@
                 暫富麗毛尙得附皮猶存<lb/>              
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1431">
             <div>
                 中央造幣廠之英文稿<lb/>
             </div>
@@ -85,7 +85,7 @@
                 於英文者也、<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1434">
             <div>
                 納稅會中之風趣<!-- 「會」 is written as 「会」(its variant). --><lb/>
             </div>
@@ -110,7 +110,7 @@
                 笑語本報記者、記者亦極稱之、<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1432">
             <div>
                 ◘黃克強先生之少公子一美君、肄<lb/>
                 業於持志大學、上星期六、假新新酒<lb/>
@@ -124,7 +124,7 @@
                 囘國辦學、（柳）<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1433">
             <div>
                 小學教員拉黃包車<lb/>
             </div>
@@ -161,9 +161,9 @@
             <div mode="horizontal-tb" dir="rtl">
                 ◘雲南民政廳長張維翰君◘<lb/>
             </div>   
-            <div type="image"></div>
+            <div type="image" itemid="797"></div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1435">
             <div>
                 法院更動紀錄科長談<lb/>
             </div>
@@ -179,7 +179,7 @@
                 、有擬請其任檢察處書記官、周笑謝、謂鷄肋不足念也、<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1437">
             <div>
                 記銅之進口<lb/>
             </div>
@@ -222,7 +222,7 @@
                 遂一槪充公云、<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1438">
             <div>
                 金業塲之零拾<lb/>
             </div>
@@ -247,7 +247,7 @@
                 技、是以運籌决勝、所得獨多也、<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1436">
             <div>
                 會操<!-- 「操」 is written as 「𢮥」(its variant). --><lb/>
             </div>
@@ -261,7 +261,7 @@
                 笑煞當年多爾袞只誇天塹可投鞭<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1439">
             <div>
                 ◘工部局現限令丹桂第一台在六月<lb/>
                 底拆屋翻造、南京路小菜塲、定五月<lb/>
@@ -275,8 +275,7 @@
                 停鑼、交還屋主何聯第昆仲、（綏）<lb/>
             </div>
         </div>
-
-        <div type="article">
+        <div type="article" itemid="1440">
             <div>
                 納稅華人臨時會麟爪<lb/>
             </div>
@@ -286,7 +285,7 @@
             <div dir="rtl" mode="horizontal-tb">
                 ◘否决增加華董之市政廳年會◘<lb/>
             </div>
-            <div type="image"></div>
+            <div type="image" itemid="798"></div>
             <div>
                 <p>
                 納稅西人會、否决增加華董二人案之翌日、納稅華人會在商整會、開臨時<lb/>
@@ -330,11 +329,12 @@
     </div>
     <!-- start middle of the fold -->
     <div type= "margin" dir="rtl" mode="vertical-rl">
-        <div type="advert" itemid="?">
+        <div type="advert" itemid="1300">
             <!--
                   大炮台香烟
                   可愛之至
              -->
+        <div type="image" itemid="794"></div>
         </div>	
     </div>
     <!-- start recto page -->
@@ -354,7 +354,7 @@
                 晶報<lb/>
             </div>
         </div> 
-        <div type="article">
+        <div type="article" itemid="1441">
             <div>
                 革命日報被抄記<lb/>
             </div>
@@ -389,7 +389,7 @@
                 報、和隔巷犬吠之聲相應和也、 <lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1442">
             <div>
                 阿香歸靁部之披露<!-- 「歸」 and 「雷」 are written as 「?」 and 「靁」(the variants). --><lb/>
             </div>
@@ -412,7 +412,7 @@
                 思香亦謫仙、不妨召致、遂允神收香歸雷部、不日尙有瑤池盛燕也、<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1443">
             <div>
                 游雨花臺小記<lb/>
             </div>
@@ -447,7 +447,7 @@
                 物理學家、其原因果何在耶、<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1446">
             <div>
                 綠茵從此宿文鴛<lb/>
             </div>
@@ -499,9 +499,9 @@
             <div>
                 ◘三頭八臂◘<lb/>
             </div>
-            <div type="image"></div>
+            <div type="image" itemid="799"></div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1449">
             <div>
                 慰吳<lb/>
             </div>
@@ -519,7 +519,7 @@
                 滑稽下筆有風霜。<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1444">
             <div>
                 ◘十八日、首都舉行全國童子軍總<lb/>
                 檢閱、晨五時、諸童子軍甫起、忽營<lb/>
@@ -529,7 +529,7 @@
                 能捷足先得、（舍予自南京寄）<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1445">
             <div>
                 ◘陳儀將軍、去載赴德考察時、有項<lb/>
                 經方醫學傳士作隨員、陳甚器之、歸<lb/>
@@ -543,7 +543,7 @@
                 也、（獅）<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1447">
             <div>
                 寄父寄女同居之糾葛<lb/>
             </div>
@@ -572,7 +572,7 @@
                 關係也、<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1448">
             <div>
                 愛芳挾監視人出走記<lb/>
             </div>
@@ -609,14 +609,14 @@
                 及搗母取去之日常衣飾如數發還云<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="1450">
             <div>
                 ◘賽春樓小老虎之姊聖婉老七、近<lb/>
                 與乃夫戴某反目、七已別居、惟不見<lb/>
                 客、友朋正在調停、（風）<lb/>
             </div>
         </div>       
-        <div type="article">
+        <div type="article" itemid="1451">
             <div>
                 記華韵珍之身世<!-- 「世」 is written as 「卋」(the variants). --><lb/>
             </div>
@@ -649,7 +649,7 @@
             <div>
                 ◘華韻珍◘<lb/>
             </div>
-            <div type="image"></div>
+            <div type="image" itemid="800"></div>
         </div>
         <div type="margin" dir="rtl" mode="vertical-rl">
             各稿版權均歸本社所有禁止轉載翻印譒譯<pb/>
