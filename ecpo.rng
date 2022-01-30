@@ -11,6 +11,9 @@
                 </attribute>
                 <attribute name="lasteditor"/>
             </optional>
+            <optional>
+                <attribute name="issueid"/>  <!-- ID of issue in ECPO -->
+            </optional>
             <oneOrMore>
                 <ref name="structure"/>
             </oneOrMore>
@@ -60,8 +63,7 @@
                         <!--  see https://developer.mozilla.org/en-US/docs/Web/CSS/writing-mode -->
                         <choice>
                             <value>horizontal-tb</value>
-                            <value>vertical-rl</value>
-                            <!--the default-->
+                            <value>vertical-rl</value> <!--the default-->
                             <value>vertical-lr</value>
                             <value>sideways-rl</value>
                             <value>sideways-lr</value>
@@ -71,8 +73,7 @@
                         <!--  see https://developer.mozilla.org/en-US/docs/Web/CSS/direction -->
                         <choice>
                             <value>ltr</value>
-                            <value>rtl</value>
-                            <!--the default-->
+                            <value>rtl</value> <!--the default-->
                         </choice>
                     </attribute>
                 </group>
@@ -90,12 +91,23 @@
                     </attribute>
                 </group>
             </optional>
+            <optional>
+                <attribute name="itemid"/>  <!-- ID of the item in ECPO -->
+            </optional>
             <choice>
                 <oneOrMore>
                     <element name="p">
                         <ref name="contents"/>
                     </element>
                 </oneOrMore>
+                <optional>
+                    <element name="r">
+                        <group>
+                            <attribute name="style"/>  <!-- to allow CSS formatting, e.g. "transform: rotate(90deg);" -->
+                        </group>
+                        <ref name="contents"/>
+                    </element>
+                </optional>
                 <ref name="contents"/>
                 <zeroOrMore>
                     <ref name="structure"/>
