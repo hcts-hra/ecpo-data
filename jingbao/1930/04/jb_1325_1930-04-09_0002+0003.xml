@@ -467,10 +467,14 @@
                 賊者已、<lb/>
             </div>
         </div>
-        <div type="article" mode="horizontal-tb" dir="rtl" itemid="643">
-            <div>◘華洋電話發達之<lb/></div>
-            <div>障碍物◘<lb/></div>
-            <div type="image"></div>
+        <div type="article" itemid="643">
+            <div mode="horizontal-tb" dir="rtl" >
+                ◘華洋電話發達之<lb/>
+            </div>
+            <div mode="horizontal-tb" dir="rtl" >
+                障碍物◘<lb/>
+            </div>
+            <div type="image" itemid="?"></div>
         </div>
         <div type="article" itemid="1263">
             <div>
