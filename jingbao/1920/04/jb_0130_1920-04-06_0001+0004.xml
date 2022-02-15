@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!DOCTYPE ecpo [
+    <!ENTITY gaiji "&#xe111;">
+]>
+<fold xml:id="jb_0139_1920-04-06_0001+0004" lastedit="2022-02-15" lasteditor="ysmlouis" issueid="933">
+    <!-- start recto page -->
+    <div type="page" page="recto" n="1" mode="vertical-rl" dir="rtl">
+           <div type="margin" mode="horizontal-tb" dir="rtl">
+                  <div>
+                        第一版　民國九年四月三日<lb/>
+                  </div>
+                  <div  mode="horizontal-tb" dir="ltr">
+                        THE　CRYSTAL<lb/>
+                  </div>
+                  <div>
+                        庚申年二月十五日　星期六<lb/>
+                  </div>
+           </div> 
+           <div type="advert">
+                  <div mode="horizontal-tb" dir="rtl">
+                         定報價格<lb/>
+                  </div>
+                  <div>
+                         每三日出一張逐期<lb/>
+                         寄閲全年大洋二元<lb/>
+                         半年大洋一元一角<lb/>
+                         每月大洋二角郵費<lb/>
+                         在內郵票加一<lb/>
+                  </div> 
+           </div>
+           <div type="other">
+                  今日一張售大洋二分<lb/> 
+           </div>
+           <div type="head" dir="rtl" mode="horizontal-tb">
+                  <div>
+                         晶報<lb/>
+                  </div>                 
+           </div> 
+           <div type="other">
+                  第一百廿九號<lb/> 
+           </div>
+           <div type="advert">
+                  <div mode="horizontal-tb" dir="rtl">
+                         廣吿刊例<lb/>
+                  </div> 
+                  <div>
+                         每三英寸寬二英<lb/> 
+                         寸高爲一格每期<lb/>
+                         刊資大洋三角封<lb/>
+                         面加倍中縫全部<lb/>
+                         一元五角<lb/>               
+                  </div>
+           </div>
+           <div type="advert" itemid="">
+                 <!-- 上海五洲藥大房
+                      自來血
+                      樹皮丸
+                      海波藥
+                      此藥自發明以來厯受社會所推許確
+                      有補血生精療治血虛癆瘵之特效性
+                      質和平無論男婦老幼四時均可常服
+                      大瓶二元小瓶一元二角
+                      是丸功能壯筋補腎健腦固精專治遺
+                      精陽痿腦力單薄神經衰弱等症常服
+                      尤能助食物之消化體力之强壯也
+                      每瓶洋一元
+                      淸理血分善除人身內蘊毒質患花柳
+                      病者服之去汚生新身淸便凡疥瘡頑
+                      癬骨節痠痛及小兒胎毒等症無不效
+                      驗如神　每瓶二元
+                   -->
+           </div> 
+           <div type="advert" itemid="">
+                  <!-- 上海香港
+                      馬玉山
+                      糖果餅乾公司
+                      乃士餅
+                      一元 每罐
+                      五角 每磅
+                      南京路三十七號
+                   --> 
+           </div> 
+           <div type="margin" dir="rtl" mode="horizontal-tb">
+               ●中華郵政爲新特准掛號認聞紙類●中華郵政特准掛號立券之報紙●已在中華郵政掛號按照總包特別優益寄送之報紙<pb/>
+           </div> 
+    </div>
+    <!-- start verso page -->
+    <div type="page" page="verso" n="4" mode="vertical-rl" dir="rtl">
+           <div type="head">
+                  第四版　民國九年四月三日　晶　報　庚申年二月十五日　星期六<lb/>                               
+           </div>
+           <div type="advert" itemid="">
+                  <!-- 
+                   -->
+           </div>            
+    </div>
+    <!-- start middle of the fold -->
+    <div type="margin" dir="rtl" mode="vertical-rl">
+    </div>
+</fold>
