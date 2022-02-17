@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!DOCTYPE ecpo [
+    <!ENTITY gaiji "&#xe111;">
+]>
+<fold xml:id="jb_0135_1920-04-21_0002+0003" lastedit="2022-02-7" lasteditor="zgl4118" issueid="932">
+    <!-- start verso page -->
+    <div type="page" page="verso" n="2" mode="vertical-rl" dir="rtl">
+        <div type="margin" mode="horizontal-tb" dir="rtl">
+            <div>
+                第二版　民國九年四月十五日<lb/>
+            </div>
+            <div>
+                晶報<lb/>
+            </div>
+            <div>
+                庚申年二月廿七日　星期四<lb/>
+            </div>   
+        </div> 
