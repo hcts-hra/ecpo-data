@@ -3,7 +3,7 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_0129_1920-04-03_0001+0004" lastedit="2022-03-17" lasteditor="ysmlouis" issueid="932">
+<fold xml:id="jb_0129_1920-04-03_0001+0004" lastedit="2022-03-17" lasteditor="ysmlouis" issueid="89">
     <!-- start recto page -->
     <div type="page" page="recto" n="1" mode="vertical-rl" dir="rtl">
            <div type="margin" mode="horizontal-tb" dir="rtl">
@@ -100,6 +100,7 @@
                      諸君不信　請即嘗試
                      南洋兄弟烟草公司
                    -->
+                <div type="image" itemid="2184"></div>
            </div>  
            <div type="advert" itemid="4314">
                 <!-- 西醫張世楷秘製
@@ -223,6 +224,7 @@
                      各大洋貨號均
                      有出售
                    -->
+                <div type="image" itemid="2206"></div>
            </div> 
             <div type="advert" itemid="4351">
                 <!-- 內服海艸精清血解毒
@@ -329,6 +331,12 @@
                      著奇效
                      兜安氏祕製保腎丸                     
                    -->
+                <div type="image" itemid="2212">
+                       <!-- It is a man has a backache. -->
+                </div>
+                <div type="image" itemid="2212">
+                       <!-- It is a box of kidney pills. -->
+                </div>
            </div>           
     </div>
 </fold>
