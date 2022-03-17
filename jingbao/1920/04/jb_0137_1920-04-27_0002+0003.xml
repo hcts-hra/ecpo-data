@@ -3,7 +3,7 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_0137_1920-04-27_0002+0003" lastedit="2022-03-16" lasteditor="ysmlouis">
+<fold xml:id="jb_0137_1920-04-27_0002+0003" lastedit="2022-03-17" lasteditor="ysmlouis" issueid="99">
     <!-- start verso page -->
     <div type="page" page="verso" n="2" mode="vertical-rl" dir="rtl">
         <div type="margin" mode="horizontal-tb" dir="rtl">
@@ -17,7 +17,7 @@
                 庚申年三月初九日　星期二<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="4024">
             <div>
                 女票友<lb/>
             </div>
@@ -41,7 +41,7 @@
                 則台基一票房也、<lb/>
             </div>           
         </div>
-        <div type="article">
+        <div type="article" itemid="4026">
             <div>
                 保安商標<lb/>
             </div>
@@ -65,7 +65,7 @@
                 上去發揮發揮、專揀這沒要緊的事提議、却未免小題大做了哇、<lb/>
             </div>           
         </div>
-        <div type="article">
+        <div type="article" itemid="4027">
             <div>
                 梅蘭芳之硏究<!-- The three characters「梅蘭芳」are in a rectangle. --><lb/>
             </div>
@@ -121,7 +121,7 @@
                 少呢、<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="4029">
             <div>
                 梅蘭芳研究之硏究<!-- The five characters 「梅蘭芳研究」 are in a rectangle. --><lb/>
             </div>
@@ -171,7 +171,7 @@
                 是什麽、我眞有些不懂、<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="4030">
             <div>
                 硏究梅蘭芳畣豂子<lb/>
             </div>
@@ -234,7 +234,7 @@
                 育會呢、<lb/>
             </div>
         </div>
-            <div type="article">
+            <div type="article" itemid="4032">
                 <div>
                     看梅蘭芳的心理<lb/>
                 </div>           
@@ -302,7 +302,7 @@
                         不但唱的像、就是臉子也有幾分像、<lb/>
                         蘭芳來、我焉能不看、老實說、梅派<lb/>
                         靑衣頭銜是少不掉的、恐怕還有個<lb/>
-                        醉梅外號呢、<lb/>
+                        醉梅外號呢、<pb/>
                     </p> 
                 </div>
             </div>
@@ -312,7 +312,7 @@
             <div type="margin" mode="horizontal-tb" dir="rtl">
                 第三版　民國九年四月廿七日　社會定期日刊　庚申年三月初九日　星期二<lb/>                               
             </div>
-            <div type="article">
+            <div type="article" itemid="4033">
                 <div>
                     愛克司光錄<lb/>
                 </div>
@@ -396,7 +396,7 @@
                     （未完）<lb/>                   
                 </div>
             </div>
-            <div type="article">
+            <div type="article" itemid="4034">
                 <div>
                     夕陽紅檻錄<lb/>
                 </div>
@@ -485,12 +485,12 @@
                 </div>  
             </div> 
             <div type="article">
-                <div type="image"></div>
+                <div type="image" itemid="2342"></div>
                 <div dir="rtl" mode="horizontal-tb">
                     ◀殉客自盡之蔣紅英老五▶<lb/>
                 </div>
             </div>
-            <div type="article">
+            <div type="article" itemid="4035">
                 <div>
                     息爭<lb/>
                 </div>
@@ -528,7 +528,7 @@
                     罷也可、<lb/>
                 </div>
             </div>
-            <div type="article">
+            <div type="article" itemid="4036">
                 <div>
                     晶報的好戲目<lb/>
                 </div>
@@ -583,7 +583,7 @@
                     </p>
                 </div>
             </div>
-            <div type="article">
+            <div type="article" itemid="4037">
                 <div>
                     春江花事<lb/>
                 </div>
@@ -591,33 +591,35 @@
                     （老匏）<lb/>
                 </div>
                 <div>
-                    ▲蔣紅英家裏主政老五、爲情殉死<lb/>
-                    一事、這幾天<!-- There is a half space. -->各報多有記載、差不<lb/>
-                    多的人、都已知道、並且笑舞台要替<lb/>
-                    他做戲、有人要替他做書、這也算死<lb/>
-                    得不寃枉了、據我曉得、老五同三馬<lb/>
-                    路徐蓉如家的老三、福裕里洪第家<lb/>
-                    的桂寶、靑娥老七、淸和沿的亭亭、<lb/>
-                    多是極要好的姊妹、初三那一天、老<lb/>
-                    五出殯、他們都去送的、現在還有人<lb/>
-                    主張、請這幾個要好姊妹出面、替老<lb/>
-                    五開一個追悼會、表揚表揚他的癡<lb/>
-                    情、<lb/>
-                </div>
-                <div>
-                    ▲香國的總統、確是汕頭路琴寓、副<lb/>
-                    總統聞是含第及陳第、雖說是陰厯<lb/>
-                    十五開匭揭曉、論不定還要展期哩、<lb/>              
-                </div>
-                <div>
-                    ▲有人說、媚蘭臉子像麒麟童、錢素<lb/>
-                    珍臉子像趙君玉、本來錢素珍、外邊<lb/>
-                    有趙老四妹子的傳聞、但是臉子不<lb/>
-                    大狠像、媚蘭像麒麟童、可是再像也<lb/>
-                    沒有了、<lb/>
+                    <p>
+                        ▲蔣紅英家裏主政老五、爲情殉死<lb/>
+                        一事、這幾天<!-- There is a half space. -->各報多有記載、差不<lb/>
+                        多的人、都已知道、並且笑舞台要替<lb/>
+                        他做戲、有人要替他做書、這也算死<lb/>
+                        得不寃枉了、據我曉得、老五同三馬<lb/>
+                        路徐蓉如家的老三、福裕里洪第家<lb/>
+                        的桂寶、靑娥老七、淸和沿的亭亭、<lb/>
+                        多是極要好的姊妹、初三那一天、老<lb/>
+                        五出殯、他們都去送的、現在還有人<lb/>
+                        主張、請這幾個要好姊妹出面、替老<lb/>
+                        五開一個追悼會、表揚表揚他的癡<lb/>
+                        情、<lb/>
+                    </p>
+                    <p>
+                        ▲香國的總統、確是汕頭路琴寓、副<lb/>
+                        總統聞是含第及陳第、雖說是陰厯<lb/>
+                        十五開匭揭曉、論不定還要展期哩、<lb/>
+                    </p>
+                    <p>
+                        ▲有人說、媚蘭臉子像麒麟童、錢素<lb/>
+                        珍臉子像趙君玉、本來錢素珍、外邊<lb/>
+                        有趙老四妹子的傳聞、但是臉子不<lb/>
+                        大狠像、媚蘭像麒麟童、可是再像也<lb/>
+                        沒有了、<lb/>
+                    </p>
                 </div>                       
             </div>   
-            <div type="article">
+            <div type="article" itemid="4039">
                 <div>
                     ◘再復馬二<lb/>
                 </div> 
@@ -633,7 +635,7 @@
                     再答、　寒雲<lb/>
                 </div>              
             </div>
-            <div type="article">
+            <div type="article" itemid="4040">
                 <div>
                     ◘致大雄書<lb/>
                 </div> 
@@ -650,8 +652,8 @@
                     譬如夜聞犬吠、祇好聽之而已、惟貴<lb/>
                     報倘更以此等粗鄙文字刊入、僕便<lb/>
                     不敢妄附其列、以有關人格故也、幸<lb/>
-                    垂察焉、餘不白、<lb/>
+                    垂察焉、餘不白、<pb/>
                 </div>              
             </div>
-    </div>
+      </div>
 </fold>
