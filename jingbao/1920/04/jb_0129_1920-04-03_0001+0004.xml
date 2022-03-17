@@ -79,7 +79,8 @@
                        每罐  一元 
                        每磅  五角 
                        南京路三十七號
-                    --> 
+                    -->
+               <div type="image" itemid="2184"></div>
            </div> 
            <div type="advert" itemid="4308">
                 <!-- 家藏良藥龍虎丹
@@ -100,7 +101,7 @@
                      諸君不信　請即嘗試
                      南洋兄弟烟草公司
                    -->
-                <div type="image" itemid="2184"></div>
+                <div type="image" itemid="2186"></div>
            </div>  
            <div type="advert" itemid="4314">
                 <!-- 西醫張世楷秘製
@@ -248,7 +249,7 @@
                      總發行上海中英大藥房
                    -->
            </div> 
-            <div type="advert" itemid="4352">
+           <div type="advert" itemid="4352">
                 <!-- 光學精深
                      精益公司鑒
                      岑春煊題
@@ -270,7 +271,7 @@
                      精益眼鏡公司啟
                    -->
            </div> 
-            <div type="advert" itemid="4353">
+           <div type="advert" itemid="4353">
                 <!-- 瘡藥
                      天泡瘡膿窩瘡
                      黃水瘡癩疥瘡
@@ -292,7 +293,7 @@
                      興業社謹啓
                    -->
            </div> 
-            <div type="advert" itemid="4354">
+           <div type="advert" itemid="4354">
                 <!-- 真正育亨賓片
                      本藥房新自外洋運到
                      著名藥品育亨賓專治
@@ -306,7 +307,7 @@
                      科發藥房謹啟
                    -->
            </div> 
-            <div type="advert" itemid="4366">
+           <div type="advert" itemid="4366">
                 <!-- Doan's Backache Kidney Pills.
                      背痛
                      各埠大藥房均有出售
@@ -334,7 +335,7 @@
                 <div type="image" itemid="2212">
                        <!-- It is a man has a backache. -->
                 </div>
-                <div type="image" itemid="2212">
+                <div type="image" itemid="2213">
                        <!-- It is a box of kidney pills. -->
                 </div>
            </div>           
