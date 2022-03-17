@@ -3,7 +3,7 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_0133_1920-04-15_0002+0003" lastedit="2022-03-17" lasteditor="ysmlouis">
+<fold xml:id="jb_0133_1920-04-15_0002+0003" lastedit="2022-03-17" lasteditor="ysmlouis" issueid="95">
     <!-- start verso page -->
     <div type="page" page="verso" n="2" mode="vertical-rl" dir="rtl">
         <div type="margin" mode="horizontal-tb" dir="rtl">
@@ -17,7 +17,7 @@
                 庚申年二月廿七日　星期四<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="4049">
             <div>
                 不配廣義<lb/>
             </div>
@@ -84,7 +84,7 @@
                 一個民國的國民、配嗎、不配嗎、<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="4054">
             <div>
                 非文人相輕<lb/>
             </div>
@@ -115,7 +115,7 @@
                 、』那更可以不必、沒的將人家牙齒笑掉了、<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="4055">
             <div>
                 望梅者言<lb/>
             </div>
@@ -189,7 +189,7 @@
                 耳、<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="4056">
             <div>
                 海上新到之兩鬚生<lb/>
             </div>
@@ -223,7 +223,7 @@
         <div type="margin" mode="horizontal-tb" dir="rtl">
             第三版　民國九年四月十五日　社會定期日刊　庚申年二月廿七日　星期四<lb/>                               
         </div>
-        <div type="article">
+        <div type="article" itemid="4104">
             <div>
                 愛克司光錄<lb/>
             </div>
@@ -296,7 +296,7 @@
                 得下來、（未完）<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="4105">
             <div>
                 夕陽紅檻錄<lb/>
             </div>
@@ -355,7 +355,7 @@
                 （未完）<lb/>
             </div>                     
         </div>
-        <div type="article">
+        <div type="article" itemid="4106">
             <div>
                 今之評劇家<lb/>
             </div>
@@ -419,14 +419,14 @@
                     那裏還好意思再作呢、<lb/>
                 </p>
             </div>
-            <div type="article">
-                <div type="image"></div>
-                <div>
-                    ◀上海名妓　飛雲▶<lb/>
-                </div>
-            </div>
         </div>
         <div type="article">
+            <div type="image" itemid="2362"></div>
+            <div>
+                ◀上海名妓　飛雲▶<lb/>
+            </div>
+        </div>
+        <div type="article" itemid="4107">
             <div>
                 梅蘭芳之硏究<!-- The three characters "梅蘭芳" are in a rectangle. --><lb/>
             </div>
@@ -487,7 +487,7 @@
                 全不懂、我就曉得是看看熱閙罷了、<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="4108">
             <div>
                 春江花事<lb/>
             </div>
@@ -495,44 +495,46 @@
                 （老匏）<lb/>
             </div>
             <div>
-                ▲久安里有一個淡秋、這名字不是<lb/>
-                淸雅的狠麽、但是一見這個人、又俗<lb/>
-                、又胖、髣髴像舞台上打英雄樣的、<lb/>
-                咳、生生把一個好名字糟&gaiji;<!-- The character should be written like this: ⿰米𦐇. -->了<lb/>
-            </div>
-            <div>
-                ▲淸和沿的文玉、是個常州小孩子、<lb/>
-                不曉得聽了誰的話、忽然跑掉了、連<lb/>
-                累那主政老三、忙得滿身是汗、四處<lb/>
-                招尋、因爲文玉、是二百五十塊錢押<lb/>
-                在那裏的、若被本生父母知道了、要<lb/>
-                討囘這個人、可就糟了、並且這孩子<lb/>
-                臨走的時節、還把老三的五十幾張<lb/>
-                當票、一起帶了走、因爲老三這個人<lb/>
-                、狠愛小孩子的、這文玉雖然是押下<lb/>
-                來的、他到也同親生女兒一樣看承、<lb/>
-                那裏知道人心難測、會幹出這種事<lb/>
-                來、<lb/>
-            </div>
-            <div>
-                ▲會樂里金湘娥、是固深通英文的<lb/>
-                前輩、臉子也長得狠淸秀、前天忽動<lb/>
-                了北行之念、匆匆的去了、不過去了<lb/>
-                就來的、也同笑六鑑七差不多、到北<lb/>
-                邊去頑一頑罷了、<lb/>
-            </div>
-            <div>
-                ▲梅蘭芳登台那一天、差不多幾個<lb/>
-                出風頭妓女、都去聽的、連火爐老二<lb/>
-                都挨上一份、不過火爐會打算的很<lb/>
-                、早一天、托一個客人定三個座位、<lb/>
-                客人當時想不到、含含糊糊答應了、<lb/>
-                囘頭碰了戲館裏案目一個釘子、因<lb/>
-                爲人家、多是一間包廂一定的、獨有<lb/>
-                火爐三個坐位一定、麻煩的很、那客<lb/>
-                人發脾氣、也就定了一間包廂了、你<lb/>
-                們想火爐都這樣闊綽、其餘就可想<lb/>
-                而知、<lb/>
+                <p>
+                    ▲久安里有一個淡秋、這名字不是<lb/>
+                    淸雅的狠麽、但是一見這個人、又俗<lb/>
+                    、又胖、髣髴像舞台上打英雄樣的、<lb/>
+                    咳、生生把一個好名字糟&gaiji;<!-- The character should be written like this: ⿰米𦐇. -->了<lb/>
+                </p>
+                <p>
+                    ▲淸和沿的文玉、是個常州小孩子、<lb/>
+                    不曉得聽了誰的話、忽然跑掉了、連<lb/>
+                    累那主政老三、忙得滿身是汗、四處<lb/>
+                    招尋、因爲文玉、是二百五十塊錢押<lb/>
+                    在那裏的、若被本生父母知道了、要<lb/>
+                    討囘這個人、可就糟了、並且這孩子<lb/>
+                    臨走的時節、還把老三的五十幾張<lb/>
+                    當票、一起帶了走、因爲老三這個人<lb/>
+                    、狠愛小孩子的、這文玉雖然是押下<lb/>
+                    來的、他到也同親生女兒一樣看承、<lb/>
+                    那裏知道人心難測、會幹出這種事<lb/>
+                    來、<lb/>
+                </p>
+                <p>
+                    ▲會樂里金湘娥、是固深通英文的<lb/>
+                    前輩、臉子也長得狠淸秀、前天忽動<lb/>
+                    了北行之念、匆匆的去了、不過去了<lb/>
+                    就來的、也同笑六鑑七差不多、到北<lb/>
+                    邊去頑一頑罷了、<lb/>
+                </p>
+                <p>
+                    ▲梅蘭芳登台那一天、差不多幾個<lb/>
+                    出風頭妓女、都去聽的、連火爐老二<lb/>
+                    都挨上一份、不過火爐會打算的很<lb/>
+                    、早一天、托一個客人定三個座位、<lb/>
+                    客人當時想不到、含含糊糊答應了、<lb/>
+                    囘頭碰了戲館裏案目一個釘子、因<lb/>
+                    爲人家、多是一間包廂一定的、獨有<lb/>
+                    火爐三個坐位一定、麻煩的很、那客<lb/>
+                    人發脾氣、也就定了一間包廂了、你<lb/>
+                    們想火爐都這樣闊綽、其餘就可想<lb/>
+                    而知、<pb/>
+                </p>
             </div>                      
         </div>        
     </div>
