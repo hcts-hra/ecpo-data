@@ -271,7 +271,7 @@
         </div>
         <!-- start recto page -->
         <div type="page" page="recto" n="3" mode="vertical-rl" dir="rtl">
-            <div type="head">
+            <div type="margin">
                 第三版　民國九年四月三十日　社會定期日刊　庚申年三月十二日　星期五<lb/>                               
             </div>
             <div type="article" itemid="3971">
