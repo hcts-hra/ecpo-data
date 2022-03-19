@@ -3,7 +3,7 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_1329_1930-04-21_0001+0004" lastedit="2021-12-03" lasteditor="ysmlouis" issueid="938">
+<fold xml:id="jb_1329_1930-04-21_0001+0004" lastedit="2022-03-19" lasteditor="ysmlouis" issueid="938">
     <!-- start recto page -->
     <div type="page" page="recto" n="1" mode="vertical-rl" dir="rtl">
            <div type="margin" mode="horizontal-tb" dir="rtl">
@@ -218,7 +218,7 @@
     </div>
     <!-- start verso page -->
     <div type="page" page="verso" n="4" mode="vertical-rl" dir="rtl">
-           <div type="head">
+           <div type="margin">
                   <div>
                          此處<lb/>
                          招登<lb/>
@@ -238,7 +238,7 @@
                   </div>
            </div>
            <div type="advert" itemid="1287">
-                  <!-- 膠申州園路
+                  <!-- 申園膠州路
                        下屆大賽
                        星期三
                        一九三〇年四月二十三日
