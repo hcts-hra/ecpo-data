@@ -3,18 +3,18 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_0132_1920-04-12_0001+0004" lastedit="2022-03-01" lasteditor="xiejia1995" issueid="93">
+<fold xml:id="jb_0134_1920-04-18_0001+0004" lastedit="2022-03-02" lasteditor="xiejia1995" issueid="96">
     <!-- start recto page -->
     <div type="page" page="recto" n="1" mode="vertical-rl" dir="rtl">
            <div type="margin" mode="horizontal-tb" dir="rtl">
                   <div>
-                        第一版　民國九年四月十二日<lb/>
+                        第一版　民國九年四月十八日<lb/>
                   </div>
                   <div  mode="horizontal-tb" dir="ltr">
                         THE　CRYSTAL<lb/>
                   </div>
                   <div>
-                        庚申年二月廿四日　星期一<lb/>
+                        庚申年二月三十日　星期日<lb/>
                   </div>
            </div> 
            <div type="advert">
@@ -38,7 +38,7 @@
                   </div>                 
            </div> 
            <div type="other">
-                  第一百三十二號<lb/> 
+                  第一百三十四號<lb/> 
            </div>
            <div type="advert">
                   <div>
@@ -52,7 +52,7 @@
                          一元五角<lb/>               
                   </div>
            </div>
-           <div type="advert" itemid="4487">
+           <div type="advert" itemid="4670">
                  <!-- 上海五洲藥大房
                       自來血
                       樹皮丸
@@ -71,7 +71,7 @@
                       驗如神　每瓶二元
                    -->
            </div> 
-           <div type="advert" itemid="4488">
+           <div type="advert" itemid="4671">
                  <!-- 上海香港
                       馬玉山
                       糖果餅乾公司
@@ -81,7 +81,7 @@
                       南京路三十七號
                    --> 
            </div> 
-           <div type="advert" itemid="4489">
+           <div type="advert" itemid="4672">
                 <!-- 家藏良藥龍虎丹
                      癰疽發背是爲大瘡不成則已成則濃破血流
                      潰瀾難收不但痛苦難言竟有生命之虞此龍
@@ -94,14 +94,14 @@
                      號門牌內興業社　外埠郵購原班囘件
                    -->
            </div>  
-           <div type="advert" itemid="4490">
+           <div type="advert" itemid="4673">
                 <!-- 大喜香烟
                      十枝大喜　價廉物美
                      諸君不信　請即嘗試
                      南洋兄弟烟草公司
                    -->
            </div>  
-           <div type="advert" itemid="4491">
+           <div type="advert" itemid="4674">
                 <!-- 西醫張世楷秘製
                      中國癧子頸膏藥
                      說明
@@ -136,7 +136,7 @@
                      近購取
                    -->
            </div>  
-           <div type="advert" itemid="4493">
+           <div type="advert" itemid="4675">
                 <!-- 申報館照相銅版部製造各種照
                      相銅版鋅版工料精緻交貨迅速
                      且價格公道本報自出版以來所
@@ -151,7 +151,7 @@
                      本報介紹
                    -->
            </div>  
-           <div type="advert" itemid="4496">
+           <div type="advert" itemid="4676">
                 <!-- 治癆聖葯
                      對口菌
                      癆病怕寒怕暑怕四時八
@@ -173,7 +173,7 @@
                      安里一號時雨藥房啓
                    -->
            </div>  
-           <div type="advert" itemid="4498">
+           <div type="advert" itemid="4677">
                 <!-- 萬應消癧丸
                      頸癧一症患之易愈之難
                      雖有良藥外治然非兼施
@@ -196,9 +196,9 @@
     <!-- start verso page -->
     <div type="page" page="verso" n="4" mode="vertical-rl" dir="rtl">
            <div type="head">
-                  第四版　民國九年四月十二日　晶　報　庚申年二月廿四日　星期一<lb/>                               
+                  第四版　民國九年四月十八日　晶　報　庚申年二月三十日　星期日<lb/>                               
            </div>
-           <div type="advert" itemid="4499">
+           <div type="advert" itemid="4723">
                 <!-- 和盛首飾號
                      本號創自同治季年專辦頭等
                      鑽石珠寶翡翠鐘表精鑲白
@@ -211,7 +211,7 @@
                      七號
                    -->
            </div>  
-           <div type="advert" itemid="4500">
+           <div type="advert" itemid="4724">
                 <!-- 瘡藥
                      天泡瘡膿窩瘡
                      黃水瘡癩疥瘡
@@ -233,7 +233,7 @@
                      興業社謹啟
                    -->
            </div> 
-           <div type="advert" itemid="4501">
+           <div type="advert" itemid="4725">
                 <!-- 精益公司鑒
                      光學精深
                      岑春煊題
@@ -255,7 +255,7 @@
                      精益眼鏡公司啟
                    -->
            </div> 
-           <div type="advert" itemid="4502">
+           <div type="advert" itemid="4726">
                 <!-- 强種
                      精血丸
                      大補身體
@@ -283,11 +283,11 @@
                      上海中英大藥房總發行
                    -->
            </div>             
-           <div type="advert" itemid="4505">
+           <div type="advert" itemid="4727">
                 <!-- 帆船商標
                      立退脚腫丸
                      鈍根書
-                     ◉君患腳腫乎？君患
+                     ⦿君患腳腫乎？君患
                      脚腫而欲痊愈乎？
                      請服帆船商標立
                      退脚腫丸，必
@@ -320,14 +320,14 @@
                      罷。
                      每盒大洋六角
                      外埠另加寄費五分                     
-                     ◉總發行所上海南市
+                     ⦿總發行所上海南市
                      永盛碼頭濟羣製藥社
                      （附白）外埠各寶號如
                      願經售折扣從豐請致
                      函本製藥社接洽可也
                    -->
            </div> 
-           <div type="advert" itemid="4508">
+           <div type="advert" itemid="4728">
                 <!-- 真正育亨賓片
                      本藥房新自外洋運到
                      著名藥品育亨賓專治
@@ -341,7 +341,7 @@
                      科發藥房謹啟
                    -->
            </div> 
-           <div type="advert" itemid="4510">
+           <div type="advert" itemid="4729">
                 <!-- Doan's Backache Kidney Pills.
                      背痛
                      各埠大藥房均有出售
