@@ -3,21 +3,21 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_1325_1930-04-09_0002+0003" lastedit="2022-01-30" lasteditor="ysmlouis" issueid="934">
+<fold xml:id="jb_1325_1930-04-09_0002+0003" lastedit="2022-03-19" lasteditor="ysmlouis" issueid="934">
     <!-- start verso page -->
     <div type="page" page="verso" n="2" dir="rtl" mode="vertical-rl">
         <div type="margin">
             <div dir="rtl" mode="horizontal-tb">
                 晶報<lb/>
             </div>
+            <div type="image" itemid="20819">
+                <!-- It is a cat. -->
+            </div>
             <div type="advert" dir="rtl" mode="horizontal-tb" itemid="1087">
                 <!--  請飲金納氏巴德補血酒以健尊體 -->
             </div>
             <div type="image" itemid="20820">
                 <!-- It is a dog's head. -->
-            </div>
-            <div type="image" itemid="20819">
-                <!-- It is a cat. -->
             </div>
         </div>
         <div type="article" itemid="1155">
