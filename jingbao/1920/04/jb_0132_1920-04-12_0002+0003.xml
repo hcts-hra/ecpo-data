@@ -3,7 +3,7 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_0132_1920-04-12_0002+0003" lastedit="2022-03-02" lasteditor="xiejia1995" issueid="93">
+<fold xml:id="jb_0132_1920-04-12_0002+0003" lastedit="2022-03-20" lasteditor="ysmlouis" issueid="93">
     <!-- start verso page -->
     <div type="page" page="verso" n="2" mode="vertical-rl" dir="rtl">
         <div type="margin" mode="horizontal-tb" dir="rtl">
@@ -105,7 +105,10 @@
                     禁人不叫先生、這也算是遺老平等了、<lb/>
                 </p>               
             </div>
-            <div type="image" dir="rtl" mode="horizontal-tb" itemid="2447">◀梅蘭芳化妝小影▶<lb/></div>           
+            <div type="image" itemid="2447"></div>
+            <div mode="horizontal-tb" dir="rtl">
+                ◀梅蘭芳化妝小影▶<lb/>
+            </div>
         </div>
         <div type="article" itemid="4226">
             <div>
@@ -218,13 +221,13 @@
                 新戲、是不是能脫離舊戲的範圍、應<lb/>
                 現代的思潮、有那通俗敎育的價値、<lb/>
                 諸君旣然歡迎梅蘭芳、對於以上四<lb/>
-                層、是不可不硏究的呵、<lb/>
+                層、是不可不硏究的呵、<pb/>
             </div>
         </div>
     </div>
     <!-- start recto page -->
     <div type="page" page="recto" n="3" mode="vertical-rl" dir="rtl">
-        <div type="head">
+        <div type="margin" mode="horizontal-tb" dir="rtl">
             第三版　民國九年四月十二日　社會定期日刊　庚申年二月廿四日　星期一<lb/>                               
         </div>
         <div type="article" itemid="4229">
@@ -555,7 +558,7 @@
             至優、茲編成『精武本紀』一書、是爲<lb/>
             尙武模範、圖畫裝潢、皆極美麗、承<lb/>
             惠一册、讀之令人生拔山舉鼎之想、<lb/>
-            烏乎其可以無謝、謹謝、　丹翁<lb/>           
+            烏乎其可以無謝、謹謝、　丹翁<pb/>           
         </div>
     </div>
 </fold>
