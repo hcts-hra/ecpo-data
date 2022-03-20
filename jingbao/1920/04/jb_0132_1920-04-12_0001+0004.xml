@@ -3,7 +3,7 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_0132_1920-04-12_0001+0004" lastedit="2022-03-01" lasteditor="xiejia1995" issueid="93">
+<fold xml:id="jb_0132_1920-04-12_0001+0004" lastedit="2022-03-20" lasteditor="ysmlouis" issueid="93">
     <!-- start recto page -->
     <div type="page" page="recto" n="1" mode="vertical-rl" dir="rtl">
            <div type="margin" mode="horizontal-tb" dir="rtl">
@@ -195,7 +195,7 @@
     </div>
     <!-- start verso page -->
     <div type="page" page="verso" n="4" mode="vertical-rl" dir="rtl">
-           <div type="head">
+           <div type="margin" mode="horizontal-tb" dir="rtl">
                   第四版　民國九年四月十二日　晶　報　庚申年二月廿四日　星期一<lb/>                               
            </div>
            <div type="advert" itemid="4499">
@@ -360,12 +360,12 @@
                      胱炎水
                      腫小便
                      有石小
-                     便頻數
+                     便頻教
                      小便短
                      少等夙
                      著奇效
                      兜安氏祕製保腎丸                     
                    -->
            </div>           
-    </div>
+       </div>
 </fold>
