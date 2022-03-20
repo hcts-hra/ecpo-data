@@ -3,7 +3,7 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_0130_1920-04-06_0002+0003" lastedit="2022-03-01" lasteditor="xiejia1995" issueid="91">
+<fold xml:id="jb_0130_1920-04-06_0002+0003" lastedit="2022-03-20" lasteditor="ysmlouis" issueid="91">
     <!-- start verso page -->
     <div type="page" page="verso" n="2" mode="vertical-rl" dir="rtl">
         <div type="margin" mode="horizontal-tb" dir="rtl">
@@ -256,13 +256,13 @@
                 較量形似且不得。無怪糾謬來覃谿。<lb/>
                 桑俞兩考失眉睫。至寶晚出勿復疑。<lb/>
                 古人遺物存者幾。今人所有古亦稀。<lb/>
-                工良質粹足自怡。尋數著錄眞書癡。<lb/>
+                工良質粹足自怡。尋數著錄眞書癡。<pb/>
             </div>
         </div>   
     </div>
     <!-- start recto page -->
     <div type="page" page="recto" n="3" mode="vertical-rl" dir="rtl">
-        <div type="head">
+        <div type="margin" mode="horizontal-tb" dir="rtl">
             第三版　民國九年四月六日　社會定期日刊　庚申年二月十八日　星期二<lb/>                               
         </div>
         <div type="article" itemid="3790">
@@ -590,7 +590,7 @@
                 第二天挽一個姓金的客人、再同娘<lb/>
                 說、老七的娘、連姓金的都埋怨了、<lb/>
                 無可如何、老七的總統熱、被他娘打<lb/>
-                消了、<lb/>
+                消了、<pb/>
             </div>            
         </div>        
     </div>
