@@ -3,7 +3,7 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_0134_1920-04-18_0002+0003" lastedit="2022-03-03" lasteditor="xiejia1995" issueid="96">
+<fold xml:id="jb_0134_1920-04-18_0002+0003" lastedit="2022-03-20" lasteditor="ysmlouis" issueid="96">
     <!-- start verso page -->
     <div type="page" page="verso" n="2" mode="vertical-rl" dir="rtl">
         <div type="margin" mode="horizontal-tb" dir="rtl">
@@ -327,13 +327,13 @@
                 已編的歌曲狠是不錯、如國民鏡、拆<lb/>
                 白貪花報、大逛新世界、狠是可聽、<lb/>
                 並把軍隊樂歌腔調、也加在單絃內、<lb/>
-                能夠創造新聲、可謂單絃中的特色、<lb/>
+                能夠創造新聲、可謂單絃中的特色、<pb/>
             </div>
         </div>
     </div>
     <!-- start recto page -->
     <div type="page" page="recto" n="3" mode="vertical-rl" dir="rtl">
-        <div type="head">
+        <div type="margin" mode="horizontal-tb" dir="rtl">
             第三版　民國九年四月十八日　社會定期日刊　庚申年二月三十日　星期日<lb/>                               
         </div>
         <div type="article" itemid="4048">
@@ -650,9 +650,8 @@
                 ▲這幾天笑舞台唱西太后、窰子裏<lb/>
                 有許多姑娘在那裏看、有人說不減<lb/>
                 民鳴時代、黃皮落蓬一般人的現象<lb/>
-                哩、<lb/>
+                哩、<pb/>
             </div>                      
         </div>        
     </div>
 </fold>
-        
