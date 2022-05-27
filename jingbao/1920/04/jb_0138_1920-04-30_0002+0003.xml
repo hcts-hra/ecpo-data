@@ -3,7 +3,7 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_0138_1920-04-30_0002+0003" lastedit="2022-03-04" lasteditor="xiejia1995" issueid="100">
+<fold xml:id="jb_0138_1920-04-30_0002+0003" lastedit="2022-03-20" lasteditor="ysmlouis" issueid="100">
     <!-- start verso page -->
     <div type="page" page="verso" n="2" mode="vertical-rl" dir="rtl">
         <div type="margin" mode="horizontal-tb" dir="rtl">
@@ -264,14 +264,14 @@
                         勃谿故、互不相交語、前乃合演烏龍<lb/>
                         院、演時亦彼此不相下、觀之忍俊不<lb/>
                         禁、說者謂殆有似末年之譚金福田<lb/>
-                        桂鳳二老、<lb/>
+                        桂鳳二老、<pb/>
                     </p>                   
                 </div>
             </div>
         </div>
         <!-- start recto page -->
         <div type="page" page="recto" n="3" mode="vertical-rl" dir="rtl">
-            <div type="margin">
+            <div type="margin" mode="horizontal-tb" dir="rtl">
                 第三版　民國九年四月三十日　社會定期日刊　庚申年三月十二日　星期五<lb/>                               
             </div>
             <div type="article" itemid="3971">
@@ -572,7 +572,7 @@
                     ◘更正　廿七日本報梅蘭芳之硏究<lb/>
                     、（好像前淸的起居注官）句、被手民<lb/>
                     誤爲（前淸顯官的起居注、）合亟更<lb/>
-                    正、<lb/>
+                    正、<pb/>
                 </div> 
             </div>
 </fold>
