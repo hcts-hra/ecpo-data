@@ -3,7 +3,7 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_0134_1920-04-18_0001+0004" lastedit="2022-03-02" lasteditor="xiejia1995" issueid="96">
+<fold xml:id="jb_0134_1920-04-18_0001+0004" lastedit="2022-03-20" lasteditor="ysmlouis" issueid="96">
     <!-- start recto page -->
     <div type="page" page="recto" n="1" mode="vertical-rl" dir="rtl">
            <div type="margin" mode="horizontal-tb" dir="rtl">
@@ -195,7 +195,7 @@
     </div>
     <!-- start verso page -->
     <div type="page" page="verso" n="4" mode="vertical-rl" dir="rtl">
-           <div type="margin">
+           <div type="margin" mode="horizontal-tb" dir="rtl">
                   第四版　民國九年四月十八日　晶　報　庚申年二月三十日　星期日<lb/>                               
            </div>
            <div type="advert" itemid="4723">
@@ -287,7 +287,7 @@
                 <!-- 帆船商標
                      立退脚腫丸
                      鈍根書
-                     ⦿君患腳腫乎？君患
+                     ◉君患腳腫乎？君患
                      脚腫而欲痊愈乎？
                      請服帆船商標立
                      退脚腫丸，必
@@ -320,7 +320,7 @@
                      罷。
                      每盒大洋六角
                      外埠另加寄費五分                     
-                     ⦿總發行所上海南市
+                     ◉總發行所上海南市
                      永盛碼頭濟羣製藥社
                      （附白）外埠各寶號如
                      願經售折扣從豐請致
@@ -360,12 +360,13 @@
                      胱炎水
                      腫小便
                      有石小
-                     便頻數
+                     便頻教
                      小便短
                      少等夙
                      著奇效
                      兜安氏祕製保腎丸                     
                    -->
+                <pb/>
            </div>           
     </div>
 </fold>
