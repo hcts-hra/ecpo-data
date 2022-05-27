@@ -20,7 +20,7 @@
 	    		面議<lb/>
 	    	</div>
         </div>
-		<div type="article">
+		<div type="article" itemid="1108">
 		    <div>
 			　　梅蘭芳赴美之成功<lb/>
 		    </div>
@@ -65,7 +65,7 @@
 			</p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="1109">
 			<div>
 				記四月一日之説謊莭<lb/>
 			</div>
@@ -93,7 +93,7 @@
 				則亦何有於説謊節與愚人節也、<lb/>
 			</div>
 		</div>
-	    <div type="article">
+	    <div type="article" itemid="1112">
 	    	<div>
 	    		鴛鴦枕<lb/>
 	    	</div>
@@ -133,15 +133,15 @@
 	    	<div>
 	    		◘全國運動會中之蔣主席（久康）<lb/>
 	    	</div>
-	    	<div type="image"> </div>
+	    	<div type="image" itemid="564"> </div>
 	    </div>	   
 	    <div>
 	    	<div>
 	    		◘全國運動會中之吳稚暉君（久康）<lb/>
 	    	</div>
-	    	<div type="image"> </div>	    	
+	    	<div type="image" itemid="565"> </div>	    	
 	    </div>	   
-		<div type="article">
+		<div type="article" itemid="1110">
 			<div>
 				蔣主席來滬之一筵席<lb/>
 			</div>
@@ -175,7 +175,7 @@
 				通融、命出店挑囘云、<lb/>		
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="870">
 			<div>
 				◘勘誤　上期法院記事中<lb/>
 				、王振南之振字誤植震、此<lb/>
@@ -183,7 +183,7 @@
 				<r style="transform: rotate(90deg);">Judge</r>字u誤植a<lb/>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="1111">
 			<div>
 				淮盐頺唐之現況<lb/>
 			</div>
@@ -230,7 +230,7 @@
 			</p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="1113">
 			<div>
 				松江運副㕥咨文代辯訴<lb/>
 			</div>
@@ -270,14 +270,13 @@
 				</p>
 			</div>
 		</div>
-		<div type="article">
-			<div type="image"></div>
+		<div type="image" itemid="566">
 			<div dir="rtl" mode="horizontal-tb">
 				◘全國運動會大門◘<lb/>
 				（程久康自杭州寄）<lb/>				
 		    </div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="1114">
 			<div>
 				全國運動會新聞之競爭<lb/>
 			</div>
@@ -325,7 +324,7 @@
 			晶報<lb/>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="1115">
 		    <div>
 		    	無缐電學生控校長<lb/>		    	
 		    </div>
@@ -357,17 +356,17 @@
 				可興訟者、當不知凡幾也、<lb/>			
 	    	</div>
 		</div>
-		<div type="article">
-			<div type="image"></div>
+		<div type="article" itemid="1116">
+			<div type="image" itemid="567"></div>
 			<div>
 				順天時報之臨別贈言<lb/>
 			</div>		
 			<div>
-			    ））<lb/>
+			    （<lb/>
 				恨我<lb/>
 				自北<lb/>
 				平寄<lb/>
-				（（<lb/>
+				）<lb/>
 			</div>
 			<div>
 				日人所辦之順天時報、對於滿<lb/>
@@ -394,13 +393,12 @@
 				暫無宣傳機關矣、<lb/>
 			</div>
         </div>
-		<div type="article">			
+		<div type="image" itemid="568">			
 			<div>
 				◘海軍會議之合久必分◘<lb/>				
-			</div>
-			<div type="image"></div>
+			</div>			
 		</div>
-		<div type="article">
+		<div type="article" itemid="1117">
 			<div>
 			    明華銀行之歡笑主義<lb/>
 			</div>
@@ -430,15 +428,15 @@
 				此後鴻圖駿啓、如春風廣被無涯矣、<lb/>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="1118">
 			<div>
 				周老五失珮記<lb/>
 			</div>
 			<div dir="rtl" mode="horizontal-tb">
-			         （如是）<lb/>
+			    （如是）<lb/>
 			</div>
 			<div>
-			          易居周五小姐處、有女郎<lb/>
+			    易居周五小姐處、有女郎<lb/>
 				佩珮、年十三歲、秀外慧中<lb/>
 				、賓從無不悅之、近忽以出<lb/>
 				走聞、有往弔者、易居中人<lb/>
@@ -482,14 +480,12 @@
 				致五、則似非信史也、<lb/>
 			</div>
 		</div>
-		<div type="article">
+		<div type="image" itemid="569">
 			<div>
 				◘憶春老八◘<lb/>
-			</div>
-			<div type="image"></div>							
+			</div>										
 		</div>
-		<div type="article">
-			<div>
+		<div type="article" itemid="1119">
 				<p>
 					◘北平參加全國運動會<lb/>
 					之經費、由市政府墊付<lb/>
@@ -501,6 +497,8 @@
 					不讓前次之慰勞防俄將<lb/>
 					士大會串、（恨我）<lb/>
 				</p>
+		</div>
+		<div type="article" itemid="1120">
 				<p>
 					◘日前有顧某偕陳張諸<lb/>
 					姓駕舟經洋澄湖、突遇<lb/>
@@ -509,10 +507,9 @@
 					一子、又有一烟酒公賣所派員赴鄉<lb/>
 					收捐、亦被劫、嗣以委員曾在淸、遂<lb/>
 					釋之去、（仲鷂）<lb/>
-				</p>
-			</div>
+				</p>			
 		</div>
-		<div type="article">
+		<div type="article" itemid="1121">
 			<div>
 				中壘揮金𢠢洛妃<lb/>
 			</div>
@@ -545,8 +542,7 @@
 				毫末、亦可見迷信之不足恃也、<lb/>
 			</div>
 	    </div>
-		<div type="article">
-			<div>
+		<div type="article" itemid="1122">			
 				<p>
 					◘自蒸汽車開行後、往來淞滬者、多<lb/>
 					喜其較火車穩速、攝影家張瑞鎏君、<lb/>
@@ -554,15 +550,16 @@
 					張家於淞、車行頻繁、謂乘蒸汽車、<lb/>
 					出門渾忘其苦、（成言）<lb/>
 				</p>
+		</div>		
+		<div type="article" itemid="1123">
 				<p>
 					◘蔣榖生君之如夫人（前名妓陳美<lb/>
 					美老七）等姊妹八人、遊杭燒香、五<lb/>
 					宿而反、因各旅舍均爲運動會選手<lb/>
 					及觀衆所占、故居菩提庵、鳳）<lb/>
-				</p>
-			</div>
+				</p>			
 		</div>
-			<div type="article">
+			<div type="article" itemid="1124">
 				<div>
 					時第中之花媛<lb/>				
 		    	</div>
@@ -590,7 +587,7 @@
 					可比、經老三控御、更易驤首於紫陌<lb/>
 					中矣、<lb/>
 				</div>
-				<div type="image"></div>
+				<div type="image" itemid="571"></div>
 				<div>
 					◘時第老八◘<lb/>
 				</div>
