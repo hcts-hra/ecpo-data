@@ -22,7 +22,7 @@
                 中華民國貳拾捌年四月廿一日　星期五　今日貳張售國幣貳分四厘　本報創於民國八年三月三日<lb/>
             </div> 
         </div>
-        <div type="advert">
+        <div type="advert" itemid="445">
             <div>
                 煙中<lb/>
                 鐵軍<lb/>
@@ -33,14 +33,14 @@
                 認明&gaiji; <!-- 者? --> &gaiji; <!-- 牌? --><lb/>
                 永不吃虧<lb/>
             </div>
-            <div type="image"></div>
-            <div type="image"></div>
+            <div type="image" itemid="410"></div>
+            <div type="image" itemid="411"></div>
             <div mode="horizontal-tb" dir="rtl">
                 金字塔香煙<lb/>
                 中國福新煙公司出品<lb/>
             </div>
         </div>
-        <div type="advert" mode="horizontal-tb" dir="rtl">
+        <div type="advert" itemid="580" mode="horizontal-tb" dir="rtl">
             海上第一流攝影專家<lb/>
             國泰藝術照相館<lb/>
             定價經濟化照相貴族化<lb/>
@@ -48,7 +48,7 @@
             地址南京路五五號<lb/>
             電話九〇三九三號<lb/>
         </div>
-        <div type="article">
+        <div type="article" itemid="273">
             <div>
                 各路華軍大擧反攻<lb/>
                 克復石龍包圍南昌<lb/>
@@ -99,7 +99,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="274">
             <div>
                 國際時事<lb/>
                 地圖<lb/>
@@ -154,7 +154,9 @@
                     際時事的研究、<lb/>
                 </p>
             </div>
-            <div type="image"></div>
+            <div type="image" itemid="412"></div>
+        </div>
+        <div type="article" itemid="275">>
             <div>
                 地中海<lb/>
                 的海軍<lb/>
@@ -197,7 +199,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="281">
             <div>
                 抱定抗戰决心<lb/>
                 中國現决不談和<lb/>
@@ -223,7 +225,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="47248">
             <div mode="horizontal-tb" dir="rtl">
                 國府明令<lb/>
                 褒揚吳梅<lb/>
@@ -240,7 +242,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="277">
             <div>
                 開封城緊閉<lb/>
                 日僞鈔大跌<lb/>
@@ -264,7 +266,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="278">
             <div>
                 牯嶺未失陷<lb/>
             </div>
@@ -282,7 +284,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="279">
             <div>
                 桂施政計劃<lb/>
             </div>
@@ -303,7 +305,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="280">
             <div mode="horizontal-tb" dir="rtl">
                 蘇北戰事展開<lb/>
             </div>
@@ -325,7 +327,7 @@
                 </p>
             </div>
         </div>
-        <div type="other">
+        <div type="advert" itemid="446"> 
             <div>
                 本報復刊小啓<lb/>
             </div>
@@ -351,7 +353,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="282">
             <div>
                 綏包車不通<lb/>
             </div>
@@ -367,7 +369,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="283">
             <div>
                 魯豫皖邊區<lb/>
                 日軍受襲擊<lb/>
@@ -385,7 +387,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="284">
             <div>
                 同蒲路華軍<lb/>
                 向臨汾推進<lb/>
@@ -405,7 +407,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="285">
             <div>
                 德羅談話<lb/>
                 羅提供保證<lb/>
@@ -433,7 +435,7 @@
         <div type="margin" mode="horizontal-tb" dir="rtl">
              中華民國二十八年四月廿一日　晶報　星期五　第四版<lb/>
         </div>
-        <div type="article">
+        <div type="article" itemid="312">
             <div mode="horizontal-tb" dir="rtl">
                 法租界懸旗糾紛<lb/>
             </div>
@@ -516,7 +518,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="313">
             <div>
                 河內<lb/>
                 航郵已通<lb/>
@@ -551,7 +553,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="314">
             <div>
                 外交界動態<lb/>
             </div>
@@ -582,7 +584,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="315">
             <div mode="horizontal-tb" dir="rtl">
                 本市精神總動員會<lb/>
                 昨奉張群來電嘉勉<lb/>
@@ -609,7 +611,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="316">
             <div>
                 西北金融網<lb/>
                 已完成<lb/>
@@ -644,7 +646,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="317">
             <div>
                 稻草船戶<lb/>
                 不堪勒索停業<lb/>
@@ -685,7 +687,7 @@
                 同業、一致反對云<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="318">
             <div>
                 任何國國民<lb/>
                 應有懸國旗之自由<lb/>
@@ -738,7 +740,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="319">
             <div>
                 公共租界<lb/>
                 日捕加薪<lb/>
@@ -769,7 +771,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="320">
             <div>
                 江海關對外貿易<lb/>
                 第一季統計<lb/>
@@ -797,7 +799,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="321">
             <div>
                 淪陷區公產<lb/>
                 傳「維新政府」有接收說<lb/>
@@ -814,7 +816,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="322">
             <div>
                 滑稽<lb/>
                 小說<lb/>
@@ -845,7 +847,7 @@
                 </p>
             </div>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="590">
             <div mode="horizontal-tb" dir="rtl">
                 暑期之必需品<lb/>
             </div>
@@ -867,7 +869,7 @@
                 美華汽水公司出品<lb/>
             </div>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="460">
             <div>
                 商<lb/>
             </div>
@@ -877,7 +879,7 @@
             <div>
                 標<lb/>
             </div>
-            <div type="image"></div>
+            <div type="image" itemid="416"></div>
             <div mode="horizontal-tb" dir="rtl">
                 大喜<lb/>
             </div>
@@ -904,7 +906,7 @@
                 上海正泰信記橡膠廠出品<lb/>
             </div>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="591">
             <div>
                 痰敵<lb/>
             </div>
@@ -930,19 +932,19 @@
             <div mode="horizontal-tb" dir="rtl">
                 發行<lb/>
             </div>
-            <div type="image"></div>
+            <div type="image" itemid="417"></div>
             <div>
                 分片露<lb/>
             </div>
-            <div type="image"></div>
+            <div type="image" itemid="418"></div>
         </div>
-        <div type="margin">
+        <div type="advert" itemid="458">
                本報具有廿一年的歷史是小型報紙鼻祖銷路普遍全國刊登廣吿最有效力<pb/>
         </div>
     </div>
     <!-- start middle of the fold -->
     <div type="margin" dir="rtl" mode="vertical-rl">
-        <div type="advert">
+        <div type="advert" itemid="592">
             <div mode="horizontal-tb" dir="rtl">
                 四馬路<lb/>
                 晝錦里口<lb/>
@@ -969,7 +971,7 @@
                 華貴禮堂　租費從廉<lb/>
             </div>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="593">
             <div mode="horizontal-tb" dir="rtl">
                 好美塢樂園<lb/>
             </div>
@@ -1006,7 +1008,7 @@
                 電　話<lb/>
             </div>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="594">
             <div>
                 陽痿<lb/>
             </div>
