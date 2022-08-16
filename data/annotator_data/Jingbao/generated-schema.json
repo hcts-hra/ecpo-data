@@ -1,0 +1,94 @@
+{
+    "$schema": "https://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+        "items": {"$ref": "#/definitions/items_type"},
+        "partOf": {"$ref": "#/definitions/partOf_type"},
+        "@context": {"type": "string"},
+        "startIndex": {"type": "integer"},
+        "next": {"type": "string"},
+        "last": {"type": "string"},
+        "type": {"type": "string"},
+        "id": {"type": "string"}
+    },
+    "definitions": {
+        "value_type": {
+            "type": "object",
+            "properties": {
+                "color": {"type": "string"},
+                "name": {"type": "string"},
+                "label": {"type": "string"}
+            }
+        },
+        "body_type": {
+            "type": "array",
+            "minItems": 0,
+            "items": {
+                "type": "object",
+                "properties": {
+                    "value": {"$ref": "#/definitions/value_type"},
+                    "type": {"type": "string"}
+                },
+                "required": [
+                    "type",
+                    "value"
+                ]
+            }
+        },
+        "selector_type": {
+            "type": "object",
+            "properties": {
+                "value": {"type": "string"},
+                "type": {"type": "string"}
+            }
+        },
+        "target_type": {
+            "type": "array",
+            "minItems": 0,
+            "items": {
+                "type": "object",
+                "properties": {
+                    "type": {"type": "string"},
+                    "source": {"type": "string"},
+                    "id": {"type": "string"},
+                    "selector": {"$ref": "#/definitions/selector_type"}
+                },
+                "required": [
+                    "selector",
+                    "source",
+                    "id",
+                    "type"
+                ]
+            }
+        },
+        "items_type": {
+            "type": "array",
+            "minItems": 0,
+            "items": {
+                "type": "object",
+                "properties": {
+                    "body": {"$ref": "#/definitions/body_type"},
+                    "created": {"type": "string"},
+                    "target": {"$ref": "#/definitions/target_type"},
+                    "type": {"type": "string"},
+                    "id": {"type": "string"}
+                },
+                "required": [
+                    "created",
+                    "id",
+                    "body",
+                    "type",
+                    "target"
+                ]
+            }
+        },
+        "partOf_type": {
+            "type": "object",
+            "properties": {
+                "total": {"type": "integer"},
+                "modified": {"type": "string"},
+                "id": {"type": "string"}
+            }
+        }
+    }
+}
