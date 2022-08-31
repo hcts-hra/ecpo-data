@@ -9,16 +9,15 @@
         <div type="margin" mode="horizontal-tb" dir="rtl">
                 中華民國二十八年四月廿一日　晶報　星期五　第五版<lb/>
         </div>
-        <div type="article">
+        <div type="image" itemid="419">
             <div dir="rtl" mode="horizontal-tb">
                 文化營<lb/>
-            </div>
-            <div type="image"></div>
+            </div>            
             <div dir="rtl" mode="horizontal-tb">
                 黔野主編<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="324">
             <div>
                 旗主奴<lb/>
             </div>
@@ -57,7 +56,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="325">
             <div>
                 亞洲內幕<lb/>
                 蔣介石上將　　　（一）<lb/>
@@ -178,7 +177,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="323">
             <div>
                 詩經話譯<lb/>
             </div>
@@ -222,8 +221,7 @@
                 修禊日的遊春詩。<lb/>
             </div>
         </div>
-        <div type="article">
-            <div type="image"></div>
+        <div type="image" itemid="420">           
             <div mode="horizontal-tb" dir="rtl">
                 大地作者　賽珍珠女士<lb/>
             </div>
@@ -258,7 +256,7 @@
                 （答案見明日本營）<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="327">
             <div>
                 愛國志士<lb/>
             </div>
@@ -450,14 +448,14 @@
                 </p>
             </div>
         </div>
-        <div type="other">
+        <div type="other" itemid="595">
             本營地絕對公<lb/>
             開，歡迎賜稿，<lb/>
             一經刊出，卽致<lb/>
             薄酬。<lb/>
             營地管理員<lb/>
         </div>
-        <div type="article">
+        <div type="article" itemid="328">
             <div mode="horizontal-tb" dir="rtl">
                 袁寒雲先生手寫<lb/>
                 丁卯日記之一<lb/>
@@ -491,8 +489,7 @@
         <div type="margin" mode="horizontal-tb" dir="rtl">
             中華民國二十八年四月廿一日　晶報　星期五　第八版<lb/>
         </div>
-        <div type="article">
-            <div type="image"></div>
+        <div type="image" itemid="429">            
             <div>
                 影<lb/>
                 城<lb/>
@@ -501,7 +498,7 @@
                 豐田編輯<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="342">
             <div>
                 王次龍不吿而別<lb/>
             </div>
@@ -523,7 +520,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="343">
             <div>
                 談瑛不<lb/>
                 出亂子<lb/>
@@ -548,13 +545,12 @@
                 </p>
             </div>
         </div>
-        <div type="article">
-            <div type="image"></div>
+        <div type="image" itemid="430"> 
             <div mode="horizontal-tb" dir="rtl">
                 陳雲裳之『古典美』<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="344">
             <div>
                 小汽<lb/>
                 車唱<lb/>
@@ -597,7 +593,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="346">
             <div mode="horizontal-tb" dir="rtl">
                 邵醉翁來滬<lb/>
                 關於他的「雄心」<lb/>
@@ -630,7 +626,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="345">
             <div>
                 『桃色慘案』就是『<lb/>
                 小博士』<lb/>
@@ -661,7 +657,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="347">
             <div>
                 國華公司老闆是一個<lb/>
                 書迷<lb/>
@@ -685,12 +681,12 @@
                 </p>
             </div>
         </div>
-        <div type="other">
+        <div type="other" itemid="606">
             本報各版<lb/>
             公開歡迎<lb/>
             讀者投稿<lb/>
         </div>
-        <div type="article">
+        <div type="article" itemid="348">
             <div>
                 珍屑<lb/>
             </div>
@@ -710,7 +706,7 @@
                 </p>
             </div>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="607">
             <div>
                 中西按摩院<lb/>
             </div>
@@ -722,7 +718,7 @@
                 （愛文義路口）<lb/>
             </div>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="608">
             <div>
                 按摩浴室<lb/>
             </div>
@@ -733,13 +729,13 @@
                 寺路西摩路口滄州飯店隔壁滄州別墅卅二號樓上<lb/>
             </div>
         </div>
-        <div type="advert">
-            <div type="image"></div>
+        <div type="advert" itemid="474">
+            <div type="image" itemid="433"></div>
             <div mode="horizontal-tb" dir="rtl">
                 雙妹牌<lb/>
                 生髮油<lb/>
             </div>
-            <div type="image"></div>
+            <div type="image" itemid="434"></div>
             <div>
                 用生髮油<lb/>
                 自覺頭上<lb/>
@@ -748,7 +744,7 @@
                 中國廣生行出品<lb/>
             </div>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="609">
             <div mode="horizontal-tb" dir="rtl">
                 林肯<lb/>
                 藥水牙膏<lb/>
@@ -770,7 +766,7 @@
                 各百貨店<lb/>
                 均有出售<lb/>
             </div>
-            <div type="image">
+            <div type="image" itemid="431">
                 <!-- <div>
                           LINCOLN<lb/>
                           CARBOLIC<lb/>
@@ -804,7 +800,7 @@
                      </div>-->
             </div>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="610">
             <div>
                 石路二馬路口<lb/>
             </div>
@@ -881,7 +877,7 @@
                 還洋<lb/>
             </div>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="611">
             <div mode="horizontal-tb" dir="rtl">
                 南京路<lb/>
             </div>
@@ -927,7 +923,7 @@
     
     <!--start middle of the fold-->
     <div type="margin">
-        <div type="advert">
+        <div type="advert" itemid="612">
             <div>
                 毛興昌<lb/>
             </div>
@@ -948,8 +944,8 @@
                 毛興昌啓<lb/>
             </div>
         </div>
-        <div type="advert">
-            <div type="image"></div>
+        <div type="advert" itemid="613">
+            <div type="image" itemid="435"></div>
             <div mode="horizontal-tb" dir="rtl">
                 一滴清<lb/>
                 眼薬水<lb/>
@@ -984,7 +980,7 @@
             <div>
                 新華藥行發行<lb/>
             </div> 
-            <div type="image"></div>
+            <div type="image" itemid="436"></div>
             <div>
                 認明<lb/>
                 商標<lb/>
