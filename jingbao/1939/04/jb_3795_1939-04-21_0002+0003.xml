@@ -3,13 +3,13 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3795_1939-04-21_0002+0003" lastedit="2021-11-04" lasteditor="ysmlouis">
+<fold xml:id="jb_3795_1939-04-21_0002+0003" lastedit="2021-11-04" lasteditor="ysmlouis" issueid="20">
     <!-- start verso page -->
     <div type="page" page="verso" n="2" mode="vertical-rl" dir="rtl">
         <div type="margin" mode="horizontal-tb"  dir="rtl" > 
                 中華民國二十八年四月廿一日　晶報　星期五　第二版<lb/>     
         </div>
-        <div type="article">
+        <div type="article" itemid="286">
             <div>
                 英法通知蘇聯<lb/>
                 締結三强協定<lb/>
@@ -36,7 +36,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="287">
             <div>
                 墨索里尼昨發表演說<lb/>
                 猶侈言和平正義<lb/>
@@ -65,7 +65,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="288">
             <div>
                 英設軍需部<lb/>
             </div>
@@ -82,7 +82,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="289">
             <div>
                 汪未離河內<lb/>
             </div>
@@ -99,7 +99,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="290">
             <div>
                 國共無磨擦<lb/>
             </div>
@@ -117,7 +117,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="291">
             <div>
                 中航機<lb/>
                 試飛仰光<lb/>
@@ -138,7 +138,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="292">
             <div>
                 德機越比境<lb/>
                 被迫降落<lb/>
@@ -155,7 +155,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="293">
             <div>
                 德祝壽盛典<lb/>
                 軍事大檢閱<lb/>
@@ -182,7 +182,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="294">
             <div>
                 美任命西使<lb/>
             </div>
@@ -197,7 +197,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="295">
             <div>
                 華政府撥款千萬元<lb/>
                 發展西部生產<lb/>
@@ -224,7 +224,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="296">
             <div>
                 美參院通過<lb/>
                 文生海軍案<lb/>
@@ -246,7 +246,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="297">
             <div>
                 對美總統建議<lb/>
                 孔極盼成功<lb/>
@@ -268,7 +268,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="298">
             <div mode="horizontal-tb" dir="rtl">
                 蔣寄世展會之至寶<lb/>
                 白玉神龕無恙<lb/>
@@ -291,7 +291,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="299">
             <div>
                 長篇<lb/>
                 小說<lb/>
@@ -339,7 +339,7 @@
                 </p>
             </div>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="581">
             <div mode="horizontal-tb" dir="rtl">
                 海上別樹一幟服飾專家<lb/>
             </div>
@@ -383,7 +383,7 @@
                 地址九江路雲南路西<lb/>
             </div>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="582">
             <div>
                 老協大祥<lb/>
             </div>
@@ -414,13 +414,13 @@
                 八仙橋小菜場<lb/>
             </div>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="583">
             <div mode="horizontal-tb" dir="rtl">
                 常服<lb/>
                 中英菓子𥂁<lb/>
                 永保健康<lb/>
             </div>
-            <div type="image"></div>
+            <div type="image" itemid="413"></div>
             <div>
                 降火消積<lb/>
                 淸血潤腸<lb/>
@@ -435,7 +435,7 @@
                 分發行　霞飛路國泰大戲院對面<lb/>
             </div>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="449">
             <div mode="horizontal-tb" dir="rtl">
                 振新<lb/>
                 洗染廠<lb/>
@@ -486,7 +486,7 @@
     </div>
     <!-- start middle of the fold -->
     <div type="margin" mode="vertical-rl" dir="rtl">
-        <div type="advert">
+        <div type="advert" itemid="584">
             <div mode="horizontal-tb" dir="rtl">
                 梅邨<lb/>
             </div>
@@ -516,7 +516,7 @@
                     壁<lb/>
             </div>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="585">
             <div>
                 小兒科<lb/>
                 內　科<lb/>
@@ -537,7 +537,7 @@
                 ▲電話八一〇四二號<lb/>
             </div>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="586">
             <div>
                 陳效懷醫師<lb/>
             </div>
@@ -568,7 +568,7 @@
         <div type="margin" mode="horizontal-tb" dir="rtl">
                 中華民國二十八年四月廿一日　晶報　星期五　第三版<lb/>
         </div>
-        <div type="article">
+        <div type="article" itemid="300">
             <div mode="horizontal-tb" dir="rtl">
                 滬西血案<lb/>
             </div>
@@ -597,7 +597,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="301">
             <div>
                 秦潤卿<lb/>
                 有子不肖<lb/>
@@ -651,7 +651,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="304">
             <div>
                 游春之罪惡<lb/>
                 誘姦孤寡弟媳婦<lb/>
@@ -677,7 +677,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="302">
             <div>
                 潘承坰<lb/>
                 昨被擲糞<lb/>
@@ -705,7 +705,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="303">
             <div>
                 難民挺而走險<lb/>
                 傷愈後昨解法院<lb/>
@@ -784,7 +784,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="305">
             <div>
                 煙兌號經理侵占<lb/>
                 供稱已輸完<lb/>
@@ -826,7 +826,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="306">
             <div mode="horizontal-tb" dir="rtl">
                 影星黎莉莉舊居<lb/>
                 發生逼遷糾紛<lb/>
@@ -869,7 +869,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="307">
             <div>
                 慶餘里客房<lb/>
                 被逼遷移<lb/>
@@ -912,7 +912,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="308">
             <div mode="horizontal-tb" dir="rtl">
                 拘獲竊賊十一名<lb/>
                 專竊機器馬達<lb/>
@@ -948,7 +948,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="309">
             <div>
                 火警兩起<lb/>
             </div>
@@ -986,7 +986,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="310">
             <div>
                 經濟簡訊<lb/>
             </div>
@@ -1059,7 +1059,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="311">
             <div>
                 今雜事祕<lb/>
             </div>
@@ -1093,8 +1093,8 @@
                 </p>
             </div>
         </div>
-        <div type="advert">
-            <div type="image"></div>
+        <div type="advert" itemid="587">
+            <div type="image" itemid="414"></div>
             <div mode="horizontal-tb" dir="rtl">
                 本品特効<lb/>
             </div>
@@ -1110,7 +1110,7 @@
             <div mode="horizontal-tb" dir="rtl">
                 當歸兒<lb/>
             </div>
-            <div type="image"></div>
+            <div type="image" itemid="415"></div>
             <div>
                 當歸爲婦人<lb/>
                 科聖藥，早<lb/>
@@ -1128,7 +1128,7 @@
                 藥房均售<lb/>
             </div>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="588">
             <div mode="horizontal-tb" dir="rtl">
                 大華舞廳<lb/>
             </div>
@@ -1165,7 +1165,7 @@
                 電話八一三八一號<lb/>
             </div>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="589">
             <div mode="horizontal-tb" dir="rtl">
                 虎標<lb/>
             </div>
