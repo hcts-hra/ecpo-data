@@ -1,0 +1,13 @@
+name: CI
+on: [push, pull_request]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Install Test Dependencies
+        run: sudo apt-get install libxml2-utils 
+      - name: Validate XML Files
+        run: xmllint --noout --relaxng ecpo.rng jingbao/19**/**/*.xml

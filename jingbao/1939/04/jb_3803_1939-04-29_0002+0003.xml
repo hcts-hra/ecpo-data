@@ -3,7 +3,7 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3803_1939-04-29_0002+0003" lastedit="2021-08-20" lasteditor="ysmlouis">
+<fold xml:id="jb_3803_1939-04-29_0002to0003" lastedit="2021-08-20" lasteditor="ysmlouis">
     <!-- start verso page -->
     <div type="page" page="verso" n="2" mode="vertical-rl" dir="rtl">
          <div type="margin" mode="horizontal-tb"  dir="rtl" > 
@@ -1318,4 +1318,3 @@
          </div>
     </div>
 </fold>
-
