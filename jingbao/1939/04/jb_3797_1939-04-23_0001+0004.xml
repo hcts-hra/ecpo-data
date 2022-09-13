@@ -3,7 +3,7 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3797_1939-04-23_0001+0004" lastedit="2021-07-10" lasteditor="ysmlouis">
+<fold xml:id="jb_3797_1939-04-23_0001+0004" lastedit="2021-09-14" lasteditor="xiejia1995" issueid="22">
 	<!-- start recto page -->
 	<div type="page" page="recto" n="1" mode="vertical-rl" dir="rtl">
 		<div type="head" mode="horizontal-tb" dir="rtl">
@@ -22,14 +22,14 @@
                         中華民國貳拾捌年四月廿三日　星期日　今日兩全張售國幣貳分四厘　本報創刊於民國八年三月三日<lb/>
 			</div>
 	    </div>
-	    <div type="advert">
+	    <div type="advert" itemid="614">
 	      <div mode="horizontal-tb" dir="rtl">
 	            金字塔香煙<lb/>
 	    	</div>
 	    	<div>
 	    		煙中<lb/>
 	    	</div>
-	    	<div type="image"></div>
+	    	<div type="image" itemid="395"></div>
 	    	<div>
 	    		鉄軍<lb/>
 	    	</div>
@@ -37,15 +37,17 @@
 	    		中國福新煙公司出品<lb/>
 	    	</div>
 	      </div>
-		<div type="advert" mode="horizontal-tb" dir="rtl">
+		<div type="advert" mode="horizontal-tb" dir="rtl" itemid="615">
+			<p>
 			海上第一流攝影專家<lb/>
 			國泰藝術照相館<lb/>
 			定價經濟化照相貴族化<lb/>
 			際此春光攝影良機<lb/>
 			地址南京路五五號<lb/>
 			電話九〇三九三號<lb/>
+			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="424">
 			<div>
 				鄂中大戰又將爆發<lb/>
 				華軍已進入城陵磯<lb/>
@@ -95,7 +97,7 @@
 				</p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="425">
 			<div mode="horizontal-tb" dir="rtl">
 				粵省華軍進展順利<lb/>
 		    </div>
@@ -149,7 +151,7 @@
 				</p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="426">
                <div>
 		         蔣委員長通令<lb/>
 		         整理物價<lb/>
@@ -168,7 +170,7 @@
 		     	</p>
 	        </div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="427">
 			<div>
 				 東戰場華軍<lb/>
 				 採取攻勢<lb/>
@@ -188,7 +190,7 @@
 	     	      	</p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="428">
 			<div mode="horizontal-tb" dir="rtl">
 				大批飛機<lb/>
 				又將由美運華<lb/>
@@ -207,7 +209,7 @@
 				</p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="429">
 			<div>
 				與中國領袖保持接觸<lb/>
 				寇爾在渝小住<lb/>
@@ -254,47 +256,47 @@
 				</p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="430">
 			<div>
 				國府命令<lb/>
 			</div>
 			<div>
-		    	       <p>
-                              （重慶廿二日電<lb/>
-                               ）國府廿二日令、<lb/>
-                              （一）軍參院參議<lb/>
-                              華南帆、另任免職<lb/>
-                              、（二）任命張爲<lb/>
-                              煜爲西康省府秘長<lb/>
-                              、（三）任命聞均<lb/>
-                              天爲內部禮俗司長<lb/>
-	    		      </p>
+				<p>
+					（重慶廿二日電<lb/>
+					）國府廿二日令、<lb/>
+					（一）軍參院參議<lb/>
+					華南帆、另任免職<lb/>
+					、（二）任命張爲<lb/>
+					煜爲西康省府秘長<lb/>
+					、（三）任命聞均<lb/>
+					天爲內部禮俗司長<lb/>
+				</p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="431">
 			<div mode="horizontal-tb" dir="rtl">
 				重慶街頭乞丐<lb/>
 				集中工作營<lb/>
 			</div>
 			<div>
 				<p>
-                             （重慶廿<lb/>
-                             一日美聯<lb/>
-                             社電）在<lb/>
-                             本星期中<lb/>
-                             、此間市<lb/>
-                             上已極少<lb/>
-                             乞丐可見、蓋市政<lb/>
-                             府最近曾下令各警<lb/>
-                             察局、從事搜&gaiji;市<lb/>
-                             上乞丐、集中於「<lb/>
-                             工作營」中也、此<lb/>
-                             營現暫設於城外某<lb/>
-                             佛寺中、<lb/>
+					（重慶廿<lb/>
+					一日美聯<lb/>
+					社電）在<lb/>
+					本星期中<lb/>
+					、此間市<lb/>
+					上已極少<lb/>
+					乞丐可見、蓋市政<lb/>
+					府最近曾下令各警<lb/>
+					察局、從事搜&gaiji;市<lb/>
+					上乞丐、集中於「<lb/>
+					工作營」中也、此<lb/>
+					營現暫設於城外某<lb/>
+					佛寺中、<lb/>
 			    </p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="432">
 			<div>
 				黃炎培抵滇 <!-- character shows font-dependent variations, char found here: ⿰氵眞 --><lb/>
 			</div>
@@ -313,7 +315,7 @@
 			</p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="433">
 			<div>
 				滬法租界干涉懸旗<lb/>
 				外部提抗議<lb/>
@@ -334,32 +336,31 @@
 		    	</p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="image" itemid="396">
 			<div mode="horizontal-tb" dir="rtl">
 				國際時事地圖之三　－　<!-- It is a dash but only occpuies one space. -->意大利與紅海<lb/>
-			</div>
-			<div type="image"></div>
+			</div>			
 			<div>
 				<p>
-                             （設期）意大利<lb/>
-                             在非洲之殖地，除<lb/>
-                             於一九一一年得自<lb/>
-                             土耳其的利比亞與<lb/>
-                             一九三六年吞併的<lb/>
-                             阿比西尼亞外、尚<lb/>
-                             有紅海沿岸與亞丁<lb/>
-                             灣上的厄立特里亞<lb/>
-                             與意屬索馬利蘭兩<lb/>
-                             地、因此意大利對<lb/>
-                             於蘇彝士紅海航路<lb/>
-                             甚感興趣而夢想控<lb/>
-                             制之、更因謀鞏固<lb/>
-                             其在非洲之精力於<lb/>
-                             是向埃及與阿剌伯<lb/>
-                             諸國家竭力宣傳同<lb/>
-                             時準備在紅海彼岸<lb/>
-                             的阿剌伯國家葉門<lb/>
-                             樹立友好的關係、<lb/>
+					（設期）意大利<lb/>
+					在非洲之殖地，除<lb/>
+					於一九一一年得自<lb/>
+					土耳其的利比亞與<lb/>
+					一九三六年吞併的<lb/>
+					阿比西尼亞外、尚<lb/>
+					有紅海沿岸與亞丁<lb/>
+					灣上的厄立特里亞<lb/>
+					與意屬索馬利蘭兩<lb/>
+					地、因此意大利對<lb/>
+					於蘇彝士紅海航路<lb/>
+					甚感興趣而夢想控<lb/>
+					制之、更因謀鞏固<lb/>
+					其在非洲之精力於<lb/>
+					是向埃及與阿剌伯<lb/>
+					諸國家竭力宣傳同<lb/>
+					時準備在紅海彼岸<lb/>
+					的阿剌伯國家葉門<lb/>
+					樹立友好的關係、<lb/>
 				</p>
 			</div>
 		</div>
@@ -372,7 +373,7 @@
 		<div type="margin" mode="horizontal-tb" dir="rtl">
 		    中華民國二十八年四月廿三日　晶報　星期日　第四版<lb/>
         </div>
-        <div type="article">
+        <div type="article" itemid="461">
 	    	<div>
 	    		日鑑攔阻<lb/>
 	    		寶利輪航線<lb/>
@@ -381,7 +382,7 @@
 	    	</div>
 	    	<div>
 	        	<p>
-                        意商義華洋行之寶利輪、於本月二十日下午四時、由滬駛<lb/>
+                    意商義華洋行之寶利輪、於本月二十日下午四時、由滬駛<lb/>
 	        		温州、昨晨電滬向公司報吿、該輪駛至温州口外黃華地方之<lb/>
 	        		烏裏洋面、爲停泊該處之日艦、迫令停駛、派兵登輪檢查、<lb/>
 	        		臨時又通知船主、勸中止駛入温州、謂該處有軍事行動、航<lb/>
@@ -389,27 +390,25 @@
 	        	</p>
 	    	</div>
 	    	<div>
-	   	  	謀福來滬<lb/>
+	   	  		謀福來滬<lb/>
 	    	</div>
 	        <div>
 	        	<p>
-	       		據航業界訊停泊<lb/>
-	        		在温州卸貨之外輪<lb/>
-	       		、爲德商禮和洋行<lb/>
-	       		之謀福輪、自寶利<lb/>
-	       		被阻電報到滬後、<lb/>
-	        		禮和洋行、卽電謀<lb/>
-	       		福詢問、因謀福正<lb/>
-	       		與甯波通報、以致<lb/>
-	       		一時無法接通、及<lb/>
-	       		至昨日下午四時、<lb/>
-	       		始得謀福電吿、定<lb/>
+					據航業界訊停泊<lb/>
+					在温州卸貨之外輪<lb/>
+					、爲德商禮和洋行<lb/>
+					之謀福輪、自寶利<lb/>
+					被阻電報到滬後、<lb/>
+					禮和洋行、卽電謀<lb/>
+					福詢問、因謀福正<lb/>
+					與甯波通報、以致<lb/>
+					一時無法接通、及<lb/>
+					至昨日下午四時、<lb/>
+					始得謀福電吿、定<lb/>
 	        		今日午後、由温駛<lb/>
 	        		囘上海、<lb/>
-	   	    </p>
-	       </div>
-	    </div>
-    	<div type="article">
+	   	   		</p>
+	        </div>
     		<div>
     			海福去溫<lb/>
     		</div>
@@ -433,7 +432,7 @@
                </p>
            </div>
     	</div>
-    	<div type="article">
+    	<div type="article" itemid="462">
     	      <div>
     			日機．日艦<lb/>
     			不絕擾亂浙東<lb/>
@@ -478,7 +477,7 @@
     	         </p>
          </div>
     	</div>
-      <div type="article">
+      <div type="article" itemid="463">
             <div>
                 懸旗案<lb/>
                 尚未全部解決<lb/>
@@ -507,7 +506,7 @@
                  </p>
             </div>
     	</div>
-      <div type="article">
+        <div type="article" itemid="464">
     		<div>
     			外交界<lb/>
     		</div>
@@ -519,26 +518,29 @@
                     其在港逗留之期、<lb/>
                     約有十日云、<lb/>
                  </p>
-                 <p>
-                    ▲昨晚六時半、<lb/>
-                    環龍路五五號法國<lb/>
-                    總會、舉行招待會<lb/>
-                    、歡迎法大使戈斯<lb/>
-                    默氏、著名法僑均<lb/>
-                    參加、<lb/>
-                 </p>
-                 <p>
-                    ▲法僑參戰軍人<lb/>
-                    、前晚假座愛麥虞<lb/>
-                    咸路捕房總會內、<lb/>
-                    舉行茶會、招待法<lb/>
-                    大使戈斯默、及法<lb/>
-                    防軍司令賈爾業、<lb/>
-                    到來賓甚多、<lb/>
-                 </p>
-            </div>
+		</div>
+		<div type="article" itemid="465">
+			<p>
+			▲昨晚六時半、<lb/>
+			環龍路五五號法國<lb/>
+			總會、舉行招待會<lb/>
+			、歡迎法大使戈斯<lb/>
+			默氏、著名法僑均<lb/>
+			參加、<lb/>
+			</p>
+		</div>
+		<div type="article" itemid="466">
+			<p>
+			▲法僑參戰軍人<lb/>
+			、前晚假座愛麥虞<lb/>
+			咸路捕房總會內、<lb/>
+			舉行茶會、招待法<lb/>
+			大使戈斯默、及法<lb/>
+			防軍司令賈爾業、<lb/>
+			到來賓甚多、<lb/>
+			</p>            
     	</div>
-    	<div type="article">
+    	<div type="article" itemid="468">
             <div>
     			外强中乾<lb/>
             	民衆其能久持乎<lb/>
@@ -558,7 +560,7 @@
                  </p>
             </div>
     	</div>
-    	<div type="article">
+    	<div type="article" itemid="469">
             <div mode="horizontal-tb" dir="rtl">
                  耳聞目覩<lb/>
             </div>
@@ -586,46 +588,46 @@
                      守嚴密、不一刻、<lb/>
                      卽聞有密集槍聲、<lb/>
                      至午始停、<lb/>
-                   </p>
+                </p>
              </div>
     	</div>
-    	<div type="article">
+    	<div type="article" itemid="470">
     		<div>
     			寧波米價高漲<lb/>
     			本市甬同鄉會極關切<lb/>
     		</div>
     		<div>
-                  <p>
-                      浙東各縣、糧食<lb/>
-                      生產、本不足自給<lb/>
-                      、歷來均仰賴外省<lb/>
-                      及洋米接濟、自戰<lb/>
-                      發生、一因交通運<lb/>
-                      輸、諸多阻梗、二<lb/>
-                      因浙西淪陷後、浙<lb/>
-                      東成爲避難集中地<lb/>
-                      、人口激增、粮食<lb/>
-                      需要、日見增加、<lb/>
-                      浙省府爲調節食糧<lb/>
-                      、前經與贛省當局<lb/>
-                      洽定、按月以贛米<lb/>
-                      運浙接濟、惟自浙<lb/>
-                      贛鐵路中斷、此項<lb/>
-                      計劃、無形頓挫、<lb/>
-                      現浙東寗紹等各縣<lb/>
-                      食米、每石已漲至<lb/>
-                      十六元餘、殊非民<lb/>
-                      衆所堪負担、本市<lb/>
-                      甯波同鄉會、備極<lb/>
-                      關切、特電請省政<lb/>
-                      府轉呈財政部、請<lb/>
-                      求供給外匯、採購<lb/>
-                      洋米、以資儲備、<lb/>
-                      而維民食、<lb/>
-                  </p>
+                <p>
+					浙東各縣、糧食<lb/>
+					生產、本不足自給<lb/>
+					、歷來均仰賴外省<lb/>
+					及洋米接濟、自戰<lb/>
+					發生、一因交通運<lb/>
+					輸、諸多阻梗、二<lb/>
+					因浙西淪陷後、浙<lb/>
+					東成爲避難集中地<lb/>
+					、人口激增、粮食<lb/>
+					需要、日見增加、<lb/>
+					浙省府爲調節食糧<lb/>
+					、前經與贛省當局<lb/>
+					洽定、按月以贛米<lb/>
+					運浙接濟、惟自浙<lb/>
+					贛鐵路中斷、此項<lb/>
+					計劃、無形頓挫、<lb/>
+					現浙東寗紹等各縣<lb/>
+					食米、每石已漲至<lb/>
+					十六元餘、殊非民<lb/>
+					衆所堪負担、本市<lb/>
+					甯波同鄉會、備極<lb/>
+					關切、特電請省政<lb/>
+					府轉呈財政部、請<lb/>
+					求供給外匯、採購<lb/>
+					洋米、以資儲備、<lb/>
+					而維民食、<lb/>
+				</p>
             </div>
     	</div>
-    	<div type="article">
+    	<div type="article" itemid="467">
              <div>
                   考慮加捐問題<lb/>
                   貫澈法治精神<lb/>
@@ -650,7 +652,7 @@
                    </p>
             </div>
     	</div>
-    	<div type="article">
+    	<div type="article" itemid="471">
             <div mode="horizontal-tb" dir="rtl">
             	僞令三道<lb/>
             	逼僞員離去租界<lb/>
@@ -686,7 +688,7 @@
             	</p>
             </div>
     	</div>
-    	<div type="article">
+    	<div type="article" itemid="472">
     		<div>
     			俄探險家壯𦦙<lb/>
     		</div>
@@ -715,7 +717,7 @@
                   </p>
             </div>
     	</div>
-    	<div type="article">
+    	<div type="article" itemid="473">
     		<div>
     		    狎客偷開苞<lb/>
     		    苦了拉馬人<lb/>
@@ -737,7 +739,7 @@
                   </p>
            </div>
     	</div>
-    	<div type="article">
+    	<div type="article" itemid="474">
     		<div mode="horizontal-tb" dir="rtl">
     			盜刼三起<lb/>
     		</div>
@@ -766,26 +768,26 @@
                   </p>
     		</div>
     	</div>
-    	<div type="article">
+    	<div type="article" itemid="475">
     		<div>
-                  慈善籃球閉幕<lb/>
+                慈善籃球閉幕<lb/>
     			中靑隊湔雪前恥<lb/>
-                  賽球一只二百元拍去<lb/>
+                賽球一只二百元拍去<lb/>
     		</div>
     		<div>
-                  <p>
-                      中靑與復旦同樂會主辦之慈善籃球賽<lb/>
-                      最後一幕、昨晚仍在中靑健身房舉行、<lb/>
-                      觀衆不下七百人、中靑以卅二對廿九吿<lb/>
-                      捷、報復上兩戰受挫之辱、昨日於第三<lb/>
-                      場休息時間、由國際救濟會常委李規庸<lb/>
-                      氏拍賣賽球、善士周濟君、以二百元購去<lb/>
-                      、賽畢、由奚玉書女公子奚敏小姐給獎<lb/>
-                      慈善賽於焉閉幕、<lb/>
-                  </p>
+				<p>
+					中靑與復旦同樂會主辦之慈善籃球賽<lb/>
+					最後一幕、昨晚仍在中靑健身房舉行、<lb/>
+					觀衆不下七百人、中靑以卅二對廿九吿<lb/>
+					捷、報復上兩戰受挫之辱、昨日於第三<lb/>
+					場休息時間、由國際救濟會常委李規庸<lb/>
+					氏拍賣賽球、善士周濟君、以二百元購去<lb/>
+					、賽畢、由奚玉書女公子奚敏小姐給獎<lb/>
+					慈善賽於焉閉幕、<lb/>
+				</p>
             </div>
     	</div>
-    	<div type="article">
+    	<div type="article" itemid="476">
     		<div>
     			滑稽<lb/>
     			小說<lb/>
@@ -826,7 +828,7 @@
     			</p>
     		</div>
     	</div>
-    	<div type="advert">
+    	<div type="advert" itemid="624">
     		<div>
     			質<lb/>
     		</div>
@@ -839,7 +841,7 @@
     		<div>
     			效<lb/>
     		</div>
-    		<div type="image"></div>
+    		<div type="image" itemid="397"></div>
     		<div mode="horizontal-tb" dir="ltr">
     			BIOZTGEN<lb/>
     		</div>
@@ -870,9 +872,9 @@
     		        鮮美可口<lb/>
     		        靈驗偉大<lb/>
     	      </div>
-    	      <div type="image"></div>
+    	      <div type="image" itemid="398"></div>
     	</div>
-    	<div type="advert">
+    	<div type="advert" itemid="625">
     		<div>
     			中西按摩院<lb/>
     		</div>
@@ -884,7 +886,7 @@
     			（愛文義路口）<lb/>
     		</div>
     	</div>
-    	<div type="advert">
+    	<div type="advert" itemid="626">
     		<div>
     			中西按摩術<lb/>
     		</div>
@@ -895,7 +897,7 @@
     			賓　（地址）卡德路四十一弄七十二號樓上久號房間<lb/>
     		</div>
     	</div>
-	    <div type="advert">
+	    <div type="advert" itemid="627">
 	        <!-- The same advertisement on 1939.04.25_P4 is referenced. -->
 	        <div mode="horizontal-tb" dir="rtl">
 	            胃鑰<lb/>
@@ -922,7 +924,7 @@
 	</div>
 	<!-- start middle of the fold -->
 	<div type="margin" dir="rtl" mode="vertical-rl">
-           <div type="advert">
+           <div type="advert" itemid="628">
            	     <div mode="horizontal-tb" dir="rtl">
                       四馬路<lb/>
                       晝錦里口<lb/>
@@ -949,7 +951,7 @@
                       華貴禮堂　租費從廉<lb/>
                  </div>
            </div>
-           <div type="advert">
+           <div type="advert" itemid="629">
                  <div mode="horizontal-tb" dir="rtl">
     			    好美塢樂園<lb/>
     		     </div>
@@ -986,7 +988,7 @@
                       二〇〇八七<lb/>
                  </div>
           </div>
-          <div type="advert">
+          <div type="advert" itemid="630">
                  <div>
                       陽痿<lb/>
                  </div>
