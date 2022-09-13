@@ -3,7 +3,7 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_1325_1930-04-09_0002+0003" lastedit="2022-03-19" lasteditor="ysmlouis" issueid="934">
+<fold xml:id="jb_1325_1930-04-09_0002to0003" lastedit="2022-03-19" lasteditor="ysmlouis" issueid="934">
     <!-- start verso page -->
     <div type="page" page="verso" n="2" dir="rtl" mode="vertical-rl">
         <div type="margin">
@@ -595,7 +595,7 @@
         </div>
         <div type="article" itemid="47246">
             <div>
-                ◘傅增湘來函　<!-- The space here is wide as a combination of a full space and a half space. Here I only inserted a full space (U+3000). -->晶報館主筆台鑒、<lb/>
+                ◘傅增湘來函　<!-- The space here is wide as a combination of a full space and a half space. Here I only inserted a full space (Uto3000). -->晶報館主筆台鑒、<lb/>
                 頃聞貴館三月六日報紙載圖章預刻<lb/>
                 之離婚據一則、內有徐某識鄙人之<lb/>
                 姪女、欲論嫁娶、傅女條件云云、閱<lb/>
