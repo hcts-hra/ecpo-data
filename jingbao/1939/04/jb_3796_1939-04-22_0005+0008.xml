@@ -4,17 +4,16 @@
     <!ENTITY gaiji "&#xe111;">
 ]>
 
-<fold xml:id="jb_3796_1939-04-22_0005+0008" lastedit="2021-07-01" lasteditor="xiejia1995">
+<fold xml:id="jb_3796_1939-04-22_0005+0008" lastedit="2022-09-13" lasteditor="xiejia1995" issueid="21">
 	<div type="page" page="recto" n="5" dir="rtl" mode="vertical-rl">
 	    <div type="margin" dir="rtl" mode="horizontal-tb">
 		    中華民國二十八年四月廿二日　晶報　星期六　第五版<lb/>	
         </div>
-		<div type="article">
+		<div type="article" itemid="398">
 		    <div dir="rtl" mode="horizontal-tb">
 		    	文化營<lb/>
 		    </div>
-		    <div type="image">
-		    	
+		    <div type="image" itemid="357">		    	
 		    </div>
 			<div>
 				<div dir="rtl" mode="horizontal-tb">
@@ -73,9 +72,13 @@
 				</div>	
 			</div>
 		</div> 
-		<div type="article">
-			<div>相見禮　<lb/></div>	
-			<div>（唐潢虎）<lb/></div>
+		<div type="article" itemid="399">
+			<div>
+				相見禮　<lb/>
+			</div>	
+			<div>
+				（唐潢虎）<lb/>
+			</div>
 			<div>
 			<p>			
 				自從叔孫通定了朝儀之後，漢高祖始知天子之貴，然而漢朝的皇帝實在遠不<lb/>
@@ -104,7 +107,7 @@
 			</p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="400">
 			<div>
 				亞洲內幕<lb/>
 			</div>
@@ -324,7 +327,7 @@
 			</p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="402">
 			<div>
 				愛國志士<lb/>
 			</div>
@@ -474,7 +477,7 @@
 			</p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="401">
 			<div>
 				每日國際政治測驗<lb/>
 			</div>
@@ -500,12 +503,12 @@
 				（昨日答案：一，三）<lb/>
 			</div>
 		</div>
-		<div type="other">
+		<div type="article" itemid="403">
 			<div dir="rtl" mode="horizontal-tb">
 				袁寒雲先生手寫<lb/>
 				丁卯日記之二<lb/>
 			</div>
-			<div type="image">
+			<div>
 				<!-- 輕度黃昏任凮𠕒江樓百尺鏡鸞且共温存𦝫<lb/>
 					圍料應柔減正歌敎珠落舞並𥞌屯鳳𧙏鴛<lb/>
 			    	釵今宵何處多少緒疊離痕禁寒知否人憔悴<lb/>
@@ -526,18 +529,15 @@
 		<div type="margin" dir="rtl" mode="horizontal-tb">
 			中華民國二十八年四月廿二日　晶報　星期六　第八版<lb/>	
 		</div>
-		<div type="other">
+		<div type="image" itemid="360">
 			<div>
 				影城<lb/>	
-			</div>			
-			
-			<div type="image">
 			</div>
 			<div dir="rtl" mode="horizontal-tb">
 				趙廉。田豐合輯<lb/>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="418">
 			<div>
 				兩院<lb/>
 				同映<lb/>
@@ -573,7 +573,7 @@
 				新光同時開映爲交換條件。　（末將）<lb/>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="419">
 			<div>
 				京戯院映電影<lb/>
 				各有巧妙不同<lb/>
@@ -607,7 +607,7 @@
 				了。　（跳王）<lb/>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="420">
 			<div dir="rtl" mode="horizontal-tb">
 				另外一欄<lb/>
 			</div>
@@ -643,7 +643,7 @@
 				難事了。（莫成）<lb/>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="421">
 			<div>
 				小汽車<lb/>
 				吃香！<lb/>
@@ -671,7 +671,7 @@
 				王引一個人使用了。　（趙廉）<lb/>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="422">
 		    <div>
 		    	王引當導演了<lb/>
 		    </div>
@@ -709,7 +709,7 @@
 			</p>
 	              </div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="423">
 			<div dir="rtl" mode="horizontal-tb">
 				好萊塢影星<lb/>
 				擇偶條件<lb/>
@@ -795,16 +795,15 @@
 				</p>
 			</div>
 		</div>
-		<div type="advert">
-			<div type="image">
+		<div type="advert" itemid="503">
+			<div type="image" itemid="361">
 				
 			</div>
 			<div dir="ltr" mode="horizontal-tb">
 				雙妹牌<lb/>
 				生髮油<lb/>
 			</div>
-			<div type="image">
-				
+			<div type="image" itemid="432">				
 			</div>
 			<div>
 				用生髮油<lb/>
@@ -814,14 +813,14 @@
 				中國廣生行出品<lb/>
 			</div>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="504">
 			<div>		
 				沈淇泉太史潤格<lb/>		
 			</div>
-		          <div>
-		    	己卯正月重訂<lb/>
-		    	別號兼巢時年七十有八<lb/>
-	     	          </div>
+		      <div>
+			    	己卯正月重訂<lb/>
+			    	別號兼巢時年七十有八<lb/>
+	     	      </div>
 			<div>
 			<p>
 				己卯元日戲賦<lb/>
@@ -987,7 +986,7 @@
 		</div>
 	</div>
 	<div type= "margin" dir="rtl" mode="vertical-rl">
-		<div type="advert">
+		<div type="advert" itemid="505">
 			<p>
 				毛興昌<lb/>
 			</p>
@@ -1010,15 +1009,14 @@
 				毛興昌啓<lb/>
 			</p>
 		</div>
-		<div type="advert">
-			<div type="image">
-				
+		<div type="advert" itemid="506">
+			<div type="image" itemid="362">				
 			</div>
 			<div dir="rtl" mode="horizontal-tb">
 				一滴淸<lb/>
-        眼薬水<lb/>
+      			眼薬水<lb/>
 			</div>
-			<div type="image">
+			<div type="image" itemid="363"></div>
 				<div>
 					統治<lb/>
 					目疾<lb/>
@@ -1057,10 +1055,7 @@
 					<p>
 						新華藥行發行<lb/>
 					</p>
-				</div>
-				<div type="image">
-					
-				</div>
+				</div>				
 				<div>
 					認明<lb/>
 					商標<lb/>
@@ -1069,7 +1064,7 @@
 					新華大薬行監製<lb/>
 					上海江西路十號<lb/>
 				</div>
-			</div>
+			
 		</div>
 	</div>
 </fold>
