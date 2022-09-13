@@ -3,12 +3,12 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3796_1939-04-22_0006+0007" lastedit="2021-07-02" lasteditor="xiejia1995">
+<fold xml:id="jb_3796_1939-04-22_0006+0007" lastedit="2021-07-02" lasteditor="xiejia1995" issueid="21">
 	<div type="page" page="verso" n="6" dir="rtl" mode="vertical-rl">
 		<div type="margin" dir="rtl" mode="horizontal-tb">
 			中華民國二十八年四月廿二日　晶報　星期六　第六版<lb/>	
 		</div>		
-		<div type="article">
+		<div type="article" itemid="404">
 		<div>
 			<p>獨<lb/></p>
 			<p>裁<lb/></p>
@@ -38,7 +38,7 @@
 				年的年俸，僅有三千元，（美金。）可算是最少的了。<lb/>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="405">
 			<div>
 				憶吳師瞿安　（虎）<lb/>
 			</div>
@@ -100,7 +100,7 @@
 			</p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="406">
 			<div>
 				滬壖食品志（十七）<lb/>
 				（海上漱石生遺作）<lb/>
@@ -152,7 +152,7 @@
 				也。<lb/>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="407">
 			<div>
 				點名簿<lb/>
 				（&gaiji;）<lb/>
@@ -187,7 +187,7 @@
 				乎大觀矣。（T）<lb/>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="408">
 			<div dir="rtl" mode="horizontal-tb">
 				<div>
 					佹<lb/>
@@ -255,7 +255,7 @@
 				也。<lb/>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="409">
 			<div>
 				新游俠傳　張恨水<lb/>
 			</div>
@@ -285,7 +285,7 @@
 				佈置。<lb/>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="410">
 			<div>
 				蔣委員長之生平<lb/>
 			</div>
@@ -384,7 +384,7 @@
 				</p>
 			</div>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="494">
 			<div dir="rtl" mode="horizontal-tb">
 				西洋<lb/>
 			</div>
@@ -402,7 +402,7 @@
 				路一四一弄六號一樓時間上午十時至下午十時<lb/>
 			</div>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="495">
 			<p>
 				西洋女子按摩<lb/>
 			</p>
@@ -418,8 +418,8 @@
 				地址　白克路（黃家沙口）七三八號一號房間<lb/>
 			</p>
 		</div>
-		<div type="advert" dir="rtl" mode="horizontal-tb">
-			<div>
+		<div type="advert" itemid="496">
+			<div dir="rtl" mode="horizontal-tb">
 				砒製梅毒特效藥<lb/>
 				新惜花散<lb/>
 			</div>
@@ -430,11 +430,11 @@
 				製造者…楊氏化學治療研究所<lb/>
 				總經理…信誼化學製藥廠<lb/>
 			</div>
-			<div type="image">
+			<div type="image" itemid="358">
 				
 			</div>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="497">
 			<div dir="rtl" mode="horizontal-tb">
 				救一死<lb/>
 			</div>
@@ -497,7 +497,7 @@
 		</div>
 	</div>
 	<div type="margin" dir="rtl" mode="vertical-rl">
-		<div type="advert">
+		<div type="advert" itemid="498">
 			<p>
 				東南醫院<lb/>
 			</p>
@@ -515,7 +515,7 @@
 				院址法租界薩坡賽路二九九號電話八〇六〇八號<lb/>
 			</p>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="499">
 			<div>
 				董惠民醫師<lb/>
 			</div>
@@ -571,7 +571,7 @@
 				</p>
 			</div>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="500">
 			<div>
 				<p>
 					河南路四馬<lb/>
@@ -632,7 +632,7 @@
 	    <div type="margin" dir="rtl" mode="horizontal-tb">
 		    中華民國二十八年四月廿二日　晶報　星期六　第七版<lb/>	
         </div>
-		<div type="article">
+		<div type="article" itemid="411">
 			<p>
 				◇女學生的派別分析◇　（憶英）<lb/>
 			</p>
@@ -683,7 +683,7 @@
 				，』遂一笑含糊置之。　（T）<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="412">
 			<p>
 				長<lb/>
 			</p>
@@ -735,7 +735,7 @@
 				　（T）<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="413">
 			<p>
 				乩<lb/>
 			</p>
@@ -765,7 +765,7 @@
 				也，不覺閧堂（N）<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="414">
 			<div dir="rtl" mode="horizontal-tb">
 				濕夢　（醫隱）<lb/>
 			</div>
@@ -823,7 +823,7 @@
 				</p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="416">
 			<p>
 				烏托邦　（二）畢倚虹遺著<lb/>
 				（一名理想的世界）<lb/>
@@ -847,7 +847,7 @@
 				神世界上最有名的畫師也描寫不出那般美麗。<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="417">
 			<p>
 				彈詞名家<lb/>
 				馮子美　來申<lb/>
@@ -882,7 +882,7 @@
 				　（老聽客）<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="415">
 			<div>
 				怎樣使淂健康美<lb/>
 			</div>
@@ -1036,8 +1036,8 @@
 				</p>
 			</div>
 		</div>
-		<div type="advert">
-			<div type="image">
+		<div type="advert" itemid="501">
+			<div type="image" itemid="359">
 				
 			</div>
 			<div dir="rtl" mode="horizontal-tb">
@@ -1065,7 +1065,7 @@
 				</p>
 			</div>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="502">
 			<div>
 			    <div>
 			    	電話<lb/>
