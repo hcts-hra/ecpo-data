@@ -3,12 +3,12 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3796_1939-04-22_0002+0003" lastedit="2021-06-28" lasteditor="xiejia1995">
+<fold xml:id="jb_3796_1939-04-22_0002+0003" lastedit="2021-06-28" lasteditor="xiejia1995" issueid="21">
 	<div type="page" page="verso" n="2" dir="rtl" mode="vertical-rl">
 	    <div type="margin" dir="rtl" mode="horizontal-tb">
 		    中華民國二十八年四月廿二日　晶報　星期六　第二版<lb/>
         </div>
-		<div type="article">
+		<div type="article" itemid="356">
 		    <div dir="rtl" mode="horizontal-tb">
 			　　美艦集中太平洋<lb/>
 		    </div>
@@ -83,7 +83,7 @@
 				必云、<lb/>
 			</div>
 		</div>
-	    <div type="article">
+		<div type="article" itemid="357">
 			<div>
 			    英蘇繼續會談<lb/>
 				集體安全制<lb/>
@@ -161,7 +161,7 @@
 				</p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="358">
 			<div>
 			　　西國民軍各部<lb/>
 			　  移瑪德里<lb/>
@@ -179,7 +179,7 @@
 			</p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="359">
 			<div>
 				墨與德義訂立<lb/>
 			    換物協定<lb/>
@@ -202,7 +202,7 @@
 			</p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="361">
 			<div>
 			　　北菲義軍<lb/>
 			　　調動頻繁<lb/>
@@ -225,7 +225,7 @@
 			</p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="362">
 			<div>
 			　　日本債台高築<lb/>
 			　   又發新債三萬萬元<lb/>
@@ -251,7 +251,7 @@
 				</p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="360">
 			<div dir="rtl" mode="horizontal-tb">
 				在自由的歐洲<lb/>
 				重建捷克國<lb/>
@@ -272,7 +272,7 @@
 				自由的歐洲、重建自由的捷克國」云、<lb/>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="363">
 			<div>
 			　 匈邊烽火<lb/>
 			</div>
@@ -293,7 +293,7 @@
 				</p>
 		    </div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="364">
 			<div>
 			　  帆船航海<lb/>
 			　　登陸被扣留<lb/>
@@ -316,7 +316,7 @@
 				</p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="365">
 			<div>
 			　　國聯又將開會<lb/>
 				　中國　提申訴<lb/>
@@ -334,7 +334,7 @@
 				</p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="366">
 			<div>
 			　  長篇<lb/>
 			　　小說<lb/>
@@ -382,7 +382,7 @@
 				精染不褪色綢緞衣料<lb/>
 			</div>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="481">
 			<div dir="rtl" mode="horizontal-tb">
 				霞飛路呂班路西<lb/>
 			</div>
@@ -500,7 +500,7 @@
 				</div>
 			</div>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="578">
 			<div>
 			    <div>
 				    石路二馬路口<lb/>
@@ -589,7 +589,7 @@
 		</div>
 	</div>
 	<div type= "margin" dir="rtl" mode="vertical-rl">
-	    <div type="advert">
+	    <div type="advert" itemid="482">
 			<div dir="rtl" mode="horizontal-tb">
 			    梅邨<lb/>
 			</div>
@@ -618,7 +618,7 @@
 				壁<lb/>
 			</div>
 		</div>
-	    <div type="advert">
+	    <div type="advert" itemid="483">
 			<div>
 				小兒科<lb/>
 				內科<lb/>
@@ -639,7 +639,7 @@
 				▲電話八一〇四二號<lb/>
 			</div>
 		</div>
-	    <div type="advert">
+	    <div type="advert" itemid="484">
 	    	<div>
 			    陳效懷醫師<lb/>
 		        △負責根治淋濁　梅毒　下瘡<lb/>
@@ -667,30 +667,29 @@
 	    <div type="margin" dir="rtl" mode="horizontal-tb">
 		    中華民國二十八年四月廿二日　晶報　星期六　第三版<lb/>
         </div>
-		<div type="article">
-		    <div>
+		<div type="article" itemid="367">
+		    <p type="title">
 			    龍華游擊隊<lb/>
 		        神計妙算<lb/>
 		    	黑夜大雨下擾亂日僞陣線<lb/>
 		    	僞『自衞團』潰散<lb/>
-		    </div>
-		    <div>
-		    	<p>
-		    		據龍華來人云、前晚八時許、有華方<lb/>
-		    		遊擊隊、進攻距龍華不足二公里之王家<lb/>
-		    		渡、當將僞『自衞團』擊潰而繳械、並<lb/>
-		    		進迫新龍華鐵路線、而與日軍百名、發<lb/>
-		    		生遭遇戰、時在黑夜、加以天雨、故遊擊<lb/>
-					隊利用神妙之運動戰、四面進擾其陣線<lb/>
-		    		、而使日『僞』自相殘殺、竟傷亡三十<lb/>
-	    			餘人之多、直至半夜十一時半、日援軍<lb/>
-		    		駛到、以電筒照射、始知中神計、然遊<lb/>
-		    		擊隊早已引去、日軍當晚在該處挨戶搜<lb/>
-		    		索、捕去農民十餘人云、<lb/>
-				</p>
-	    	</div>
+		    </p>
+	    	<p>
+	    		據龍華來人云、前晚八時許、有華方<lb/>
+	    		遊擊隊、進攻距龍華不足二公里之王家<lb/>
+	    		渡、當將僞『自衞團』擊潰而繳械、並<lb/>
+	    		進迫新龍華鐵路線、而與日軍百名、發<lb/>
+	    		生遭遇戰、時在黑夜、加以天雨、故遊擊<lb/>
+				隊利用神妙之運動戰、四面進擾其陣線<lb/>
+	    		、而使日『僞』自相殘殺、竟傷亡三十<lb/>
+    			餘人之多、直至半夜十一時半、日援軍<lb/>
+	    		駛到、以電筒照射、始知中神計、然遊<lb/>
+	    		擊隊早已引去、日軍當晚在該處挨戶搜<lb/>
+	    		索、捕去農民十餘人云、<lb/>
+			</p>
+	    	
 		</div>
-		<div type="article">
+		<div type="article" itemid="368">
 			<p>
 				僞造通行證<lb/>
 			    每張售價五元五角<lb/>
@@ -743,7 +742,7 @@
 				等收押、改期再訊<lb/>
 			</p>
 		</div>
-        <div type="article">
+        <div type="article" itemid="369">
 			<div dir="rtl" mode="horizontal-tb">
 			    綢莊經理<lb/>
 				被婦人控侵佔<lb/>
@@ -770,7 +769,7 @@
 				月一日再審云、<lb/>
 			</div>
         </div>
-		<div type="article">
+		<div type="article" itemid="370">
 			<div>
 			    通訊社社長<lb/>
 			    婚期將屆被拘<lb/>
@@ -846,7 +845,7 @@
 			</p>
 		</div>
 	   </div>
-		<div type="article">
+		<div type="article" itemid="371">
 			<div>
 			    戰時食糧調節<lb/>
 			    各省省地銀行協助辦理<lb/>
@@ -871,7 +870,7 @@
 			</p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="372">
 		    <div dir="rtl" mode="horizontal-tb">
 			    刦土巨案<lb/>
 			</div>
@@ -920,7 +919,7 @@
 				</p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="373">
 			<div>
 			    交友之道難矣<lb/>
 			    强佔友妻唆使捲逃壓迫離婚<lb/>
@@ -956,7 +955,7 @@
 			</p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="374">
 			<div>
 				<p>
 			        經濟簡訊<lb/>
@@ -975,6 +974,8 @@
 					角五分、<lb/>
 				</p>
 			</div>
+		</div>
+		<div type="article" itemid="376">
 			<div>
 				飾金<lb/>
 			</div>
@@ -988,6 +989,8 @@
 			　　云、<lb/>
 				</p>
 			</div>
+		</div>
+		<div type="article" itemid="375">
 			<div>
 				米市不振<lb/>
 			</div>
@@ -1008,7 +1011,7 @@
 			　　疲跌二角云、<lb/>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="377">
 			<div>
 			　　江海關搜查太原輪<lb/>
 			　  抄獲現銀一大木箱<lb/>
@@ -1032,7 +1035,7 @@
 			</p>
 			</div>
 	    </div>
-		<div type="article">
+		<div type="article" itemid="378">
 			<div>
 			　　公債<lb/>
 			　  反動下跌<lb/>
@@ -1051,28 +1054,28 @@
 		    </p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="381">
 			<div>
 			　　體育<lb/>
 			　　簡報<lb/>
 			</div>
 			<div>
-				　　▲華聯田<lb/>
-				　　徑隊、卽<lb/>
-				　　日開始報名、<lb/>
+			　　▲華聯田<lb/>
+			　　徑隊、卽<lb/>
+			　　日開始報名、<lb/>
 			</div>
-			<div>		
-				　　▲錢業聯誼會、<lb/>
-				　　今晚下午舉行乒乓<lb/>
-				　　表演賽、<lb/>			
-			</div>
-			<div>			    
-				　　▲警務處運動會<lb/>
-				　　、今日在美童揭幕<lb/>
-				　　、下午一時半開始<lb/>				
-		    </div>
+		</div>
+		<div type="article" itemid="380">		
+			　　▲錢業聯誼會、<lb/>
+			　　今晚下午舉行乒乓<lb/>
+			　　表演賽、<lb/>			
+		</div>
+		<div type="article" itemid="379">			    
+			　　▲警務處運動會<lb/>
+			　　、今日在美童揭幕<lb/>
+			　　、下午一時半開始<lb/>
 	    </div>
-		<div type="article">
+		<div type="article" itemid="382">
 			<div>
 			　　孤島球壇<lb/>
 			　  今晚將創奇績<lb/>
@@ -1090,7 +1093,7 @@
 				但當另有一番興趣也、<lb/>
 		    </p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="383">
 			<div>
 			　　今雜事祕<lb/>
 			</div>
@@ -1123,7 +1126,7 @@
 			    </p>
 			</div>
 		</div>
-		<div type="advert" dir="rtl" mode="vertical-rl">
+		<div type="advert" dir="rtl" mode="vertical-rl" itemid="485">
 			<div dir="rtl" mode="horizontal-tb">
 				品特效<lb/>
 				<!-- here should be "本品特效", but the first character is not clearly printed !-->
@@ -1133,11 +1136,10 @@
 			    活血<lb/>
 			    温宮<lb/>
 				催孕<lb/>
+			</div>			
+		    <div type="image" itemid="351">
 			</div>
-			<div>
-		        <div type="image">
-
-			    </div>
+			<div type="image" itemid="352">
 			</div>
 			<div>
 			    <div>
@@ -1169,7 +1171,7 @@
 			</div>
 		</div>
 		</div>
-		<div type="advert" >
+		<div type="advert" itemid="486">
 		    <div dir="rtl" mode="horizontal-tb">
 				大華舞廳<lb/>
 			</div>
@@ -1210,7 +1212,7 @@
 				</div>
 		    </div>
 		</div>
-		<div type="advert" >
+		<div type="advert" itemid="487">
 		    <div dir="rtl" mode="horizontal-tb">
 				虎標<lb/>
 			</div>
