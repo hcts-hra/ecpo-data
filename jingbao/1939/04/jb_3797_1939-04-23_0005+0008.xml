@@ -3,17 +3,16 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3797_1939-04-23_0005+0008" lastedit="2021-07-27" lasteditor="ysmlouis">
+<fold xml:id="jb_3797_1939-04-23_0005+0008" lastedit="2022-09-14" lasteditor="xiejia1995" issueid="22">
 	<!-- start recto page -->
 	<div type="page" page="recto" n="5" mode="vertical-rl" dir="rtl">
 		<div type="margin" mode="horizontal-tb" dir="rtl">
 			 中華民國二十八年四月廿三日　晶報　星期日　第五版<lb/>	
 		</div>
-		<div type="article">
+		<div type="image" itemid="400">
 			<div dir="rtl" mode="horizontal-tb">
 				 文化營<lb/>
-			</div>
-			<div type="image"></div>
+			</div>			
 			<div dir="rtl" mode="horizontal-tb">
 				 黔野主編<lb/>
 			</div>
@@ -76,7 +75,7 @@
 			</div>
 		</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="477">
 			<div>
 				  府主和舉主<lb/>
 			</div>
@@ -115,7 +114,7 @@
 			      </p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="478">
 			<div>
                          亞洲內幕<lb/>
 			</div>
@@ -123,7 +122,7 @@
                          約翰耿脫著<lb/>
                          亦　朋　譯<lb/>
 			</div>
-                  <div>
+                        <div>
                          蔣介石上將<lb/>
 			</div>
 			<div>
@@ -205,7 +204,7 @@
                          </p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="480">
 			<div>
 				動物的叛變　　（一）<lb/>
 			</div>
@@ -215,15 +214,15 @@
                                我們，並且拿我們當作食物……』<lb/>
 		      	  </p>
 			</div>
-			<div type="image"></div>
+			<div type="image" itemid="401"></div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="481">
 			<div>
 				愛國志士<lb/>
 			</div>
 			<div>
-                        賽珍珠女士作<lb/>
-                        諍　諍　譯<lb/>
+                                賽珍珠女士作<lb/>
+                                諍　諍　譯<lb/>
 			</div>
 			<div>
                           <p>
@@ -289,7 +288,7 @@
                           </p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="482">
 			<div>
 				每日國際政治測驗<lb/>
 			</div>
@@ -344,12 +343,12 @@
                          （昨日答案：三，二，）<lb/>
                   </div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="483">
 			<div mode="horizontal-tb" dir="rtl">
 				袁寒雲先生手寫<lb/>
 				丁卯日記之三<lb/>
 			</div>
-			<div type="image">
+			<div>
 				<!--<p>
 				光明社所演黑海盜乃范朋克最近傑作也<lb/>
 				初六日&gaiji;秋來譚敍今覺書<lb/>
@@ -364,7 +363,7 @@
 				</p>-->
 			</div>
 		</div>
-		<div type="advert" dir="rtl" mode="vertical-rl">
+		<div type="advert" dir="rtl" mode="vertical-rl" itemid="631">
 			<div dir="rtl" mode="horizontal-tb">
 				暑期之必需品<lb/>
 			</div>
@@ -386,7 +385,7 @@
 				美華汽水公司出品<lb/>
 			</div>
 		</div>
-		<div type="advert" >
+		<div type="advert" itemid="632">
 			<div dir="rtl" mode="horizontal-tb">
 				大華舞廳<lb/>
 			</div>
@@ -423,7 +422,7 @@
 				電話八一三八一號<lb/>
 			</div>					
 		</div>
-		<div type="advert" >
+		<div type="advert" itemid="633">
 			<div dir="rtl" mode="horizontal-tb">
 				虎標<lb/>
 			</div>
@@ -449,43 +448,43 @@
 		<div type="margin" dir="rtl" mode="horizontal-tb">
 			中華民國二十八年四月廿三日　晶報　星期日　第八版<lb/>	
 		</div>
-		<div type="article">
+		<div type="image" itemid="405">
 			<div mode="horizontal-tb" dir="rtl"> 
 				影城<lb/>
 			</div>
 			<div mode="horizontal-tb" dir="rtl">
 				趙廉．田豐合輯<lb/>
 			</div>
-			<div>
-				<div>
-					悲歡離合<lb/>
-				</div>
-				<div>
-                                <p>
-                                     俞佩珊在四川與王爲一結婚了，<lb/>
-                                     俞佩珊本與吳曉邦相繾綣的，吳曉<lb/>
-                                     邦目下仍在上海。<lb/>
-                                </p>
-                                <p>
-                                     x　x　x<lb/>
-                                </p>
-                                <p>
-                                     與葉淺予同居一年之梁白波，近<lb/>
-                                     在重慶與一飛行師結婚，葉淺予常<lb/>
-                                     在香港。<lb/>
-                                </p>
-                                <p>
-                                     x　x　x<lb/>
-                                </p>
-                                <p>
-                                     藍蘋在陝北求學，唐納已爲英國<lb/>
-                                     寇爾大使之秘書，這一對在離異後<lb/>
-                                     各有成就。　（能）<lb/>
-                                </p>
-				</div>
-			</div>
+                </div>
+		<div type="article" itemid="497">
+                        <div>
+                                悲歡離合<lb/>
+                        </div>
+                        <div>
+                        <p>
+                                俞佩珊在四川與王爲一結婚了，<lb/>
+                                俞佩珊本與吳曉邦相繾綣的，吳曉<lb/>
+                                邦目下仍在上海。<lb/>
+                        </p>
+                        <p>
+                                x　x　x<lb/>
+                        </p>
+                        <p>
+                                與葉淺予同居一年之梁白波，近<lb/>
+                                在重慶與一飛行師結婚，葉淺予常<lb/>
+                                在香港。<lb/>
+                        </p>
+                        <p>
+                                x　x　x<lb/>
+                        </p>
+                        <p>
+                                藍蘋在陝北求學，唐納已爲英國<lb/>
+                                寇爾大使之秘書，這一對在離異後<lb/>
+                                各有成就。　（能）<lb/>
+                        </p>
+                        </div>               
 		</div>
-		<div type="article">
+		<div type="article" itemid="498">
 			<div>
                         上海究竟有幾個電影公司<lb/>
                         他們的大槪情形怎麼樣？<lb/>
@@ -601,12 +600,11 @@
                                拍。（趙廉）<lb/>
                           </p>
 			</div>
-			<div type="image"></div>
-			<div>
+			<div type="image" itemid="406">			
                          陳燕燕（琵琶記主角）<lb/>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="499">
 			<div>
 				王吉亭<lb/>
 				母喪<lb/>
@@ -659,7 +657,7 @@
                           </p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="500">
 			<div>
 				馬陋芬由港來滬<lb/>
 			</div>
@@ -674,7 +672,7 @@
                           </p>
 			</div>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="643">
 			<div mode="horizontal-tb" dir="rtl">
 				回力球<lb/>
 			</div>	
@@ -713,7 +711,7 @@
                            安杜利<lb/>
 			</div>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="645">
 			<div mode="horizontal-tb" dir="rtl">
                         常服<lb/>
                         中英菓子塩<lb/>
@@ -721,7 +719,7 @@
 			<div mode="horizontal-tb" dir="rtl">
                         永保健康<lb/>
 			</div>
-			<div type="image"></div>
+			<div type="image" itemid="407"></div>
 			<div>
                         降火消積<lb/>
                         淸血潤腸<lb/>
@@ -738,7 +736,7 @@
                         分發行　霞飛路國泰大戲院對面<lb/>
 			</div>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="644">
 			<div>
                         沈淇泉太史潤格<lb/>
 			</div>
@@ -903,7 +901,7 @@
 	</div>
 	<!--start middle of the fold-->
 	<div dir="rtl" mode="vertical-rl">
-		<div type="advert">
+		<div type="advert" itemid="646">
 			<div>
                         毛興昌<lb/>
 			</div>
@@ -926,13 +924,13 @@
                         毛興昌啓<lb/>
 			</div>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="647">
 			<div type="image"></div>
 			<div mode="horizontal-tb" dir="rtl">
                         一滴清<lb/>
-				眼薬水<lb/>
+			眼薬水<lb/>
 			</div>
-			<div type="image"></div>
+			<div type="image" itemid="408"></div>
 			<div>
                         統治<lb/>
                         目疾<lb/>
@@ -941,11 +939,11 @@
                         一滴<lb/>
                         見功<lb/>
 			</div>
-                  <div type="image"></div>
-                  <div>
+                        <div type="image" itemid="409"></div>
+                        <div>
                         ◇一滴淸眼藥水主治之眼病◇<lb/>
-			</div>
-            	<div>
+                        </div>
+                        <div>
                         砂眼赤眼<lb/>
                         羞明畏光<lb/>
                         顆粒密生<lb/>
@@ -970,8 +968,7 @@
 			</div>
 			<div>
                         新華藥行發行<lb/>
-			</div>
-			<div type="image"></div>
+			</div>			
 			<div>
                         認明<lb/>
                         商標<lb/>
