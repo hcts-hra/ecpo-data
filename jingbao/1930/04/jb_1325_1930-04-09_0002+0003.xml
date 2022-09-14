@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
@@ -7,9 +6,9 @@
     <!-- start verso page -->
     <div type="page" page="verso" n="2" dir="rtl" mode="vertical-rl">
         <div type="margin">
-            <div dir="rtl" mode="horizontal-tb">
+            <p dir="rtl" mode="horizontal-tb">
                 晶報<lb/>
-            </div>
+            </p>
             <div type="image" itemid="20819">
                 <!-- It is a cat. -->
             </div>
@@ -24,13 +23,13 @@
             </div>
         </div>
         <div type="article" itemid="1155">
-            <div> 
+            <p> 
                 報恥<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （丹翁）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                     五月九日、人因中國屈伏於日人二<lb/>
                     十一條、稱爲國耻、以前德敗於法、<lb/>
                     定有國恥日、法破於德、亦定有國恥<lb/>
@@ -43,22 +42,22 @@
                     旣爲宣傳機關、而報耻日之心不敢<lb/>
                     忘、則天道豈無帮忙機會、詩以紀日<lb/>
                     、非心聲乎、<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                     階級何分筆與槍毛錐毛瑟兩凄凉<lb/>
                     絕無受贐孟夫子敢望無冠梁惠王<lb/>
                     退讓若干天曉得包涵些子海難量<lb/>
                     暫時未報非無報因果循環勿要忙<lb/>
-            </div>
+            </p>
          </div>
          <div type="article" itemid="1156">
-             <div>
+             <p>
                  交際四花<lb/>
-             </div>
-             <div dir="rtl" mode="horizontal-tb">
+             </p>
+             <p dir="rtl" mode="horizontal-tb">
                  （率痴）<lb/> 
-             </div>
-             <div>
+             </p>
+             <p>
                     春江之濱、交際之花、臨風怒放、而<lb/>
                     個中四枝、尤負盛譽、一爲風流寡婦<lb/>
                     、不知其姓字、嫁人三月而寡、始與<lb/>
@@ -71,16 +70,16 @@
                     半月卽反目而行、四爲華女士、住白<lb/>
                     克路永年里、現在愛老二書寓、方以<lb/>
                     色相示人也、<lb/>
-             </div>
+             </p>
          </div>
         <div type="article" itemid="1178">
-             <div>
+             <p>
                  國際宮傍之人才濟濟<lb/>
-             </div>
-             <div>
+             </p>
+             <p>
                  （孳善自）<lb/>
                  （瑞士寄）<lb/>
-             </div>
+             </p>
              <div>
                  <p>
                      我國駐外各館、年來精神振作、氣象爲之一新、是蓋中央主持得人、抑亦<lb/>
@@ -106,13 +105,13 @@
              </div>
          </div>
         <div type="article" itemid="1202">
-             <div>
+             <p>
                  不怕死下場如何<lb/>
-             </div>
-             <div dir="rtl" mode="horizontal-tb">
+             </p>
+             <p dir="rtl" mode="horizontal-tb">
                  （天馬）<lb/>
-             </div>
-             <div>
+             </p>
+             <p>
                     羅克不怕死一案、近來擱置不審、輿<lb/>
                     論上也不聽得什麼響聲了、有人說、<lb/>
                     此案有和解之望、但我不知道所謂<lb/>
@@ -135,22 +134,22 @@
                     不許開演、不是小小的條件可以和<lb/>
                     解的、那末和解嗎、不和解嗎、欲知<lb/>
                     後事如何、且聽下囘分解、<lb/>
-             </div> 
+             </p> 
          </div>
          <div type="image" itemid="639">
-             <div mode="horizontal-tb" dir="rtl">
+             <p mode="horizontal-tb" dir="rtl">
                   ◘二百五十三歲之李靑雲君◘<lb/>             
-             </div>
+             </p>
          </div>
          <div type="article" itemid="1203">
-             <div>
+             <p>
                     老河口戒嚴時之運土<lb/>
-             </div>
-             <div dir="rtl" mode="horizontal-tb">
+             </p>
+             <p dir="rtl" mode="horizontal-tb">
                    （神獅）<lb/>
-             </div>
-             <div>
-                    漢&gaiji;歸客言、閻馮稱兵<lb/>
+             </p>
+             <p>
+                    漢歸客言、閻馮稱兵<lb/>
                     以來、鄂北老河口一帶<lb/>
                     戒嚴、老河口爲川陝烟<lb/>
                     土運豫之要區、積存黑<lb/>
@@ -177,10 +176,10 @@
                     用之貨、則由襄河運漢、<lb/>
                     今年或沿用此項辦法、<lb/>
                     未可知也、<lb/>
-             </div>
+             </p>
          </div>
         <div type="article" itemid="1204">
-                <div>
+                <p>
                        ◘欲娶郎德山之<lb/>
                        女、而與方椒伯<lb/>
                        之女離婚之胡會<lb/>
@@ -191,22 +190,22 @@
                        巳半年不歸、忽<!-- 「已」 was wrongly inserted 「巳」 in the newspaper. --><lb/>
                        進狀聲請離婚、<lb/>
                        人多異之、（柳）<lb/>
-                </div>
+                </p>
          </div>         
          <div type="image" itemid="640">  
-                <div mode="horizontal-tb" dir="rtl">
+                <p mode="horizontal-tb" dir="rtl">
                        ◘茂豐洋行之保險玻璃◘<lb/>
-                      （快槍在四五步射擊後之狀）&gaiji;<lb/>
-                </div>
+                      （快槍在四五步射擊後之狀）<lb/>
+                </p>
          </div>
          <div type="article" itemid="1205">
-                <div>
+                <p>
                        今日之隴海路<lb/>
-                </div>
-                <div dir="rtl" mode="horizontal-tb">
+                </p>
+                <p dir="rtl" mode="horizontal-tb">
                        （曼妙）<lb/>
-                </div>
-                <div>
+                </p>
+                <p>
                        自西北軍事動員以來、隴<lb/>
                        海鐵路又首當其衝、囘憶<lb/>
                        去歲五月下旬、孫良誠率<lb/>
@@ -241,16 +240,16 @@
                        隴海與津浦交叉之點、尤爲軍事重<lb/>
                        心之地、向之築路、本爲交通便利起<lb/>
                        見、今乃成爲軍事重要之利器也、<lb/>
-                </div>
+                </p>
          </div>
          <div type="article" itemid="1206">
-                <div>
+                <p>
                        某要人之特別汽車<lb/>
-                </div>
-                <div dir="rtl" mode="horizontal-tb">
+                </p>
+                <p dir="rtl" mode="horizontal-tb">
                       （絳雪）<lb/>
-                </div>
-                <div>
+                </p>
+                <p>
                     某要人近在美國購一價<lb/>
                     格昂貴、裝璜富麗之汽<lb/>
                     車一輛、共値美金四萬<lb/>
@@ -269,10 +268,10 @@
                     且裝有握手把四具、以備車旁護兵<lb/>
                     之用、聞此項汽車、在一星期內、卽<lb/>
                     可運滬交貨矣、<lb/>
-                </div>
+                </p>
          </div>
         <div type="article" itemid="1207">
-                <div>
+                <p>
                        ◘前匯豐銀行買辦席鹿笙遇害後、<lb/>
                        其如夫人（卽舜琴老五、）力求節儉、<lb/>
                        遷於敦豐里口小洋房、卽紅千小阿<lb/>
@@ -280,25 +279,25 @@
                        甚都、是以收囘自住、其一百九十一<lb/>
                        號之大洋房、則以月租一千零五十<lb/>
                        元賃於人、開設高等俱樂部、（禹）<lb/>
-                </div>
+                </p>
          </div>
         <div type="article" itemid="1208">
-                <div>
+                <p>
                        ◘貌似牛奶總統之霞珍老七、本節<lb/>
                        巳嫁人去、所天似爲一要人、故嫁時<!-- 「已」 was wrongly inserted 「巳」 in the newspaper. --><lb/>
                        極秘、今之霞珍、僅餘一額有王字之<lb/>
                        老八、（是）<lb/>
-                </div>
+                </p>
          </div>
          <div type="article" itemid="1209">
-                <div>
+                <p>
                        揩油博士<lb/>
-                </div>
-                <div dir="rtl" mode="horizontal-tb">
+                </p>
+                <p dir="rtl" mode="horizontal-tb">
                       （花絮）<lb/>
-                </div>
-                <div type="image" itemid="641"></div>
-                <div>
+                </p>
+                <div type="image" itemid="641"/>
+                <p>
                        邇歲以來、吾國女子於運動界、得占一席、一洗自古嬌柔怯弱之習、此爲<lb/>
                        吾國女子第一之進步、以中國女子不能與他國女子相較、他國女子於體<lb/>
                        魄上本來解放、而吾國女子則千餘年來纏足之風、束縛巳慣、今乃得此大<!-- 「已」 was wrongly inserted 「巳」 in the newspaper. --><lb/>
@@ -319,44 +318,44 @@
                        賽均見功勞、故黃氏恒追隨於孫小姐之左右、以獲此高尙而榮幸之差使、<lb/>
                        黃氏自詡謂此項揩油職務、爲年來在交際場中、最愉快之舉、謔者謂今後<lb/>
                        黃警頑君交際博士之頭銜、可改而爲揩油博士云、<pb/>
-                </div>
+                </p>
          </div>
     </div>
     <!-- start middle of the fold -->
-    <div type= "margin" dir="rtl" mode="vertical-rl">
+    <div type="margin" dir="rtl" mode="vertical-rl">
         <div type="advert" itemid="1086">
             <!--
                        絞盤牌香烟
                        交際必備
                    -->
-            <div type="image" itemid="642"></div>
+            <div type="image" itemid="642"/>
         </div>	
     </div>
     <!-- start recto page -->
     <div type="page" page="recto" n="3" dir="rtl" mode="vertical-rl">
         <div type="margin">
-            <div>
+            <p>
                 此處<lb/>
                 招登<lb/>
                 廣吿<lb/>
                 價格<lb/>
                 面議<lb/>			
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 社會文藝之結晶<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 晶報<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1210">
-            <div>
+            <p>
                 招商局案中之一滑稽函<!-- 「函」 was written as 「圅」. --><lb/>		    	
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （天倪）<lb/>	
-            </div>
-            <div>
+            </p>
+            <p>
                 招商局總辦趙鐵橋、與董事長李國<lb/>		    		
                 杰因交惡而互相涉訟、且引起趙所<lb/>
                 委積餘經理符矩存控李之訟、至今<lb/>
@@ -378,16 +377,16 @@
                 招商局整理案、似曾複述此文』云云<lb/>
                 、借題發揮、依然聯合通信社稿件口<lb/>
                 吻、是亦本案中滑稽之一幕也、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1211">
-            <div>
+            <p>
                 新蘼蕪曲之表演<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （𣏌柳）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 陶朱後人、代表太邱將軍蒞遼瀋、道經大連、某五公子宴之<!-- There is a half space. -->洎後人歸<lb/>
                 途、復至連埠、以杯酒答前歡、華筵旣開、羣賓咸集、坐中有公子及樂<lb/>
                 水將軍、各攜眷屬、而樂水之妻、卽前與公子賦離鸞之歌者、初見公<lb/>
@@ -396,16 +395,16 @@
                 之妻、琴瑟偕樂、曾媵督部、嚮與樂水亦有一日之雅、相逢脈脈、雖桃<lb/>
                 李不言、自爾含情無限、當擎杯勸酌之際、八目流動、各蘊所懷、後人<lb/>
                 酬酢其間、益覺其瘁、而昔日蘼蕪之詠、至是始更識其佳也、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1212">
-            <div>
+            <p>
                 盛宅堂會之小問題<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （秋意）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 盛七公子之壽、親友所送堂會戲甚<lb/>
                 多、荼寶小姐之藁砧邵洵美君、因誼<lb/>
                 屬至戚、故亦送律和票房之彩排、自<lb/>
@@ -424,16 +423,16 @@
                 不收、卲則必欲盛收、今兩家會計、<!-- 「邵」 was inserted 「卲」. --><lb/>
                 猶奔馳道中、互相推拒、兩家戚誼、<lb/>
                 以好事而成憾事、亦祝嘏中趣談也、<lb/>      
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1262">
-            <div>
+            <p>
                 饞貓攫肉之京兆生<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （如是）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 京兆生、籍浦左、曾卒業某大學、恃<lb/>
                 其餘蔭、肆行里閭間、同閏某女生、<lb/>
                 饒有姿色、以與生婦同學、時往還生<lb/>
@@ -466,24 +465,24 @@
                 述生無狀、大有鳴鼓而攻之意、<lb/>
                 若京兆生者、亦敎育界中之蟊<lb/>
                 賊者已、<lb/>
-            </div>
+            </p>
         </div>
         <div type="image" itemid="643">
-            <div mode="horizontal-tb" dir="rtl" >
+            <p mode="horizontal-tb" dir="rtl">
                 ◘華洋電話發達之<lb/>
-            </div>
-            <div mode="horizontal-tb" dir="rtl" >
+            </p>
+            <p mode="horizontal-tb" dir="rtl">
                 障碍物◘<lb/>
-            </div>            
+            </p>            
         </div>
         <div type="article" itemid="1263">
-            <div>
+            <p>
                 鍾雪琴之遊連歸後談<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （小英）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 滬人皆知之鍾雪琴、上月<lb/>
                 初旬、偕伴李琴芳同遊大<lb/>
                 連、越二十日回滬、昨有晤<lb/>
@@ -515,21 +514,21 @@
                 埠風景、云軍閥要人均他<lb/>
                 往、馬路中行人稀少、殊形<lb/>
                 落寞、完全一日人世界耳、<lb/>
-            </div>
+            </p>
         </div>
         <div type="image" itemid="644">
-            <div>
+            <p>
                 ◘前名牡丹花之文琴老六（寶芳攝）<lb/>  
-            </div>            
+            </p>            
         </div> 
         <div type="article" itemid="1264">
-            <div>
+            <p>
                 海上文虎一席話<!-- 「話」 was written as 「䛡」(its variant). --><lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （聞見）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 海上詩謎之風、曾盛行一時、近<lb/>
                 雖尙有數處詩社、巳不若曩之<!-- 「已」 was inserted as 「巳」. --><lb/>
                 興高彩烈矣、江紫塵先生、於其<lb/>
@@ -545,10 +544,10 @@
                 亦以虧負、欲掩息旗鼓矣、此在博中<lb/>
                 、最爲逸品、然能支持巳久如江君者<!-- 「已」 was inserted as 「巳」. --><lb/>
                 、亦不數數覯也、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1265">
-            <div>
+            <p>
                 ◘自華<lb/>
                 女按摩<lb/>
                 發達後<lb/>
@@ -565,10 +564,10 @@
                 摩僅三元、浴兩元、且奉送牛乳咖啡<lb/>
                 、又按摩女士寶媛新媛名片發見後、<lb/>
                 他家亦爭用名刺宣傳法、（摩爾登）<lb/>
-            </div>           
+            </p>           
         </div>
         <div type="article" itemid="1266">
-            <div>
+            <p>
                 ◘有虎頭後人者、以畫家自詡、曾廁<lb/>
                 明星中、實則俗骨一把、非潘衞之流<lb/>
                 、始譎張翡琅、約與同居、翡爲山梁<lb/>
@@ -576,10 +575,10 @@
                 張女郎交甚歡、貌尤美於翡、遂生酸<lb/>
                 素、時聞勃谿、張以其跡近拆白、擬<lb/>
                 謀法律救濟、（道聽）<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="47247">
-            <div>
+            <p>
                 ◘交通無線電信傳習所來函　逕啟<lb/>
                 者、頃閱四月六日貴報、所載敝校新<lb/>
                 聞一則、完全憑空揑造、所謂宣言云<lb/>
@@ -591,10 +590,10 @@
                 、明察秋毫、此等鬼蜮伎倆、當爲貴<lb/>
                 報所洞察也、卽希更正爲荷、此致晶<lb/>
                 報主筆台鑒、趙曾玨尤佳章同啓、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="47246">
-            <div>
+            <p>
                 ◘傅增湘來函　<!-- The space here is wide as a combination of a full space and a half space. Here I only inserted a full space (Uto3000). -->晶報館主筆台鑒、<lb/>
                 頃聞貴館三月六日報紙載圖章預刻<lb/>
                 之離婚據一則、內有徐某識鄙人之<lb/>
@@ -607,16 +606,16 @@
                 惟此事有關家人名譽、不得不鄭重<lb/>
                 申明、敬祈貴主筆詳查更正爲幸、此<lb/>
                 候台安、　傅增湘拜啓、<lb/>
-            </div>
+            </p>
         </div>        
         <div type="article" itemid="1267">
-            <div>
+            <p>
                 張瑞珍之逆旅癖<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （無諍）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 海上物質文明、優於各埠、故逆旅多華廈巍巍、舖陳楚楚、居是中者、固有<lb/>
                 舟車往來之客、而家於春浦、復於邸內闢室<!-- There is a half space. -->以度其閒遊燕樂之生活者、<lb/>
                 亦不乏其人、香田老七、卽耆此之一者、七元住平望街榮陽里、人所稱之<lb/>
@@ -634,15 +633,14 @@
                 語人曰、中國家庭、往往設備不周、羣物塵積、多無所用、人生藏修息遊、<lb/>
                 自貴適意、若日日困於鹽米、勤於埃垢、實非所堪、如七者、可謂達於人生<lb/>
                 觀矣、<lb/>
-            </div>
-            <div mode="horizontal-tb" dir="rtl">
+            </p>
+            <p mode="horizontal-tb" dir="rtl">
                 ◘張瑞珍七小姐◘<lb/>
-            </div>
-            <div type="image" itemid="645"></div>
+            </p>
+            <div type="image" itemid="645"/>
         </div>
         <div type="margin" dir="rtl" mode="vertical-rl">
                各稿版權均歸本社所有禁止轉載翻印譒譯<pb/>
         </div>
     </div>
-</fold>           
-            
+</fold>

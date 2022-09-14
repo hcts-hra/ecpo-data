@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
@@ -7,9 +6,9 @@
     <!-- start verso page -->
     <div type="page" page="verso" n="2" dir="rtl" mode="vertical-rl">
         <div type="margin">
-            <div dir="rtl" mode="horizontal-tb">
+            <p dir="rtl" mode="horizontal-tb">
                 晶報<lb/>
-            </div>
+            </p>
             <div type="advert" dir="rtl" mode="horizontal-tb" itemid="1209">
                 <!--  請飲金納氏巴德補血酒以健尊體 -->
             </div>
@@ -21,13 +20,13 @@
             </div>
         </div>
         <div type="article" itemid="1328">
-            <div>
+            <p>
                 錦標<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （丹翁）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 全國運動大會選手先說男標總<lb/>
                 錦標滬港粵其次則推津遼女總<lb/>
                 錦標仍粵次平津哈亦饒運動一<lb/>
@@ -36,16 +35,16 @@
                 域小讓廣姐時髦滬殿愈足自勉<lb/>
                 刮目請看下遭江浙舉國仰望况<lb/>
                 又女中人豪<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1329">
-            <div>
+            <p>
                 官場如戲場<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （天馬）<lb/>
-            </div>
-             <div>
+            </p>
+             <p>
                    官塲好似戲塲、一邊上場、一邊便下<lb/>
                    塲、中央的國民政府好似一座舞台、<lb/>
                    這許多官僚、便是演員、忽而上台、<lb/>
@@ -62,25 +61,25 @@
                    角、又要出出風頭、雖然他們在北方<lb/>
                    巳經出過風頭、這一囘、可是要禮聘<!-- 「已」 was inserted as 「巳」 in the newspaper. --><lb/>
                    上台、紳商煩演了、<lb/>
-             </div>
+             </p>
         </div>
         <div type="article" itemid="47244">
-            <div>
+            <p>
                 ◘金屋書店主人新文學家邵洵美君<lb/>
                 、將偕其夫人盛佩玉女士下旬出洋<lb/>
                 渡歐、就駐比利時代辦處叄贊之職、<lb/>
                 駐比代辦謝壽康君、爲邵之摯友、故<lb/>
                 約往襄助、（董）<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1330">
-            <div>
+            <p>
                 段合肥之概世談<!-- 「概」 and 「世」 are written as 「嘅」 and 「卋」(the variants). --><lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （獅）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 近日頗傳閣馮運動段合<lb/>
                 肥出山、爲對外作用、據<lb/>
                 天津歸客談、叚足疾稍<lb/>
@@ -102,16 +101,16 @@
                 不足以應付、予老矣、無<lb/>
                 此閒暇與若輩周旋也、<lb/>
                 觀此可斷言其必不出矣<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1331">
-            <div>
+            <p>
                 京市府之張宗昌樂隊<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （絳雪）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 劉紀文巳由南京特別市市<!-- 「已」 was inserted as 「巳」 in the newspaper. --><lb/>
                 長、調任江海關監督矣、當<lb/>
                 在任時、市府有一特別音<lb/>
@@ -131,16 +130,16 @@
                 市府、今劉旣去任、不知此<lb/>
                 樂隊者、亦將奏陽關三疊、<lb/>
                 以送此賢長官歟、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1332">
-            <div>
+            <p>
                 運動大會之北方健兒談<!-- 「談」 was written as 「谈」(its variant). --><lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （秋意）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 今國運動大會、亘九日之久、滬杭各<lb/>
                 報、無不刊載哈爾濱女選手孫桂雲<lb/>
                 女士之照片與消息、孫之食量嗜好<lb/>
@@ -166,15 +165,15 @@
                 責問曰、爾等欲搗亂秩序耶、某選手<lb/>
                 乃悚然而退、北方健兒、待遇較優、<lb/>
                 殆亦懷遠之意乎、<lb/>
-            </div>
+            </p>
         </div>
         <div type="image" itemid="722">
-            <div dir="rtl" mode="horizontal-tb">
+            <p dir="rtl" mode="horizontal-tb">
                 ◘四一二上海南市淸黨三周紀念大會◘<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1335">
-            <div>
+            <p>
                 ◘此次全國運動會、各省女選手大<lb/>
                 出風頭、惟女子究以生理上關係、每<lb/>
                 遇經期來時、如賽跑等等、<lb/>
@@ -182,19 +181,19 @@
                 逢天癸來時、不能獲優勝、<lb/>
                 乃太息曰、非敢後也、馬不<lb/>
                 進也、同人皆爲粲然、（曼）<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1336">
-            <div>
+            <p>
                 ◘光華煤油公司協理顧子<lb/>
                 言君、雖任福建財部特派<lb/>
                 員、據其友云、並未赴閩履<lb/>
                 新、亦尙未發表兼福建財<lb/>
                 廳長事、（黃）<lb/>             
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1337">
-            <div>
+            <p>
                 ◘上期報載無線電查出情<lb/>
                 話新聞、蕪湖電台一報務<lb/>
                 員與安慶電台一報務員、<lb/>
@@ -203,10 +202,10 @@
                 守仁、調笑大意、略稱對方爲密司、<lb/>
                 而以親暱口吻出之、以致誤爲男女<lb/>
                 情話、（方）<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1338">
-            <div>
+            <p>
                 ◘麟鳳閣、新由津平一帶、聘來一歌<lb/>
                 妓、芳名「想容」碩人頎頎、<lb/>
                 厥腿尤長、可與張宗昌媲<lb/>
@@ -215,15 +214,15 @@
                 北平所謂拿加錢是也、統計上座二<lb/>
                 百餘、至多獲十番、亦可憐矣、（怡如<lb/>
                 自南京寄）<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1333">
-            <div>
+            <p>
                 虞琰的湖風<lb/>
-            </div>   
-            <div dir="rtl" mode="horizontal-tb">
+            </p>   
+            <p dir="rtl" mode="horizontal-tb">
                 （華嚴）<lb/>
-            </div>
+            </p>
             <div> 
                 <p>
                       近今的所謂新詩、無格律、不音韻、<lb/>
@@ -262,13 +261,13 @@
             </div>       
         </div>
         <div type="article" itemid="1334">
-            <div>
+            <p>
                 招商局案調停說<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （小偵）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 外間頗傳招商局總辦趙鐵<lb/>
                 橋、與董事長兼積餘經理<lb/>
                 李國杰之訟、有人從中調<lb/>
@@ -285,23 +284,23 @@
                 奎諸賓、亦談起調停事、惟<lb/>
                 對於積餘附屬招商一層、<lb/>
                 迄無辦法耳、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1339">
-            <div>
+            <p>
                 德實業團由滬至京<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （春華）<lb/>
-            </div>
-            <div type="image" itemid="723"></div>
-            <div>
+            </p>
+            <div type="image" itemid="723"/>
+            <p>
                 圖中戴帽者爲團長雷慈<lb/>
                 滿君、正中握救命圈者、<lb/>
                 爲金井羊君、立左角者<lb/>
                 爲包可永君、<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 德國實業考察團此次來華<!-- There is a half space. -->吾國朝野、予以盛大之歡迎、先是國民政府特<lb/>
                 派陳伯莊金井羊包可永三君、至香港迎候、而德團員亦於三月三十日抵<lb/>
                 香港、團員共爲八人、團長爲雷慈滿君、此外爲戴體瑪君、溫德博士、雷德<lb/>
@@ -329,44 +328,44 @@
                 江、至無錫、回上海、遊杭州、然後再定行止、大約先至漢口、而津平遼寗<lb/>
                 之行、則視國內軍事如何、以定先後、此次隨同考察遊宴、金井羊與包可<lb/>
                 永兩君、分司其職、金屬於政府一方、而包則屬於實業團一方也、<pb/>                                             
-            </div>
+            </p>
         </div>
     </div>
     <!-- start middle of the fold -->
-    <div type= "margin" dir="rtl" mode="vertical-rl">
+    <div type="margin" dir="rtl" mode="vertical-rl">
         <div type="advert" itemid="1208">
             <!--
                  大前門
                  香味純美
              -->
-            <div type="image" itemid="724"></div>
+            <div type="image" itemid="724"/>
         </div>	
     </div>
     <!-- start recto page -->
     <div type="page" page="recto" n="3" dir="rtl" mode="vertical-rl">
         <div type="margin">
-            <div>
+            <p>
                 此處<lb/>
                 招登<lb/>
                 廣吿<lb/>
                 價格<lb/>
                 面議<lb/>			
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 社會文藝之結晶<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 晶報<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1340">
-            <div>
+            <p>
                怡盛洋貨號之舊賬訟<lb/>
-           </div>
-            <div dir="rtl" mode="horizontal-tb">
+           </p>
+            <p dir="rtl" mode="horizontal-tb">
                （神獅）<lb/>         
-            </div>
-            <div>
+            </p>
+            <p>
                 近有美商茂生洋行、爲二十年前怡<lb/>
                 盛洋貨號倒閉事、在特區法院、控故<lb/>
                 瑞康經理趙雨亭之五子、及祝寅記<lb/>
@@ -396,16 +395,16 @@
                 聘侯引年國平及祝寅記趙冠慶、而<lb/>
                 趙冠慶聞已延江一平律師辯護、將<lb/>
                 來開庭時、牽涉貝潤生等人必多也、<lb/>           
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1341">
-            <div>
+            <p>
                 西郊俱樂部<!-- 「樂」 was written as its variant. --><lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （𣏌柳）<lb/>        
-            </div>
-            <div>
+            </p>
+            <p>
                 徐園附近、有華廈焉、元爲某國領署、花木幽篷、屋宇輝煌<lb/>
                 、浴室寢房、皆貴族式、內設三十六門、及四粒三粒骰子之<lb/>
                 類、應有盡有、日往遊者、大都豪富、無稔人紹介、每徘徊<lb/>
@@ -427,16 +426,16 @@
                 則係僕役、所以與他執事別也、橫榻三五、明燈熒熒、燒汞術精、是爲錢氏<lb/>
                 、至於陳珍果以療饑、傾佳釀以解渴、或潛遞瓊瑤之贈、或低吟芍藥之歌、<lb/>
                 則又見慣司空、未必擾及蘇州刺史者也、<lb/>
-            </div>          
+            </p>          
         </div>
         <div type="article" itemid="1342">
-            <div>
+            <p>
                 小財神家之昏姻新想<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                   （風流）<lb/>        
-            </div>
-            <div>
+            </p>
+            <p>
                 滬上有著名之李醫師、生女數人、德<lb/>
                 容皆備、內有垞明女士、尤爲美慧、<lb/>
                 騎馬遊泳彈琴舞蹈、無一不精、李積<lb/>
@@ -460,17 +459,17 @@
                 以出、一對璧人、如符之剖、見者不<lb/>
                 知爲離婚而來、尙誤以爲結褵而去、<lb/>
                 思想新穎、亦婚史中之又一頁也、<lb/>
-            </div>          
+            </p>          
         </div>
         <div type="image" itemid="725">
-            <div>
+            <p>
                  ◘進出口之往來船◘<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="47245">
-            <div>
+            <p>
                 祝玲丁〻下野<lb/>
-            </div>
+            </p>
             <div>
                 <p>
                     報載電影狗星德產玲丁丁、每年包<lb/>
@@ -489,28 +488,28 @@
             </div>
         </div>
         <div type="image" itemid="726">
-            <div>
+            <p>
                 ◘爲情服<lb/>
                 毒而死之<lb/>
                 歌妓駱慧<lb/>
                 珠（左）在<lb/>
                 故都春夢<lb/>
                 影片中與<lb/>
-            </div>
+            </p>
             
-            <div>
+            <p>
                 阮玲玉（右）<lb/>
                 合演之一幕（民新公司贈）<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1343">
-            <div>
+            <p>
                 一水果店之盜殺案<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 （阿英）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 近日常有匪盜、在捕房錄供後<!-- There is a half space. -->又在<lb/>
                 法庭翻案、吳淞路上有協成水果店、<lb/>
                 生涯極盛、海上水果店、往往資本雄<lb/>
@@ -531,16 +530,16 @@
                 知情、林子仕瓊素忠厚、亦無法證梁<lb/>
                 罪、近乃延羅家衡何慶雲二律師代<lb/>
                 理吿訴也、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1344">
-            <div>
+            <p>
                 天池中之紫陽<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （聞）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 有紫陽律師者、素欽企<lb/>
                 中鈎之霸、逸氣豪情、現<lb/>
                 於眉宇、一日、至天池洗<lb/>
@@ -561,34 +560,34 @@
                 什物、傷及輪廓、固浴客之所懼、而<lb/>
                 吹簫一曲、皮黃一折、亦足慰情於寂<lb/>
                 寥中也、紫陽所遇、亦數見不鮮者、<lb/>               
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1345">
-            <div>
+            <p>
                 ◘丹桂第一台、唱至月抄、卽將拆造<lb/>
                 、前顧無爲欲控徐耀祥賠償損失事、<lb/>
                 經人調停、徐退還顧定洋一千外、復<lb/>
                 賠一千與顧、事已寢、（綏）<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1346">
-            <div>
+            <p>
                 ◘著名之交際處、近有梅白格路之<lb/>	
                 小脚老二、孟德蘭路之唐老九、白克<lb/>
                 路之常州老大、淡水路之老七、皆足<lb/>
                 繼薛大塊頭之盛軌、操氤氳使者之<lb/>
                 尊權、靑鳥遞書、紅鸚迓客、允爲翹<lb/>
                 楚、合駐韶華、（百）<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1347">
-            <div>
+            <p>
                 碔砆中之假寶玉<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （無諍）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 石頭記中之賈寶玉、描寫佳公子之溫柔情狀、至微且盡、而伎女近每以是<lb/>
                 爲幟、亦怪事也、海上之賈寶玉有二、一福裕里老八、一小花園老八、笑靨<lb/>
                 曼聲、俱爲上駟、而花園之八尤靜媚、八與王姓客歡、生子而適之、八處有<lb/>	
@@ -611,11 +610,11 @@
                 生意耶、其驕矜可想、九有時應徵、人詢何自、則常以澄園等處爲對、一若<lb/>
                 所交皆豪貴也者、識者嗤之、而九猶自若、怡紅公子有知、當亦不復興女<lb/>
                 子是水做的之嘆矣、<lb/>                            
-            </div>
-            <div type="image" itemid="727"></div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <div type="image" itemid="727"/>
+            <p dir="rtl" mode="horizontal-tb">
                     ◘賈寶玉老九（明媚贈）◘<lb/>
-            </div>
+            </p>
         </div>
         <div type="margin" dir="rtl" mode="vertical-rl">
             各稿版權均歸本社所有禁止轉載翻印譒譯<pb/>

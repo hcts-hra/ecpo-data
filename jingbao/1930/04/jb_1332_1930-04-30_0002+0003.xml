@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
@@ -7,9 +6,9 @@
     <!-- start verso page -->
     <div type="page" page="verso" n="2" dir="rtl" mode="vertical-rl">
         <div type="margin">
-            <div dir="rtl" mode="horizontal-tb">
+            <p dir="rtl" mode="horizontal-tb">
                 晶報<lb/>
-            </div>
+            </p>
             <div type="advert" dir="rtl" mode="horizontal-tb" itemid="1423">
                 <!--  請飲金納氏巴德補血酒以健尊體<lb/> -->
             </div>
@@ -21,13 +20,13 @@
             </div>
         </div>
         <div type="article" itemid="1545">
-            <div>
+            <p>
                 姓氏婚姻家庭三問題<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 （丹翁）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 姓氏葛藤本不生。從父從母因起爭。<lb/>
                 其實取締姓。更宜取締名。姓爭二人<lb/>
                 耳。名則人人爭。但是姓名皆不要。<lb/>
@@ -43,16 +42,16 @@
                 殖靈。所以姓氏聖藥變腐藥。影響多<lb/>
                 少婚姻與家庭。今且不成問題矣。腐<lb/>
                 化諸君請勿聽。<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1546">
-            <div>
+            <p>
                 賣妻契約<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （天馬）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 寗波某地、聽說有租妻之法、自己養<lb/>
                 不活他的妻子、把伊租給人家、滿年<lb/>
                 贖還、這也可以算是一種惡俗、而賣<lb/>
@@ -73,16 +72,16 @@
                 有力的證據、而且是在上海號稱最<lb/>
                 文明的地方、這似乎在法律上有些<lb/>
                 研究的價値吧、<lb/>               
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1550">
-            <div>
+            <p>
                 兩個半字之特稅清理<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （鳳郎）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 淸理兩湖特稅處、所收稅<lb/>
                 額至廣、漢上大小各報、頻<lb/>
                 有評論、聞人云、所謂淸理<lb/>
@@ -110,16 +109,16 @@
                 多扣留、查出者尙可領獎、<lb/>
                 所查出之土、仍送交特稅<lb/>
                 處處理、直兜一圈子耳、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1547">
-            <div>
+            <p>
                 宋子良好事多磨<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （絳雪）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 財部宋子文部長之介弟子良君、與外交部王正廷部長之長女公子、以前<lb/>
                 常相過從、每逢星期佳日、恒偕往卡爾登諸處、觀映電影、王女士每次往<lb/>
                 返京滬、宋無論晨夜、必往車站迎送<lb/>
@@ -133,20 +132,20 @@
                 愛程度、僅以友誼爲止、而宋則一往<lb/>
                 情深、猶復依依不釋、女士遂出洋留<lb/>
                 學、好事多磨、識者頗爲扼腕不置、<lb/>               
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1548">
-            <div>
+            <p>
                 ◘前傳某府振災會、僅募得捐欵十<lb/>
                 餘萬元、而請得振米護照一百七十<lb/>
                 萬元、近聞又領得五十萬元、會中辦<lb/>
                 事諸公、墊欵如此之鉅、固屬可驚、<lb/>
                 而海上米價增貴、或言與此似亦不<lb/>
                 無關係云、（米虫）<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1549">
-            <div>
+            <p>
                 ◘譚辛震律師之汽車夫助手肇禍案<lb/>
                 中、傷重致死之譚潤生、爲新新花園<lb/>
                 琴師、亦在雅歌集操絃、葉少英律師<lb/>
@@ -155,16 +154,16 @@
                 少孤、由嬸母撫養成人、至去載、始<lb/>
                 月獲薪百餘元、娶一婦、年甫二十一<lb/>
                 、狀至可慘、（方）<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1551">
-            <div>
+            <p>
                 積餘帳中之招商局欠欵<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （神獅）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 交通部王伯羣部長、前託葉少英律<lb/>
                 師淸查積餘公司帳目、昨聞葉律師<lb/>
                 言、日內卽將報吿呈部、至查帳情形<lb/>
@@ -189,23 +188,23 @@
                 分之七十九矣、營業經費、佔收入四<lb/>
                 分之一、似較稍多、其他帳欵內容、<lb/>
                 葉律師未語及也、<lb/>                              
-            </div>
+            </p>
         </div>
         <div type="image" itemid="873">
-            <div>
+            <p>
                 ◘厦門集美學校童子軍參觀西區救<lb/>
                 火會並由夏主任率隊至體育塲表<lb/>
                 演指導各種消防方法（順麟攝）<lb/>
-            </div>            
+            </p>            
         </div>
         <div type="article" itemid="1552">
-            <div>
+            <p>
                 無忌公子左遷記<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （若愚）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 昔有無忌公子者、受寵於康成、因得榮膺簡命、洊任法曹之長、赫然一新<lb/>
                 貴人矣、人皆側目視之、因羨生妬、輒言於極峯、極峯未能决、置之、嫉者<lb/>
                 乃舉法曹之積弊、以喧於永巷間、由是復達於極<lb/>
@@ -216,22 +215,22 @@
                 支配、各分其肥、而爭多論少者、仍<lb/>
                 復呶呶不休、極峯聞之、殊不直所爲<lb/>
                 、乃將其左遷爲京兆尹云、<lb/>
-            </div>
+            </p>
         </div>
         <div type="image" itemid="874">
-            <div>
+            <p>
                 ◘西區救火會演畢整隊<lb/>
                 攝影藉留紀念（順麟）<lb/>
-            </div>            
+            </p>            
         </div>
         <div type="article" itemid="1553">
-            <div>
+            <p>
                 老女爭產危及老父<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （漢友）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 漢商郭芸溪<lb/>
                 君、年八十<lb/>
                 七、乃有出<lb/>
@@ -258,16 +257,16 @@
                 有二十六日臨危之說、如所傳爲確、<lb/>
                 則自係風燭之年、爲其老女之要求、<lb/>
                 抑鬱增疾、不知此女將何以爲情也、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1554">
-            <div>
+            <p>
                 牛頭董委<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （華嚴）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 華人納稅會前所舉出之三董事六委<lb/>
                 員、自吾晶報稱之爲三頭六臂、乃幾<lb/>
                 成爲一董委之代名詞矣、但今歲之<lb/>
@@ -288,16 +287,16 @@
                 曰牛頭、又曰牛魔王、今五董六委、<lb/>
                 已成爲牛頭之形、深望對此交涉、加<lb/>
                 緊進行、勿成爲牛步化耳、<lb/>               
-            </div>
+            </p>
         </div>        
         <div type="article" itemid="1555">
-            <div>
+            <p>
                 跑馬場之節孝坊<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （曼妙）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 靜安寺路之西商跑馬塲、似爲租界中之禁地、凡屬華人、無端不能進去、<lb/>
                 夕陽西下、芳草如茵、但見黃髮碧睛者攜嬌妻稚子散步徜徉其間耳、租界<lb/>
                 居民、因有迴憶此一片廣場之歷史者、何日乃被圈此賽馬之區、蓋當日亦<lb/>
@@ -313,11 +312,11 @@
                 民、在跑馬塲之周圍搭台、以供觀客之需、三日賽馬、所獲蠅頭、亦殊不細<lb/>
                 、（此見於天笑心上溫馨第八九囘中、）但近兩三年中、此周圍搭台之舉、<lb/>
                 已取消矣、此亦無人顧問也、<pb/>
-            </div>
+            </p>
         </div>
     </div>    
     <!-- start middle of the fold -->
-    <div type= "margin" dir="rtl" mode="vertical-rl">
+    <div type="margin" dir="rtl" mode="vertical-rl">
         <div type="advert" itemid="1422">
             <!--
                        大炮台香烟
@@ -328,28 +327,28 @@
     <!-- start recto page -->
     <div type="page" page="recto" n="3" dir="rtl" mode="vertical-rl">
         <div type="margin">
-            <div>
+            <p>
                 此處<lb/>
                 招登<lb/>
                 廣吿<lb/>
                 價格<lb/>
                 面議<lb/>			
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 社會文藝之結晶<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 晶報<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1556">
-            <div>
+            <p>
                 七命血案之餘瀝<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （𣏌柳）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 愛文義路至德里廣西人郭椿森家、<lb/>
                 被僕郭崧安、於二十五日夜殺死大<lb/>
                 小七命一案、社會詫爲異事、茲述各<lb/>
@@ -375,41 +374,41 @@
                 善田徑賽、此次日本遠東運動會、伯<lb/>
                 起本被選、因一妻二子、同時被害、<lb/>
                 感觸尤深、故已决辭遠東之選、<lb/>
-            </div>           
+            </p>           
             <div type="image" itemid="875"> 
-                <div>
+                <p>
                 ◘盛蘋臣七公<lb/>
                 ◘子與魏秀琦<lb/>
                 ◘夫人補行婚<lb/>
                 ◘禮紀念儷影<lb/>
-            </div>
+            </p>
             </div>
         </div> 
         <div type="article" itemid="1594">
-            <div>
+            <p>
                 ◘前國務總理李根源君、與其棄妾<lb/>
                 程佩彝、在蘇涉訟、業已辯論終結、<lb/>
                 不久宣判、程生計日窘、昨見其自蘇<lb/>
                 致滬友書、謂乳媽工資、久欠未發、<lb/>
                 請爲設法等語、（波）<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1595">
-            <div>
+            <p>
                 ◘盛五六兩小姐、控其兄弟妹姪、聲<lb/>
                 請繼承遺產一案、現已經人調停、將<lb/>
                 來由盛家五房撥出一百萬、與五六<lb/>
                 七八四位小姐分配、訟可和解、（李）<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1596">
-            <div>
+            <p>
                 輪機軋〻之私盐<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （小英）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 中國之鹽、分塲商運商二項、煮鹽者<lb/>
                 謂之塲商、銷鹽者謂之運商、運商有<lb/>
                 政府頒給之照、有運使發給咨文、無<lb/>
@@ -449,16 +448,16 @@
                 以維持船戶生活而止、今則私鹽轉<lb/>
                 多輪運、不知船戶聞之、又將若何感<lb/>
                 想也、<lb/>
-            </div>
+            </p>
         </div>        
         <div type="article" itemid="1597">
-            <div>
+            <p>
                 九十壽翁之家產累<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （率痴）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 馬湘伯先生、近日將慶九<lb/>
                 十壽、惟其家庭之財產涉<lb/>
                 訟、尙未淸結、去秋馬姪孫<lb/>
@@ -477,31 +476,31 @@
                 斥、馬固無語、而幼眉則不<lb/>
                 服、提起上訴、迨開審時、<lb/>
                 馬或以證人地位到庭也、<lb/>
-            </div>           
+            </p>           
         </div>
         <div type="article" itemid="1598">
-            <div>
+            <p>
                 ◘江蘇省政府之新聞記者招待室、<lb/>
                 現改爲女職員休息室、曩之破筆爛<lb/>
                 紙、今則粉鏡香囊、凡女同志應有什<lb/>
                 物、無不設備周全、新聞記者室、則<lb/>
                 遷對面空屋內、較前稍簡、（潤深自<lb/>
                 鎭江寄）<lb/>
-            </div>
+            </p>
         </div>
         <div type="image" itemid="876">
-            <div>
+            <p>
                 ◘市虎之盲目精神◘<lb/>
-            </div>           
+            </p>           
         </div>
         <div type="article" itemid="1599">
-            <div>
+            <p>
                 朱雀神家門客談<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （如是）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 朱雀神之子衡山君、英年<lb/>
                 俊盼、不減灌口二郎、神歸<lb/>
                 兜率宮、衡山君嗣其職、喜<lb/>
@@ -532,17 +531,17 @@
                 始漸悟若輩之旨、嘅然曰、<lb/>
                 信陵孟嘗殊易爲、所難獲<lb/>
                 者、侯嬴馮驩諸賢耳、<lb/>
-            </div>           
+            </p>           
         </div>
         <div type="article" itemid="1600">
-            <div>
+            <p>
                 瞿俞之上論蕭曹<!-- yitizi 𣍘 --><lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 （壯叟自）<lb/>
                 （秣陵寄）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 南京一埠、戲劇始終不能發達、自改<lb/>
                 建首都後、人文薈萃、各種娛樂、如<lb/>
                 電影院、女唱書、營業無不鼎盛<lb/>
@@ -582,10 +581,10 @@
                 麻、至是吾並俊佩、且不敢仰視、未<lb/>
                 免大感不快、人苦不自知、若惲君者<lb/>
                 、豈登台之先、未一對鏡耶、<lb/>
-            </div>           
+            </p>           
         </div>
         <div type="article" itemid="1601">
-            <div>
+            <p>
                 ◘綽號小滑頭之寶琴老六、以善唱<lb/>
                 法門寺諸戲著名、近附麗於平望街<lb/>
                 眞花媛媛書寓、去載、誕一子、有客<lb/>
@@ -599,22 +598,22 @@
                 復如前<lb/>
                 之活潑<lb/>
                 （綏）<lb/>
-            </div> 
+            </p> 
             <div type="image" itemid="877">
-                <div dir="rtl" mode="horizontal-tb">
+                <p dir="rtl" mode="horizontal-tb">
                     ◘惠然老九所書◘<lb/>
-                </div> 
+                </p> 
                 <!--The texts in the image: 我们來過了。你們到什麽地方去了。我們來過二湯。等不其你們了。我們則得回去了。-->
             </div>        
         </div>
         <div type="article" itemid="1602">
-            <div>
+            <p>
                 記寶鳳題名由來<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （天倪）<lb/>               
-            </div>
-            <div>
+            </p>
+            <p>
                 晶雄著文、輒署寶鳳閣主、殆所以紀念舊人之意、而樂籍中亦有所謂寶鳳<lb/>
                 者、揆其始因、足堪一噱、鳳家有老四、曾隸夜明珠老七許、七適人去、四<lb/>
                 猶若春來燕子、依其畫棟者有年、洎乎前載、四始懷獨立想、乃傾鍰贖身<lb/>
@@ -634,11 +633,11 @@
                 人無錫楊二小姐、當初張幟時、與邵商立名、邵曰、宜擇近人所知者之名<lb/>
                 用之、數及寶鳳、四首肯、名乃定、此題名之由來也、四與吳蓮洲醫師之眷<lb/>
                 屬、亦常往還、四喜交懸壺者、殆亦昔日高齊雲綽號衞生堂差乎、<lb/>
-            </div>            
+            </p>            
             <div type="image" itemid="878">
-                <div dir="rtl" mode="horizontal-tb">
+                <p dir="rtl" mode="horizontal-tb">
                     ◘寶鳳老四近影◘<lb/>               
-                </div>
+                </p>
             </div>
         </div>
         <div type="margin" dir="rtl" mode="vertical-rl">

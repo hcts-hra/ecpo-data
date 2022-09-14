@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
@@ -6,55 +5,55 @@
 <fold xml:id="jb_3799_1939-04-25_0001to0004" lastedit="2021-08-23" lasteditor="ysmlouis">
     <!-- start recto page -->
     <div type="page" page="recto" n="1" mode="vertical-rl" dir="rtl">
-         <div type="head" mode="horizontal-tb" dir="rtl" >
-               <div>
+         <div type="head" mode="horizontal-tb" dir="rtl">
+               <p>
                       晶報<lb/>
-               </div>
-               <div mode="horizontal-tb" dir="ltr">
+               </p>
+               <p mode="horizontal-tb" dir="ltr">
                       The Crystal<lb/>
                       發行人　A.　L.　Teodoro<lb/>
-               </div>
-               <div>
+               </p>
+               <p>
                       館址漢口路二九九號　電話九三四二八<lb/>
                       中華郵政特准掛號立券按照總包優益寄送之報紙<lb/>
                       ◀公共租界工部局登記證Ｃ字廿四號▶<lb/>
                       ◀第三千七百九十九號▶<lb/>
                       中華民國貳拾捌年四月廿五日　星期二　今日兩全張售國幣貳分四厘　本報創刊於民國八年三月三日<lb/>
-               </div> 
+               </p> 
          </div>
          <div type="advert">
-                <div mode="horizontal-tb" dir="rtl">
+                <p mode="horizontal-tb" dir="rtl">
                      金字塔香煙<lb/>
-                </div>
-                <div>
+                </p>
+                <p>
                      煙中<lb/>
-                </div>
-                <div type="image"></div>
-                <div>
+                </p>
+                <div type="image"/>
+                <p>
                      鉄軍<lb/>
-                </div>
-                <div mode="horizontal-tb" dir="rtl">
+                </p>
+                <p mode="horizontal-tb" dir="rtl">
                      中國福新煙公司出品<lb/>
-                </div>
+                </p>
          </div>
-         <div type="advert" mode="horizontal-tb" dir="rtl">
+         <div type="advert" mode="horizontal-tb" dir="rtl"><p>
                 海上第一流攝影專家<lb/>
                 國泰藝術照相館<lb/>
                 定價經濟化照相貴族化<lb/>
                 際此春光攝影良機<lb/>
                 地址南京路石路西<lb/>
                 電話九〇三九三號<lb/>
-        </div>
+        </p></div>
         <div type="article">
-             <div mode="horizontal-tb" dir="rtl">
+             <p mode="horizontal-tb" dir="rtl">
                   日反攻新會失敗<lb/>
-             </div>
-             <div>
+             </p>
+             <p>
                   鄂贛華軍取得聯絡<lb/>
                   向南昌包圍推進<lb/>
                   日部隊現集中於長沙一線<lb/>
                   其他各城防守力量均單薄<lb/>
-             </div>
+             </p>
              <div>
                    <p>
                         （重慶廿四日海通社電）據華方報吿稱、華軍反攻贛北、迭奏奇勛、除高安已再度克復<lb/>
@@ -73,10 +72,10 @@
                         枝、<lb/>
                    </p>
              </div>
-             <div>
+             <p>
                    日防守力單薄<lb/>
                    華軍迭奏奇勛<lb/>
-             </div>
+             </p>
              <div>
                     <p>
                          （重慶廿四日美聯社電）此間軍事領袖今日相<lb/>
@@ -88,10 +87,10 @@
                          各城之防守力量、均極單薄、致給予華軍以莫大之進攻機會云、<lb/>
                     </p>
              </div>
-             <div>
+             <p>
                    華軍佔通山後<lb/>
                    正東西並進中<lb/>
-             </div>
+             </p>
              <div>
                     <p>
                          （平江廿四日電）華軍克復通山部隊、仍繼續<lb/>
@@ -100,10 +99,10 @@
                          激戰、佔大畈之華軍、正東開趕往夾擊、<lb/>
                     </p>
              </div>
-             <div>
+             <p>
                    新會失而復得<lb/>
                    日軍無法登陸<lb/>
-             </div>
+             </p>
              <div>
                     <p>
                          （翁源廿四日電）華軍連日進擊新會城、與日<lb/>
@@ -114,10 +113,10 @@
              </div>
         </div>
         <div type="article">
-             <div mode="horizontal-tb" dir="rtl">
+             <p mode="horizontal-tb" dir="rtl">
                   柏林羅馬軸心⋯⋯國際時事地圖之五<lb/>
-             </div>
-             <div type="image"></div>
+             </p>
+             <div type="image"/>
              <div>
                     <p>
                          現在歐洲地圖上<lb/>
@@ -139,10 +138,10 @@
              </div>
         </div>
         <div type="article">
-             <div>
+             <p>
                    烏鎭有激戰<lb/>
                    日軍被包圍<lb/>
-             </div>
+             </p>
              <div>
                     <p>
                          （五原廿三日電<lb/>
@@ -156,9 +155,9 @@
              </div>
         </div>
         <div type="article">
-             <div>
+             <p>
                    日機襲永嘉<lb/>
-             </div>
+             </p>
              <div>
                     <p>
                          （金華廿四日電<lb/>
@@ -170,9 +169,9 @@
              </div>
         </div>
         <div type="article">
-             <div>
+             <p>
                    國府命令<lb/>
-             </div>
+             </p>
              <div>
                     <p>
                          （重慶廿四日電<lb/>
@@ -189,10 +188,10 @@
              </div>
         </div>
         <div type="article">
-             <div mode="horizontal-tb" dir="rtl">
+             <p mode="horizontal-tb" dir="rtl">
                   華軍採取攻勢後<lb/>
                   日死傷逾七萬<lb/>
-             </div>
+             </p>
              <div>
                     <p>
                          （香港廿四日電）<lb/>
@@ -213,11 +212,11 @@
              </div>
         </div>
         <div type="article">
-             <div>
+             <p>
                    日機飛越南領空<lb/>
                    法提出警吿<lb/>
                    不得再有越軌行動<lb/>
-             </div>
+             </p>
              <div>
                     <p>
                           （重慶廿四日<r style="transform: rotate(90deg);">電</r> <!-- character 電 rotated by 90 degrees --><lb/>
@@ -228,7 +227,7 @@
                          在越南八卡東十公<lb/>
                          里之上空、遭日機<lb/>
                          襲擊、查此次日機<lb/>
-                         、係自東<r style="transform: rotate(-90deg);">京</r> <!-- character 京 rotated by 270 degrees --> 灣&gaiji;洲<lb/>
+                         、係自東<r style="transform: rotate(-90deg);">京</r> <!-- character 京 rotated by 270 degrees --> 灣洲<lb/>
                          島起飛、侵入廣西<lb/>
                          鎭南關後、卽折入<lb/>
                          法屬越南<r style="transform: rotate(-90deg);">領</r> <!-- character 領 rotated by 270 degrees --> 空、直<!-- ⿺𠃊𥃭 --><lb/>
@@ -251,10 +250,10 @@
              </div>
         </div>
         <div type="article">
-             <div mode="horizontal-tb" dir="rtl">
+             <p mode="horizontal-tb" dir="rtl">
                   蘇聯紅星報論<lb/>
                   華軍反攻勝利<lb/>
-             </div>
+             </p>
              <div>
                     <p>
                          （莫斯科<lb/>
@@ -284,11 +283,11 @@
              </div>
         </div>
         <div type="article">
-             <div>
+             <p>
                    漢『市府』慶祝會<lb/>
                    戯台炸彈爆發<lb/>
                    當場死傷四十四人<lb/>
-             </div>
+             </p>
              <div>
                     <p>
                          （漢口廿四日路透電）日人主辦武漢<lb/>
@@ -306,9 +305,9 @@
              </div>
         </div>
         <div type="article">
-             <div>
+             <p>
                    蔣鼎文出巡<lb/>
-             </div>
+             </p>
              <div>
                     <p>
                          （貴陽廿四日電<lb/>
@@ -320,10 +319,10 @@
              </div>
         </div>
         <div type="article">
-             <div>
+             <p>
                    地政學會<lb/>
                    電蔣致敬<lb/>
-             </div>
+             </p>
              <div>
                     <p>
                          （重慶廿四日電<lb/>
@@ -342,9 +341,9 @@
              </div>
         </div>
         <div type="article">
-             <div>
+             <p>
                    湘邊無接觸<lb/>
-             </div>
+             </p>
              <div>
                     <p>
                          （常德廿四日電<lb/>
@@ -357,11 +356,11 @@
              </div>
         </div>
         <div type="article">
-             <div>
+             <p>
                    蘇北魯南佈成弧形陣線<lb/>
                    華大軍會攻徐州<lb/>
                    隴海路台兒莊激戰大奏膚功<lb/>
-             </div>
+             </p>
              <div>
                     <p>
                         （蘇北某地廿四<lb/>
@@ -420,29 +419,29 @@
     </div>
     <!-- start verso page -->
     <div type="page" page="verso" n="4" mode="vertical-rl" dir="rtl">
-         <div type="margin" mode="horizontal-tb" dir="rtl">
+         <div type="margin" mode="horizontal-tb" dir="rtl"><p>
               中華民國二十八年四月廿五日　晶報　星期二　第四版<lb/>
-         </div>
+         </p></div>
          <div type="article">
-              <div>
+              <p>
                     滬浙交通暫斷<lb/>
                     甌江嚴密戒備<lb/>
                     駐紮重兵枕戈待命<lb/>
                     日機日艦昨又擾温<lb/>
-              </div>
+              </p>
               <div>
                     <p>
                          温台防守司令部、禁止任何船隻出入温州之甌江後、温州<lb/>
                          昨日起、已無船隻出入甌江、甌江口之磐石、早已實施封鎖<lb/>
                          、惟封鎖線上之缺口、尚未堵塞、甌江以內、放有水雷、磐<lb/>
-                         石黃華等處、&gaiji;有防禦工程、駐紮重兵、枕戈待命、而嚴防<lb/>
+                         石黃華等處、有防禦工程、駐紮重兵、枕戈待命、而嚴防<lb/>
                          日軍之偷渡登陸、至於此次之禁航、係暫時性質<lb/>
                     </p>
               </div>
-              <div>
+              <p>
                     甌江炮戰<lb/>
                     日機投彈<lb/>
-              </div>
+              </p>
               <div>
                     <p>
                          昨據航業界可<lb/>
@@ -460,9 +459,9 @@
                          損失、<lb/>
                     </p>
               </div>
-              <div>
+              <p>
                     各輪訉<lb/>
-              </div>
+              </p>
               <div>
                     <p>
                          自滬浙以及港浙<lb/>
@@ -542,16 +541,16 @@
              </div>
         </div>
         <div type="article">
-             <div>
+             <p>
                    蔣委員長手諭<lb/>
                    優待新聞記者<lb/>
-             </div>
+             </p>
              <div>
                     <p>
                          各省政府、轉奉<lb/>
                          蔣委員長手諭、略<lb/>
                          云、查國民參政會<lb/>
-                         第二次大會之建&gaiji; <!-- It should be 議. --><lb/>
+                         第二次大會之建 <!-- It should be 議. --><lb/>
                          、確立戰時新聞政<lb/>
                          策、促進新聞事業<lb/>
                          發展等、其中第三<lb/>
@@ -562,17 +561,17 @@
                          與軍事當局、對於<lb/>
                          新聞記者工作、應<lb/>
                          盡量予以協助、幷<lb/>
-                         &gaiji;&gaiji;&gaiji;交通上之&gaiji;<lb/>
+                         交通上之<lb/>
                          大便利、仰卽遵照<lb/>
                          云、<lb/>
                     </p>
              </div>
         </div>
         <div type="article">
-             <div>
+             <p>
                    謀福輪歸來記<lb/>
                    李事務長詳談經過<lb/>
-             </div>
+             </p>
              <div>
                     <p>
                          德商禮和洋行謀福輪、於昨日下午四時、由温<lb/>
@@ -590,9 +589,9 @@
                          十四日始抵滬、<lb/>
                      </p>
              </div>
-             <div>
+             <p>
                    溫州<lb/>
-             </div>
+             </p>
              <div>
                     <p>
                          本月二十日爲日機<lb/>
@@ -609,9 +608,9 @@
                          附近商民、紛向船上暫避、<lb/>
                     </p>
              </div>
-             <div>
+             <p>
                    日機<lb/>
-             </div>
+             </p>
              <div>
                     <p>
                          向江邊投彈三枚、<lb/>
@@ -630,11 +629,11 @@
              </div>
         </div>
         <div type="article">
-             <div>
+             <p>
                    寇爾<lb/>
                    在渝小作勾留<lb/>
                    下月初可返滬<lb/>
-             </div>
+             </p>
              <div>
                     <p>
                          外人消息、英大<lb/>
@@ -651,10 +650,10 @@
             </div>
         </div>
         <div type="article">
-             <div>
+             <p>
                    不盡銅元滾滾外流<lb/>
                    奸商圖小利不惜爲禍國之擧<lb/>
-             </div>
+             </p>
              <div>
                     <p>
                          自去年三月開始<lb/>
@@ -687,10 +686,10 @@
             </div>
         </div>
         <div type="article">
-             <div>
+             <p>
                    華方大隊空軍<lb/>
                    時飛滬杭線偵察<lb/>
-             </div>
+             </p>
              <div>
                     <p>
                          據嘉興來客談、數日前、傳華方大隊<lb/>
@@ -702,11 +701,11 @@
              </div>
         </div>
         <div type="article">
-             <div>
+             <p>
                    滬浙新交通線<lb/>
                    由此道赴浙並不艱難<lb/>
                    今後滬福班次將轉旺<lb/>
-             </div>
+             </p>
              <div>
                     <p>
                          據交通界人士稱<lb/>
@@ -730,10 +729,10 @@
                          轉旺云、<lb/>
                     </p>
              </div>
-             <div>
+             <p>
                    金麗溫<lb/>
                    安謐如恆<lb/>
-             </div>
+             </p>
              <div>
                     <p>
                          本市<lb/>
@@ -741,8 +740,8 @@
                          行、<lb/>
                          頃得浙東金麗温三<lb/>
                          分行覆幣報吿眞相<lb/>
-                         、據&gaiji;&gaiji;州口岸封<lb/>
-                         鎖後、此間&gaiji;無異<lb/>
+                         、據州口岸封<lb/>
+                         鎖後、此間無異<lb/>
                          動、社會秩序照常<lb/>
                          、地方安謐、二十二<lb/>
                          日晨日機空襲、金<lb/>
@@ -760,10 +759,10 @@
              </div>
         </div>
         <div type="article">
-             <div>
+             <p>
                    勸募總額<lb/>
                    近三十萬元<lb/>
-             </div>
+             </p>
              <div>
                     <p>
                          上海難民救濟協<lb/>
@@ -778,11 +777,11 @@
              </div>
         </div>
         <div type="article">
-             <div>
+             <p>
                    法捕房取去國旗<lb/>
                    今日准可發還<lb/>
                    納稅會昨再度交涉之結果<lb/>
-             </div>
+             </p>
              <div>
                     <p>
                          法捕房取去之國<lb/>
@@ -806,22 +805,22 @@
              </div>
         </div>
         <div type="article">
-             <div mode="horizontal-tb" dir="rtl">
+             <p mode="horizontal-tb" dir="rtl">
                    小說<lb/>
-             </div>
-             <div>
+             </p>
+             <p>
                    妹妹我愛你<lb/>
-             </div>
-             <div>
+             </p>
+             <p>
                    卓呆<lb/>
-             </div>
-             <div>
+             </p>
+             <p>
                    一　睡態<lb/>
-             </div>
+             </p>
              <div>
                     <p>
                          曉芳睡在自己房裏的床上<lb/>
-                         ，略有&gaiji;息。她的房間很寬<lb/>
+                         ，略有息。她的房間很寬<lb/>
                          大，而且一個人獨住着。對<lb/>
                          陽台的一面，有大玻璃窗，<lb/>
                          遮着粉紅色的窗帘，地板上<lb/>
@@ -858,10 +857,10 @@
              </div>
         </div>
         <div type="article">
-             <div>
+             <p>
                    浙東郵件<lb/>
                    業已停止<lb/>
-             </div>
+             </p>
              <div>
                     <p>
                          上海郵政管理局<lb/>
@@ -878,9 +877,9 @@
               </div>
         </div>
         <div type="article">
-             <div>
+             <p>
                    ◇晶訊◇<lb/>
-             </div>
+             </p>
              <div>
                     <p>
                          ▲本市中華國產<lb/>
@@ -888,14 +887,14 @@
                          應各省市機關及海<lb/>
                          外各地商會等來函<lb/>
                          之請、特舉辦全市<lb/>
-                         國貨工&gaiji;總登記、<lb/>
+                         國貨工總登記、<lb/>
                          以利國貨外銷、定<lb/>
                          五月六日、開國貨<lb/>
                          商品展覽會、<lb/>
                     </p>
                     <p>
                          ▲唐榮愷、對於<lb/>
-                         油繪人像、尤&gaiji;專<lb/>
+                         油繪人像、尤專<lb/>
                          長、茲應各界商請、<lb/>
                          將所得潤例、提成<lb/>
                          救濟難胞、收件處<lb/>
@@ -904,71 +903,71 @@
              </div>
         </div>
         <div type="advert">
-             <div>
+             <p>
                    質<lb/>
-             </div>
-             <div>
+             </p>
+             <p>
                    香<lb/>
-             </div>
-             <div>
+             </p>
+             <p>
                    味<lb/>
-             </div>
-             <div>
+             </p>
+             <p>
                    效<lb/>
-             </div>
-             <div type="image"></div>
-             <div mode="horizontal-tb" dir="ltr">
+             </p>
+             <div type="image"/>
+             <p mode="horizontal-tb" dir="ltr">
                   BIOZTCEN<lb/>
-             </div>
-             <div>
+             </p>
+             <p>
                    上海新亞藥廠製造<lb/>
-             </div>
-             <div>
+             </p>
+             <p>
                    藥房均售<lb/>
-             </div>
-             <div>
+             </p>
+             <p>
                    寶青春<lb/>
-             </div>
+             </p>
              <!--too vague to tell the direction; given that there is "2L" on the right, it should be read from left to right.-->
-             <div mode="horizontal-tb" dir="ltr">
-                   &gaiji;&gaiji;&gaiji;2L<lb/>
-             </div>
-             <div>
+             <p mode="horizontal-tb" dir="ltr">
+                   2L<lb/>
+             </p>
+             <p>
                    寶青春爲真正譽滿乾燥酵母精製．富含各<lb/>
                    種維他命．功能開胃强身．治療脚氣．整<lb/>
                    理胃腸．促進新陳代謝．舉止新活力．質<lb/>
                    香、味、效．無不超人一等．<lb/>
-             </div>
-             <div mode="horizontal-tb" dir="rtl">
+             </p>
+             <p mode="horizontal-tb" dir="rtl">
                    質香味效<lb/>
-             </div>
-             <div>
+             </p>
+             <p>
                    含量充足<lb/>
                    芬芳開胃<lb/>
                    鮮美可口<lb/>
                    靈騐偉大<lb/>
-             </div>
-             <div type="image"></div>
+             </p>
+             <div type="image"/>
         </div>
         <div type="advert">
-             <div mode="horizontal-tb" dir="rtl">
+             <p mode="horizontal-tb" dir="rtl">
                  胃鑰<lb/>
-             </div>
-             <div>
+             </p>
+             <p>
                  分片<lb/>
-                 &gaiji;<lb/>
-             </div>
-             <div mode="horizontal-tb" dir="rtl">
+                 <lb/>
+             </p>
+             <p mode="horizontal-tb" dir="rtl">
                   增進消化能力<lb/>
                   主治肝胃氣痛<lb/>
                   抑止吞酸嘔吐<lb/>
-             </div>
-             <div type="image"></div>
-             <div type="image"></div>
-             <div mode="horizontal-tb" dir="rtl">
+             </p>
+             <div type="image"/>
+             <div type="image"/>
+             <p mode="horizontal-tb" dir="rtl">
                   上海中西大薬房發行<lb/>
-            </div>
-            <div type="image"></div>
+            </p>
+            <div type="image"/>
         </div>
         <div type="margin">
                本報具有廿一年的歷史是小型報紙鼻祖銷路普遍全國刊登廣吿最有效力<pb/>
@@ -977,42 +976,42 @@
     <!-- start middle of the fold -->
     <div type="margin" mode="vertical-rl" dir="rtl">
         <div type="advert">
-            <div>
+            <p>
                   摩登照相<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                   派司照相　六張三角　當日可取<lb/>
                   美術照相　贈送放大！<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                   新制精美戲劇服裝<lb/>
                   <!-- "戲劇" is written in their variants. -->
-            </div>
-            <div>
+            </p>
+            <p>
                   地址　南京路英華街永安公司對面<lb/>
                   電話　九三八八四號<lb/>
-            </div>
+            </p>
         </div>
         <div type="advert">
-             <div>
+             <p>
                    小兒科<lb/>
                    內　科<lb/>
-             </div>
-             <div>
+             </p>
+             <p>
                    專門<lb/>
                    醫師<lb/>
-             </div>
-             <div>
+             </p>
+             <p>
                    宋虞琪<lb/>
-             </div>
-             <div>
+             </p>
+             <p>
                    ▲診所霞飛路馬斯路口東首先施公<lb/>
                    司一元商店對面六百二十二<lb/>
                    弄泰山公寓六號內五十三號<lb/>
                    ▲時間門診上午十時至十二時下午<lb/>
                    三時至五時餘時出診<lb/>
                    ▲電話八一〇四二號<lb/>
-             </div>
+             </p>
         </div>
     </div>
 </fold>

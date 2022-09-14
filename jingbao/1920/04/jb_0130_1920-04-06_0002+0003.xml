@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
@@ -7,24 +6,24 @@
     <!-- start verso page -->
     <div type="page" page="verso" n="2" mode="vertical-rl" dir="rtl">
         <div type="margin" mode="horizontal-tb" dir="rtl">
-            <div>
+            <p>
                 第二版　民國九年四月六日<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 晶報<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 庚申年二月十八日　星期二<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="3771">
-            <div>
+            <p>
                 北京女校長悉<!-- yitizi𢘤 -->換女子感言<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （丹翁）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 前日時事新報載北京女學校、由學務局在春假期內、俱改派了女校長<lb/>
                 、人說是進化、我說是退化、怎麽說是進化呢、從前女子只能做敎員、現<lb/>
                 在女子、居然做到校長、女子的程度高起來、豈不是進化了嗎、怎麽說是<lb/>
@@ -75,16 +74,16 @@
                 風頭呢、但我相信我這個意見、倒應着古人的話『聖人復起、不易吾言、』<lb/>
                 了、我又何敢懷寶迷邦呢、諸君定要聽是甚麽妙計、我說不難、女學堂<lb/>
                 仍舊用男校長、男學堂却用女校長、這才是『有進無退』的文化呢、唉、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="3775">
-            <div>
+            <p>
                 吾志吾感<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （涵秋）<lb/>
-            </div>          
-            <div>
+            </p>          
+            <p>
                 世道日衰、人心不古、做事難矣而做文字亦難、斗筲之才、涉世旣欠圓融<lb/>
                 、持論又多頑固、問題太大、人旣來支離外行之嘲笑、問題大小、人又加<lb/>
                 我以瑣屑不堪之名詞、必使晶報欄中、無我置喙之地而後快、嗟乎、吾人<lb/>
@@ -103,15 +102,15 @@
                 愛我、爲我鳴其不平、馬二愛我、爲我摘其紕繆、是皆我之好友而已、若<lb/>                
                 欲吾搜大雅之筆墨、爲異已之排除、損個人之名譽、快一時之言論、我固<lb/>
                 無此閒情、且亦嫌其凉德、敬謝不敏、敢吿司楮、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="3779">
-            <div>
+            <p>
                 劇界近聞<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 （馬二先生）<lb/>
-            </div>            
+            </p>            
             <div>
                 <p>
                     兩月來、沒有到上海的舞台、就報紙<lb/>
@@ -148,15 +147,15 @@
             </div>
         </div>
         <div type="article" itemid="3780">
-            <div>
+            <p>
                 斝齋雜詩<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （九）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 寒雲<lb/>
-            </div>
+            </p>
             <div>
                 <p>
                     兇奴小印裁靑玉。官號重文疊相邦。<lb/>
@@ -193,18 +192,18 @@
                     文、曰虎牙將軍章、<lb/>
                     漢官儀、將軍銀章、<lb/>
                     與此正合、此印文<lb/>
-                    機率當是臨時&gaiji;<!--⿰完刂-->與<lb/>
+                    機率當是臨時<!--⿰完刂-->與<lb/>
                     者、西漢田順以太<lb/>
                     守授虎牙將軍、後有虎牙大將軍、則<lb/>
                     非此印矣、（附原印）<lb/>
                 </p>
             </div>
-            <div type="image" itemid="2241"></div>
-            <div type="image" itemid="2242"></div>  
-            <div>
+            <div type="image" itemid="2241"/>
+            <div type="image" itemid="2242"/>  
+            <p>
                 ◘西周大泉<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 此泉形作梳狀、與篆書泉相象、鄭樵<lb/>
                 曰、泉者形如<lb/>
                 泉、而周以大<lb/>
@@ -213,19 +212,19 @@
                 無流傳、故世<lb/>
                 人不知泉象形<lb/>
                 爲何若也、<lb/>
-            </div>
-            <div type="image" itemid="2243"></div>          
+            </p>
+            <div type="image" itemid="2243"/>          
         </div>
         <div type="article" itemid="3786"> 
-            <div>
+            <p>
                 ◘寒雲新得宣和玉刻<lb/>
                 蘭亭拓墨見贈賦詩<lb/>
                 謝之<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 （黃葉）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 道君皇帝全盛時。漢唐文物尤可追。<lb/>
                 壁𨯳吉日致穆滿。金塡獵碣搜西岐。<lb/>
                 淳化官刻漏稧帖。山陰人往風其微。<lb/>
@@ -257,35 +256,35 @@
                 桑俞兩考失眉睫。至寶晚出勿復疑。<lb/>
                 古人遺物存者幾。今人所有古亦稀。<lb/>
                 工良質粹足自怡。尋數著錄眞書癡。<pb/>
-            </div>
+            </p>
         </div>   
     </div>
     <!-- start recto page -->
     <div type="page" page="recto" n="3" mode="vertical-rl" dir="rtl">
-        <div type="margin" mode="horizontal-tb" dir="rtl">
+        <div type="margin" mode="horizontal-tb" dir="rtl"><p>
             第三版　民國九年四月六日　社會定期日刊　庚申年二月十八日　星期二<lb/>                               
-        </div>
+        </p></div>
         <div type="article" itemid="3790">
-            <div>
+            <p>
                 愛克司光錄<lb/>
-            </div>
-            <div  mode="horizontal-tb" dir="rtl">
+            </p>
+            <p mode="horizontal-tb" dir="rtl">
                 （一）<lb/>                  
                 （〇）<lb/>                   
                 （四）<lb/>
-            </div>          
-            <div>
+            </p>          
+            <p>
                 李涵秋著<lb/>
                 禁止轉載<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 第七囘<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 逞狡謀移花接木<lb/>
                 驚奇醜倒樹尋根<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 麗符笑向爛柿子說道、今天我瞧見<lb/>
                 的是你、怕昨天瞧見的也是你、你這<lb/>
                 人究竟還是姑子呢、還是嫂嫂呢、你<lb/>
@@ -362,22 +361,22 @@
                 張敬衣領、喊道、你打他、不如來打<lb/>
                 我、我同你拚了、有甚麽不値得、<lb/>
                 （未完）<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="3791">
-            <div>
+            <p>
                 夕陽紅檻錄<lb/>
-            </div>
-            <div mode="horizontal-tb" dir="rtl">
+            </p>
+            <p mode="horizontal-tb" dir="rtl">
                 （十）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 鵷雛<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 第三章　憶前塵別賦傷春句　感舊雨重題印夢圖<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 一席話、說的靈芝低下頭去、臉上漸<lb/>
                 漸的不自在起來、湘秋頗覺爲難、便<lb/>
                 搭赸着笑道、聽他呢、百和生性好說<lb/>
@@ -442,20 +441,20 @@
                 再看、急忙忙出了新世界、一看時候<lb/>
                 還早得狠、到那裏去坐一囘呢、<lb/>
                 （未完）<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="3793">
-            <div>
+            <p>
                 張文豔<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 之起<lb/>
                 居注<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （小坡）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 艷王臥病半月矣、舉國焦灼、王之得<lb/>
                 病之由、一日飯後王自宮外散步歸、<lb/>
                 覺神情恍惚、便迷離睡去、忽從夢中<lb/>
@@ -468,16 +467,16 @@
                 診治、據其親信宮女報吿太醫云、當<lb/>
                 時爲其更衣、細細檢查衵服、頗有云<lb/>
                 云、此中隱情、又不足爲外人道矣、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="3795">
-            <div>
+            <p>
                 我之花事談<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （癡）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 ▲龐病紅在小申報、作紅脂識小錄、<lb/>
                 署名獨笑、近在新世界報評花、改名<lb/>
                 雙笑、由獨而雙、殆必有故、據知者<lb/>
@@ -485,8 +484,8 @@
                 艷貞老八在側、爲之拂紙磨墨、花萼<lb/>
                 見之、痛論獨笑之號、應卽作廢、故<lb/>
                 改雙笑、<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 ▲雙笑君說、福裕二高婉華妝閣裏、<lb/>
                 有一位實行解放的貝夫人、紓尊降<lb/>
                 貴、與世浮沉、房侍老三等、均爲其<lb/>
@@ -496,8 +495,8 @@
                 凶獲譴下獄的某太史、現在高婉華<lb/>
                 處、號稱某小姐、此話不知眞否、容<lb/>
                 俟將來再談、<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 ▲合肥李伯行先生、常邀二三知已、<lb/>
                 在同春沿十三紅老二處小敍、記者<lb/>
                 有緣、數年來、時於梯邊、得瞻丰采、<lb/>
@@ -508,8 +507,8 @@
                 龍華觀桃花、同行有久安里高齊雲<lb/>
                 諸人、至晚始反、李之俠骨豪興、於<lb/>
                 此可見、<lb/>         
-            </div>
-            <div>
+            </p>
+            <p>
                 ▲友人汪七、昨在鴻興里六弄張第<lb/>
                 處、得見瀟湘館主老林黛玉、因素相<lb/>
                 識、敬問起居、館主說、『我們老爺的<lb/>
@@ -524,8 +523,8 @@
                 僕一人、持皮斗蓬等件、儼然富家婦<lb/>
                 的氣象、至於館主有否覓得金屋、究<lb/>
                 在何處、却還沒有知道、<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 ▲小錢莊所發銅元二十枚的轎飯帳<lb/>
                 、現已在花界盛行、此種小票、除開<lb/>
                 銷車力外、三四馬路一帶、尙可購買<lb/>
@@ -542,24 +541,24 @@
                 書銅字、以免有誤、並且各銀行亦可<lb/>
                 發行三元紙幣、以免客人出三塊頭<lb/>
                 時不便、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="3801">
-            <div>
+            <p>
                 春江花事<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （老匏）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 ▲上一期本報『癡』君的花事談、說<lb/>
                 新世界的花選大宴會、花萼也在那<lb/>
                 裏、據我曉得、花萼那一天、管的妓<lb/>
                 女常券、一個人足足的弄了五個鐘<lb/>
                 頭、彀他受用了、講到口福眼福、眞<lb/>
                 同新靑年一樣、絲毫沒有享用着、<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 ▲老琴寓老六、想做總統這個消息、<lb/>
                 有了好久了、昨天得着一個確實消<lb/>
                 息、琴寓表面上、一些不露聲息、暗<lb/>
@@ -574,8 +573,8 @@
                 總統的資格、據聞、老六非但花國總<lb/>
                 統、已經着手進行、就是香國總統、<lb/>
                 也是他一人包辦哩、<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 ▲金書玉老七、在新世界大請客那<lb/>
                 一天、旣有曹邱、又做毛遂、頗有做<lb/>
                 大總統的希望、論到老七的資格色<lb/>
@@ -591,7 +590,7 @@
                 說、老七的娘、連姓金的都埋怨了、<lb/>
                 無可如何、老七的總統熱、被他娘打<lb/>
                 消了、<pb/>
-            </div>            
+            </p>            
         </div>        
     </div>
 </fold>

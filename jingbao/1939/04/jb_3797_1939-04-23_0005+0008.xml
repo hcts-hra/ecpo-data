@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
@@ -6,24 +5,24 @@
 <fold xml:id="jb_3797_1939-04-23_0005to0008" lastedit="2021-07-27" lasteditor="ysmlouis">
 	<!-- start recto page -->
 	<div type="page" page="recto" n="5" mode="vertical-rl" dir="rtl">
-		<div type="margin" mode="horizontal-tb" dir="rtl">
+		<div type="margin" mode="horizontal-tb" dir="rtl"><p>
 			 中華民國二十八年四月廿三日　晶報　星期日　第五版<lb/>	
-		</div>
+		</p></div>
 		<div type="article">
-			<div dir="rtl" mode="horizontal-tb">
+			<p dir="rtl" mode="horizontal-tb">
 				 文化營<lb/>
-			</div>
-			<div type="image"></div>
-			<div dir="rtl" mode="horizontal-tb">
+			</p>
+			<div type="image"/>
+			<p dir="rtl" mode="horizontal-tb">
 				 黔野主編<lb/>
-			</div>
+			</p>
 		<div type="article">
-			<div>
+			<p>
 				  詩經話繹<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				  如鐘<lb/>
-			</div>
+			</p>
 			<div>
 					<p>
                                     三　摽有梅（召南）<lb/>
@@ -77,12 +76,12 @@
 		</div>
 		</div>
 		<div type="article">
-			<div>
+			<p>
 				  府主和舉主<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				  唐潢虎<lb/>
-			</div>
+			</p>
 			<div>
 			      <p>
                             古時天子只是諸侯之上的一級，諸侯之於天子，猶大夫之於諸侯，而大夫之於<lb/>
@@ -116,22 +115,22 @@
 			</div>
 		</div>
 		<div type="article">
-			<div>
+			<p>
                          亞洲內幕<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                          約翰耿脫著<lb/>
                          亦　朋　譯<lb/>
-			</div>
-                  <div>
+			</p>
+                  <p>
                          蔣介石上將<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                          （三）<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                          領導中國抗戰的人<lb/>
-			</div>
+			</p>
 			<div>
                           <p>
                                蔣氏在西安蒙難<lb/>
@@ -206,25 +205,25 @@
 			</div>
 		</div>
 		<div type="article">
-			<div>
+			<p>
 				動物的叛變　　（一）<lb/>
-			</div>
+			</p>
 		      <div>
 		      	  <p>
                                『打倒人類！他們獵殺我們，奴役<lb/>
                                我們，並且拿我們當作食物……』<lb/>
 		      	  </p>
 			</div>
-			<div type="image"></div>
+			<div type="image"/>
 		</div>
 		<div type="article">
-			<div>
+			<p>
 				愛國志士<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         賽珍珠女士作<lb/>
                         諍　諍　譯<lb/>
-			</div>
+			</p>
 			<div>
                           <p>
                               那獄吏就是在這<lb/>
@@ -290,9 +289,9 @@
 			</div>
 		</div>
 		<div type="article">
-			<div>
+			<p>
 				每日國際政治測驗<lb/>
-			</div>
+			</p>
 			<div>
                           <p>
                                （五）在去年十一月的『暴動』德<lb/>
@@ -340,15 +339,15 @@
                                。<lb/>
                           </p>
                   </div>
-                  <div>
+                  <p>
                          （昨日答案：三，二，）<lb/>
-                  </div>
+                  </p>
 		</div>
 		<div type="article">
-			<div mode="horizontal-tb" dir="rtl">
+			<p mode="horizontal-tb" dir="rtl">
 				袁寒雲先生手寫<lb/>
 				丁卯日記之三<lb/>
-			</div>
+			</p>
 			<div type="image">
 				<!--<p>
 				光明社所演黑海盜乃范朋克最近傑作也<lb/>
@@ -365,101 +364,101 @@
 			</div>
 		</div>
 		<div type="advert" dir="rtl" mode="vertical-rl">
-			<div dir="rtl" mode="horizontal-tb">
+			<p dir="rtl" mode="horizontal-tb">
 				暑期之必需品<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				順風牌<lb/>
 				鮮桔水<lb/>
 				汽　水<lb/>
-			</div>
-			<div dir="rtl" mode="horizontal-tb">
+			</p>
+			<p dir="rtl" mode="horizontal-tb">
 				四大特點<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				滴滴蒸餾<lb/>
 				鮮美可口<lb/>
 				科學製造<lb/>
 				淸潔衞生<lb/>
-			</div>
-			<div dir="rtl" mode="horizontal-tb">
+			</p>
+			<p dir="rtl" mode="horizontal-tb">
 				美華汽水公司出品<lb/>
-			</div>
+			</p>
 		</div>
-		<div type="advert" >
-			<div dir="rtl" mode="horizontal-tb">
+		<div type="advert">
+			<p dir="rtl" mode="horizontal-tb">
 				大華舞廳<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				首創第一<lb/>
 				通宵營業<lb/>
 				紅星總匯<lb/>
 				日夜擁擠<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				全班著名<lb/>
 				樂隊會集<lb/>
 				世界佳曲<lb/>
-			</div>
-			<div dir="rtl" mode="horizontal-tb">
+			</p>
+			<p dir="rtl" mode="horizontal-tb">
 				天天茶舞<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				四時<lb/>
 				起八<lb/>
 				時止<lb/>
 				奉送<lb/>
 				淸紅<lb/>
 				香茗<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				地址<lb/>
 				愛多<lb/>
 				亞路<lb/>
 				馬霍<lb/>
 				路口<lb/>
-			</div>
-			<div dir="rtl" mode="horizontal-tb">
+			</p>
+			<p dir="rtl" mode="horizontal-tb">
 				電話八一三八一號<lb/>
-			</div>					
+			</p>					
 		</div>
-		<div type="advert" >
-			<div dir="rtl" mode="horizontal-tb">
+		<div type="advert">
+			<p dir="rtl" mode="horizontal-tb">
 				虎標<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				頭痛粉<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 			      提　神　養　腦<lb/>
 			      驅　風　散　邪<lb/>
 			      頭　痛　牙　痛<lb/>
 			      卽　服　卽　止<lb/>
-			</div>
-			<div dir="rtl" mode="horizontal-tb">
+			</p>
+			<p dir="rtl" mode="horizontal-tb">
 				各藥房烟兌雜貨店均有售<lb/>
-			</div>
+			</p>
 		</div>
-		<div type="margin" >
+		<div type="margin">
 			本報具有二十年的歷史是小型報紙鼻祖銷路普遍全國刊登廣告最有效力<pb/>	
 		</div>
 	</div>
 	<!-- start verso page -->
 	<div type="page" page="verso" n="8" dir="rtl" mode="vertical-rl">
-		<div type="margin" dir="rtl" mode="horizontal-tb">
+		<div type="margin" dir="rtl" mode="horizontal-tb"><p>
 			中華民國二十八年四月廿三日　晶報　星期日　第八版<lb/>	
-		</div>
+		</p></div>
 		<div type="article">
-			<div mode="horizontal-tb" dir="rtl"> 
+			<p mode="horizontal-tb" dir="rtl"> 
 				影城<lb/>
-			</div>
-			<div mode="horizontal-tb" dir="rtl">
+			</p>
+			<p mode="horizontal-tb" dir="rtl">
 				趙廉．田豐合輯<lb/>
-			</div>
+			</p>
 			<div>
-				<div>
+				<p>
 					悲歡離合<lb/>
-				</div>
+				</p>
 				<div>
                                 <p>
                                      俞佩珊在四川與王爲一結婚了，<lb/>
@@ -486,10 +485,10 @@
 			</div>
 		</div>
 		<div type="article">
-			<div>
+			<p>
                         上海究竟有幾個電影公司<lb/>
                         他們的大槪情形怎麼樣？<lb/>
-			</div>
+			</p>
 			<div>
                           <p>
                               現在究竟有幾個<lb/>
@@ -505,7 +504,7 @@
                                三）華成公司　這<lb/>
                                三個公司都是張善<lb/>
                                琨一人所辦，也等<lb/>
-                               &gaiji;霸佔上海電影界<lb/>
+                               霸佔上海電影界<lb/>
                                的托辣斯局面。<lb/>
                           </p>
                           <p>
@@ -601,16 +600,16 @@
                                拍。（趙廉）<lb/>
                           </p>
 			</div>
-			<div type="image"></div>
-			<div>
+			<div type="image"/>
+			<p>
                          陳燕燕（琵琶記主角）<lb/>
-			</div>
+			</p>
 		</div>
 		<div type="article">
-			<div>
+			<p>
 				王吉亭<lb/>
 				母喪<lb/>
-			</div>
+			</p>
 			<div>
                           <p>
                                王吉亭從業電<lb/>
@@ -660,9 +659,9 @@
 			</div>
 		</div>
 		<div type="article">
-			<div>
+			<p>
 				馬陋芬由港來滬<lb/>
-			</div>
+			</p>
 			<div>
                           <p>
                                上海電影事業日趨繁榮，因戰事向外<lb/>
@@ -675,32 +674,32 @@
 			</div>
 		</div>
 		<div type="advert">
-			<div mode="horizontal-tb" dir="rtl">
+			<p mode="horizontal-tb" dir="rtl">
 				回力球<lb/>
-			</div>	
-			<div mode="horizontal-tb" dir="rtl">
+			</p>	
+			<p mode="horizontal-tb" dir="rtl">
                         今日星期日下午二時起加演雙打<lb/>
-			</div>
-			<div mode="horizontal-tb" dir="rtl">
+			</p>
+			<p mode="horizontal-tb" dir="rtl">
 				前八盤　後八盤<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         1　卡禮加<lb/>
                         2　莫光力骨<lb/>
                         3　佛蘭多<lb/>
                         4　袁利石<lb/>
                         5　海拉多<lb/>
                         6　普登巧<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         1　拉摩司<lb/>
                         2　亞爾培地<lb/>
                         3　古禮地<lb/>
                         4　爾　加<lb/>
                         5　蘇羅沙伯<lb/>
                         6　后蘭多<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         1　拉摩斯<lb/>
                            蘇羅沙伯<lb/>
                         2　后蘭多<lb/>
@@ -711,191 +710,191 @@
                            沙薩門地<lb/>
                         5　阿斯蒂<lb/>
                            安杜利<lb/>
-			</div>
+			</p>
 		</div>
 		<div type="advert">
-			<div mode="horizontal-tb" dir="rtl">
+			<p mode="horizontal-tb" dir="rtl">
                         常服<lb/>
                         中英菓子塩<lb/>
-			</div>
-			<div mode="horizontal-tb" dir="rtl">
+			</p>
+			<p mode="horizontal-tb" dir="rtl">
                         永保健康<lb/>
-			</div>
-			<div type="image"></div>
-			<div>
+			</p>
+			<div type="image"/>
+			<p>
                         降火消積<lb/>
                         淸血潤腸<lb/>
                         平肝利氣<lb/>
                         開胃提神<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         衞生署成藥許<lb/>
                         可證第八一六號<lb/>
-			</div>
-			<div mode="horizontal-tb" dir="rtl">
+			</p>
+			<p mode="horizontal-tb" dir="rtl">
                         中英大藥房發行<lb/>
                         總公司　上　海　四　馬　路<lb/>
                         分發行　霞飛路國泰大戲院對面<lb/>
-			</div>
+			</p>
 		</div>
 		<div type="advert">
-			<div>
+			<p>
                         沈淇泉太史潤格<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         己卯正月重訂<lb/>
                         別號兼巢時年七十有八<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				己卯元日戲賦<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         孼由自作罰由天寒士窮途復暮年賣賦傭書俱有例評量能値幾文<lb/>
                         錢　伏案埋頭作苦工人間此亦可憐蟲多情戚好如相恤何忍揩油<lb/>
                         到老翁<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         鬻文例<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         壽　文<lb/>
                         碑　誌<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         每篇自二百元至五百元　駢文加倍　書別議<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         傳　論<lb/>
                         序　跋<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         每篇自一百元至四百元　駢文加倍　書別議<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         聯語<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         四五六七言每聯十二元　八言至十二言每聯十六元　十二字以上別議　嵌字加半　加<lb/>
                         跋別議　書例見後<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         象贊<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         四言四韵者十二元　長者照加　連書加倍<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         詩歌<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         七言絕句每首十元　七言律詩每首二十元　五言絕句每首八元　五言律詩每首十六元<lb/>
                         古風每首四十元　百字爲率　長歌加倍　書別議<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				金石書<lb/>
 				畫題識<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         每百字三十元　長者照加　連書加半<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         結　婚<lb/>
                         證　書<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         每篇八十元　以一百六十字爲率　連書加半　潤資先惠<lb/>
                         墨費一成<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         鬻書例<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         堂幅<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         四尺以下十六元　五尺二十元　六尺廿四元　八尺三十二元　一丈四十元　丈二尺四<lb/>
                         十八元　以五行爲率　加一行加半　兩行加倍<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         屛幅<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         四尺以下每條十二元　五尺每條十六元　六尺每條二十元　八尺每條廿八元　一丈每<lb/>
                         條三十元　丈二尺每條三十六元　以三行爲率　加一行加半　兩行加倍<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         橫幅全幅照堂幅　半　半幅照屛幅加半<lb/>
-			</div>
-			<div>
-				楹&gaiji;<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
+				楹<lb/>
+			</p>
+			<p>
                         四尺以下十元　五尺十四元　六尺十八元　八尺廿四元　一丈三十二元　丈二尺四十<lb/>
                         元　加跋加倍　長跋別議<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         卷冊每尺二十元<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				扇頁<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				百字以下二十元　百字至百五十字三十元<lb/>
 				百五十字至二百字四十元　金面不書<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         卷冊首　每字四元<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         書　檢<lb/>
                         名　刺<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         每字二元<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         榜　書<lb/>
                         市　招<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				每字<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				尺內十元一尺至尺半十六元<lb/>
 				尺半至二尺二十元二尺外三十元<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         楷書加倍　金箋珊瑚箋綾絹及劃格均加半來文及點品加<lb/>
                         倍　劣紙不書<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         碑誌壽屛別議　潤資先惠　無潤不書　墨費一成<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         總收件處<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         曁通<lb/>
                         訊處<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         上海巨籟達路采壽里十號　電話七四六三六<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         上海各大箋扇店均代收件<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         門下士<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         茹欲立　王典章　徐朗西<lb/>
                         張一麐　焦易堂　王文海<lb/>
                         于右任　李元鼎　張季鸞<lb/>
                         郭則濡　藍雲屛　李浩然<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         等謹代訂<lb/>
-			</div>
+			</p>
 		</div>
 		<div type="margin">
 			本報忠實報道新聞說人人要說的話文字淺近趣味濃厚是最平民化的物刊<pb/>
@@ -904,82 +903,82 @@
 	<!--start middle of the fold-->
 	<div dir="rtl" mode="vertical-rl">
 		<div type="advert">
-			<div>
+			<p>
                         毛興昌<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         男女<lb/>
                         西服<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         公司<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         本公司前開設江灣復旦大學附近<lb/>
                         自八一三戰事爆發後現遷移法租<lb/>
                         界霞飛路海格路王家宅一號照常<lb/>
                         營業茲爲顧客便利起見內專設修<lb/>
                         理部凡各界惠顧者請打電話通知<lb/>
                         『二三三七六號』無任歡迎<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         毛興昌啓<lb/>
-			</div>
+			</p>
 		</div>
 		<div type="advert">
-			<div type="image"></div>
-			<div mode="horizontal-tb" dir="rtl">
+			<div type="image"/>
+			<p mode="horizontal-tb" dir="rtl">
                         一滴清<lb/>
 				眼薬水<lb/>
-			</div>
-			<div type="image"></div>
-			<div>
+			</p>
+			<div type="image"/>
+			<p>
                         統治<lb/>
                         目疾<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         一滴<lb/>
                         見功<lb/>
-			</div>
-                  <div type="image"></div>
-                  <div>
+			</p>
+                  <div type="image"/>
+                  <p>
                         ◇一滴淸眼藥水主治之眼病◇<lb/>
-			</div>
-            	<div>
+			</p>
+            	<p>
                         砂眼赤眼<lb/>
                         羞明畏光<lb/>
                         顆粒密生<lb/>
                         雲翳外障<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         瘙癢多脂<lb/>
                         迎風流淚<lb/>
                         視力糢糊<lb/>
                         眼皮發紅<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         消毒完全<lb/>
                         功効確實<lb/>
                         攜帶便利<lb/>
                         價値低廉<lb/>
                         （每瓶貳角四）<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         三洋涇橋<lb/>
                         江西路口<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
                         新華藥行發行<lb/>
-			</div>
-			<div type="image"></div>
-			<div>
+			</p>
+			<div type="image"/>
+			<p>
                         認明<lb/>
                         商標<lb/>
-			</div>
-			<div mode="horizontal-tb" dir="rtl">
+			</p>
+			<p mode="horizontal-tb" dir="rtl">
                         新華大藥行監製<lb/>
                         上海江西路十號<lb/>
-			</div>
+			</p>
 		</div>
 	</div>
 </fold>

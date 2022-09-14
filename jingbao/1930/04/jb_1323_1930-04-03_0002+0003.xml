@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
@@ -7,27 +6,27 @@
        <!-- start verso page -->
 	<div type="page" page="verso" n="2" dir="rtl" mode="vertical-rl">
            <div type="margin">
-                  <div dir="rtl" mode="horizontal-tb">
+                  <p dir="rtl" mode="horizontal-tb">
                          晶報<lb/>
-                  </div>
-                  <div dir="rtl" mode="horizontal-tb">
+                  </p>
+                  <p dir="rtl" mode="horizontal-tb">
                          三日刊之創始者<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          <r style="transform: rotate(180deg);">議面<lb/>
                                                                格價<lb/>
                                                                吿廣<lb/>
                                                                登招<lb/>
                                                                處此</r><lb/>
-                  </div>
+                  </p>
            </div>
            <div type="article" itemid="1067">
-                  <div>
+                  <p>
                          荷蘭跳舞<lb/>
-                  </div>
-                  <div dir="rtl" mode="horizontal-tb">
+                  </p>
+                  <p dir="rtl" mode="horizontal-tb">
                          （丹翁）<lb/>
-                  </div>
+                  </p>
                   <div>
                          <p>
                               中國學究反對跳舞、外人亦反對跳<lb/>
@@ -49,26 +48,26 @@
                          </p>
                          <p>
                               雖然、觸覺易生情愛、惟不知拳足相<lb/>
-                              &gaiji;、於情愛有所引起否、但以廣義言<lb/>
+                              、於情愛有所引起否、但以廣義言<lb/>
                               之、亦不得謂非一種跳舞、戲成俳詩<lb/>
                               、並寄荷蘭政府雅鑒、<lb/>
                          </p>
                   </div>
-                  <div>
+                  <p>
                               取締分明大滑稽舶來焉有醜東西<lb/>
                               便如暗跑二匹馬何惜靈通一點犀<lb/>
                               姑作出之非法了寗全未合衞生兮<lb/>
                               疑猶舊式久新式頑錮荷蘭勿再提<lb/>
-                  </div>
+                  </p>
            </div>
            <div type="article" itemid="1068">
-                  <div>
+                  <p>
                          革命博物館<lb/>
-                  </div>
-                  <div dir="rtl" mode="horizontal-tb">
+                  </p>
+                  <p dir="rtl" mode="horizontal-tb">
                          （南平）<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          江蘇革命博物館主任委員、爲吳江<lb/>
                          陳佩忍君、其館址本在南京大功坊<lb/>
                          之徐中山王故園、後易名曰瞻園、蓋<lb/>
@@ -88,17 +87,17 @@
                          瞻園在京、別有所需故須令革命博<lb/>
                          物館遷讓、然則該館雖在國府行政<lb/>
                          備案、亦不能遵省令而讓賢路也、<lb/>
-                  </div>
+                  </p>
            </div>
            <div type="article" itemid="1083">
-                  <div>
+                  <p>
                          米價飛漲之索隱譚<lb/>
                          <!-- 「隱」 was written as 「隐」(its variant). -->
-                  </div>
-                  <div dir="rtl" mode="horizontal-tb">
+                  </p>
+                  <p dir="rtl" mode="horizontal-tb">
                          （公）<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          近日滬上米價、每石<lb/>
                          漲至二十元左右、且<lb/>
                          聞蕪湖爲皖米薈萃之<lb/>
@@ -135,20 +134,20 @@
                          鄕會中、不乏明流、當<lb/>
                          不至有此等事也、然<lb/>
                          滬米價飛漲奈何、<lb/>
-                  </div>
+                  </p>
            </div>
            <div type="article" itemid="1080">
-                  <div>
+                  <p>
                          蔣主席過西湖記<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          ））<lb/>
                          杭頭<lb/>
                          自杭<lb/>
                          州寄<lb/>
                          （（<lb/>
-                  </div>
-                  <div>			
+                  </p>
+                  <p>			
                          蔣主席於三十日由甬來杭、參加全<lb/>
                          國運動大會開幕典禮、當蔣乘輪抵<lb/>
                          杭時、天適雨、以行轅在西湖蔣莊、<lb/>
@@ -163,51 +162,51 @@
                          時半、恢復往來、聞是日蔣氏至蔣莊<lb/>
                          後、卽未外出、以連日僕僕風塵、頗<lb/>
                          勞疲也、<lb/>
-                  </div>
+                  </p>
            </div>
            <div type="article" itemid="1082">
-                  <div>
+                  <p>
                          ◘蘇民廳長胡樸安君、二十九日下<lb/>
                          午、至蘇省國術館、召集學員訓話、<lb/>
                          並打太極拳二手、自比係初入門小<lb/>
                          學生、褒獎學員爲大學生、並稱均係<lb/>
                          同學、各學員聞之、莫不眉飛色舞、<lb/>
                          （深）<lb/>
-                  </div>
+                  </p>
            </div>
            <div type="image" itemid="526">
-                  <div mode="horizontal-tb" dir="rtl">
+                  <p mode="horizontal-tb" dir="rtl">
                          ◘蕪屯公路休屯段三月望日通車羣衆環觀圖（浩如攝）<lb/>                  
-                  </div>
+                  </p>
            </div>
            <div type="article" itemid="1084">
-                  <div>
+                  <p>
                          警犬世家<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          丹翁）<lb/>
                          <!-- The open bracket is missing in the original printed version. -->
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          忽見報端有警犬三頭出賣、盛稱厥<lb/>
                          祖德美兩國、賽得狀元、父爲荷蘭狀<lb/>
                          元、母爲世界女狀元、所謂「哥力」者<lb/>
                          也、世家如此、詩以捧之、聊作義務<lb/>
                          紹介、<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          一祖雙親三狀元荷蘭德美有名門<lb/>
                          看人怪道皆低了誰某之兒誰某孫<lb/>
-                  </div>
+                  </p>
            </div>
            <div type="article" itemid="1085">
-                  <div>
+                  <p>
                          盛七公子壽筵之請柬<lb/>
-                  </div>
-                  <div dir="rtl" mode="horizontal-tb">
+                  </p>
+                  <p dir="rtl" mode="horizontal-tb">
                          （小偵）<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          盛七公子蘋臣、前於二月<lb/>
                          十六日、與魏女士（卽白牡<lb/>
                          丹老大）行結昏禮、次日親<lb/>
@@ -231,16 +230,16 @@
                          八小姐皆到、不因爭產、而<lb/>
                          疏蹤跡三朝之戲均佳、包<lb/>
                          小蝶君提調其事、<lb/>
-                  </div>
+                  </p>
            </div>
            <div type="article" itemid="1086">
-                  <div>
+                  <p>
                          南京與上海<!-- 「與」 was written as 「与」(its variant). --><lb/>
-                  </div>
-                  <div mode="horizontal-tb" dir="rtl">
+                  </p>
+                  <p mode="horizontal-tb" dir="rtl">
                          （天馬）<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          胡漢民在立法院紀念週上演說、把<lb/>
                          土耳其和我們中國相比、因爲土耳<lb/>
                          其是個新興國、我們中國也是個新<lb/>
@@ -260,29 +259,29 @@
                          要收囘租界、而那一個闊人的公館、<lb/>
                          不是在租界上、聽了胡院長的話、也<lb/>
                          有些動心嗎、<lb/>
-                  </div>
+                  </p>
            </div>
            <div type="image" itemid="527">
-                  <div dir="rtl" mode="horizontal-tb">
+                  <p dir="rtl" mode="horizontal-tb">
                          ◘休屯車開行時情形圖（浩如攝）<lb/>
-                  </div>                  
+                  </p>                  
            </div>
            <div type="article" itemid="1087">
-                  <div>
+                  <p>
                          ◘近有人發明輪盤賭法、謂照圖所<lb/>
                          列、每行從第一二號上着想、可有把<lb/>
                          握、確否待考、（聞）<lb/>
-                  </div>
+                  </p>
            </div>  
            <div type="article" itemid="1088">
-                  <div>
+                  <p>
                          上海特區法院之新寫眞<!-- The character 「眞」 in the title is written like this: ⿳匕目大. --><lb/>
                          <!-- 「法」 is written as 「㳒」(its variant). -->
                          <!-- 「寫」 is written as 「冩」(its variant). -->
-                  </div>
-                  <div dir="rtl" mode="horizontal-tb">
+                  </p>
+                  <p dir="rtl" mode="horizontal-tb">
                          （寶鳳）<lb/>					
-                  </div>		
+                  </p>		
                   <div>
                          <p>
                               四月朔、江蘇高等法院第二分院及上海特區地方法院成立、上午、徐維震<lb/>
@@ -313,13 +312,13 @@
                   </div>
            </div>
            <div type="article" itemid="1089">
-                  <div>
+                  <p>
                          積餘經理委任狀之研究<!-- 「經」 and 「狀」 are written as 「经」and 「状」. --><lb/>
-                  </div> 
-                  <div mode="horizontal-tb" dir="rtl">
+                  </p> 
+                  <p mode="horizontal-tb" dir="rtl">
                          （神獅）<lb/>	
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          招商局總辦趙鐵橋所委積餘公司經理符矩存、控積餘<lb/>
                          公司經理李國杰抗不移交一案、二十七日開審時、符<lb/>
                          之代理人秦聯奎律師、堅謂李亦係趙所委任、趙孟能<lb/>
@@ -332,43 +331,43 @@
                          部長以第二十五號委任令、着招商局董事長李國杰、<lb/>
                          兼任積餘經理、其後數月之間、趙似猶有反對李兼任<lb/>
                          之意、然則存根上之委任狀、可資硏究者也、<pb/>
-                  </div>
+                  </p>
            </div>
     </div>
     <!-- start middle of the fold -->
-    <div type= "margin" dir="rtl" mode="vertical-rl">
+    <div type="margin" dir="rtl" mode="vertical-rl">
            <div type="advert" itemid="868">
                   <!-- 大前門香烟
                        品質超美　枝枝一律
                    -->
-           <div type="image" itemid="561"></div>
+           <div type="image" itemid="561"/>
            </div>	
     </div>
     <!-- start recto page -->
     <div type="page" page="recto" n="3" dir="rtl" mode="vertical-rl">
            <div type="margin">
-                  <div>
+                  <p>
                          此處<lb/>
                          招登<lb/>
                          廣吿<lb/>
                          價格<lb/>
                          面議<lb/>			
-                  </div>
-                  <div dir="rtl" mode="horizontal-tb">
+                  </p>
+                  <p dir="rtl" mode="horizontal-tb">
                          社會文藝之結晶<lb/>
-                  </div>
-                  <div dir="rtl" mode="horizontal-tb">
+                  </p>
+                  <p dir="rtl" mode="horizontal-tb">
                          晶報<lb/>
-                  </div>
+                  </p>
            </div>
            <div type="article" itemid="1090">
-                  <div>
+                  <p>
                          全國運動會之會外瓊屑<lb/>		    	
-                  </div>
-                  <div dir="rtl" mode="horizontal-tb">
+                  </p>
+                  <p dir="rtl" mode="horizontal-tb">
                          （秋意）<lb/>	
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          全國運動大會、在杭於四月一日開<lb/>		    		
                          幕、各地選手、咸於上月月杪、先後<lb/>
                          到會、尤以三月三十日滬杭車爲最<lb/>
@@ -391,21 +390,21 @@
                          十元二十五元不等、會塲在梅東高<lb/>
                          橋、係艮山門內、非艮山門外、距西<lb/>
                          湖新市塲、不過六七里之遙耳、<lb/>
-                  </div>
+                  </p>
            </div>
            <div type="article" itemid="1091">
-                  <div>
+                  <p>
                          老女兒向老頭子爭產<lb/>
                          <!-- 「兒」 was written as 「児」(its variant). -->
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          ））<lb/>
                          三益<lb/>
                          自漢<lb/>
                          口寄<lb/>
                          （（<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          漢上有商人郭芸溪者、經營順豐洋行、順豐茶棧、歷四十餘年、年已<lb/>
                          八十七歲、有子三、少溪、幼溪、稚溪、長子逾花甲以上、幼亦年過不<lb/>		    		
                          惑、女二、長女嫁韋姓、民十六年已死、其子已四十餘歲、次女嫁李姓<lb/>
@@ -419,10 +418,10 @@
                          並未析產、何竟以巳嫁之六十餘歲之老女兒、及他姓之婿、陡起波瀾<lb/>
                          、作爭產之舉、是亦天地間無奇不有者也、又聞被吿現在滬、或將移<lb/>
                          轉至滬審理云、<lb/>
-                  </div>
+                  </p>
            </div>
            <div type="article" itemid="1093">			
-                  <div>
+                  <p>
                          ◘三育中學校長黃慶瀾君之母朱太<lb/>
                          君、年臻九十、壽期在四月二十日、<lb/>
                          海上名流、如許雋人、虞洽卿、王一<lb/>
@@ -430,16 +429,16 @@
                          與黃、母子皆好佛乘、某君擬聯云、<lb/>
                          鶴算期頤稱八座。龍門德業嗣千秋。<lb/>
                          （伽）<lb/>
-                  </div>
+                  </p>
            </div>
            <div type="article" itemid="1098">
-                  <div>
+                  <p>
                          迷藏鴻雪記<lb/>
-                  </div>
-                  <div mode="horizontal-tb" dir="rtl">
+                  </p>
+                  <p mode="horizontal-tb" dir="rtl">
                         （舊燕）<lb/>			
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          天笑近在申報自由談撰一小說、曰<lb/>	
                          心上溫馨<!--There is a half space.-->蓋取龔定盦詩中語曰『一<lb/>
                          番心上溫馨過、明鏡明朝定少年』之<lb/>
@@ -488,21 +487,21 @@
                          欲再現色相、頗有託其藁砧、委婉謝<lb/>
                          絕者、回首此二十年前之舊因緣、更<lb/>
                          欲爲鴻爪雪印之留、良亦不易易耳、<lb/>
-                  </div>
+                  </p>
            </div>
            <div type="image" itemid="528">
-                  <div mode="horizontal-tb" dir="rtl">
+                  <p mode="horizontal-tb" dir="rtl">
                          ◘試看手腕◘<lb/>
-                  </div>
+                  </p>
            </div>
            <div type="article" itemid="1102">
-                  <div>
+                  <p>
                          新新舞場之一踢<lb/>
-                  </div>
-                  <div dir="rtl" mode="horizontal-tb">
+                  </p>
+                  <p dir="rtl" mode="horizontal-tb">
                          （如是）<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
 			    上星六之夕、有劉姓者、偕<lb/>
                          女客五六人、至新新舞場、<lb/>
                          劉座旁另有一棹、劉以有<lb/>
@@ -526,51 +525,51 @@
                          某者、巳願向劉道歉、惟劉<lb/>
                          將視傷之重輕、决定起訴<lb/>
                          之進止也、<lb/>
-                  </div>
+                  </p>
            </div>
            <div type="article" itemid="47242">			
-                  <div>
+                  <p>
                          ◘地圖專家童世亨、爲妾沈素文控<lb/>
                          遺棄罪一案、經地方法院判决、由童<lb/>
                          給沈贍養費二千元、沈已與童脫離<lb/>
                          關係、將學看護婦業、以謀獨立（天）<lb/>
-                  </div>
+                  </p>
            </div>
            <div type="article" itemid="47243">			
-                  <div>
+                  <p>
                          ◘易居周五小姐處、有小女郎佩珮<lb/>
                          者、年十二三、伶俐善伺客意、面娟<lb/>
                          秀、目奕奕有神、近忽不知去向、（喬<lb/>
                          <!-- The close bracket is missing in the article. -->
-                  </div>
+                  </p>
            </div>
            <div type="image" itemid="529">
-                  <div>
+                  <p>
                          ◘三元坊玉葉老九（坐）老三（立<lb/>
                          <!-- The close bracket is missing in the article. -->
-                  </div>
+                  </p>
            </div>
            <div type="article" itemid="1103">
-                  <div>
+                  <p>
                          楊花有主記<lb/>
-                  </div>
-                  <div dir="rtl" mode="horizontal-tb">
+                  </p>
+                  <p dir="rtl" mode="horizontal-tb">
                          （柳）<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          安達洋行華經理楊奎侯君、與花<lb/>
                          想容老二、嬿婉極深、自於花寓門<lb/>
                          前被綁後、友輩每誡其夜遊、並勸<lb/>
                          楊簉二、楊意動、嫁娶議已定、新<lb/>
                          宅已在閘北相妥、並請水明昌號、<lb/>
                          爲布置房間什物、不日當可雙棲、<lb/>
-                  </div>
+                  </p>
            </div>
            <div type="article" itemid="1104">
-                  <div>
+                  <p>
                          天曉得之華女按摩<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          滬諺、凡兩店設於一處、市招相同、遂謂爲天曉<lb/>
                          得<!-- There is a half space. -->不意按摩室、亦有此類情形也、老靶子路一<lb/>
                          百十八號二樓、原有二華女營摩業、一名寶媛、<lb/>
@@ -585,35 +584,35 @@
                          寶新無如何、乃移居一二四號、逢舊<lb/>
                          客、輒連聲曰、天曉得、並給客卡片、<lb/>
                          上寫按摩女士、頭銜亦至趣也、（狻）<lb/>
-                  </div>
+                  </p>
            </div>
            <div type="article" itemid="1105">
-                  <div>
+                  <p>
                          ◘愛文義路聯珠廣仁兩里房屋、皆<lb/>
                          盛氏產、廣仁里內一宅門上、署雙玉<lb/>
                          廬、適與聯珠爲對、覩）<lb/>
                          <!-- The open bracket is missing in the article. -->
-                  </div>
+                  </p>
            </div>
            <div type="article" itemid="1106">
-                  <div>
+                  <p>
                          ◘高齊雲老二身材苗條、並無頎頎<lb/>
                          之態、而以齊雲名、昔唐諺城南韋杜<lb/>
                          、去天尺五、殆取是義乎、或曰否、雲<lb/>
                          乃高唐雲雨之雲（粲）<lb/>
-                  </div>
+                  </p>
            </div>
            <div type="article" itemid="1107">
-                  <div>
+                  <p>
                          樓上春風咲〻聲<lb/>
                          <!-- 「春」 is written as 「𣊨」(its variant).  -->
                          <!-- 「風」 is written as 「凮」(its variant).  -->
                          <!-- 「〻」(Uto303B) is a symbol representing the repeat of the former character「咲」. -->
-                  </div>
-                  <div dir="rtl" mode="horizontal-tb">
+                  </p>
+                  <p dir="rtl" mode="horizontal-tb">
                          （無諍）<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          南花北植、初唯津與平、而津之花事、實爲平之先河、故能在津馳譽楊聲<lb/>
                          者、多爲上駟之材、沈笑笑老三、亦是地之矯矯者、嗣倦遊來滬、名亦藉藉<lb/>
                          或謂三曾媵許崇智將軍、而三不承、言曩旅粵、僅與<lb/>
@@ -632,11 +631,11 @@
                          才復元狀、肌晳膚潤、明媚炤人、三在津時、寒雲公子極稱賞之、偶病、公<lb/>
                          子延醫市藥、榻際鼎旁、十分體貼、三心大慰、疴亦旋瘥、每對人云、公子<lb/>
                          爲二天、感不去懷、近聞公子有南來訊、輒雀躍不巳、<lb/>
-                  </div>
-                  <div type="image" itemid="530"></div>
-                  <div>
+                  </p>
+                  <div type="image" itemid="530"/>
+                  <p>
                          ◘沈笑笑老三◘<lb/>
-                  </div>
+                  </p>
            </div>
            <div type="margin" dir="rtl" mode="vertical-rl">
                   各稿版權均歸本社所有禁止轉載翻印譒譯<pb/>

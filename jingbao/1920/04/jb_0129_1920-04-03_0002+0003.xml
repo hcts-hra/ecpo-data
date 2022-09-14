@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
@@ -7,23 +6,23 @@
     <!-- start verso page -->
     <div type="page" page="verso" n="2" mode="vertical-rl" dir="rtl">
         <div type="margin" mode="horizontal-tb" dir="rtl">
-            <div>
+            <p>
                 第二版　民國九年四月三日<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 晶報<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 庚申年二月十五日　星期六<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="3740">
-            <div>
+            <p>
                 盲從<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （丹翁）<lb/>
-            </div>
+            </p>
             <div>
                 <p>
                     擇善而從、古訓也、旣不能自立、又不能師人之長、人何以人、國何以國<lb/>
@@ -55,7 +54,7 @@
                     薙除淨盡、宛然影戲片中『卓別靈』之滿面滑稽也、今日女子、衣尙露肘<lb/>
                     而裳甫及膝、不知創始於勾闌中何人、謂效歐美之兒童耶、則有抱子者<lb/>
                     亦如是、謂便於海水浴耶、則重裘亦如是、謂以絲織物昂貴、經濟於尺<lb/>
-                    寸耶、則周身明珠金剛石所鑲嵌者亦復如是、凍&gaiji;<!-- It should be "瘃", but the character here is shown as:⿸疒豕. -->所染、腕癕脛潰、血肉<lb/>
+                    寸耶、則周身明珠金剛石所鑲嵌者亦復如是、凍<!-- It should be "瘃", but the character here is shown as:⿸疒豕. -->所染、腕癕脛潰、血肉<lb/>
                     淋漓、目不忍睹、於是救濟之策、乃有旗袍、漢族之婦、似樂爲滿人之妻、<lb/>
                     海濱之市、恍入夫淸帝之室、蕭家后主、有類俳優、又不知誰爲作俑也、<lb/>
                     至於男子、有被髮數寸者、曰、吾哲學家也、髠頭若瓜者、曰、吾軍國民也<lb/>
@@ -88,16 +87,16 @@
             </div>
         </div>
         <div type="article" itemid="3742">
-            <div>
+            <p>
                 張黑女碑印度本跋<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （丹翁）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 （見四月一號時事新報歐游心影錄）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 魏張黑女墓志、東洲草堂所藏、號稱<lb/>
                 海內孤本久矣、梁卓如先生、遠游歐<lb/>
                 洲、途經印度洋、忽於錫蘭山下、發<lb/>
@@ -120,15 +119,15 @@
                 梁氏之碑黑女、元無足怪、而獨賜之<lb/>
                 以姓、俾爲寒家增一故實、殊不可解<lb/>
                 耳、蓋梁氏之鑒賞如是夫、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="3744">
-            <div>
+            <p>
                 中國沒有新劇<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （馬二先生）<lb/>
-            </div>
+            </p>
             <div>
                 <p>
                     我前幾天、看見宋春舫先生改良中<lb/>
@@ -199,26 +198,26 @@
             </div>
         </div>
         <div type="article" itemid="3745">
-            <div>
+            <p>
                 古琮蘭亭歌<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 寒雲<lb/>
-            </div>
-            <div>
-                奇琮若&gaiji;飾。古玉暈赤黃。玄明雜幽黝。斑駁千年藏。道君殊好事。命匠<lb/>
+            </p>
+            <p>
+                奇琮若飾。古玉暈赤黃。玄明雜幽黝。斑駁千年藏。道君殊好事。命匠<lb/>
                 考刀鋩。縮取蘭亭帖。鈎勒極精詳。平淺見技巧。點畫鬱神光。眞奪山陰<lb/>
                 面。魄攝右軍王。衡宇視定武。師法凌開皇。玉枕直糟粕。眇矣半閒堂。已<lb/>
                 壓宣示表。更俯十三行。天地一瓌寶。來我室中央。<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="3748">
-            <div>
+            <p>
                 ◘答長溪老生<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 （寒雲代覆）<lb/>
-            </div>
+            </p>
             <div>
                 <p>
                     來書拜悉、承代考郭牌甚感、見敎二<lb/>
@@ -282,30 +281,30 @@
         </div>
         <!-- start recto page -->
         <div type="page" page="recto" n="3" mode="vertical-rl" dir="rtl">
-            <div type="margin" mode="horizontal-tb" dir="rtl">
+            <div type="margin" mode="horizontal-tb" dir="rtl"><p>
                 第三版　民國九年四月三日　社會定期日刊　庚申年二月十五日　星期六<lb/>                               
-            </div>  
+            </p></div>  
             <div type="article" itemid="3751">
-                <div>
+                <p>
                     愛克司光錄<lb/>
-                </div>
-                <div  mode="horizontal-tb" dir="rtl">
+                </p>
+                <p mode="horizontal-tb" dir="rtl">
                     （一）<lb/>                  
                     （〇）<lb/>                   
                     （三）<lb/>
-                </div>          
-                <div>
+                </p>          
+                <p>
                     李涵秋著<lb/>
                     禁止轉載<lb/>
-                </div>
-                <div>
+                </p>
+                <p>
                     第七囘<lb/>
-                </div>
-                <div>
+                </p>
+                <p>
                     逞狡謀移花接木<lb/>
                     驚奇醜倒樹尋根<lb/>
-                </div>
-                <div>
+                </p>
+                <p>
                     張敬一面聽他說話、一面印證麗符<lb/>
                     的口氣、才相信小玉、果然及不得他<lb/>
                     那嫂子、隨卽歡喜得無可不可、細瞇<lb/>
@@ -351,7 +350,7 @@
                     站在一處、還攜著他的玉腕、老實指<lb/>
                     給麗符、笑着說道、大哥你瞧瞧他<lb/>
                     模樣如何、大約比較那影片上還標<lb/>
-                    緻些&gaiji;<!-- It should be "㖸", but the character here is shown as:⿰口𫊞. -->、麗符略飄了一眼、且不答話<lb/>
+                    緻些<!-- It should be "㖸", but the character here is shown as:⿰口𫊞. -->、麗符略飄了一眼、且不答話<lb/>
                     、心裏老在那裏盤算、暗想怎麽姑子<lb/>
                     旣醜似無鹽、嫂子又陋如嫫母、一個<lb/>
                     半斤、一個八兩、剪直替他們分不<lb/>
@@ -371,22 +370,22 @@
                     張敬笑道、呸、他家橫豎祇有他們姑<lb/>
                     嫂兩個、這是我知道的、如何你又問<lb/>
                     起這話來了、（未完）<lb/>
-                </div>
+                </p>
             </div>
             <div type="article" itemid="3754">
-                <div>
+                <p>
                     夕陽紅檻錄<lb/>
-                </div>
-                <div mode="horizontal-tb" dir="rtl">
+                </p>
+                <p mode="horizontal-tb" dir="rtl">
                     （十）<lb/>
-                </div>
-                <div>
+                </p>
+                <p>
                     鵷雛<lb/>
-                </div>
-                <div>
+                </p>
+                <p>
                     第三章　憶前塵別賦傷春句　感舊雨重題印夢圖<lb/>
-                </div>
-                <div>
+                </p>
+                <p>
                     百和手指處、正見一個二十歲上下<lb/>
                     的女郎、婀娜行來、穿身細白夏布衫<lb/>
                     袴、胸前簪一朵大茉莉花球、露浥香<lb/>
@@ -451,18 +450,18 @@
                     囘來呢、我這是和他餞行、你們很要<lb/>
                     好的、我旣請他、難道好不請你嗎、<lb/>
                     （未完）<lb/>
-                </div>
+                </p>
             </div>
             <div type="article" itemid="3755">
-                <div>
+                <p>
                     斝齋雜詩<lb/>
-                </div>
-                <div mode="horizontal-tb" dir="rtl">
+                </p>
+                <p mode="horizontal-tb" dir="rtl">
                     （八）<lb/>
-                </div>
-                <div>
+                </p>
+                <p>
                     寒雲<lb/>
-                </div>
+                </p>
                 <div>
                     <p>
                         三代圓琮雕禊帖。宣和小印篆雙文。<lb/>
@@ -495,15 +494,15 @@
                         摹原文）<lb/>
                     </p>
                 </div>
-                <div type="image" itemid="2219"></div>
+                <div type="image" itemid="2219"/>
             </div>
             <div type="article" itemid="3756">
-                <div>
+                <p>
                     我之花事談<lb/>
-                </div>
-                <div>
+                </p>
+                <p>
                     （癡）<lb/>
-                </div>
+                </p>
                 <div>
                     <p>
                         ▲陽厯一月五日、珍珠花出堂唱、經<lb/>
@@ -557,12 +556,12 @@
                 </div>
             </div>
             <div type="article" itemid="3762">
-                <div>
+                <p>
                     春江花事<lb/>
-                </div>
-                <div dir="rtl" mode="horizontal-tb">
+                </p>
+                <p dir="rtl" mode="horizontal-tb">
                     （老匏）<lb/>
-                </div>
+                </p>
                 <div>
                     <p>
                         ▲上海窰子裏的姑娘、通英文的、從<lb/>

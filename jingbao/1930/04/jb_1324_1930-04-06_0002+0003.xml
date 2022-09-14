@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
@@ -6,27 +5,27 @@
 <fold xml:id="jb_1324_1930-04-06_0002to0003" lastedit="2021-09-29" lasteditor="xiejia1995">
 	<div type="page" page="verso" n="2" dir="rtl" mode="vertical-rl">
 	    <div type="margin">
-	    	<div dir="rtl" mode="horizontal-tb">
+	    	<p dir="rtl" mode="horizontal-tb">
 	    		晶報<lb/>
-	    	</div>
-	    	<div dir="rtl" mode="horizontal-tb">
+	    	</p>
+	    	<p dir="rtl" mode="horizontal-tb">
 	    		三日刊之創始者<lb/>
-	    	</div>
-	    	<div>
+	    	</p>
+	    	<p>
 	    		此處<lb/>
 	    		招登<lb/>
 	    		廣吿<lb/>
 	    		價格<lb/>
 	    		面議<lb/>
-	    	</div>
+	    	</p>
         </div>
 		<div type="article" itemid="1108">
-		    <div>
+		    <p>
 			　　梅蘭芳赴美之成功<lb/>
-		    </div>
-			<div dir="rtl" mode="horizontal-tb">
+		    </p>
+			<p dir="rtl" mode="horizontal-tb">
 			    （丹翁）<lb/>
-			</div>
+			</p>
 			<div>
 		    <p>
 				梅蘭芳赴美演劇、號稱宣傳中國藝術、三日、新聞報紐約電、謂在紐約計<lb/>
@@ -66,13 +65,13 @@
 			</div>
 		</div>
 		<div type="article" itemid="1109">
-			<div>
+			<p>
 				記四月一日之説謊莭<lb/>
-			</div>
-			<div dir="rtl" mode="horizontal-tb">
+			</p>
+			<p dir="rtl" mode="horizontal-tb">
 				（天馬）<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				歐美人之習慣迷信、往往甚於吾國、<lb/>
 				如西人向以四月一日之一日、謂之<lb/>
 				説謊節、蓋凡是日所説之話、均無實<lb/>
@@ -91,16 +90,16 @@
 				年無一實話、則日日處於説謊節中、<lb/>
 				日日在愚弄人、而日日爲人所愚弄、<lb/>
 				則亦何有於説謊節與愚人節也、<lb/>
-			</div>
+			</p>
 		</div>
 	    <div type="article" itemid="1112">
-	    	<div>
+	    	<p>
 	    		鴛鴦枕<lb/>
-	    	</div>
-	    	<div dir="rtl" mode="horizontal-tb">
+	    	</p>
+	    	<p dir="rtl" mode="horizontal-tb">
 	    		（華嚴）<lb/>
-	    	</div>
-		<div>
+	    	</p>
+		<p>
 			民國十七年夏、吾開國元勳黎宋卿<lb/>
 			大總統逝世、今年二月、黎總統之元<lb/>
 			配吳太君、亦壽終於天津寓次、其公<lb/>
@@ -127,25 +126,25 @@
 	    		蟆燈、（粵桂軍人以蛤蟆剖其背、燒<lb/>
 	    		其膏以爲烟燈）而黃陂夫人、則亦於<lb/>
 	    		本月初在津受奠也、<lb/>
-		</div>
+		</p>
 	    </div>
 	    <div>
-	    	<div>
+	    	<p>
 	    		◘全國運動會中之蔣主席（久康）<lb/>
-	    	</div>
+	    	</p>
 	    	<div type="image" itemid="564"> </div>
 	    </div>	   
 	    <div>
-	    	<div>
+	    	<p>
 	    		◘全國運動會中之吳稚暉君（久康）<lb/>
-	    	</div>
+	    	</p>
 	    	<div type="image" itemid="565"> </div>	    	
 	    </div>	   
 		<div type="article" itemid="1110">
-			<div>
+			<p>
 				蔣主席來滬之一筵席<lb/>
-			</div>
-			<div>			
+			</p>
+			<p>			
 				蔣主席伉儷、此次自甬赴<lb/>
 				杭、參加全國運動會開幕<lb/>
 				典禮後、卽於四月二日下<lb/>
@@ -173,20 +172,20 @@
 				初未允、嗣電問店中、店中<lb/>
 				以宋宅係老主顧、故特別<lb/>
 				通融、命出店挑囘云、<lb/>		
-			</div>
+			</p>
 		</div>
 		<div type="article" itemid="870">
-			<div>
+			<p>
 				◘勘誤　上期法院記事中<lb/>
 				、王振南之振字誤植震、此<lb/>
 				門由法官出入、由誤植有、<lb/>
 				<r style="transform: rotate(90deg);">Judge</r>字u誤植a<lb/>
-			</div>
+			</p>
 		</div>
 		<div type="article" itemid="1111">
-			<div>
+			<p>
 				淮盐頺唐之現況<lb/>
-			</div>
+			</p>
 			<div>
 			<p>
 				鮑明遠蕪城賦曰、孶貨鹽<lb/>
@@ -231,12 +230,12 @@
 			</div>
 		</div>
 		<div type="article" itemid="1113">
-			<div>
+			<p>
 				松江運副㕥咨文代辯訴<lb/>
-			</div>
-			<div dir="rtl" mode="horizontal-tb">
+			</p>
+			<p dir="rtl" mode="horizontal-tb">
 				（小偵）<lb/>
-			</div>
+			</p>
 			<div>
 				<p>
 					松江鹽運副使粟顯揚、被警務長尚<lb/>
@@ -271,19 +270,19 @@
 			</div>
 		</div>
 		<div type="image" itemid="566">
-			<div dir="rtl" mode="horizontal-tb">
+			<p dir="rtl" mode="horizontal-tb">
 				◘全國運動會大門◘<lb/>
 				（程久康自杭州寄）<lb/>				
-		    </div>
+		    </p>
 		</div>
 		<div type="article" itemid="1114">
-			<div>
+			<p>
 				全國運動會新聞之競爭<lb/>
-			</div>
-			<div dir="rtl" mode="horizontal-tb">
+			</p>
+			<p dir="rtl" mode="horizontal-tb">
 				（秋意）<lb/>					
-		    </div>		
-			<div>
+		    </p>		
+			<p>
 				全國運動會在杭開幕、上海各報均派記者到會紀錄、每報均有四五人之<lb/>
 				多、所有稿件、悉詑火車上大菜間侍者帶滬、每次酬洋二元、此項信件、率<lb/>
 				由杭開夜車帶出、近日火車、又每次脫班、抵滬時、輒在十二時後、故各報<lb/>
@@ -295,11 +294,11 @@
 				最多、但以塲子太廣、猶慮缺漏、故互商合作之法、結果申報與時事新報<lb/>
 				合作、新聞報與民國日報合作、時報則獨立、黃伯惠君且親自出馬、在全<lb/>
 				塲中奔波栗六、到處向人攝影、故時報照片、刊載獨多也、<pb/>
-			</div>
+			</p>
 		</div>
 	</div>
 			
-	<div type= "margin" dir="rtl" mode="vertical-rl">
+	<div type="margin" dir="rtl" mode="vertical-rl">
 		<div type="advert" itemid="907">
 			<!--
 			    大前門香烟
@@ -310,28 +309,28 @@
 	
 	<div type="page" page="recto" n="3" dir="rtl" mode="vertical-rl">
 		<div type="margin">
-			<div>
+			<p>
 				此處<lb/>
 				招登<lb/>
 				廣吿<lb/>
 				價格<lb/>
 				面議<lb/>			
-			</div>
-	    	<div dir="rtl" mode="horizontal-tb">
+			</p>
+	    	<p dir="rtl" mode="horizontal-tb">
 		   	 社會文藝之結晶<lb/>
-	   		</div>
-			<div dir="rtl" mode="horizontal-tb">
+	   		</p>
+			<p dir="rtl" mode="horizontal-tb">
 			晶報<lb/>
-			</div>
+			</p>
 		</div>
 		<div type="article" itemid="1115">
-		    <div>
+		    <p>
 		    	無缐電學生控校長<lb/>		    	
-		    </div>
-			<div dir="rtl" mode="horizontal-tb">
+		    </p>
+			<p dir="rtl" mode="horizontal-tb">
 				（益軫）<lb/>	
-			</div>
-			<div>
+			</p>
+			<p>
 				近年無缐電業發達、海上設立無缐<lb/>		    		
 				電學校數處、畢業生未能盡數安插、<lb/>
 		    	未免失望、近有閘北寶山路交通無<lb/>
@@ -354,21 +353,21 @@
 				落他鄉之虞、故而控吿、世間所學無<lb/>
 				所用者、比比皆是、此校小焉者耳、<lb/>
 				可興訟者、當不知凡幾也、<lb/>			
-	    	</div>
+	    	</p>
 		</div>
 		<div type="article" itemid="1116">
-			<div type="image" itemid="567"></div>
-			<div>
+			<div type="image" itemid="567"/>
+			<p>
 				順天時報之臨別贈言<lb/>
-			</div>		
-			<div>
+			</p>		
+			<p>
 			    （<lb/>
 				恨我<lb/>
 				自北<lb/>
 				平寄<lb/>
 				）<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				日人所辦之順天時報、對於滿<lb/>
 				淸洪憲朝政、以敢言稱、銷路爲<lb/>		    		
 				北平報紙冠、及遭報夫公會排<lb/>
@@ -391,21 +390,21 @@
 				之英文華北正報、亦先順天時報一<lb/>
 				日休刊、相繼壽終、從此日人在華北<lb/>
 				暫無宣傳機關矣、<lb/>
-			</div>
+			</p>
         </div>
 		<div type="image" itemid="568">			
-			<div>
+			<p>
 				◘海軍會議之合久必分◘<lb/>				
-			</div>			
+			</p>			
 		</div>
 		<div type="article" itemid="1117">
-			<div>
+			<p>
 			    明華銀行之歡笑主義<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				（昭綏）<lb/>			
-			</div>
-			<div>
+			</p>
+			<p>
 				明華銀行、創<lb/>	
 				設有年、去歲、<lb/>
 				總理一職、原<lb/>
@@ -426,16 +425,16 @@
 				板面孔原不合時、况鍾馗開店、鬼不<lb/>
 				上門、古有明訓、明華旣以歡笑爲主<lb/>
 				此後鴻圖駿啓、如春風廣被無涯矣、<lb/>
-			</div>
+			</p>
 		</div>
 		<div type="article" itemid="1118">
-			<div>
+			<p>
 				周老五失珮記<lb/>
-			</div>
-			<div dir="rtl" mode="horizontal-tb">
+			</p>
+			<p dir="rtl" mode="horizontal-tb">
 			    （如是）<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 			    易居周五小姐處、有女郎<lb/>
 				佩珮、年十三歲、秀外慧中<lb/>
 				、賓從無不悅之、近忽以出<lb/>
@@ -478,12 +477,12 @@
 				不承、究不知解珮何所、聞自易居者<lb/>
 				如此、但外間傳説有律師因佩事函<lb/>
 				致五、則似非信史也、<lb/>
-			</div>
+			</p>
 		</div>
 		<div type="image" itemid="569">
-			<div>
+			<p>
 				◘憶春老八◘<lb/>
-			</div>										
+			</p>										
 		</div>
 		<div type="article" itemid="1119">
 				<p>
@@ -510,13 +509,13 @@
 				</p>			
 		</div>
 		<div type="article" itemid="1121">
-			<div>
+			<p>
 				中壘揮金𢠢洛妃<lb/>
-			</div>
-			<div dir="rtl" mode="horizontal-tb">
+			</p>
+			<p dir="rtl" mode="horizontal-tb">
 				（傍花）<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				業煤礦紗廠碼頭水泥洋灰毛織搪磁<lb/>
 				火柴磚瓦煤球等事之劉郎、前因細<lb/>
 				故毆洛妃老六、六傷、立詣醫院塡傷<lb/>
@@ -540,7 +539,7 @@
 				待負心客之慣例、以爲可令客觸霉<lb/>
 				頭、然劉郎之恢廓大度、殊未足損其<lb/>
 				毫末、亦可見迷信之不足恃也、<lb/>
-			</div>
+			</p>
 	    </div>
 		<div type="article" itemid="1122">			
 				<p>
@@ -560,13 +559,13 @@
 				</p>			
 		</div>
 			<div type="article" itemid="1124">
-				<div>
+				<p>
 					時第中之花媛<lb/>				
-		    	</div>
-				<div dir="rtl" mode="horizontal-tb">
+		    	</p>
+				<p dir="rtl" mode="horizontal-tb">
 					（無諍）<lb/>
-				</div>
-				<div>
+				</p>
+				<p>
 					樂餘里時第之顧老三、敡歷坊曲間、年雖越花信、而淸雅宜人、似一女敎<lb/>
 					育家、灑然無緇<lb/>
 					塵惡態、其網羅<lb/>
@@ -586,11 +585,11 @@
 					養瘦馬說、今八本乘黃之種、非瘦駒<lb/>
 					可比、經老三控御、更易驤首於紫陌<lb/>
 					中矣、<lb/>
-				</div>
-				<div type="image" itemid="571"></div>
-				<div>
+				</p>
+				<div type="image" itemid="571"/>
+				<p>
 					◘時第老八◘<lb/>
-				</div>
+				</p>
 		</div>		
 		<div type="advert" itemid="908">
 			<!-->				

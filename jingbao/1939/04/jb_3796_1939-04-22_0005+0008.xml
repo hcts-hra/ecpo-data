@@ -1,25 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-
 <fold xml:id="jb_3796_1939-04-22_0005to0008" lastedit="2021-07-01" lasteditor="xiejia1995">
 	<div type="page" page="recto" n="5" dir="rtl" mode="vertical-rl">
-	    <div type="margin" dir="rtl" mode="horizontal-tb">
+	    <div type="margin" dir="rtl" mode="horizontal-tb"><p>
 		    中華民國二十八年四月廿二日　晶報　星期六　第五版<lb/>	
-        </div>
+        </p></div>
 		<div type="article">
-		    <div dir="rtl" mode="horizontal-tb">
+		    <p dir="rtl" mode="horizontal-tb">
 		    	文化營<lb/>
-		    </div>
+		    </p>
 		    <div type="image">
 		    	
 		    </div>
 			<div>
-				<div dir="rtl" mode="horizontal-tb">
+				<p dir="rtl" mode="horizontal-tb">
 					黔野主編<lb/>
-				</div>
+				</p>
 				<div>
 					<p>
 						詩經話繹　（如鐘）<lb/>
@@ -74,8 +72,8 @@
 			</div>
 		</div> 
 		<div type="article">
-			<div>相見禮　<lb/></div>	
-			<div>（唐潢虎）<lb/></div>
+			<p>相見禮　<lb/></p>	
+			<p>（唐潢虎）<lb/></p>
 			<div>
 			<p>			
 				自從叔孫通定了朝儀之後，漢高祖始知天子之貴，然而漢朝的皇帝實在遠不<lb/>
@@ -105,17 +103,17 @@
 			</div>
 		</div>
 		<div type="article">
-			<div>
+			<p>
 				亞洲內幕<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				約翰耿脫著<lb/>
 				亦朋譯<lb/>
-			</div>
-			<div>蔣介石上將<lb/></div>
-			<div>（二）<lb/></div>
-			<div>領導中國抗戰的人<lb/>
-			</div>
+			</p>
+			<p>蔣介石上將<lb/></p>
+			<p>（二）<lb/></p>
+			<p>領導中國抗戰的人<lb/>
+			</p>
 			<div>
 			<p>
 				一九〇九年在日<lb/>
@@ -325,16 +323,16 @@
 			</div>
 		</div>
 		<div type="article">
-			<div>
+			<p>
 				愛國志士<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				賽珍珠女士作<lb/>
 				諍諍譯<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				二　一件小事<lb/>
-			</div>
+			</p>
 			<div>
 			<p>
 				他之所以被稱呼<lb/>
@@ -475,10 +473,10 @@
 			</div>
 		</div>
 		<div type="article">
-			<div>
+			<p>
 				每日國際政治測驗<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				（三）蘇台德區國社黨運動的領袖<lb/>
 				是：<lb/>
 				一、衞爾。<lb/>
@@ -498,13 +496,13 @@
 				五、猶太人陰謀在第二次大戰中<lb/>
 				反叛德國。<lb/>
 				（昨日答案：一，三）<lb/>
-			</div>
+			</p>
 		</div>
 		<div type="other">
-			<div dir="rtl" mode="horizontal-tb">
+			<p dir="rtl" mode="horizontal-tb">
 				袁寒雲先生手寫<lb/>
 				丁卯日記之二<lb/>
-			</div>
+			</p>
 			<div type="image">
 				<!-- 輕度黃昏任凮𠕒江樓百尺鏡鸞且共温存𦝫<lb/>
 					圍料應柔減正歌敎珠落舞並𥞌屯鳳𧙏鴛<lb/>
@@ -518,36 +516,36 @@
 					良及睂雲十妹初觀嘏彰騮三兒觀影劇于<lb/> -->
 			</div>
 		</div>
-    	<div type="margin" >
+    	<div type="margin">
     		本報具有二十年的歷史是小型報紙鼻祖銷路普遍全國刊登廣吿最有效力<pb/>	
     	</div>
     </div>
 	<div type="page" page="verso" n="8" dir="rtl" mode="vertical-rl">
-		<div type="margin" dir="rtl" mode="horizontal-tb">
+		<div type="margin" dir="rtl" mode="horizontal-tb"><p>
 			中華民國二十八年四月廿二日　晶報　星期六　第八版<lb/>	
-		</div>
+		</p></div>
 		<div type="other">
-			<div>
+			<p>
 				影城<lb/>	
-			</div>			
+			</p>			
 			
 			<div type="image">
 			</div>
-			<div dir="rtl" mode="horizontal-tb">
+			<p dir="rtl" mode="horizontal-tb">
 				趙廉。田豐合輯<lb/>
-			</div>
+			</p>
 		</div>
 		<div type="article">
-			<div>
+			<p>
 				兩院<lb/>
 				同映<lb/>
 				雲裳<lb/>
 				仙子<lb/>
-			</div>
-			<div dir="rtl" mode="horizontal-tb"> 
+			</p>
+			<p dir="rtl" mode="horizontal-tb"> 
 				乃是交換條件<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				「木蘭從軍」在滬<lb/>
 				光大戲院連映六十四<lb/>
 				天，昨天起已移轉於<lb/>
@@ -571,14 +569,14 @@
 				滬光大戲院映過六十四天的「木蘭從軍<lb/>
 				」，將來「雲裳仙子」開映，則以滬光<lb/>
 				新光同時開映爲交換條件。　（末將）<lb/>
-			</div>
+			</p>
 		</div>
 		<div type="article">
-			<div>
+			<p>
 				京戯院映電影<lb/>
 				各有巧妙不同<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				京戱院的日場因<lb/>
 				卡爾登開其先例，<lb/>
 				開映電影，現在有<lb/>
@@ -605,13 +603,13 @@
 				以「武松與潘金蓮<lb/>
 				」一類片子來號召<lb/>
 				了。　（跳王）<lb/>
-			</div>
+			</p>
 		</div>
 		<div type="article">
-			<div dir="rtl" mode="horizontal-tb">
+			<p dir="rtl" mode="horizontal-tb">
 				另外一欄<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				與海立笙<lb/>
 				同稱舞場<lb/>
 				樂隊中滑<lb/>
@@ -641,14 +639,14 @@
 				洋琴鬼不怕無人追<lb/>
 				求，但到底是一椿<lb/>
 				難事了。（莫成）<lb/>
-			</div>
+			</p>
 		</div>
 		<div type="article">
-			<div>
+			<p>
 				小汽車<lb/>
 				吃香！<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				王引的小汽車<lb/>
 				，連開車的祇能<lb/>
 				坐二個人，高度<lb/>
@@ -665,16 +663,16 @@
 				爲，「上海僅有的一部」七個字，有錢<lb/>
 				的人多拋二千元不算什麼，便見獵心喜<lb/>
 				，這小汽車也大大的出風頭，據昨天消<lb/>
-				息，王引與袁美雲等&gaiji;商之下，决定保<lb/>
+				息，王引與袁美雲等商之下，决定保<lb/>
 				留這部小汽車，好在並不等錢用，就是<lb/>
 				再買一部轎車，這小車子也打算留着讓<lb/>
 				王引一個人使用了。　（趙廉）<lb/>
-			</div>
+			</p>
 		</div>
 		<div type="article">
-		    <div>
+		    <p>
 		    	王引當導演了<lb/>
-		    </div>
+		    </p>
 	              <div>
 			<p>
 				電影演員當導演<lb/>
@@ -710,10 +708,10 @@
 	              </div>
 		</div>
 		<div type="article">
-			<div dir="rtl" mode="horizontal-tb">
+			<p dir="rtl" mode="horizontal-tb">
 				好萊塢影星<lb/>
 				擇偶條件<lb/>
-			</div>
+			</p>
 			<div>
 				<p>
 					有個法國記者曾特地往<lb/>
@@ -799,29 +797,29 @@
 			<div type="image">
 				
 			</div>
-			<div dir="ltr" mode="horizontal-tb">
+			<p dir="ltr" mode="horizontal-tb">
 				雙妹牌<lb/>
 				生髮油<lb/>
-			</div>
+			</p>
 			<div type="image">
 				
 			</div>
-			<div>
+			<p>
 				用生髮油<lb/>
 				自覺頭上<lb/>
 				光澤𠁊滑<lb/>
 				馨香撲鼻<lb/>
 				中國廣生行出品<lb/>
-			</div>
+			</p>
 		</div>
 		<div type="advert">
-			<div>		
+			<p>		
 				沈淇泉太史潤格<lb/>		
-			</div>
-		          <div>
+			</p>
+		          <p>
 		    	己卯正月重訂<lb/>
 		    	別號兼巢時年七十有八<lb/>
-	     	          </div>
+	     	          </p>
 			<div>
 			<p>
 				己卯元日戲賦<lb/>
@@ -986,7 +984,7 @@
 			本報忠實報道新聞說人人要說的話文字淺近趣味濃厚是最平民化的物刊<pb/>	
 		</div>
 	</div>
-	<div type= "margin" dir="rtl" mode="vertical-rl">
+	<div type="margin" dir="rtl" mode="vertical-rl">
 		<div type="advert">
 			<p>
 				毛興昌<lb/>
@@ -1014,22 +1012,22 @@
 			<div type="image">
 				
 			</div>
-			<div dir="rtl" mode="horizontal-tb">
+			<p dir="rtl" mode="horizontal-tb">
 				一滴淸<lb/>
         眼薬水<lb/>
-			</div>
+			</p>
 			<div type="image">
-				<div>
+				<p>
 					統治<lb/>
 					目疾<lb/>
-				</div>
-				<div>
+				</p>
+				<p>
 					一滴<lb/>
 					見功<lb/>
-				</div>
-				<div>
+				</p>
+				<p>
 					◇一滴淸眼藥水主治之眼病◇<lb/>
-				</div>
+				</p>
 				<div>
 					<p>
 						砂眼赤眼<lb/>
@@ -1061,14 +1059,14 @@
 				<div type="image">
 					
 				</div>
-				<div>
+				<p>
 					認明<lb/>
 					商標<lb/>
-				</div>
-				<div dir="rtl" mode="horizontal-tb">
+				</p>
+				<p dir="rtl" mode="horizontal-tb">
 					新華大薬行監製<lb/>
 					上海江西路十號<lb/>
-				</div>
+				</p>
 			</div>
 		</div>
 	</div>

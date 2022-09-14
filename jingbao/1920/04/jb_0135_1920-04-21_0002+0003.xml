@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
@@ -7,23 +6,23 @@
     <!-- start verso page -->
     <div type="page" page="verso" n="2" mode="vertical-rl" dir="rtl">
         <div type="margin" mode="horizontal-tb" dir="rtl">
-            <div>
+            <p>
                 第二版　民國九年四月廿一日<lb/> 
-            </div>
-            <div>
+            </p>
+            <p>
                 晶報<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 庚申年三月初三日　星期三<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="3957">
-            <div>
+            <p>
                 學生罷學之樂觀<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （丹翁）<lb/>
-            </div>
+            </p>
             <div>
                 <p>
                     昨日有個自稱胡塗老子的、下顧敝處、嘆口氣說道、『在下生在今日的中<lb/>
@@ -97,12 +96,12 @@
             </div>           
         </div>
         <div type="article" itemid="3958">
-            <div>
+            <p>
                 答馬二先生問<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 寒雲<lb/>
-            </div>            
+            </p>            
             <div>
                 <p>
                     讀小時報、有足下與不佞論梅一節、<lb/>
@@ -154,12 +153,12 @@
             </div>
         </div>
         <div type="article" itemid="3959">
-            <div>
+            <p>
                 說梅<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 （夢湘閣）<lb/>
-            </div>            
+            </p>            
             <div>
                 <p>
                     比日小極、恆閉閣枯坐、託云養疴、<lb/>
@@ -234,32 +233,32 @@
             </div>
         </div>
         <div type="article" itemid="3961">
-            <div>
+            <p>
                 斝齋雜詩<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （十）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 寒雲<lb/>
-            </div>            
-            <div>
+            </p>            
+            <p>
                 象形泉母考西周。面背鎏金字畫遒。<lb/>
                 綠銹朱斑兼碧暈。瑤光寶氣世無儔。<lb/>
                 周鎏金西周大泉、高約四寸、橫約五<lb/>
                 寸、厚分許、文曰西周、面背皆鎏金、<lb/>
                 頂有小鐶、下有圓孔、上圓下三足、<lb/>
                 作<lb/>
-            </div>
-            <div type="image"></div>            
-            <div>
+            </p>
+            <div type="image"/>            
+            <p>
                 形、斑銹厚潤、具藍綠朱白四<lb/>
                 色、斑斕璀璨、無與倫比、按周鑄大<lb/>
                 泉、謂之泉母、蓋以之權子也、此頂<lb/>
                 有鐶、正符作權之用、古泉字作<lb/>
-            </div>
-            <div type="image"></div>           
-            <div>                
+            </p>
+            <div type="image"/>           
+            <p>                
                 、又與此合、且周之豐鎬、有西周之<lb/>
                 稱、此作西周、當是製於豐鎬者、小<lb/>
                 平錢有東西周、西周篆文與此同、當<lb/>
@@ -267,35 +266,35 @@
                 不若此大泉之從未現於<lb/>
                 世也、（拓文見前報附編<lb/>
                 摹原形）<pb/>
-            </div>
-            <div type="image" itemid="2350"></div>
+            </p>
+            <div type="image" itemid="2350"/>
         </div>
     </div>
     <!-- start recto page -->
     <div type="page" page="recto" n="3" mode="vertical-rl" dir="rtl">
-        <div type="margin" mode="horizontal-tb" dir="rtl">
+        <div type="margin" mode="horizontal-tb" dir="rtl"><p>
             第三版　民國九年四月廿一日　社會定期日刊　庚申年三月初三日　星期三<lb/>                               
-        </div>
+        </p></div>
         <div type="article" itemid="3962">
-            <div>
+            <p>
                 愛克司光錄<lb/>
-            </div>
-            <div  mode="horizontal-tb" dir="rtl">
+            </p>
+            <p mode="horizontal-tb" dir="rtl">
                 （一）<lb/>                  
                 （〇）<lb/>                   
                 （九）<lb/>
-            </div>          
-            <div>
+            </p>          
+            <p>
                 李涵秋著<lb/>
                 禁止轉載<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 第八囘<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 假撮合威壓平民<lb/>
                 眞風波羞生中冓<lb/>
-            </div>
+            </p>
             <div>
                 <p>
                     張三丰笑道、你這人好生性急、兄弟<lb/>
@@ -358,20 +357,20 @@
             </div>
         </div>
         <div type="article" itemid="3964">
-            <div>
+            <p>
                 夕陽紅檻錄<lb/>
-            </div>
-            <div mode="horizontal-tb" dir="rtl">
+            </p>
+            <p mode="horizontal-tb" dir="rtl">
                 （一）<lb/>
                 （五）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 鵷雛<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 第四章　莽風塵書劍辭家　老學士衣冠上院<lb/>
-            </div>
-            <div>               
+            </p>
+            <p>               
                 虎臣起身道、我們到外邊吃飯去罷、<lb/>
                 湘秋道、也好、靈芝笑道、慢着、貝爺<lb/>
                 是難得來的、你也就要動身了、今天<lb/>
@@ -426,25 +425,25 @@
                 些時不和他通訊了、虎臣道、說起那<lb/>
                 趙鷺翁先生、我倒又記起他的故事<lb/>
                 來了、這位先生是少年名士、二十多<lb/>
-                歲上便鄕會聯&gaiji;、便要殿試了、他寫<lb/>
+                歲上便鄕會聯、便要殿試了、他寫<lb/>
                 的一筆顏魯公、放到白摺殿卷上去<lb/>
                 却有點蟠屈曲折、不對路數、他老先<lb/>
                 生倒也不以爲意、等到殿試那天、一<lb/>
                 般的揮毫疾書、交卷出來、却每字總<lb/>
                 要溢出格外、別人聽見了、總以爲是<lb/>
                 他要知了一聲的了、（未完）<lb/>
-            </div>                    
+            </p>                    
         </div>
         <div type="article" itemid="3966">
-            <div>
+            <p>
                 逢二必獃賦并序<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 ）<lb/>
                 馬二<lb/>
                 先生<lb/>
                 （<lb/>
-            </div>            
+            </p>            
             <div>
                 <p>
                     日者觀劇天蟾、鳳卿出塲、一客曰<lb/>
@@ -453,7 +452,7 @@
                     之、<lb/>
                 </p>
                 <p>
-                    惟仲春之二月兮、實天時之太&gaiji;<!-- The character should be written like this: ⿳大白心. -->、降<lb/>
+                    惟仲春之二月兮、實天時之太<!-- The character should be written like this: ⿳大白心. -->、降<lb/>
                     不慧於人間兮、賦可掬之尊容、豈聰<lb/>
                     明之不容有兩兮、必遏其次、夫何<lb/>
                     眷彼伯氏兮、靈秀獨鍾、仲尼稱聖兮<lb/>
@@ -471,16 +470,16 @@
             </div>
         </div>
         <div type="article" itemid="3968">
-            <div>
+            <p>
                 梅蘭芳之硏究<!-- The three characters "梅蘭芳" are in a rectangle. --><lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （四）<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （小隱）<lb/>
-            </div>          
-            <div>
+            </p>          
+            <p>
                 說到改良舊戲、這裏頭要分爲兩層、<lb/>
                 一規則、二情節、旣指皮黃爲舊戲、<lb/>
                 似乎於皮黃戲的規則、是不能更改<lb/>
@@ -516,15 +515,15 @@
                 雯這一流人物、只怕還不如舊戲裏<lb/>
                 的、王春娥王寶川、是有點主義的、<lb/>
                 更不配說那改良兩個字、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="3970">
-            <div>
+            <p>
                 春江花事<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （老匏）<lb/>
-            </div>
+            </p>
             <div>
                 <p>
                     ▲大新街久安里二弄的入口、向無<lb/>
@@ -586,11 +585,11 @@
                     ▲天香別墅老五、現在是改名靜姝<lb/>
                     了、他從前有個吃海關飯的客人姓<lb/>
                     張、同他狠要好、七纏八纏、被姓張<lb/>
-                    欠了二酒八和、七個堂差、一共一&gaiji;<!-- It should be "百", but it is too blurred. --><lb/>
+                    欠了二酒八和、七個堂差、一共一<!-- It should be "百", but it is too blurred. --><lb/>
                     廿三塊、老五當時也不放在心上、不<lb/>
                     料姓張的、忽然討了花如玉老四囘<lb/>
                     去、租一所小房子在廈門路、老五知<lb/>
-                    道了大惱、這幾天、步步催討這一&gaiji;<lb/>
+                    道了大惱、這幾天、步步催討這一<lb/>
                     款子、如果姓張的再不拿出來、一方<lb/>
                     面寫外國信給洋人、一方面登報索<lb/>
                     討、要出盡姓張的醜哩、<pb/>

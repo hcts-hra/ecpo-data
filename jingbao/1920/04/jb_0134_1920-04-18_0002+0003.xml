@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
@@ -7,24 +6,24 @@
     <!-- start verso page -->
     <div type="page" page="verso" n="2" mode="vertical-rl" dir="rtl">
         <div type="margin" mode="horizontal-tb" dir="rtl">
-            <div>
+            <p>
                 第二版　民國九年四月十八日<lb/> 
-            </div>
-            <div>
+            </p>
+            <p>
                 晶報<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 庚申年二月三十日　星期日<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="4038">
-            <div>
+            <p>
                 女子旗袍之蠡測<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （丹翁）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 海上女子、一時以旗袍爲最新之妝飾品、抱𣏌人之憂者、恆懼爲復辟之<lb/>
                 兆、比之服妖、且謂堂堂漢族、不當效顰滿人、此語殊非確論、五族旣爲<lb/>
                 一家、滿漢卽不當分軒輊、時事新報三月十一號、某君提議女子服裝、所<lb/>
@@ -40,16 +39,16 @@
                 、而使其他之女子、信其美而效之、良非易易、彼一般男子、或聽曲識眞、<lb/>
                 或揮金買笑、願羅拜翠仙袍下者不知凡幾、亦無怪矣、翠仙之不着裙、或<lb/>
                 卽爲崇拜之男子留餘地耶、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="4041">
-            <div>
+            <p>
                 自治與治他<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （涵秋）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 什麽叫做國、這國原是人人積合起來的、要國家強、必須人人都強、要國<lb/>
                 家富、必須人人都富、要國家做第一等國、必須人人都做成第一等人、旣<lb/>
                 要做第一等人、那『自治』就少不得的了、自治的要義、就是處處見自己<lb/>
@@ -61,16 +60,16 @@
                 所希望的、官吏便含有治他之性質、吾國之學生、是人人所敬愛的、學生<lb/>
                 便具有自治之能力、吾願今日社會一般人物、人人以學生標準、不必以<lb/>
                 官吏爲目的、這個國、還愁他不富強麽、還愁他不造成第一等國麽、<lb/>              
-            </div>
+            </p>
         </div>
         <div type="article" itemid="4042">
-            <div>
+            <p>
                 簧鼓耳目賦<lb/>
-            </div>
-            <div>                
+            </p>
+            <p>                
                 （馬二<lb/>
                 先生）<lb/>                
-            </div>
+            </p>
             <div>             
                 <p>    
                 偶於晶報中得此句、戲成小賦、仍以實晶報、然亦可見余文思之<lb/>
@@ -89,12 +88,12 @@
             </div>
         </div>
         <div type="article" itemid="4043">
-            <div>
+            <p>
                 肉麻<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 寒雲<lb/>                
-            </div>            
+            </p>            
             <div>
                 <p>
                     現在自命改過良的人、會畫幾個符<lb/>
@@ -146,13 +145,13 @@
             </div>          
         </div>
         <div type="article" itemid="4044">
-            <div>
+            <p>
                 男女合演的主張<lb/>
-            </div>
-            <div>                
+            </p>
+            <p>                
                 （馬二<lb/>
                 先生）<lb/>              
-            </div>            
+            </p>            
             <div>
                 <p>
                     中國的劇、向來沒有『男女合演』的、<lb/>
@@ -190,16 +189,16 @@
             </div>       
         </div>
         <div type="article" itemid="4045">
-            <div>
+            <p>
                 梅蘭芳<!-- meilanfang are in a Rectangle -->之硏究<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （三）<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （小隱）<lb/>
-            </div>          
-            <div>
+            </p>          
+            <p>
                 小梅的舊戲、無論靑衣花旦、都不到<lb/>
                 家、只有這新編的、天女散花、黛玉<lb/>
                 葬花、木蘭從軍、嫦娥奔月等類十幾<lb/>
@@ -256,19 +255,19 @@
                 槪都是百美圖上的人物、不過形容<lb/>
                 他是個美人罷了、實在都沒有什麽<lb/>
                 意思、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="4046">
-            <div>
+            <p>
                 沁香閣<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 隨　筆<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （涵秋）<lb/>
-            </div>          
-            <div>
+            </p>          
+            <p>
                 嘗笑中國人性最畏死、於尋常應酬<lb/>
                 間往往露畏死之口角、不留心、不覺<lb/>
                 也、譬如甲乙晤對一處、於臨別之頃<lb/>
@@ -284,16 +283,16 @@
                 亦必詢早安晚安、果非不安、問於何<lb/>
                 有、果眞不安、問又奚益、大約亦含<lb/>
                 有此種作用、說破足發一噱、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="4047">
-            <div>
+            <p>
                 單絃<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 （悔餘投稿）<lb/>
-            </div>                     
-            <div>
+            </p>                     
+            <p>
                 單絃這種詞曲、又叫雜牌子曲、早年<lb/>
                 都是唱單絃的、自己彈絃、如今改良<lb/>
                 的單絃、是一個人彈絃、一個人手搖<lb/>
@@ -328,35 +327,35 @@
                 白貪花報、大逛新世界、狠是可聽、<lb/>
                 並把軍隊樂歌腔調、也加在單絃內、<lb/>
                 能夠創造新聲、可謂單絃中的特色、<pb/>
-            </div>
+            </p>
         </div>
     </div>
     <!-- start recto page -->
     <div type="page" page="recto" n="3" mode="vertical-rl" dir="rtl">
-        <div type="margin" mode="horizontal-tb" dir="rtl">
+        <div type="margin" mode="horizontal-tb" dir="rtl"><p>
             第三版　民國九年四月十八日　社會定期日刊　庚申年二月三十日　星期日<lb/>                               
-        </div>
+        </p></div>
         <div type="article" itemid="4048">
-            <div>
+            <p>
                 愛克司光錄<lb/>
-            </div>
-            <div  mode="horizontal-tb" dir="rtl">
+            </p>
+            <p mode="horizontal-tb" dir="rtl">
                 （一）<lb/>                  
                 （〇）<lb/>                   
                 （八）<lb/>
-            </div>          
-            <div>
+            </p>          
+            <p>
                 李涵秋著<lb/>
                 禁止轉載<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 第八囘<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 假撮合威壓平民<lb/>
                 眞風波羞生中冓<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 再說張三丰乘着藍呢小轎、前前後<lb/>
                 後、倒擁護着四五名家人、一路直向<lb/>
                 縣署行去、其時剛値上燈時分、俞蘭<lb/>
@@ -416,23 +415,23 @@
                 蟻媒的、大人要娶姨太太、也着落在<lb/>
                 兄弟身上、那就莫怪兄弟、要罸大人<lb/>
                 一個大大東道才好、（未完）<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="4050">
-            <div>
+            <p>
                 夕陽紅檻錄<lb/>
-            </div>
-            <div mode="horizontal-tb" dir="rtl">
+            </p>
+            <p mode="horizontal-tb" dir="rtl">
                 （一）<lb/>
                 （四）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 鵷雛<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 第四章　莽風塵書劍辭家　老學士衣冠上院<lb/>
-            </div>
-            <div>               
+            </p>
+            <p>               
                 湘秋方才抛下書赸赸的道、好了、不<lb/>
                 生氣了、倒害我一夜沒好睡、靈芝方<lb/>
                 才記起昨晚的事來、便冷冷的道、誰<lb/>
@@ -484,18 +483,18 @@
                 同罷了、當下二人商量定當、靈芝坐<lb/>
                 在傍邊、轉默默的一言不發、看看<lb/>
                 十二句鐘過了、（未完）<lb/>
-            </div>                     
+            </p>                     
         </div>
         <div type="article" itemid="4051">
-            <div>
+            <p>
                 斝齋雜詩<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （十）<lb/>
-            </div>          
-            <div>
+            </p>          
+            <p>
                 寒雲<lb/>
-            </div>
+            </p>
             <div>
                 <p>
                 新莽僭稱始建國。元年正月癸酉朔。<lb/>
@@ -586,13 +585,13 @@
             <div type="image" itemid="2429"><!--卞賽--></div>
         </div>
         <div type="article" itemid="4053">
-            <div>
+            <p>
                 春江花事<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （老匏）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 ▲三馬路的寶玉、看他神氣、還像一<lb/>
                 個小女孩子、其實他福氣很大、膝前<lb/>
                 已有一子一女、蘇州開了一爿客棧、<lb/>
@@ -607,8 +606,8 @@
                 已跋涉奔波、遙遙兼理、幷且來往坐<lb/>
                 三等車、從不肯坐二等車、這樣的經<lb/>
                 紀、窰子裏實在難得、<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 ▲和樂坊洪第二伯伯、名譽是狠大<lb/>
                 的了、他從前有個要好客人、常在他<lb/>
                 的後房間住着、有一個姊妹、勸二伯<lb/>
@@ -627,8 +626,8 @@
                 無非是鞏固地盤、擴張勢力起見、後<lb/>
                 房那一個、還彀不上善養老者的西<lb/>
                 伯資格哩、<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 ▲笑意老六囘來之後、差不多一個<lb/>
                 月了、據聞他的心上邊旣想嫁靑蓮<lb/>
                 苗裔、又想嫁武肅後人、忐忑不定<lb/>
@@ -645,13 +644,13 @@
                 了、並且還可以說是人家人嫁人、尊<lb/>
                 貴一點、你們不要看輕老六這一跑、<lb/>
                 比較干木一跑有道理呢、<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 ▲這幾天笑舞台唱西太后、窰子裏<lb/>
                 有許多姑娘在那裏看、有人說不減<lb/>
                 民鳴時代、黃皮落蓬一般人的現象<lb/>
                 哩、<pb/>
-            </div>                      
+            </p>                      
         </div>        
     </div>
 </fold>

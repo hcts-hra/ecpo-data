@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
@@ -7,24 +6,24 @@
     <!-- start verso page -->
     <div type="page" page="verso" n="2" mode="vertical-rl" dir="rtl">
         <div type="margin" mode="horizontal-tb" dir="rtl">
-            <div>
+            <p>
                 第二版　民國九年四月九日<lb/> 
-            </div>
-            <div>
+            </p>
+            <p>
                 晶報<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 庚申年二月廿一日　星期五<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="3806">
-            <div>
+            <p>
                 男子解放<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （丹翁）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 現在女人解放了、大學堂的講堂裏、已經把些花撲撲香噴噴的女同胞<lb/>
                 、都請進去坐坐了、我的兒子聽見這個消息、和我商量、說、我們何不也<lb/>
                 到他們女學堂裏去坐坐呢、我說、這不能彀呀、因爲我們男子、將女同胞<lb/>
@@ -56,15 +55,15 @@
                 、我說、你等著也好、好在無論那一邊提倡、那一邊出風頭、總而言之、你<lb/>
                 們進女學堂的日子狠快了、我的兒子聽我這話就歡欣跳躍而去、咳、他<lb/>
                 當眞能代表中國的少年嗎、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="3808">
-            <div>
+            <p>
                 不配！<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 （馬二先生）<lb/>
-            </div>            
+            </p>            
             <div>
                 <p>
                     凡是一種主張、必有一種理由、有了理由、方能稱得起是一種主張、若無<lb/>
@@ -91,13 +90,13 @@
             </div>
         </div>
         <div type="article" itemid="3812">
-            <div>
+            <p>
                 非孝<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （涵秋）<lb/>
-            </div>          
-            <div>
+            </p>          
+            <p>
                 近日靑年、又主張一種『非孝』論理、聽去是叫人很害怕的、大旨說父母<lb/>
                 生下兒女、全是他們的情慾衝動、對着兒女、沒有甚麽特別感情、兒女將<lb/>
                 父母當做路人看待、這是自然的道理其實他們這種口角、也是抄襲的前<lb/>
@@ -118,15 +117,15 @@
                 如今靑年雖然不怕這些、然而當這吃父母飯穿父母衣的時候、別的且不<lb/>
                 去講、便先公然硏究這『非孝』問題起來、可是比孔融金聖嘆、還高明得<lb/>
                 許多了哇、佩服佩服、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="3813">
-            <div>
+            <p>
                 告評劇家<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 （馬二先生）<lb/>
-            </div>            
+            </p>            
             <div>
                 <p>
                     我近來不作劇評了、因爲認定劇評<lb/>
@@ -164,38 +163,38 @@
             </div>
         </div>
         <div type="article" itemid="3815">
-            <div>
+            <p>
                 鍾姑娘<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （小坡）<lb/>
-            </div>          
-            <div>
+            </p>          
+            <p>
                 戲曲漸衰、無已、於大鼓書中討生<lb/>
                 活、藉此作半日消遣、然寶全已老、<lb/>
                 不多唱、鍾姑娘學寶全、嗓音殊不<lb/>
                 弱、如單刀會得其雄壯、烏龍院得其<lb/>
                 細膩、馬鞍山之幽致、直如突過寶全<lb/>
                 矣、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="3816">
-            <div>
+            <p>
                 ◘津門劇事<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 ◉天津特約通信<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 （慶五）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 ▲數報喧傳黃潤卿在烟台投海、其<lb/>
                 實並無其事、黃現寓天津日界新旅<lb/>
                 社、有人介紹搭入昇平舞台之雙盛<lb/>
                 和、雙方業已講妥、定於日內登台、<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 ▲前充匯豐銀行買辦皖人吳調卿、<lb/>
                 日昨慶祝七十壽辰、京津間一般重<lb/>
                 要人物、均紛紛往賀、假安徽會館演<lb/>
@@ -203,13 +202,13 @@
                 津男女名伶外、並有京伶王鳳卿之<lb/>
                 文昭關、陳德霖之孝義節、余叔岩之<lb/>
                 駡曹、梅蘭芳之千金一笑云、<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 ▲上海大世界聘權樂部歌妓小翠玉<lb/>
                 、每月包銀三百元講妥多日、忽因條<lb/>
                 件過苛、雙方解約、因而作罷、<lb/>
-            </div> 
-            <div>
+            </p> 
+            <p>
                 ▲大新舞台、近因生意不佳、日前於<lb/>
                 蕙秀社女子新劇終場時、加演新劇<lb/>
                 一齣、以冀號召座客、無如是項新劇<lb/>
@@ -217,19 +216,19 @@
                 除少數南妓外、餘竟紛紛散去、故演<lb/>
                 唱數天、座客仍寥寥不得已乃於日<lb/>
                 昨宣吿吹台云、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="3817">
-            <div>
+            <p>
                 京華<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 最近之<lb/>
                 票友談<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 （禪）<lb/>
-            </div>
+            </p>
             <div>
                 <p>
                     紅豆館主所組織之言樂會、自去歲<lb/>
@@ -265,52 +264,52 @@
             </div>
         </div>
         <div type="article" itemid="3820">
-            <div>
+            <p>
                 張文豔<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 之起<lb/>
                 居注<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （小坡）<lb/>
-            </div>
-            <div>
-                王病&gaiji;矣、當未病時、其貌正似大馬<lb/>
+            </p>
+            <p>
+                王病矣、當未病時、其貌正似大馬<lb/>
                 路享達利隔壁之陳列臘人、美無倫<lb/>
                 比、現病愈、又似商務印書館儀器部<lb/>
                 陳列之講生理的模型、於是王連日<lb/>
                 大進補劑、如狗寶等藥、但予上條呈<lb/>
                 、仍主張用人參云、<pb/>
-            </div>
+            </p>
         </div>
     </div>
     <!-- start recto page -->
     <div type="page" page="recto" n="3" mode="vertical-rl" dir="rtl">
-        <div type="margin" mode="horizontal-tb" dir="rtl">
+        <div type="margin" mode="horizontal-tb" dir="rtl"><p>
             第三版　民國九年四月九日　社會定期日刊　庚申年二月廿一日　星期五<lb/>                               
-        </div>
+        </p></div>
         <div type="article" itemid="3821">
-            <div>
+            <p>
                 愛克司光錄<lb/>
-            </div>
-            <div  mode="horizontal-tb" dir="rtl">
+            </p>
+            <p mode="horizontal-tb" dir="rtl">
                 （一）<lb/>                  
                 （〇）<lb/>                   
                 （五）<lb/>
-            </div>          
-            <div>
+            </p>          
+            <p>
                 李涵秋著<lb/>
                 禁止轉載<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 第七囘<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 逞狡謀移花接木<lb/>
                 驚奇醜倒樹尋根<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 張敬近來已被爛柿子淘得體虛身弱<lb/>
                 、風都吹得要倒下來、那裏禁得起他<lb/>
                 蠻力、一把將張敬的頭、按入褲襠底<lb/>
@@ -379,22 +378,22 @@
                 天晚上、來見他舅父張三丰、但不知<lb/>
                 他說的是些甚麽、欲知後事、且閱下<lb/>
                 文、（第七囘完）<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="3822">
-            <div>
+            <p>
                 夕陽紅檻錄<lb/>
-            </div>
-            <div mode="horizontal-tb" dir="rtl">
+            </p>
+            <p mode="horizontal-tb" dir="rtl">
                 （一）<lb/>
                 （一）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 鵷雛<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 第三章　憶前塵別賦傷春句　感舊雨重題弔夢圖<lb/>
-            </div>
+            </p>
             <div>
                 <p>
                     想起花吳奴、有好幾天不見着了、他<lb/>
@@ -512,12 +511,12 @@
             </div>
         </div>
         <div type="article" itemid="3824">
-            <div>
+            <p>
                 春江花事<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （老匏）<lb/>
-            </div>
+            </p>
             <div>
                 <p>
                     ▲據一般人的預料、花國大總統、琴<lb/>
@@ -584,7 +583,7 @@
                 </p>
             </div>            
         </div>
-        <div type="article" itemid="3826">
+        <div type="article" itemid="3826"><p>
             ◘特告　一百廿九號本報春江花事<lb/>
             欄所載、萍卿『他原是三馬路某女塾<lb/>
             畢業生』一句、所謂某女塾者、係前<lb/>
@@ -592,17 +591,17 @@
             校、現已停歇、恐外間有誤會之處、<lb/>
             特此鄭重申明、庶不致有魚目混珠<lb/>
             之弊、此啓、　輯編部<lb/>
-        </div>
-        <div type="article" itemid="3828">
+        </p></div>
+        <div type="article" itemid="3828"><p>
             ◘誌謝一　本社承大世界、贈庚申<lb/>
             全年長券一紙、特此鳴謝、<lb/>
-        </div>
-        <div type="article" itemid="3830">
+        </p></div>
+        <div type="article" itemid="3830"><p>
             ◘誌謝二　本社又承新世界、惠贈<lb/>
             第三次羣芳選舉會出入證一紙、企<lb/>
             妹牛奶糖公司、惠贈永安公司天韻<lb/>
             樓香國選舉會、長期入塲券一紙、此<lb/>
             謝、<pb/>
-        </div>
+        </p></div>
     </div>
 </fold>

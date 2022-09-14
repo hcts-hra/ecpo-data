@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
@@ -7,24 +6,24 @@
     <!-- start verso page -->
     <div type="page" page="verso" n="2" mode="vertical-rl" dir="rtl">
         <div type="margin" mode="horizontal-tb" dir="rtl">
-            <div>
+            <p>
                 第二版　民國九年四月十五日<lb/> 
-            </div>
-            <div>
+            </p>
+            <p>
                 晶報<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 庚申年二月廿七日　星期四<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="4049">
-            <div>
+            <p>
                 不配廣義<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （丹翁）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 男子娶的第一個女人、叫做元配、娶的第二個第三個女人、叫做繼配、別<lb/>
                 人家恭維他們、也叫做賢配德配、兩個人的資格、那能沒有高低呢、將就<lb/>
                 着也就配起來了、要是認眞的考究、必得郎才女貌、才能當得起這個配<lb/>
@@ -82,16 +81,16 @@
                 張、且是一樣的人、一樣在小報上賣文、讓看官們開心的人、偏要出類拔<lb/>
                 萃做大家的導師、人家的閒話、便說是『瞎論狂吠、』這樣專制的性情、做<lb/>
                 一個民國的國民、配嗎、不配嗎、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="4054">
-            <div>
+            <p>
                 非文人相輕<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （涵秋）<lb/>
-            </div>          
-            <div>
+            </p>          
+            <p>
                 晶報的宗旨、是改良社會的、不是給人好勇鬭狠的、我們拿筆的人這支<lb/>
                 筆、雖說不配改良社會、然而自已有不良的地方、也須設法來改一改才<lb/>
                 好、譬如社會上有一種惡習、是『文人相輕、』自古以來、像這樣的事多得<lb/>
@@ -104,7 +103,7 @@
                 一個何苦來、右一個何苦來、唉聲嘆氣的不同、人又何苦嚴聲厲色、面赤<lb/>
                 耳紅、『不配不配』聲調、閙得烏烟瘴氣、這幸虧是紙上談笑罷咧、萬一當<lb/>
                 面會見、豈不要五子鋼直打過來、將小子身上、戳他幾個透明窟窿嗎、這<lb/>
-                個好比兩個小孩子、爲搶一個&gaiji;&gaiji;、先前還明譏暗諷、講點客氣、後來老<lb/>
+                個好比兩個小孩子、爲搶一個、先前還明譏暗諷、講點客氣、後來老<lb/>
                 羞成怒、不至於互相揪打不止、其實像我這種無意識的頑固、不過因爲<lb/>
                 會寫幾個字罷了、何致叫別人看見生氣、就放我不過、好像要拚命似的、<lb/>
                 其餘不會寫字的頑固、無意識的議論、狠多狠多、也能氣嘔不過、設法殺<lb/>
@@ -113,16 +112,16 @@
                 鼓耳目、阻遏文明、所以才拍桌敲台價狂閙、這又未免將對手看得太高<lb/>
                 了哇、歸總一句話、『文人相輕、』已爲社會汚點、像這種『非文人相輕<lb/>
                 、』那更可以不必、沒的將人家牙齒笑掉了、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="4055">
-            <div>
+            <p>
                 望梅者言<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 （寒雲）<lb/>
-            </div>          
-            <div>
+            </p>          
+            <p>
                 梅蘭芳至矣、滬上人士、囂然欲狂、<lb/>
                 鯽也、餅也、草也、爭以一見顏色、一<lb/>
                 親咳唾、引爲平生寵幸、甚矣梅之爲<lb/>
@@ -187,16 +186,16 @@
                 非好於蘭芳、而必揚之、聊述所聞、<lb/>
                 抒所見、爲媚蘭芳者、及夫怨之者吿<lb/>
                 耳、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="4056">
-            <div>
+            <p>
                 海上新到之兩鬚生<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （小隱）<lb/>
-            </div>          
-            <div>
+            </p>          
+            <p>
                 海上近日登台之鬚生有二、一雙闊<lb/>
                 亭、一王鳳卿也、雙老境蹭蹬、幾無<lb/>
                 售技之所、王則依附末光、方居名角<lb/>
@@ -215,35 +214,35 @@
                 呵腔凡作兩轉、此竊諸龍長勝者、汪<lb/>
                 則無是唱法、曾聆汪者、必能辨之<lb/>
                 也、<pb/>
-            </div>
+            </p>
         </div>
     </div>
     <!-- start recto page -->
     <div type="page" page="recto" n="3" mode="vertical-rl" dir="rtl">
-        <div type="margin" mode="horizontal-tb" dir="rtl">
+        <div type="margin" mode="horizontal-tb" dir="rtl"><p>
             第三版　民國九年四月十五日　社會定期日刊　庚申年二月廿七日　星期四<lb/>                               
-        </div>
+        </p></div>
         <div type="article" itemid="4104">
-            <div>
+            <p>
                 愛克司光錄<lb/>
-            </div>
-            <div  mode="horizontal-tb" dir="rtl">
+            </p>
+            <p mode="horizontal-tb" dir="rtl">
                 （一）<lb/>                  
                 （〇）<lb/>                   
                 （七）<lb/>
-            </div>          
-            <div>
+            </p>          
+            <p>
                 李涵秋著<lb/>
                 禁止轉載<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 第八囘<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 假撮合威壓平民<lb/>
                 眞風波羞生中冓<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 說得麗符也噗哧一笑、重行接着說<lb/>
                 道、所以甥兒打了一個主意、大約非<lb/>
                 用一點壓力不可、吳縣知事俞蘭軒、<lb/>
@@ -294,27 +293,27 @@
                 道、小玉小玉、這一來不怕你飛上天<lb/>
                 去、我有這本領、將你從廣寒宮裏拖<lb/>
                 得下來、（未完）<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="4105">
-            <div>
+            <p>
                 夕陽紅檻錄<lb/>
-            </div>
-            <div mode="horizontal-tb" dir="rtl">
+            </p>
+            <p mode="horizontal-tb" dir="rtl">
                 （一）<lb/>
                 （三）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 鵷雛<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 第四章　莽風塵書劍辭家　老學士衣冠上院<lb/>
-            </div>
-            <div>               
+            </p>
+            <p>               
                 却說靈芝當下見湘秋走了、自已也<lb/>
                 不好便轉過臉來、去挽留他、只坐着<lb/>
                 儘哭、哭了一囘、方才止了、坐着呆<lb/>
-                呆的想、阿銀忙&gaiji;<!-- The character should be written like this: ⿰扌甯. It should be the variant of "擰". -->了一把手巾、給他<lb/>
+                呆的想、阿銀忙<!-- The character should be written like this: ⿰扌甯. It should be the variant of "擰". -->了一把手巾、給他<lb/>
                 擦臉、又倒了一盃茶、靈芝也不擦臉<lb/>
                 、也不喝茶、癡坐着把一方手帕子顚<lb/>
                 來倒去的揉弄、看看已近兩點鐘、方<lb/>
@@ -353,18 +352,18 @@
                 這個不是、你怎麽問起這個來呢、靈<lb/>
                 芝看了一看、笑哞了一聲道我錯了、<lb/>
                 （未完）<lb/>
-            </div>                     
+            </p>                     
         </div>
         <div type="article" itemid="4106">
-            <div>
+            <p>
                 今之評劇家<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 ））<lb/>
                 馬二<lb/>
                 先生<lb/>
                 （（<lb/>
-            </div>            
+            </p>            
             <div>
                 <p>
                     我前曾宣言、不作那評某腔某子的<lb/>
@@ -421,22 +420,22 @@
             </div>
         </div>
         <div type="article">
-            <div type="image" itemid="2362"></div>
-            <div>
+            <div type="image" itemid="2362"/>
+            <p>
                 ◀上海名妓　飛雲▶<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="4107">
-            <div>
+            <p>
                 梅蘭芳之硏究<!-- The three characters "梅蘭芳" are in a rectangle. --><lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （二）<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （小隱）<lb/>
-            </div>          
-            <div>
+            </p>          
+            <p>
                 我前天說、聽梅蘭芳的戲、有四項理<lb/>
                 由、應該硏究硏究、不要耳食肓從、<lb/>
                 跟到裏頭瞎起鬨、我如今就把我個<lb/>
@@ -485,21 +484,21 @@
                 舊戲、纔應運而生、恭維小梅的、說<lb/>
                 是美感啦、審美啦、這些新名詞、我<lb/>
                 全不懂、我就曉得是看看熱閙罷了、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="4108">
-            <div>
+            <p>
                 春江花事<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （老匏）<lb/>
-            </div>
+            </p>
             <div>
                 <p>
                     ▲久安里有一個淡秋、這名字不是<lb/>
                     淸雅的狠麽、但是一見這個人、又俗<lb/>
                     、又胖、髣髴像舞台上打英雄樣的、<lb/>
-                    咳、生生把一個好名字糟&gaiji;<!-- The character should be written like this: ⿰米𦐇. -->了<lb/>
+                    咳、生生把一個好名字糟<!-- The character should be written like this: ⿰米𦐇. -->了<lb/>
                 </p>
                 <p>
                     ▲淸和沿的文玉、是個常州小孩子、<lb/>
