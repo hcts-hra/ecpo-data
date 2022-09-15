@@ -3,7 +3,7 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3798_1939-04-24_0005+0008" lastedit="2021-07-20" lasteditor="xiejia1995">
+<fold xml:id="jb_3798_1939-04-24_0005+0008" lastedit="2022-09-15" lasteditor="xiejia1995" issueid="23">
     <!-- start recto page   -->
     <div type="page" page="recto" n="5" mode="vertical-rl" dir="rtl">
         <div type="other">
@@ -11,16 +11,15 @@
                 中華民國二十八年四月廿四日　晶報　星期一　第五版<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="image" itemid="370">
             <div dir="rtl" mode="horizontal-tb">
                 文化營<lb/>
             </div>
-            <div type="image"></div>
             <div dir="rtl" mode="horizontal-tb">
                 黔野主編<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="553">
             <div>
                 談文字獄　潢虎<lb/>
             </div>
@@ -62,7 +61,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="554">
             <div>亞洲內幕<lb/></div>
             <div>約翰耿脫著<lb/>
                 亦 朋　譯<lb/></div>
@@ -139,7 +138,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="555">
             <div>
                 詩經話繹　如鐿<lb/>
                 四　靜女　（邶風）<lb/>
@@ -186,19 +185,18 @@
                 ，美人之貽。<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="image" itemid="371">
             <div>
                 動物的叛變　（二）<lb/>
                 最聰明的深思熟慮⋯⋯⋯<lb/>
             </div>
-            <div type="image"></div>
         </div>
-        <div type="article">
+        <div type="article" itemid="558">
             <div mode="horizontal-tb" dir="rtl">
                 袁寒雲先生手寫<lb/>
                 丁卯日記之四<lb/>
             </div>
-            <div type="image">
+            <div>
                 <!-- 
                     初十日得世傑書畣之偕六良朝發之濟南<lb/>
                     睂雲送別驛亭車中譔賣𠌶聲寄畣槑<lb/>
@@ -218,7 +216,7 @@
                 -->
             </div>
         </div>                  
-        <div type="article">
+        <div type="article" itemid="556">
             <div>
                 愛國志士<lb/>
                 賽珍珠女士作<lb/>
@@ -308,7 +306,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="557">
             <div>
             每日國際政治測驗<lb/>
             </div>
@@ -333,7 +331,7 @@
             （昨日答案：五，三，）<lb/></p>
             </div>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="660">
             <div mode="horizontal-tb" dir="rtl">
                 暑期之必需品<lb/>
             </div>
@@ -355,7 +353,7 @@
                 美華汽水公司出品<lb/>
             </div>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="661">
             <div mode="horizontal-tb" dir="rtl">
                 大華舞廳<lb/>
             </div>
@@ -388,7 +386,7 @@
                 電話八一三八一號<lb/>
             </div>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="662">
             <div mode="horizontal-tb" dir="rtl">
                 虎標<lb/>
             </div>
@@ -413,11 +411,11 @@
         <div type="margin" mode="horizontal-tb" dir="rtl">
             中華民國二十八年四月廿四日　晶報　星期一　第八版<lb/>
         </div>
-        <div type="article" mode="horizontal-tb" dir="rtl">
+        <div type="image" mode="horizontal-tb" dir="rtl" itemid="452">
             影城<lb/>
             趙廉田豐合輯<lb/>
         </div>
-        <div type="article">
+        <div type="article" itemid="577">
             <div>
                 滬光‧金門‧平安之外<lb/>
                 上海究有多少新戯院出現<lb/>
@@ -503,7 +501,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="578">
             <div>
                 「化身姑娘」連拍兩集<lb/>
             </div>
@@ -527,7 +525,7 @@
                 <p>（英子）<lb/></p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="576">
             <div>
                 袁美雲吼了<lb/>
             </div>
@@ -547,7 +545,7 @@
                 <p> （末將）<lb/></p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="579">
             <div>
                 陳綺霞比前漂亮<lb/>
                 陳玉梅胖了&gaiji;瘦<lb/>
@@ -581,7 +579,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="580">
             <div>
                 陳雲裳打算在上海久住<lb/>
                 香港方面無法拍攝國語片<lb/>
@@ -620,23 +618,23 @@
                 </p>
             </div>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="675">
             <div mode="horizontal-tb" dir="rtl">
                 中國廣生行出品<lb/>
             </div>
-            <div type="image"></div>
+            <div type="image" itemid="375"></div>
             <div mode="horizontal-tb" dir="rtl">
                 雙妹牌<lb/>
                 生髮油<lb/>
                 千日香<lb/>
             </div>
-            <div type="image"></div>
+            <div type="image" itemid="376"></div>
             <div>
                 送禮自用<lb/>
                 并皆曼妙<lb/>
             </div>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="673">
             中西按摩院<lb/>
             本院聘有中西美貌<lb/>
             女子精按摩術服務<lb/>
@@ -644,14 +642,14 @@
             上午十二時至下午八時　地址卡德路八號大廈四號房間<lb/>
             （愛文義路口）<lb/>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="674">
             中西按摩術<lb/>
             本院向來聘請高尚中西<lb/>
             美女精於按摩有特殊奇<lb/>
             術及修指甲歡迎中西嘉<lb/>
             賓　（地址）卡德路四十一弄七十二號樓上九號房間<lb/>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="536">
             <div mode="horizontal-tb" dir="rtl">
                 天樂園酒樓<lb/>
             </div>
@@ -664,7 +662,7 @@
                 △電話九四九四七號▽<lb/>
             </div>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="676">
             <div>
             沈淇泉太史潤格<lb/>
             </div>
@@ -800,7 +798,7 @@
     </div>
     <!--start middle of the fold-->
     <div type="margin">
-        <div type="advert">
+        <div type="advert" itemid="677">
             <div>
                 毛興昌<lb/>
             </div>
@@ -821,13 +819,13 @@
                 毛興昌啓<lb/>
             </div>
         </div>
-        <div type="advert">
-            <div type="image"></div>
+        <div type="advert" itemid="678">
+            <div type="image" itemid="377"></div>
             <div mode="horizontal-tb" dir="rtl">
                 一滴淸<lb/>
                 眼薬水<lb/>
             </div>
-            <div type="image"></div>
+            <div type="image" itemid="378"></div>
             <div>
                 統治<lb/>
                 目疾<lb/>
