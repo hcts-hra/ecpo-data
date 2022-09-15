@@ -6,9 +6,11 @@
     <!-- start verso page -->
     <div type="page" page="verso" n="2" dir="rtl" mode="vertical-rl">
         <div type="margin">
+            <div type="other">
             <p dir="rtl" mode="horizontal-tb">
                 晶報<lb/>
             </p>
+            </div>    
             <div type="advert" dir="rtl" mode="horizontal-tb" itemid="1301">
                 <!--  請飲金納氏巴德補血酒以健尊體 -->
             </div>
@@ -97,7 +99,7 @@
             <p dir="rtl" mode="horizontal-tb">
                 （小偵）<lb/>
             </p>
-            <div>
+            
                 <p>
                     上海租界納稅華人會、十九日在商整會開執行委員會<lb/>
                     、選舉常務委員三人時、方椒伯君所投一票、爲胡孟嘉<lb/>
@@ -119,7 +121,7 @@
                     報載記前次開會時、讀演說詞如唱大面、開會前、王君<lb/>
                     笑語本報記者、記者亦極稱之、<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="article" itemid="1432">
             <p>
@@ -295,8 +297,9 @@
             <p dir="rtl" mode="horizontal-tb">
                 ◘否决增加華董之市政廳年會◘<lb/>
             </p>
-            <div type="image" itemid="798"/>
-            <div>
+            <!--  see #128       -->
+<!--            <div type="image" itemid="798"/>-->
+            
                 <p>
                      納稅西人會、否决增加華董二人案之翌日、納稅華人會在商整會、開臨時<lb/>
                      緊急代表大會、發表宣言、並定對付方針、是日逸聞頗多、爲補紀之、<lb/>
@@ -336,7 +339,7 @@
                 <p>
                      以外雖不無激昂之論、而皆歸於鎭靜也、<pb/>
                 </p>
-            </div>
+            
         </div>   
     </div>
     <!-- start middle of the fold -->
@@ -660,7 +663,8 @@
             <p>
                 ◘華韻珍◘<lb/>
             </p>
-            <div type="image" itemid="800"/>
+            <!--  see #128       -->
+<!--            <div type="image" itemid="800"/>-->
         </div>
         <div type="margin" dir="rtl" mode="vertical-rl">
             各稿版權均歸本社所有禁止轉載翻印譒譯<pb/>

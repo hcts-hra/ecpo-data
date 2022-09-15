@@ -6,9 +6,11 @@
     <!-- start verso page -->
     <div type="page" page="verso" n="2" dir="rtl" mode="vertical-rl">
         <div type="margin">
+            <div type="other">
             <p dir="rtl" mode="horizontal-tb">
                 晶報<lb/>
             </p>
+                </div>
             <div type="advert" dir="rtl" mode="horizontal-tb" itemid="1209">
                 <!--  請飲金納氏巴德補血酒以健尊體 -->
             </div>
@@ -223,7 +225,7 @@
             <p dir="rtl" mode="horizontal-tb">
                 （華嚴）<lb/>
             </p>
-            <div> 
+            
                 <p>
                       近今的所謂新詩、無格律、不音韻、<lb/>
                       抓在籃裏就是菜、倒還不及徐半梅<lb/>
@@ -258,7 +260,7 @@
                       你可能來？<lb/>
                       不信幽冥遠隔見期難！<lb/>                
                  </p>
-            </div>       
+                   
         </div>
         <div type="article" itemid="1334">
             <p>
@@ -293,7 +295,8 @@
             <p dir="rtl" mode="horizontal-tb">
                 （春華）<lb/>
             </p>
-            <div type="image" itemid="723"/>
+            <!--  see #128       -->
+<!--            <div type="image" itemid="723"/>-->
             <p>
                 圖中戴帽者爲團長雷慈<lb/>
                 滿君、正中握救命圈者、<lb/>
@@ -470,7 +473,7 @@
             <p>
                 祝玲丁〻下野<lb/>
             </p>
-            <div>
+            
                 <p>
                     報載電影狗星德產玲丁丁、每年包<lb/>
                     銀達卅萬元、在歐戰時、出洋赴美、<lb/>
@@ -485,7 +488,7 @@
                     兔焉烹及爾今於馬可擬其倫湯盤銘<lb/>
                     曰諸君曉何等聰明苟日新　（丹翁）<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="image" itemid="726">
             <p>
@@ -611,7 +614,8 @@
                 所交皆豪貴也者、識者嗤之、而九猶自若、怡紅公子有知、當亦不復興女<lb/>
                 子是水做的之嘆矣、<lb/>                            
             </p>
-            <div type="image" itemid="727"/>
+            <!--  see #128       -->
+<!--            <div type="image" itemid="727"/>-->
             <p dir="rtl" mode="horizontal-tb">
                     ◘賈寶玉老九（明媚贈）◘<lb/>
             </p>

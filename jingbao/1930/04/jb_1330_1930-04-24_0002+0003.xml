@@ -6,9 +6,11 @@
     <!-- start verso page -->
     <div type="page" page="verso" n="2" dir="rtl" mode="vertical-rl">
         <div type="margin">
+            <div type="other">
             <p dir="rtl" mode="horizontal-tb">
                 晶報<lb/>
             </p>
+            </div>    
             <div type="advert" dir="rtl" mode="horizontal-tb" itemid="1328">
                 <!--  請飲金納氏巴德補血酒以健尊體<lb/> -->
             </div>
@@ -312,12 +314,13 @@
                 遊刃自如之槪、說者謂中國近年、百事<lb/>
                 均有進步、此特其一端耳、<lb/>
             </p>
-            <div type="image" itemid="820"/>
-            <div type="image" itemid="821">
-                <div>
+            <!--  see #128       -->
+            <!--<div type="image" itemid="820"/>
+            <div type="image" itemid="821">-->
+                <p>
                     （上）杜君近影（下）法國鼉龍港<pb/>
-                </div>
-            </div>            
+                </p>
+            <!--</div>-->            
         </div>   
     </div>
     <!-- start middle of the fold -->
@@ -398,7 +401,7 @@
             <p dir="rtl" mode="horizontal-tb">
                 寶鳳）<lb/>
             </p>
-            <div>
+            
                 <p>
                 全國律師協會第二屆大會、四月初旬、在漢口舉行事、僅新聞報追紀一<lb/>
                 則、據漢上歸客言、會中不乏逸事、亦追記之、<lb/>
@@ -439,7 +442,7 @@
                 、解釋係往遊藝會演講、相與一笑而罷、然吳大砲之稱、已傳遍全國律師<lb/>
                 會中、<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="article" itemid="1472">
             <p>
@@ -540,11 +543,12 @@
                 飾器物、均歸七有、所傳如確、近日當在磋商中、但聞七平日不解撫嬰之<lb/>
                 法、其姑則含飴至樂、去檳留珠、亦社會習見、但知者終冀其琴瑟重調也、<lb/>
             </p>
-            <div type="image" itemid="823">
+            <!--  see #128       -->
+           <!-- <div type="image" itemid="823">
                  <p dir="rtl" mode="horizontal-tb">
                      ◘戴周婉娥女士◘<lb/>
                  </p>
-            </div>
+            </div>-->
         </div>       
         <div type="article" itemid="47239">
             <p>
@@ -624,11 +628,12 @@
                 俁俁如成人、而憨態猶昔、但經磨礱以後、愁腸百結、不似往日之嚶寗時<lb/>
                 見矣、貌則較前益麗、語云、金剛不壞身、六之所遇、或亦華嚴小劫者乎、<lb/>
             </p>
-            <div type="image" itemid="824">
+            <!--  see #128       -->
+            <!--<div type="image" itemid="824">
                 <p dir="rtl" mode="horizontal-tb">
                     ◘寄塵老六◘<lb/>
                 </p>
-            </div>
+            </div>-->
         </div>
         <div type="margin" dir="rtl" mode="vertical-rl">
             各稿版權均歸本社所有禁止轉載翻印譒譯<pb/>

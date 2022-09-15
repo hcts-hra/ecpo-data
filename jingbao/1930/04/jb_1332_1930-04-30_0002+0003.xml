@@ -6,9 +6,11 @@
     <!-- start verso page -->
     <div type="page" page="verso" n="2" dir="rtl" mode="vertical-rl">
         <div type="margin">
+            <div type="other">
             <p dir="rtl" mode="horizontal-tb">
                 晶報<lb/>
             </p>
+                </div>
             <div type="advert" dir="rtl" mode="horizontal-tb" itemid="1423">
                 <!--  請飲金納氏巴德補血酒以健尊體<lb/> -->
             </div>
@@ -374,15 +376,16 @@
                 善田徑賽、此次日本遠東運動會、伯<lb/>
                 起本被選、因一妻二子、同時被害、<lb/>
                 感觸尤深、故已决辭遠東之選、<lb/>
-            </p>           
-            <div type="image" itemid="875"> 
+            </p> 
+            <!--  see #128       -->
+            <!--<div type="image" itemid="875"> 
                 <p>
                 ◘盛蘋臣七公<lb/>
                 ◘子與魏秀琦<lb/>
                 ◘夫人補行婚<lb/>
                 ◘禮紀念儷影<lb/>
             </p>
-            </div>
+            </div>-->
         </div> 
         <div type="article" itemid="1594">
             <p>
@@ -599,12 +602,13 @@
                 之活潑<lb/>
                 （綏）<lb/>
             </p> 
-            <div type="image" itemid="877">
+            <!--  see #128       -->
+           <!-- <div type="image" itemid="877">-->
                 <p dir="rtl" mode="horizontal-tb">
                     ◘惠然老九所書◘<lb/>
                 </p> 
                 <!--The texts in the image: 我们來過了。你們到什麽地方去了。我們來過二湯。等不其你們了。我們則得回去了。-->
-            </div>        
+            <!--</div>-->        
         </div>
         <div type="article" itemid="1602">
             <p>
@@ -633,12 +637,13 @@
                 人無錫楊二小姐、當初張幟時、與邵商立名、邵曰、宜擇近人所知者之名<lb/>
                 用之、數及寶鳳、四首肯、名乃定、此題名之由來也、四與吳蓮洲醫師之眷<lb/>
                 屬、亦常往還、四喜交懸壺者、殆亦昔日高齊雲綽號衞生堂差乎、<lb/>
-            </p>            
-            <div type="image" itemid="878">
+            </p>  
+            <!--  see #128       -->
+<!--            <div type="image" itemid="878">-->
                 <p dir="rtl" mode="horizontal-tb">
                     ◘寶鳳老四近影◘<lb/>               
                 </p>
-            </div>
+            <!--</div>-->
         </div>
         <div type="margin" dir="rtl" mode="vertical-rl">
             各稿版權均歸本社所有禁止轉載翻印譒譯<pb/>

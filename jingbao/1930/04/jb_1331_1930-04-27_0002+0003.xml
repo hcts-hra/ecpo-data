@@ -6,9 +6,11 @@
     <!-- start verso page -->
     <div type="page" page="verso" n="2" dir="rtl" mode="vertical-rl">
         <div type="margin">
+            <div type="other">
             <p dir="rtl" mode="horizontal-tb">
                 晶報<lb/>
             </p>
+            </div>      
             <div type="advert" dir="rtl" mode="horizontal-tb" itemid="1398">
                 <!--  請飲金納氏巴德補血酒以健尊體 -->
             </div>
@@ -30,7 +32,7 @@
             <p dir="rtl" mode="horizontal-tb">
                 （丹翁）<lb/>
             </p>
-            <div>
+           
                 <p>
                      不眞不像。不美亦美矣。<lb/>
                 </p>
@@ -67,7 +69,7 @@
                      則塗抹丹靑。又安在不堪以狂捧。况西方文明。急切爲厥祖邦而吸。不過<lb/>
                      哀皮細底。稍有點兒成問題。（參照申報自由談）<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="article" itemid="1499">
             <p>
@@ -444,7 +446,8 @@
             <p>
                 ◘戴雪雪女士◘<lb/>
             </p>
-            <div type="image" itemid="848"/>
+            <!--  see #128       -->
+<!--            <div type="image" itemid="848"/>-->
         </div>
         <div type="article" itemid="1514">
             <p>
@@ -675,7 +678,8 @@
                   ◘玉人老七<lb/>
                   （明媚贈）<lb/>
             </p>
-            <div type="image" itemid="850"/>
+            <!--  see #128       -->
+<!--            <div type="image" itemid="850"/>-->
         </div>
         <div type="margin" dir="rtl" mode="vertical-rl">
             各稿版權均歸本社所有禁止轉載翻印譒譯<pb/>

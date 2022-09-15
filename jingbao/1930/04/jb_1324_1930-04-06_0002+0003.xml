@@ -26,7 +26,7 @@
 			<p dir="rtl" mode="horizontal-tb">
 			    （丹翁）<lb/>
 			</p>
-			<div>
+			
 		    <p>
 				梅蘭芳赴美演劇、號稱宣傳中國藝術、三日、新聞報紐約電、謂在紐約計<lb/>
 				演三星期、觀者極衆、中國藝術在美、可謂十分成功、然則所謂十分成功、<lb/>
@@ -62,7 +62,7 @@
 				拍案大笑曰。彼藝術十分成功。我對於十字亦成功矣。我問何對。隱曰『<lb/>
 				江城五月花落　西望長安。』<lb/>
 			</p>
-			</div>
+			
 		</div>
 		<div type="article" itemid="1109">
 			<p>
@@ -132,13 +132,15 @@
 	    	<p>
 	    		◘全國運動會中之蔣主席（久康）<lb/>
 	    	</p>
-	    	<div type="image" itemid="564"> </div>
+	    	<!--  see #128       -->
+<!--	    	<div type="image" itemid="564"> </div>-->
 	    </div>	   
 	    <div>
 	    	<p>
 	    		◘全國運動會中之吳稚暉君（久康）<lb/>
 	    	</p>
-	    	<div type="image" itemid="565"> </div>	    	
+	    	<!--  see #128       -->
+<!--	    	<div type="image" itemid="565"> </div>	    	-->
 	    </div>	   
 		<div type="article" itemid="1110">
 			<p>
@@ -186,7 +188,7 @@
 			<p>
 				淮盐頺唐之現況<lb/>
 			</p>
-			<div>
+			
 			<p>
 				鮑明遠蕪城賦曰、孶貨鹽<lb/>
 				田、可知鹽利元鉅、嘗聞淸<lb/>
@@ -227,7 +229,7 @@
 				唯欠各債、均在四月底到<lb/>
 				期、尚未知如何了結也、<lb/>			
 			</p>
-			</div>
+			
 		</div>
 		<div type="article" itemid="1113">
 			<p>
@@ -236,7 +238,7 @@
 			<p dir="rtl" mode="horizontal-tb">
 				（小偵）<lb/>
 			</p>
-			<div>
+			
 				<p>
 					松江鹽運副使粟顯揚、被警務長尚<lb/>
 					海珊控其濫用職權違法拘禁一案、<lb/>
@@ -267,7 +269,7 @@
 					◘葉少英律師受交部屬詑、查積餘<lb/>
 					帳目、已派顧人傑君查淸無誤、（梁）<lb/>
 				</p>
-			</div>
+			
 		</div>
 		<div type="image" itemid="566">
 			<p dir="rtl" mode="horizontal-tb">
@@ -356,7 +358,8 @@
 	    	</p>
 		</div>
 		<div type="article" itemid="1116">
-			<div type="image" itemid="567"/>
+			<!--  see #128       -->
+<!--			<div type="image" itemid="567"/>-->
 			<p>
 				順天時報之臨別贈言<lb/>
 			</p>		
@@ -586,7 +589,8 @@
 					可比、經老三控御、更易驤首於紫陌<lb/>
 					中矣、<lb/>
 				</p>
-				<div type="image" itemid="571"/>
+				<!--  see #128       -->
+<!--				<div type="image" itemid="571"/>-->
 				<p>
 					◘時第老八◘<lb/>
 				</p>

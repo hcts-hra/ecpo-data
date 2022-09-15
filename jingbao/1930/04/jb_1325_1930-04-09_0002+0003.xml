@@ -6,9 +6,11 @@
     <!-- start verso page -->
     <div type="page" page="verso" n="2" dir="rtl" mode="vertical-rl">
         <div type="margin">
+            <div type="other">
             <p dir="rtl" mode="horizontal-tb">
                 晶報<lb/>
             </p>
+            </div>
             <div type="image" itemid="20819">
                 <!-- It is a cat. -->
             </div>
@@ -80,7 +82,7 @@
                  （孳善自）<lb/>
                  （瑞士寄）<lb/>
              </p>
-             <div>
+             
                  <p>
                      我國駐外各館、年來精神振作、氣象爲之一新、是蓋中央主持得人、抑亦<lb/>
                      政治淸明程度進步之徵、國際聯合會全權代表辦事處、賃屋費之開支、在<lb/>
@@ -102,7 +104,7 @@
                      陳君偕陳夫人、於三月二十四日附乘法船獅鳳號、自馬賽啓程回國、就任<lb/>
                      勞工分局局長、繼任之人選、尙虛左待賢也、<lb/>
                  </p>
-             </div>
+             
          </div>
         <div type="article" itemid="1202">
              <p>
@@ -296,7 +298,8 @@
                 <p dir="rtl" mode="horizontal-tb">
                       （花絮）<lb/>
                 </p>
-                <div type="image" itemid="641"/>
+             <!--  see #128       -->
+<!--                <div type="image" itemid="641"/>-->
                 <p>
                        邇歲以來、吾國女子於運動界、得占一席、一洗自古嬌柔怯弱之習、此爲<lb/>
                        吾國女子第一之進步、以中國女子不能與他國女子相較、他國女子於體<lb/>
@@ -637,7 +640,8 @@
             <p mode="horizontal-tb" dir="rtl">
                 ◘張瑞珍七小姐◘<lb/>
             </p>
-            <div type="image" itemid="645"/>
+            <!--  see #128       -->
+<!--            <div type="image" itemid="645"/>-->
         </div>
         <div type="margin" dir="rtl" mode="vertical-rl">
                各稿版權均歸本社所有禁止轉載翻印譒譯<pb/>

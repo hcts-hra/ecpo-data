@@ -6,9 +6,11 @@
     <!-- start verso page -->
     <div type="page" page="verso" n="2" dir="rtl" mode="vertical-rl">
            <div type="margin">
+                  <div type="other">
                   <p dir="rtl" mode="horizontal-tb">
                          晶報<lb/>
                   </p>
+                  </div>
                   <div type="advert" dir="rtl" mode="horizontal-tb" itemid="19349">
                          <!--  請飲金納氏巴德補血酒以健尊體 -->
                   </div>
@@ -265,8 +267,9 @@
                   <p dir="rtl" mode="horizontal-tb">
                          ◘中國領袖婦人⋯◘<lb/>
                   </p>
-                  <div type="image" itemid="700"/>
-                  <div type="image" itemid="701"/>
+                  <!--  see #128       -->
+<!--                  <div type="image" itemid="700"/>
+                  <div type="image" itemid="701"/>-->
                   <p dir="rtl" mode="horizontal-tb">
                          ◘中國之領袖雄婦人◘<lb/>
                   </p>
@@ -451,6 +454,7 @@
                               漢口長春里七十三號韻廬試筆<lb/>
                           -->
                   </div>
+                  <div type="other">
                   <p>
                          ◘漢口市面、近較上海<lb/>
                          尤爲熱鬧、後城馬路後<lb/>
@@ -458,7 +462,8 @@
                          夜、伎寮亦極發達、其中<lb/>
                          有韻廬者、工吟詠、近作<lb/>
                          截句一章、爲錄如上、<lb/>                 
-                  </p>       
+                  </p> 
+                  </div>       
            </div>
            <div type="article" itemid="1322">
                   <p>
@@ -649,7 +654,8 @@
                          論交古人之意、世風不變、尊古之習、滌除殆盡、不圖曲院尙復有此輩也、<lb/>
                          或曰、七三亦可謂爲李涵秋之知音、、如高齊雲等之於人間地獄說部也、<lb/>               
                   </p>
-                  <div type="image" itemid="706"/>
+                  <!--  see #128       -->
+<!--                  <div type="image" itemid="706"/>-->
                   <p dir="rtl" mode="horizontal-tb">
                          ◘慧珠三媛（卡爾生攝）<lb/>
                   </p>

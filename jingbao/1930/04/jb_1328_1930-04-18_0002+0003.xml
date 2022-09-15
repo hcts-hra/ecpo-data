@@ -6,9 +6,11 @@
     <!-- start verso page -->
     <div type="page" page="verso" n="2" dir="rtl" mode="vertical-rl">
         <div type="margin">
+            <div type="other">
             <p dir="rtl" mode="horizontal-tb">
                 晶報<lb/>
             </p>
+                </div>
             <div type="advert" dir="rtl" mode="horizontal-tb" itemid="1233">
                 <!--  請飲金納氏巴德補血酒以健尊體<lb/> -->
             </div>
@@ -274,7 +276,7 @@
             <p dir="rtl" mode="horizontal-tb">
                 （神獅）<lb/>
             </p>
-            <div>
+            
                 <p>
                 上海公共租界納稅華人會、十六日在天后宮橋商整會內、開第九屆選𦦙<lb/>
                 大會、以工部局華董將由三人增至五人、開會時、較往年尤爲興奮、定三<lb/>
@@ -304,7 +306,7 @@
                 汽車碾死請求援助案、會衆討論、頗爲激昂、代表江一平君卽承辦劉案之<lb/>
                 律師、謂曾見劉屍一足轢斷、腸腑壓出、七竅流血、滿座皆爲蹙額者久之、<pb/> 
                 </p>
-            </div>
+            
         </div>
     </div>
     <!-- start middle of the fold -->
@@ -402,7 +404,8 @@
                 ◘易居之花◘<lb/>
                 （佩珮去年小影）<lb/>                
             </p>
-            <div type="image" itemid="756"/>
+            <!--  see #128       -->
+<!--            <div type="image" itemid="756"/>-->
         </div>
         <div type="article" itemid="1360"><p>
             ◘國際聯盟辦事處吳凱聲君、前在<lb/>
@@ -604,12 +607,13 @@
                 上花閥、蓄姝罔不綽綽、有張寶寶者、亦蔡之帲幪人物<lb/>
                 適曉樓後人、曾久居蔡之樓下一室、卽今四之妝閣也、<lb/>
                 四更今名、頗含深意、倘仍冀恩波浩渺、重浴春禽乎、<lb/>
-            </p>            
-            <div type="image" itemid="759">
+            </p> 
+<!-- see #128 TODO(DP) @xiejia please chck the nesting of this image div which as p contents inside           -->
+<!--            <div type="image" itemid="759">
                 <p dir="rtl" mode="horizontal-tb">
                     ◘謝恩君老四◘<lb/>
                 </p>
-            </div>
+            </div>-->
         </div>
         <div type="margin" dir="rtl" mode="vertical-rl">
             各稿版權均歸本社所有禁止轉載翻印譒譯<pb/>
