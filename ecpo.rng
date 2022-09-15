@@ -32,6 +32,14 @@
                 <element name="pb">
                     <empty/>
                 </element>
+            </optional>
+            <optional>
+                <element name="r">
+                    
+                    <attribute name="style"/>  <!-- to allow CSS formatting, e.g. "transform: rotate(90deg);" -->
+                    
+                    <ref name="contents"/>
+                </element>
             </optional>            
         </interleave>
         <!-- <optional> -->
@@ -110,14 +118,6 @@
                         <ref name="contents"/>                     
                     </element>
                 </oneOrMore>
-                <optional>
-                    <element name="r">
-
-                            <attribute name="style"/>  <!-- to allow CSS formatting, e.g. "transform: rotate(90deg);" -->
-                        
-                        <ref name="contents"/>
-                    </element>
-                </optional>
                 <ref name="contents"/>
                 <zeroOrMore>
                     <ref name="structure"/>
