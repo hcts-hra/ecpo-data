@@ -3,13 +3,13 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3797_1939-04-23_0006+0007" lastedit="2021-07-27" lasteditor="ysmlouis">
+<fold xml:id="jb_3797_1939-04-23_0006+0007" lastedit="2022-09-15" lasteditor="xiejia1995" issueid="22">
 	<!-- start verso page -->
 	<div type="page" page="verso" n="6" dir="rtl" mode="vertical-rl">
 		<div type="margin" dir="rtl" mode="horizontal-tb">
 			中華民國二十八年四月廿三日　晶報　星期日　第六版<lb/>	
 		</div>
-		<div type="article">
+		<div type="article" itemid="484">
 			<div>
                        「未來的世界」重譯本<lb/>
 			</div>
@@ -20,26 +20,26 @@
                        楊永泰女公子所譯<lb/>
 			</div>
 			<div>
-                         <p>
-                             英國韋爾斯的未來世界，出版以來，風行全球。他國文字之轉譯者，亦不在少<lb/>
-                             數。而吾國於數年前，卽有章衣萍等之譯本。其初讀書界亦置 <!-- character shows font-dependent variations, char found here: ⿱四⿺𠃊𥃭 --> 一册，以供瀏覽，<lb/>
-                             以韋爾斯爲歷史家，就彼之所觀察，經過去以測方來，姑作如是觀而已。乃自中<lb/>
-                             日戰爭而後，有人摘出韋爾斯對於中日前途之意想，與其結果，散見於各日報及<lb/>
-                             雜誌中。因是凡未見此書者，皆爭欲一觀，幾等於讖緯之作。無識者，乃儕諸推<lb/>
-                             背圖，燒餅歌之列矣。今坊間有刪本，僅售二三角，寖失原旨。但卽章衣萍等所<lb/>
-                             譯本，亦非完本，僅譯其前數章而已。今聞商務印書館在香港有新譯本，曰『未<lb/>
-                             來的世界』，卽譯自英文本韋爾斯原著者，翻譯人爲楊懿熙。因念楊懿熙女士者<lb/>
-                             ，爲楊暢卿君（永泰）之長女公子。楊君有女公子五人，而懿熙爲最長，前者本<lb/>
-                             報之金時英君，曾記其事。謂其前爲上海市政府英文秘書，著作甚富，均由商務<lb/>
-                             印書館出版云云，所語甚確。惟謂懿熙女士年逾三十，尚未結婚，則以愚所聞，<lb/>
-                             女士於前歲，曾已適人。且其藁椹亦爲楊姓，聞習飛機駕駛之術，中國向者同姓<lb/>
-                             不婚，而楊女士則打破此例也。再楊女士所譯之「未來的世界」一書，計爲三册<lb/>
-                             ，售價一元八角。此必爲韋爾斯之完本，不知上海商務印書館亦有發售否？當往<lb/>
-                             一詢之也。<lb/>
-                         </p>
+                    <p>
+                         英國韋爾斯的未來世界，出版以來，風行全球。他國文字之轉譯者，亦不在少<lb/>
+                         數。而吾國於數年前，卽有章衣萍等之譯本。其初讀書界亦置 <!-- character shows font-dependent variations, char found here: ⿱四⿺𠃊𥃭 --> 一册，以供瀏覽，<lb/>
+                         以韋爾斯爲歷史家，就彼之所觀察，經過去以測方來，姑作如是觀而已。乃自中<lb/>
+                         日戰爭而後，有人摘出韋爾斯對於中日前途之意想，與其結果，散見於各日報及<lb/>
+                         雜誌中。因是凡未見此書者，皆爭欲一觀，幾等於讖緯之作。無識者，乃儕諸推<lb/>
+                         背圖，燒餅歌之列矣。今坊間有刪本，僅售二三角，寖失原旨。但卽章衣萍等所<lb/>
+                         譯本，亦非完本，僅譯其前數章而已。今聞商務印書館在香港有新譯本，曰『未<lb/>
+                         來的世界』，卽譯自英文本韋爾斯原著者，翻譯人爲楊懿熙。因念楊懿熙女士者<lb/>
+                         ，爲楊暢卿君（永泰）之長女公子。楊君有女公子五人，而懿熙爲最長，前者本<lb/>
+                         報之金時英君，曾記其事。謂其前爲上海市政府英文秘書，著作甚富，均由商務<lb/>
+                         印書館出版云云，所語甚確。惟謂懿熙女士年逾三十，尚未結婚，則以愚所聞，<lb/>
+                         女士於前歲，曾已適人。且其藁椹亦爲楊姓，聞習飛機駕駛之術，中國向者同姓<lb/>
+                         不婚，而楊女士則打破此例也。再楊女士所譯之「未來的世界」一書，計爲三册<lb/>
+                         ，售價一元八角。此必爲韋爾斯之完本，不知上海商務印書館亦有發售否？當往<lb/>
+                         一詢之也。<lb/>
+                    </p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="485">
 			<div>
                          馮玉祥與節約<lb/>
 			</div>
@@ -116,7 +116,7 @@
                           </p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="486">
 			<div>
                           佹<lb/>
 			</div>
@@ -187,7 +187,7 @@
 				  </p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="487">
 			<div>
 			       宣懷<lb/>
 			       名腿<lb/>
@@ -232,7 +232,7 @@
                           </p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="488">
 			<div>
                          新游俠傳<lb/>
 			</div>
@@ -267,7 +267,7 @@
                           </p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="489">
 			<div>
                          蔣委員長之生平<lb/>
 			</div>
@@ -359,7 +359,7 @@
                          </p>
 			</div>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="634">
 			<div mode="horizontal-tb" dir="rtl">
                          西洋<lb/>
 			</div>
@@ -377,7 +377,7 @@
                          路一四一弄六號一樓時間上午十時至下午十時<lb/>
 			</div>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="635">
 			<div>
                          西洋女子按摩<lb/>
 			</div>
@@ -389,7 +389,7 @@
                          地址　白克路（黃家沙口）七三八號一號房間<lb/>
 			</div>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="636">
 			<div  dir="rtl" mode="horizontal-tb">
                          砒製梅毒特效藥<lb/>
                          新惜花散<lb/>
@@ -401,9 +401,9 @@
                         製造者．．楊氏化學治療研究所<lb/>
                         總經理．．信誼化學製藥廠<lb/>
 			</div>
-			<div type="image"></div>
+			<div type="image" itemid="402"></div>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="637">
 			<div mode="horizontal-tb" dir="rtl">
                         救一死<lb/>
 			</div>
@@ -461,7 +461,7 @@
 	</div>
 	<!-- start margin between pages -->	
 	<div type="margin" mode="vertical-rl" dir="rtl">
-		<div type="advert">
+		<div type="advert" itemid="638">
 			<div>
                         東南醫院<lb/>
 			</div>
@@ -475,7 +475,7 @@
                         院址法租界薩坡賽路二九九號電話八〇六〇八號<lb/>
 			</div>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="639">
 			<div>
                          董惠民醫師<lb/>
 			</div>
@@ -525,7 +525,7 @@
 			     特備長短波電療機最高倍顯微鏡橫痃消散機尿道檢查鏡義務助治愈後可向衞生局檢驗<r style="transform: rotate(90deg);">斷</r> <!-- character 斷 rotated by 90 degrees --> 根<lb/>
 			</div>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="640">
 			<div>
                           河南路四馬<lb/>
                           路口第一家<lb/>
