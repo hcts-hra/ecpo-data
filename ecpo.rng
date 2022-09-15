@@ -33,14 +33,14 @@
                     <empty/>
                 </element>
             </optional>
-            <optional>
+            <zeroOrMore>
                 <element name="r">
                     
                     <attribute name="style"/>  <!-- to allow CSS formatting, e.g. "transform: rotate(90deg);" -->
                     
                     <ref name="contents"/>
                 </element>
-            </optional>            
+            </zeroOrMore>            
         </interleave>
         <!-- <optional> -->
             <!-- <element name="lb">
