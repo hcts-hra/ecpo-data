@@ -111,7 +111,7 @@
             <p>
                 （馬二先生）<lb/>
             </p>            
-            <div>
+
                 <p>
                     兩月來、沒有到上海的舞台、就報紙<lb/>
                     上的戲目看來、似乎沒有大變動、依<lb/>
@@ -144,7 +144,7 @@
                     我說白牡丹好、因爲有他的好處、並<lb/>
                     不是捧他、因爲我向不捧誰的、』<lb/> 
                 </p>
-            </div>
+            
         </div>
         <div type="article" itemid="3780">
             <p>
@@ -156,7 +156,7 @@
             <p>
                 寒雲<lb/>
             </p>
-            <div>
+
                 <p>
                     兇奴小印裁靑玉。官號重文疊相邦。<lb/>
                     絕似秦斯書小篆。白文精刻寶無雙。<lb/>
@@ -197,9 +197,9 @@
                     守授虎牙將軍、後有虎牙大將軍、則<lb/>
                     非此印矣、（附原印）<lb/>
                 </p>
-            </div>
-            <div type="image" itemid="2241"/>
-            <div type="image" itemid="2242"/>  
+            <!--see #128                -->
+<!--            <div type="image" itemid="2241"/>
+            <div type="image" itemid="2242"/>  -->
             <p>
                 ◘西周大泉<lb/>
             </p>
@@ -213,7 +213,8 @@
                 人不知泉象形<lb/>
                 爲何若也、<lb/>
             </p>
-            <div type="image" itemid="2243"/>          
+            <!--see #128                -->
+            <!--<div type="image" itemid="2243"/>    -->      
         </div>
         <div type="article" itemid="3786"> 
             <p>
