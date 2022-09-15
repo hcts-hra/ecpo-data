@@ -11,7 +11,7 @@
                 中華民國二十八年四月廿四日　晶報　星期一　第六版<lb/>
             </div>
         </div>                
-        <div type="article">
+        <div type="article" itemid="559">
             <div>
                 天文臺重金延記者　（一得自香港寄）<lb/>
             </div>
@@ -34,7 +34,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="560">
             <div>
                 吳瞿安醉後狂言　（允麗）<lb/>
             </div>
@@ -111,7 +111,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="561">
             <div>
                 太平洋中的黃金　（達）<lb/>
             </div>
@@ -174,7 +174,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="562">
             <div>
                 重慶三報<lb/>
                 （守恆）<lb/>
@@ -196,7 +196,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="563">
             <div>
                 蔣委員長之生平<lb/>
             </div>
@@ -261,7 +261,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="564">
             <div mode="horizontal-tb" dir="rtl">
                 佹失記<lb/>
                 （兼巢老人沈淇泉太史作）<lb/>
@@ -314,7 +314,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="565">
             <div>
                 梨園消息話春明　（禪翁）<lb/>
             </div>
@@ -368,7 +368,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="566">
             <div>
                 新游俠傳　張恨水<lb/>
             </div>
@@ -398,7 +398,7 @@
                 </p>
             </div>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="663">
             <div mode="horizontal-tb" dir="rtl">
                 西洋<lb/>
             </div>
@@ -416,7 +416,7 @@
                 路一四一弄六號一樓時間上午十時至下午十時<lb/>
             </div>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="664">
             <div>
                 西洋女子按摩<lb/>
             </div>
@@ -430,11 +430,12 @@
                 地址　白克路（黃家沙口）七三八號一號房間<lb/>
             </div>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="665">
             <div mode="horizontal-tb" dir="rtl">
                 砒製梅毒特效藥<lb/>
                 新惜花散<lb/>
             </div>
+            <div type="image" itemid="375"></div>
             <div mode="horizontal-tb" dir="ltr">
                 NEO-SYPHARSAN<lb/>
             </div>
@@ -443,7 +444,7 @@
                 總經理：信誼化學製藥廠<lb/>
             </div>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="666">
             <div mode="horizontal-tb" dir="rtl">
                 救一死<lb/>
             </div>
@@ -501,7 +502,7 @@
     </div>
     <!-- … start margin between pages   -->   
     <div type="margin" mode="vertical-rl" dir="rtl">
-        <div type="advert">
+        <div type="advert" itemid="667">
             <div>
                 東南醫院<lb/>
             </div>
@@ -515,7 +516,7 @@
                 院址法租界薩坡賽路二九九號電話八〇六〇八號<lb/>
             </div>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="668">
             <div>
                 董惠民醫師<lb/>
             </div>
@@ -571,7 +572,7 @@
                 特備長短波電療機最高倍顯微鏡橫痃消散機尿道檢查鏡義務助治愈後可向衞生局檢驗斷根<lb/>
             </div>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="669">
             <div>
                 上海河南<lb/>
                 路四馬路<lb/>
@@ -637,7 +638,7 @@
         <div mode="horizontal-tb" dir="rtl">
             中華民國二十八年四月廿四日　晶報　星期一　第七版<lb/>
         </div>
-        <div type="article">
+        <div type="article" itemid="567">
             <div>
                 中山公園銅像之滄桑　（雲裳自北平寄）<lb/>
             </div>
@@ -654,7 +655,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="569">
             <div>
                 佛語問答　（陽仁）<lb/>
             </div>
@@ -687,7 +688,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="568">
             <div>
                 春江花乘　（不平凡公子）<lb/>
                 一日一姬　（三）美娟老八<lb/>
@@ -759,7 +760,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="570">
             <div>
                 嚮導社盛行香港<lb/>
                 （一得自港寄）<lb/>
@@ -794,7 +795,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="571">
             <div>
                 怎樣使得健康美<lb/>
             </div>
@@ -918,9 +919,9 @@
             <div mode="horizontal-tb" dir="rtl">
                 （脊柱側灣症）<lb/>
             </div>
-            <div type="image"></div>
+            <div type="image" itemid="373"></div>
         </div>
-        <div type="article">
+        <div type="article" itemid="572">
             <div>
                 北平梨園人物之小變遷<lb/>
                 （鴻自北平寄）<lb/>
@@ -952,7 +953,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="573">
             <div>
                 舌戰<lb/>
             </div>
@@ -979,7 +980,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="574">
             <div>
                 烏托邦<lb/>
             </div>
@@ -1007,7 +1008,7 @@
                 一場春夢呢？<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="575">
             <div>
                 名人<lb/>
             </div>
@@ -1027,7 +1028,7 @@
                 詩選<lb/>
             </div>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="670">
             <div>
                 此間樂！不思蜀！　一道<lb/>
             </div>
@@ -1040,7 +1041,7 @@
                 途徑旣多，舊時書寓娼寮，遂逐漸無<lb/>
                 形消減。而最新穎最摩登之娛樂，厥<lb/>
             </div>
-            <div type="image"></div>
+            <div type="image" itemid="374"></div>
             <div>
                 惟跳<lb/>
                 舞，<lb/>
@@ -1061,7 +1062,7 @@
                 ，招來一試，方信言之不謬也。<lb/>
             </div>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="672">
             <div>
                 電話<lb/>
                 八四八〇八<lb/>
