@@ -9,14 +9,18 @@
 <!--  DELETE the line after adjusting page numbers  -->
     <div type="page" page="verso" n="4">
         <div type="other"> 
-            <pb/> 
+            <p>
+                […]<lb/>
+            </p> 
         </div>
     </div>
     
 <!-- start center block   -->
     <div type="other" mode="vertical-rl" dir="rtl"> 
         <div type="advert"> 
-            <lb/> 
+            <p>
+                […]<lb/>
+            </p> 
         </div>
     </div>
     
@@ -24,7 +28,7 @@
     <div type="page" page="recto" n="1">
         <div type="article" xml:id="A1">
             <p>
-                <pb/>
+                […]<pb/>
             </p>
         </div>
     </div>
