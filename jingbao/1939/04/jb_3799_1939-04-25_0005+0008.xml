@@ -12,7 +12,8 @@
                  <p mode="horizontal-tb" dir="rtl">
                       文化營<lb/>
                  </p>
-                 <div type="image"/>
+                  <!--     see #128        -->
+<!--                 <div type="image"/>-->
                  <p mode="horizontal-tb" dir="rtl">
                       黔野主編<lb/>
                  </p>
@@ -24,7 +25,7 @@
                  <p>
                         潢虎<lb/>
                  </p>
-                 <div>
+               
                        <p>
                             皇帝雖是威權無上，可是有時幹錯了事，也得偷偷的掩人耳目，遮遮面子。<lb/>
                        </p>
@@ -65,7 +66,7 @@
                             沐英絕世雄才，不比福康安適有天幸，然而同以武功封，同受異姓不該受的封<lb/>
                             一，因此就同有私生子的嫌疑了。<lb/>
                        </p>
-              </div>
+              
         </div>
         <div type="article">
               <p>
@@ -81,7 +82,7 @@
               <p>
                      （一）<lb/>
               </p>
-              <div>
+             
                       <p>
                            號稱新直 <!-- character shows font-dependent variations, char found here: ⿺𠃊𥃭 --> 布羅陀<lb/>
                            的新加坡軍事根據<lb/>
@@ -163,7 +164,7 @@
                            全體工人都留有手<lb/>
                            印。<lb/>
                       </p>
-              </div>
+              
         </div>
         <div type="article">
               <p>
@@ -178,7 +179,7 @@
               <p>
                   　 （召南）<lb/>
               </p>
-              <div>
+              
                      <p>
                           十六歲的姐兒坐<lb/>
                           閨房，<lb/>
@@ -244,7 +245,7 @@
                           兮，無感我帨兮，<lb/>
                           無使尨也吠。<lb/>
                      </p>
-              </div>
+              
         </div>
         <div type="article">
               <p>
@@ -253,7 +254,8 @@
               <p>
                      最狡詭的站起來論辯⋯⋯⋯<lb/>
               </p>
-              <div type="image"/>
+              <!--     see #128        -->
+<!-- <div type="image"/> -->
         </div>
         <div type="article">
               <p>
@@ -266,7 +268,7 @@
               <p>
                      三　革命黨員<lb/>
               </p>
-              <div>
+              
                      <p>
                            『哦天哪！』獄<lb/>
                            吏哀聲叫道。『哦<lb/>
@@ -306,13 +308,13 @@
                            候；這便是那獄吏<lb/>
                            所叫來的。<lb/>
                       </p>
-              </div>
+              
         </div>
         <div type="article">
               <p>
                     每日國際政治測驗<lb/>
               </p>
-              <div>
+              
                      <p>
                           （九）去年十一月芬蘭外交部長被<lb/>
                           迫辭職，是因爲他：<lb/>
@@ -353,7 +355,7 @@
                      <p>
                           五、迫使英國維持貝爾福宣言。<lb/>
                      </p>
-                </div>
+                
                 <p>
                       （昨日答案：二，二，）<lb/>
                 </p>
@@ -368,7 +370,7 @@
               <p>
                     領導中國抗戰的人<lb/>
               </p>
-              <div>
+              
                      <p>
                           蔣氏可算是從耶<lb/>
                           穌紀元前三世紀以<lb/>
@@ -387,14 +389,15 @@
                           使中國成爲中國人<lb/>
                           的中國。<lb/>
                      </p>
-              </div>
+              
         </div>
         <div type="article">
               <p mode="horizontal-tb" dir="rtl">
                     袁寒雲先生手寫<lb/>
                     丁卯日記之五<lb/>
               </p>
-              <div type="image">
+              <!--     see #128        -->
+<!--              <div type="image">-->
                    <!--<p>
                        冩聯帖語曰修八尺有餘飲一石亦醉<lb/>
                        <!-\-冩 正體爲 寫-\->
@@ -416,7 +419,7 @@
                        十六日夕鑄臣邀飲座上有伎曰香君十年歬故<lb/>
                        <!-\-歬 正體爲 前-\->
                        </p>-->
-              </div>
+              <!--</div>-->
         </div>
         <div type="advert">
               <p mode="horizontal-tb" dir="rtl">
@@ -524,17 +527,20 @@
                 </p>
         </div>
         <div type="advert">
-              <div type="image"/>
+              <!--     see #128        -->
+<!--              <div type="image"/>-->
               <p mode="horizontal-tb" dir="rtl">
                     一滴清<lb/>
                     眼薬水<lb/>
               </p>
-              <div type="image"/>
+              <!--     see #128        -->
+<!--              <div type="image"/>-->
               <p>
                     統治<lb/>
                     目疾<lb/>
               </p>
-              <div type="image"/>
+              <!--     see #128        -->
+<!--              <div type="image"/>-->
               <p>
                     一滴<lb/>
                     見功<lb/>
@@ -562,7 +568,8 @@
               <p>
                     新華藥行發行<lb/>
               </p> 
-              <div type="image"/>
+              <!--     see #128        -->
+<!--              <div type="image"/>-->
               <p>
                     認明<lb/>
                     商標<lb/>
@@ -593,7 +600,7 @@
               <p>
                     胡茄在上海<lb/>
               </p>
-              <div>
+              
                       <p>
                            讀者可曾記得起<lb/>
                            胡茄嗎？她是歌舞<lb/>
@@ -626,14 +633,14 @@
                            海還有半年要躭擱<lb/>
                            呢！　（趙廉）<lb/>
                       </p>
-              </div>
+              
         </div>
         <div type="article">
               <p>
                     投機朋友無孔勿入<lb/>
                     陳雲裳粵語片配音後來滬<lb/>
               </p>
-              <div>
+              
                       <p>
                            陳雲裳在上海「<lb/>
                            紅得發紫」，出於<lb/>
@@ -668,7 +675,7 @@
                            那眞是太悲觀的一<lb/>
                            件事。　（壯士）<lb/>
                       </p>
-              </div>
+              
         </div>
         <div type="article">
               <p>
@@ -677,7 +684,7 @@
                     主演<lb/>
                     西施<lb/>
               </p>
-              <div>
+              
                       <p>
                            古裝<lb/>
                            片大<lb/>
@@ -707,14 +714,14 @@
                            爲最興奮之消息！<lb/>
                            （小珠）<lb/>
                       </p>
-              </div>
+              
         </div>
         <div type="article">
               <p>
                     白虹的誓言<lb/>
                     與某導演事爲「誤傳」<lb/>
               </p>
-              <div>
+              
                       <p>
                            白虹與黎錦光（錦暉之弟）同居有四<lb/>
                            五年了，孩子也已有了三個，而近來對<lb/>
@@ -728,7 +735,7 @@
                            場玩去。我想，這對於白虹最有益了。<lb/>
                            （末將）<lb/>
                       </p>
-            </div>
+            
         </div>
         <div type="article">
               <p>
@@ -737,7 +744,7 @@
                 王人美<lb/>
                 學打字<lb/>
               </p>
-              <div>
+              
                       <p>
                            金燄王人美自結<lb/>
                            合後，極盡唱隨之<lb/>
@@ -775,10 +782,11 @@
                            前驕傲的。<lb/>
                            （老田）<lb/>
                        </p>
-              </div>
+              
         </div>
         <div type="article">
-              <div type="image"/>
+              <!--     see #128        -->
+<!--              <div type="image"/>-->
               <p mode="horizontal-tb" dir="rtl">
                     陳雲裳在『雲裳仙子』中之一鏡頭<lb/>
               </p>
@@ -801,12 +809,14 @@
               </p>
         </div>
         <div type="advert">
-              <div type="image"/>
+              <!--     see #128        -->
+<!--              <div type="image"/>-->
               <p mode="horizontal-tb" dir="rtl">
                     雙妹牌<lb/>
                     生髮油<lb/>
               </p>
-              <div type="image"/>
+              <!--     see #128        -->
+<!--              <div type="image"/>-->
               <p>
                     用生髮油<lb/>
                     自覺頭上<lb/>

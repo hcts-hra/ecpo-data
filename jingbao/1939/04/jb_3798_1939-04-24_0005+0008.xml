@@ -14,7 +14,8 @@
             <p dir="rtl" mode="horizontal-tb">
                 文化營<lb/>
             </p>
-            <div type="image"/>
+            <!--	see #128		-->
+<!--            <div type="image"/>-->
             <p dir="rtl" mode="horizontal-tb">
                 黔野主編<lb/>
             </p>
@@ -23,7 +24,6 @@
             <p>
                 談文字獄　潢虎<lb/>
             </p>
-            <div>
                 <p>
                     我們一想到文字獄，便以爲是忠臣志士，睠懷故國，發之詩文，或是剛正不<lb/>
                     阿，力持正議，以致觸犯忌諱。不道試一尋究，其中忠臣志士固屬不少，無心觸<lb/>
@@ -59,7 +59,7 @@
                     想昏了心，如今，見之，但覺可笑，和可憐。而當時皇帝竟會板起了臉，忍住了<lb/>
                     笑，一本正經的當他兇犯，何其異哉。<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="article">
             <p>亞洲內幕<lb/></p>
@@ -69,7 +69,7 @@
             <p>（四）<lb/>
             </p>
             <p>領導中國抗戰的人<lb/></p>
-            <div>
+            
                 <p>
                     總司令現在和他<lb/>
                     在向她求婚時一樣<lb/>
@@ -136,7 +136,7 @@
                     本的化身。日本人<lb/>
                     也很知道這一點。<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="article">
             <p>
@@ -190,14 +190,16 @@
                 動物的叛變　（二）<lb/>
                 最聰明的深思熟慮⋯⋯⋯<lb/>
             </p>
-            <div type="image"/>
+            <!--	see #128		-->
+<!--            <div type="image"/>-->
         </div>
         <div type="article">
             <p mode="horizontal-tb" dir="rtl">
                 袁寒雲先生手寫<lb/>
                 丁卯日記之四<lb/>
             </p>
-            <div type="image">
+            <!--	see #128		-->
+<!--            <div type="image">-->
                 <!-- 
                     初十日得世傑書畣之偕六良朝發之濟南<lb/>
                     睂雲送別驛亭車中譔賣𠌶聲寄畣槑<lb/>
@@ -215,7 +217,7 @@
                     <正體字版本：“竝”爲“並”；“䛡”爲“話”>
                     十二日伯華邀飲晤董睂林睂林集語屬爲<lb/>
                 -->
-            </div>
+            <!--</div>-->
         </div>                  
         <div type="article">
             <p>
@@ -226,7 +228,7 @@
             <p>
                 三　革命黨員<lb/>
             </p>
-            <div>
+            
                 <p>
                     這是眞話，他確<lb/>
                     是在那洋學堂裏被<lb/>
@@ -305,13 +307,13 @@
                     可是他那雙眼睛却<lb/>
                     炯炯地注視着。<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="article">
             <p>
             每日國際政治測驗<lb/>
             </p>
-            <div>
+            
             <p>（七）德國面積和戰爭前相比—<lb/></p>
             <p>一、土地較大而人口較少。<lb/></p>
             <p>二、較大而且人口也增加不少。<lb/></p>
@@ -330,7 +332,7 @@
                 與弗朗哥。<lb/></p>
             <p>五、使共和政府軍隊交還叛軍俘虜<lb/>
             （昨日答案：五，三，）<lb/></p>
-            </div>
+            
         </div>
         <div type="advert">
             <p mode="horizontal-tb" dir="rtl">
@@ -421,7 +423,7 @@
                 滬光‧金門‧平安之外<lb/>
                 上海究有多少新戯院出現<lb/>
             </p>
-            <div>
+            
                 <p>
                     今年的廢曆新年<lb/>
                     ，已有三家新戲院<lb/>
@@ -500,13 +502,13 @@
                 <p>
                     （趙廉）<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="article">
             <p>
                 「化身姑娘」連拍兩集<lb/>
             </p>
-            <div>
+            
                 <p>
                     方沛霖囘藝華公<lb/>
                     司去，係暫時性質<lb/>
@@ -524,13 +526,13 @@
                     元「外快收入」。<lb/>
                 </p>
                 <p>（英子）<lb/></p>
-            </div>
+            
         </div>
         <div type="article">
             <p>
                 袁美雲吼了<lb/>
             </p>
-            <div>
+            
                 <p>
                     大家曉得：袁美雲是「懼外」的<lb/>
                     ，對於王引一味馴服，所以一切關<lb/>
@@ -544,14 +546,14 @@
                     引還是老樣子，袁美雲依然馴服。<lb/>
                 </p>
                 <p> （末將）<lb/></p>
-            </div>
+            
         </div>
         <div type="article">
             <p>
                 陳綺霞比前漂亮<lb/>
                 陳玉梅胖了瘦<lb/>
             </p>
-            <div>
+            
                 <p>
                     邵醉翁來上海後<lb/>
                     ，張善琨已經請他<lb/>
@@ -578,14 +580,14 @@
                     消息，一切在不可<lb/>
                     知之數。（壯士）<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="article">
             <p>
                 陳雲裳打算在上海久住<lb/>
                 香港方面無法拍攝國語片<lb/>
             </p>
-            <div>
+            
                 <p>
                     陳雲裳離滬之前<lb/>
                     ，與新華公司訂有<lb/>
@@ -617,19 +619,21 @@
                     入上海的電影界了<lb/>
                     。（老田）<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="advert">
             <p mode="horizontal-tb" dir="rtl">
                 中國廣生行出品<lb/>
             </p>
-            <div type="image"/>
+            <!--	see #128		-->
+<!--            <div type="image"/>-->
             <p mode="horizontal-tb" dir="rtl">
                 雙妹牌<lb/>
                 生髮油<lb/>
                 千日香<lb/>
             </p>
-            <div type="image"/>
+            <!--	see #128		-->
+<!--            <div type="image"/>-->
             <p>
                 送禮自用<lb/>
                 并皆曼妙<lb/>
@@ -821,12 +825,14 @@
             </p>
         </div>
         <div type="advert">
-            <div type="image"/>
+            <!--	see #128		-->
+<!--            <div type="image"/>-->
             <p mode="horizontal-tb" dir="rtl">
                 一滴淸<lb/>
                 眼薬水<lb/>
             </p>
-            <div type="image"/>
+            <!--	see #128		-->
+<!--            <div type="image"/>-->
             <p>
                 統治<lb/>
                 目疾<lb/>
@@ -858,7 +864,8 @@
             <p>
             新華藥行發行<lb/>
             </p>
-            <div type="image"/>
+            <!--	see #128		-->
+<!--            <div type="image"/>-->
             <p mode="horizontal-tb" dir="rtl">
                 新華大藥行監製<lb/>
                 上海江西路十號<lb/>

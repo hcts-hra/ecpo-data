@@ -32,8 +32,9 @@
                 認明 <!-- 者? -->  <!-- 牌? --><lb/>
                 永不吃虧<lb/>
             </p>
-            <div type="image" itemid="410"/>
-            <div type="image" itemid="411"/>
+            <!--  see #128       -->
+            <!--<div type="image" itemid="410"/>
+            <div type="image" itemid="411"/>-->
             <p mode="horizontal-tb" dir="rtl">
                 金字塔香煙<lb/>
                 中國福新煙公司出品<lb/>
@@ -54,7 +55,7 @@
                 贛南高安發生激烈爭奪戰<lb/>
                 綏晉重要據點多處已收復<lb/>
             </p>
-            <div>
+            
                 <p>
                     （重慶廿日海通電）據此間所接消息、中國軍隊、反攻江西省之高安、異常奏<lb/>
                     效、已經發生激烈之爭奪戰、此外日軍最近佔領之南昌、現亦在華軍之完全包圍<lb/>
@@ -96,7 +97,7 @@
                     蒲路之臨汾一帶、<lb/>
                     作爲攻擊之根據、<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="article" itemid="274">
             <p>
@@ -106,7 +107,7 @@
             <p>
                 粵<lb/>
             </p>
-            <div>
+            
                 <p>
                     在閱讀國際新聞<lb/>
                     的時候、有時因地<lb/>
@@ -152,16 +153,16 @@
                     事的興味與輔助國<lb/>
                     際時事的研究、<lb/>
                 </p>
-            </div>
-            <div type="image" itemid="412"/>
+            <!--  see #128       -->
+<!--            <div type="image" itemid="412"/>-->
         </div>
-        <div type="article" itemid="275">&gt;
+        <div type="article" itemid="275">
             <p>
                 地中海<lb/>
                 的海軍<lb/>
                 根據地<lb/>
             </p>
-            <div>
+            
                 <p>
                     地中海<lb/>
                     直布羅陀<lb/>
@@ -196,7 +197,7 @@
                     運河橫貫<lb/>
                     地中海、<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="article" itemid="281">
             <p>
@@ -204,7 +205,7 @@
                 中國現决不談和<lb/>
                 英當局亦聲明未提議調解事<lb/>
             </p>
-            <div>
+            
                 <p>
                     （重慶廿日海通電）此間中國報章、對於歐局、現均極表<lb/>
                     重視、尤其着重歐洲局勢、對於中國之影響、一般評論之中<lb/>
@@ -222,14 +223,14 @@
                     （倫敦廿日路透電）英當局茲聲明、日本報紙所載、英國<lb/>
                     已提供調解中日戰爭之說、絕對不確、<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="article" itemid="47248">
             <p mode="horizontal-tb" dir="rtl">
                 國府明令<lb/>
                 褒揚吳梅<lb/>
             </p>
-            <div>
+            
                 <p>
                     （重慶廿<lb/>
                     日電）國<lb/>
@@ -239,14 +240,14 @@
                     教授吳梅、並特給<lb/>
                     卹金三千元、<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="article" itemid="277">
             <p>
                 開封城緊閉<lb/>
                 日僞鈔大跌<lb/>
             </p>
-            <div>
+            
                 <p>
                     （洛陽廿日電）<lb/>
                     開封日軍、實施戒<lb/>
@@ -263,13 +264,13 @@
                     國法幣、又暢行異<lb/>
                     常、<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="article" itemid="278">
             <p>
                 牯嶺未失陷<lb/>
             </p>
-            <div>
+            
                 <p>
                     （重慶廿日路透<lb/>
                     電）據華方消息、<lb/>
@@ -281,13 +282,13 @@
                     進攻、該處戰事刻<lb/>
                     在進行中、<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="article" itemid="279">
             <p>
                 桂施政計劃<lb/>
             </p>
-            <div>
+            
                 <p>
                     （桂林廿日電）<lb/>
                     桂省府頃制定廿八<lb/>
@@ -302,7 +303,7 @@
                     、充分發揮自衞效<lb/>
                     能、<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="article" itemid="280">
             <p mode="horizontal-tb" dir="rtl">
@@ -313,7 +314,7 @@
                 華軍甚得手<lb/>
                 戰局已轉入主動<lb/>
             </p>
-            <div>
+            
                 <p>
                     （香港廿日電）據接蘇北方<lb/>
                     面軍息、蘇北華軍、已展開總<lb/>
@@ -324,13 +325,13 @@
                     、現蘇北整個戰局、華軍已轉入主動地<lb/>
                     位、<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="advert" itemid="446"> 
             <p>
                 本報復刊小啓<lb/>
             </p>
-            <div>
+            
                 <p>
                     本報自四月一日起，<lb/>
                     由美商A.L.Teodoro君<lb/>
@@ -350,13 +351,13 @@
                     ，此其二。謹布區區，<lb/>
                     諸希明鑒。<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="article" itemid="282">
             <p>
                 綏包車不通<lb/>
             </p>
-            <div>
+            
                 <p>
                     （五原十九日電<lb/>
                     （綏遠華自衞軍、<lb/>
@@ -366,14 +367,14 @@
                     破壞多處、綏包車<lb/>
                     現已不能通行、<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="article" itemid="283">
             <p>
                 魯豫皖邊區<lb/>
                 日軍受襲擊<lb/>
             </p>
-            <div>
+            
                 <p>
                     （棗陽廿日電）<lb/>
                     華軍某部，於本月<lb/>
@@ -384,14 +385,14 @@
                     百餘人、日軍聯隊<lb/>
                     長一名、<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="article" itemid="284">
             <p>
                 同蒲路華軍<lb/>
                 向臨汾推進<lb/>
             </p>
-            <div>
+            
                 <p>
                     （興集廿日電）<lb/>
                     同蒲西側華軍、呼<lb/>
@@ -404,14 +405,14 @@
                     稷山新稷山間、交<lb/>
                     通全截斷、<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="article" itemid="285">
             <p>
                 德羅談話<lb/>
                 羅提供保證<lb/>
             </p>
-            <div>
+            
                 <p>
                    （柏林廿日海通<lb/>
                    社通）關於羅馬尼<lb/>
@@ -423,7 +424,7 @@
                    尼亞當不參加任何<lb/>
                    包圍德國之集團、<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="margin">
                本報忠實報道新聞說人人要說的話文字淺近趣味濃厚是最平民化的刊物<pb/>
@@ -444,7 +445,7 @@
                 被捕市民昨日均已釋放<lb/>
                 關於以後自由懸旗一節靜待解决<lb/>
             </p>
-            <div>
+            
                 <p>
                     上海市商會及法租界納稅華人會、爲勸導法租界商店復業、於昨晨<lb/>
                     、分別發出緊急通吿云、（一）市商會、「中法邦交素稱敦睦、此次<lb/>
@@ -455,11 +456,11 @@
                     態擴大、而利進行、⋯⋯⋯⋯⋯」、法租界商民、經此兩會之勸吿後、今晨可望<lb/>
                     全部復業云、<lb/>
                 </p>
-            </div>
+            
             <p>
                 交涉經過<lb/>
             </p>
-            <div>
+            
                 <p>
                     法租界納稅華人會、<lb/>
                     昨推代表瞿振華等交<lb/>
@@ -477,11 +478,11 @@
                     由懸旗勿加干涉一節、因不在捕房權力<lb/>
                     範圍之內、應直接向法總領事提出要求<lb/>
                 </p>
-            </div>
+            
             <p>
                 釋放經過<lb/>
             </p>
-            <div>
+            
                 <p>
                     市民之被捕者、共達<lb/>
                     四十餘人、受傷者因<lb/>
@@ -499,11 +500,11 @@
                     亦卽照常營業、又黃金大戲院執照被吊<lb/>
                     銷後、聞亦發還、定卽日起照常營業云<lb/>
                 </p>
-            </div>
+            
             <p>
                 法報記載<lb/>
             </p>
-            <div>
+            
                 <p>
                     廿日法文日報載、據<lb/>
                     法方消息、昨日法租<lb/>
@@ -515,14 +516,14 @@
                     捕房特發有命令惟遇有國慶日而懸旗者<lb/>
                     、則不在禁例云、<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="article" itemid="313">
             <p>
                 河內<lb/>
                 航郵已通<lb/>
             </p>
-            <div>
+            
                 <p>
                     法國航空公司之<lb/>
                     河內至香港航空線<lb/>
@@ -550,13 +551,13 @@
                     遞之航空郵件、均<lb/>
                     可通邃、<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="article" itemid="314">
             <p>
                 外交界動態<lb/>
             </p>
-            <div>
+            
                 <p>
                     法租界環龍路法<lb/>
                     國總會董事團及全<lb/>
@@ -581,14 +582,14 @@
                     及法僑、以表吿別<lb/>
                     云、<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="article" itemid="315">
             <p mode="horizontal-tb" dir="rtl">
                 本市精神總動員會<lb/>
                 昨奉張群來電嘉勉<lb/>
             </p>
-            <div>
+            
                 <p>
                     本市各界國民精神總動員會協會、於本<lb/>
                     年三月二十二日、正式成立後、卽電呈<lb/>
@@ -608,14 +609,14 @@
                     努力、奉行不懈、是所原望、張羣叩<lb/>
                     巧印、<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="article" itemid="316">
             <p>
                 西北金融網<lb/>
                 已完成<lb/>
             </p>
-            <div>
+            
                 <p>
                     中國銀行、爲調<lb/>
                     劑西北金融、以應<lb/>
@@ -643,7 +644,7 @@
                     加後方生產、充實<lb/>
                     抗戰力量云、<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="article" itemid="317">
             <p>
@@ -692,17 +693,17 @@
                 應有懸國旗之自由<lb/>
                 謝晉元團長昨發吿同胞書<lb/>
             </p>
-            <div>
+            
                 <p>
                     四行孤軍團長謝晉元、昨<lb/>
                     發出爲取締懸掛國旗敬吿同<lb/>
                     胞書、大要如下、<lb/>
                 </p>
-            </div>
+            
             <p>
                 查<lb/>
             </p>
-            <div>
+           
                 <p>
                     昨日爲上海市農工商<lb/>
                     各界響應國民政府精<lb/>
@@ -737,14 +738,14 @@
                     、硬幹、苦幹、實幹之精神<lb/>
                     負責、盡責、望共勉之、<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="article" itemid="319">
             <p>
                 公共租界<lb/>
                 日捕加薪<lb/>
             </p>
-            <div>
+           
                 <p>
                     與西捕同待遇二十<lb/>
                     日法文上海日報載<lb/>
@@ -768,14 +769,14 @@
                     可升級爲第一等捕<lb/>
                     頭云、<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="article" itemid="320">
             <p>
                 江海關對外貿易<lb/>
                 第一季統計<lb/>
             </p>
-            <div>
+            
                 <p>
                     自中國政府、管<lb/>
                     理對外貿易、促進<lb/>
@@ -796,14 +797,14 @@
                     六萬七千九百九十<lb/>
                     二元、<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="article" itemid="321">
             <p>
                 淪陷區公產<lb/>
                 傳「維新政府」有接收說<lb/>
             </p>
-            <div>
+            
                 <p>
                     廿日法文上海日報載、據日方<lb/>
                     消息、南京「維新政府」、擬「接<lb/>
@@ -813,7 +814,7 @@
                     政府」、現擬在各江岸、建築碼頭<lb/>
                     、以利「航運」云、<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="article" itemid="322">
             <p>
@@ -832,7 +833,7 @@
             <p>
                 陰兵們到了一重天<lb/>
             </p>
-            <div>
+            
                 <p>
                     旁邊一個年紀大一點的，陪笑說：陰兵們到了一重天把什麼<lb/>
                     都已經弄得很亂了。他們的食糧，是他們從地獄裏帶來的。<lb/>
@@ -844,7 +845,7 @@
                     中什物，有限得很，他們人又多，因此已覺不够，所以看見<lb/>
                     這裏有許多老樹，就叫我們來截掉，借他們去炊飯了。<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="advert" itemid="590">
             <p mode="horizontal-tb" dir="rtl">
@@ -878,29 +879,34 @@
             <p>
                 標<lb/>
             </p>
-            <div type="image" itemid="416"/>
+            <!--  see #128       -->
+<!--            <div type="image" itemid="416"/>-->
             <p mode="horizontal-tb" dir="rtl">
                 大喜<lb/>
             </p>
             <p>
                 套鞋<lb/>
             </p>
-            <div type="image"/>
+            <!--  see #128       -->
+<!--            <div type="image"/>-->
             <p>
                 回<lb/>
                 力<lb/>
                 商<lb/>
                 標<lb/>
             </p>
-            <div type="image"/>
+            <!--  see #128       -->
+<!--            <div type="image"/>-->
             <p mode="horizontal-tb" dir="rtl">
                 籃球鞋<lb/>
             </p>
-            <div type="image"/>
+            <!--  see #128       -->
+<!--            <div type="image"/>-->
             <p mode="horizontal-tb" dir="ltr">
                 萬里鞋<lb/>
             </p>
-            <div type="image"/>
+            <!--  see #128       -->
+<!--            <div type="image"/>-->
             <p mode="horizontal-tb" dir="rtl">
                 上海正泰信記橡膠廠出品<lb/>
             </p>
@@ -931,11 +937,13 @@
             <p mode="horizontal-tb" dir="rtl">
                 發行<lb/>
             </p>
-            <div type="image" itemid="417"/>
+            <!--  see #128       -->
+<!--            <div type="image" itemid="417"/>-->
             <p>
                 分片露<lb/>
             </p>
-            <div type="image" itemid="418"/>
+            <!--  see #128       -->
+<!--            <div type="image" itemid="418"/>-->
         </div>
         <div type="advert" itemid="458">
                本報具有廿一年的歷史是小型報紙鼻祖銷路普遍全國刊登廣吿最有效力<pb/>

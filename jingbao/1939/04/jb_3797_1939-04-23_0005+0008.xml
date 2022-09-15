@@ -12,10 +12,12 @@
 			<p dir="rtl" mode="horizontal-tb">
 				 文化營<lb/>
 			</p>
-			<div type="image"/>
+		    <!-- see #128 -->
+<!--			<div type="image"/>-->
 			<p dir="rtl" mode="horizontal-tb">
 				 黔野主編<lb/>
 			</p>
+		</div>
 		<div type="article">
 			<p>
 				  詩經話繹<lb/>
@@ -23,7 +25,7 @@
 			<p>
 				  如鐘<lb/>
 			</p>
-			<div>
+			
 					<p>
                                     三　摽有梅（召南）<lb/>
                                     採梅採梅須及時，<lb/>
@@ -72,8 +74,8 @@
 						之；求我庶士，迨<lb/>
 						其謂之。<lb/>
 					</p>
-			</div>
-		</div>
+
+		
 		</div>
 		<div type="article">
 			<p>
@@ -82,7 +84,7 @@
 			<p>
 				  唐潢虎<lb/>
 			</p>
-			<div>
+			
 			      <p>
                             古時天子只是諸侯之上的一級，諸侯之於天子，猶大夫之於諸侯，而大夫之於<lb/>
                             天子中間隔了諸侯一階級，所以只是間接服從。這原是封建制度枝葉相維之意。<lb/>
@@ -112,7 +114,7 @@
                             這種層壘式的服從脫胎於封建，而封建却脫胎於部落。自漢以後，因思想的變<lb/>
                             遷，天子之權日重，遂併此封建的代替品也取消了。<lb/>
 			      </p>
-			</div>
+			
 		</div>
 		<div type="article">
 			<p>
@@ -131,7 +133,7 @@
 			<p>
                          領導中國抗戰的人<lb/>
 			</p>
-			<div>
+			
                           <p>
                                蔣氏在西安蒙難<lb/>
                                時，她託她兄長帶<lb/>
@@ -202,19 +204,19 @@
                                他在一九三八年最<lb/>
                                重要廣播演說題。<lb/>
                          </p>
-			</div>
+			
 		</div>
 		<div type="article">
 			<p>
 				動物的叛變　　（一）<lb/>
 			</p>
-		      <div>
+		     
 		      	  <p>
                                『打倒人類！他們獵殺我們，奴役<lb/>
                                我們，並且拿我們當作食物……』<lb/>
 		      	  </p>
-			</div>
-			<div type="image"/>
+        <!--	see #128		-->
+        <!--   <div type="image"/> -->
 		</div>
 		<div type="article">
 			<p>
@@ -224,7 +226,7 @@
                         賽珍珠女士作<lb/>
                         諍　諍　譯<lb/>
 			</p>
-			<div>
+			
                           <p>
                               那獄吏就是在這<lb/>
                               個時候趕進來的。<lb/>
@@ -286,13 +288,13 @@
                               『我也是，』一<lb/>
                                寰自認道。<lb/>
                           </p>
-			</div>
+			
 		</div>
 		<div type="article">
 			<p>
 				每日國際政治測驗<lb/>
 			</p>
-			<div>
+		
                           <p>
                                （五）在去年十一月的『暴動』德<lb/>
                                國的猶太人由政府加以處罰：<lb/>
@@ -338,7 +340,7 @@
                                五、將地中海變爲一個義大利湖<lb/>
                                。<lb/>
                           </p>
-                  </div>
+                  
                   <p>
                          （昨日答案：三，二，）<lb/>
                   </p>
@@ -348,7 +350,8 @@
 				袁寒雲先生手寫<lb/>
 				丁卯日記之三<lb/>
 			</p>
-			<div type="image">
+<!--	see #128	    -->
+<!--			<div type="image">-->
 				<!--<p>
 				光明社所演黑海盜乃范朋克最近傑作也<lb/>
 				初六日&gaiji;秋來譚敍今覺書<lb/>
@@ -361,7 +364,7 @@
 				東海有神仙&gaiji;爲裁八尺金&gaiji;書一壽字&gaiji;<lb/>
 				今覺書<lb/>
 				</p>-->
-			</div>
+			<!--</div>-->
 		</div>
 		<div type="advert" dir="rtl" mode="vertical-rl">
 			<p dir="rtl" mode="horizontal-tb">
@@ -455,11 +458,11 @@
 			<p mode="horizontal-tb" dir="rtl">
 				趙廉．田豐合輯<lb/>
 			</p>
-			<div>
+			
 				<p>
 					悲歡離合<lb/>
 				</p>
-				<div>
+				
                                 <p>
                                      俞佩珊在四川與王爲一結婚了，<lb/>
                                      俞佩珊本與吳曉邦相繾綣的，吳曉<lb/>
@@ -481,15 +484,15 @@
                                      寇爾大使之秘書，這一對在離異後<lb/>
                                      各有成就。　（能）<lb/>
                                 </p>
-				</div>
-			</div>
+				
+			
 		</div>
 		<div type="article">
 			<p>
                         上海究竟有幾個電影公司<lb/>
                         他們的大槪情形怎麼樣？<lb/>
 			</p>
-			<div>
+			
                           <p>
                               現在究竟有幾個<lb/>
                               電影公司在上海，<lb/>
@@ -599,8 +602,8 @@
                                担任。定五月中開<lb/>
                                拍。（趙廉）<lb/>
                           </p>
-			</div>
-			<div type="image"/>
+<!--	see #128		-->
+<!--			<div type="image"/>-->
 			<p>
                          陳燕燕（琵琶記主角）<lb/>
 			</p>
@@ -610,7 +613,7 @@
 				王吉亭<lb/>
 				母喪<lb/>
 			</p>
-			<div>
+			
                           <p>
                                王吉亭從業電<lb/>
                                影界十多年，在<lb/>
@@ -656,13 +659,13 @@
                                這樣的草草成殮了<lb/>
                                。　（末將）<lb/>
                           </p>
-			</div>
+			
 		</div>
 		<div type="article">
 			<p>
 				馬陋芬由港來滬<lb/>
 			</p>
-			<div>
+			
                           <p>
                                上海電影事業日趨繁榮，因戰事向外<lb/>
                                埠進發之電影從業員已有大批返滬，王<lb/>
@@ -671,7 +674,7 @@
                                的意思是打算加入新華，現下還未曾定<lb/>
                                奪。（壯士）<lb/>
                           </p>
-			</div>
+			
 		</div>
 		<div type="advert">
 			<p mode="horizontal-tb" dir="rtl">
@@ -720,7 +723,8 @@
 			<p mode="horizontal-tb" dir="rtl">
                         永保健康<lb/>
 			</p>
-			<div type="image"/>
+		    <!--	see #128		-->
+<!--			<div type="image"/>-->
 			<p>
                         降火消積<lb/>
                         淸血潤腸<lb/>
@@ -926,12 +930,14 @@
 			</p>
 		</div>
 		<div type="advert">
-			<div type="image"/>
+		    <!--	see #128		-->
+<!--			<div type="image"/>-->
 			<p mode="horizontal-tb" dir="rtl">
                         一滴清<lb/>
 				眼薬水<lb/>
 			</p>
-			<div type="image"/>
+		    <!--	see #128		-->
+<!--			<div type="image"/>-->
 			<p>
                         統治<lb/>
                         目疾<lb/>
@@ -940,7 +946,8 @@
                         一滴<lb/>
                         見功<lb/>
 			</p>
-                  <div type="image"/>
+		    <!--	see #128		-->
+<!--                  <div type="image"/>-->
                   <p>
                         ◇一滴淸眼藥水主治之眼病◇<lb/>
 			</p>
@@ -970,7 +977,8 @@
 			<p>
                         新華藥行發行<lb/>
 			</p>
-			<div type="image"/>
+		    <!--	see #128		-->
+<!--			<div type="image"/>-->
 			<p>
                         認明<lb/>
                         商標<lb/>

@@ -11,14 +11,13 @@
 		    <p dir="rtl" mode="horizontal-tb">
 		    	文化營<lb/>
 		    </p>
-		    <div type="image">
-		    	
-		    </div>
-			<div>
+<!--	see #128		-->
+<!--		    <div type="image"></div>-->
+			
 				<p dir="rtl" mode="horizontal-tb">
 					黔野主編<lb/>
 				</p>
-				<div>
+				
 					<p>
 						詩經話繹　（如鐘）<lb/>
 					</p>
@@ -68,13 +67,13 @@
 						充耳以黃乎而，尚<lb/>
 						之以瓊英乎而。<lb/>
 					</p>
-				</div>	
-			</div>
+					
+			
 		</div> 
 		<div type="article">
 			<p>相見禮　<lb/></p>	
 			<p>（唐潢虎）<lb/></p>
-			<div>
+			
 			<p>			
 				自從叔孫通定了朝儀之後，漢高祖始知天子之貴，然而漢朝的皇帝實在遠不<lb/>
 				似後世的尊嚴。漢朝最重宰相，天子至於在座爲起，在輿爲下，就是宰相以下的<lb/>
@@ -100,7 +99,7 @@
 				可得用小費，太監才吿訴你，岑春煊不肯出錢，把頭碰得起塊，還沒有響），士<lb/>
 				大夫的醜態，至此而極，便也是君主專制的末運了。<lb/>
 			</p>
-			</div>
+			
 		</div>
 		<div type="article">
 			<p>
@@ -114,7 +113,7 @@
 			<p>（二）<lb/></p>
 			<p>領導中國抗戰的人<lb/>
 			</p>
-			<div>
+			
 			<p>
 				一九〇九年在日<lb/>
 				本遇見總理孫逸仙<lb/>
@@ -320,7 +319,7 @@
 				意，或斷章取義<lb/>
 				爲幸。<lb/>
 			</p>
-			</div>
+			
 		</div>
 		<div type="article">
 			<p>
@@ -333,7 +332,7 @@
 			<p>
 				二　一件小事<lb/>
 			</p>
-			<div>
+			
 			<p>
 				他之所以被稱呼<lb/>
 				爲吳將軍者，一則<lb/>
@@ -470,7 +469,7 @@
 				這件好一點的袍子<lb/>
 				，』一寰答道。<lb/>
 			</p>
-			</div>
+			
 		</div>
 		<div type="article">
 			<p>
@@ -503,7 +502,8 @@
 				袁寒雲先生手寫<lb/>
 				丁卯日記之二<lb/>
 			</p>
-			<div type="image">
+			<!--	see #128		-->
+			<!--<div type="image">-->
 				<!-- 輕度黃昏任凮𠕒江樓百尺鏡鸞且共温存𦝫<lb/>
 					圍料應柔減正歌敎珠落舞並𥞌屯鳳𧙏鴛<lb/>
 			    	釵今宵何處多少緒疊離痕禁寒知否人憔悴<lb/>
@@ -514,7 +514,7 @@
 					然自濟南来䙷桐𣶒書<lb/>
 					初𠄡日煥然来託敎畣桐𣶒書夕邀之竝偕六<lb/>
 					良及睂雲十妹初觀嘏彰騮三兒觀影劇于<lb/> -->
-			</div>
+			<!--</div>-->
 		</div>
     	<div type="margin">
     		本報具有二十年的歷史是小型報紙鼻祖銷路普遍全國刊登廣吿最有效力<pb/>	
@@ -528,9 +528,9 @@
 			<p>
 				影城<lb/>	
 			</p>			
-			
-			<div type="image">
-			</div>
+			<!--	see #128		-->
+<!--			<div type="image">-->
+			<!--</div>-->
 			<p dir="rtl" mode="horizontal-tb">
 				趙廉。田豐合輯<lb/>
 			</p>
@@ -673,7 +673,7 @@
 		    <p>
 		    	王引當導演了<lb/>
 		    </p>
-	              <div>
+	              
 			<p>
 				電影演員當導演<lb/>
 				，以前有王元龍與<lb/>
@@ -705,14 +705,14 @@
 				荒，王引實多此一<lb/>
 				舉。（壯士）<lb/>
 			</p>
-	              </div>
+	              
 		</div>
 		<div type="article">
 			<p dir="rtl" mode="horizontal-tb">
 				好萊塢影星<lb/>
 				擇偶條件<lb/>
 			</p>
-			<div>
+			
 				<p>
 					有個法國記者曾特地往<lb/>
 					好萊塢去徵詢當地男女星<lb/>
@@ -791,19 +791,18 @@
 					們認爲最無味的東<lb/>
 					西。<lb/>
 				</p>
-			</div>
+			
 		</div>
 		<div type="advert">
-			<div type="image">
-				
-			</div>
+			<!--	see #128		-->
+<!--			<div type="image">				-->
+			<!--</div>-->
 			<p dir="ltr" mode="horizontal-tb">
 				雙妹牌<lb/>
 				生髮油<lb/>
 			</p>
-			<div type="image">
-				
-			</div>
+<!--			<div type="image">				-->
+			<!--</div>-->
 			<p>
 				用生髮油<lb/>
 				自覺頭上<lb/>
@@ -820,7 +819,7 @@
 		    	己卯正月重訂<lb/>
 		    	別號兼巢時年七十有八<lb/>
 	     	          </p>
-			<div>
+			
 			<p>
 				己卯元日戲賦<lb/>
 				孼由自作罰由天寒士窮途復暮年賣賦傭書俱有例評量能値幾文<lb/>
@@ -978,7 +977,7 @@
 			<p>
 				等謹代訂<lb/>
 			</p>
-			</div>
+			
 		</div>
 		<div type="margin">
 			本報忠實報道新聞說人人要說的話文字淺近趣味濃厚是最平民化的物刊<pb/>	
@@ -1009,14 +1008,16 @@
 			</p>
 		</div>
 		<div type="advert">
-			<div type="image">
-				
-			</div>
+			<!--	see #128		-->
+<!--			<div type="image">	-->
+			<!--</div>-->
 			<p dir="rtl" mode="horizontal-tb">
 				一滴淸<lb/>
         眼薬水<lb/>
 			</p>
-			<div type="image">
+			<!--	see #128		-->
+			<!--	an image that is all text and has an image inside of it?!?		-->
+			<!--<div type="image">-->
 				<p>
 					統治<lb/>
 					目疾<lb/>
@@ -1028,7 +1029,7 @@
 				<p>
 					◇一滴淸眼藥水主治之眼病◇<lb/>
 				</p>
-				<div>
+				
 					<p>
 						砂眼赤眼<lb/>
 						羞明畏光<lb/>
@@ -1055,10 +1056,9 @@
 					<p>
 						新華藥行發行<lb/>
 					</p>
-				</div>
-				<div type="image">
-					
-				</div>
+				<!--	see #128		-->
+<!--				<div type="image">-->
+				<!--</div>-->
 				<p>
 					認明<lb/>
 					商標<lb/>
@@ -1067,7 +1067,7 @@
 					新華大薬行監製<lb/>
 					上海江西路十號<lb/>
 				</p>
-			</div>
+			<!--</div>-->
 		</div>
 	</div>
 </fold>

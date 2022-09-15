@@ -12,7 +12,8 @@
 		    <p dir="rtl" mode="horizontal-tb">
 		    	文化營<lb/>
 		    </p>
-		    <div type="image"/>
+			<!--      see #128      -->
+<!--		    <div type="image"/>-->
 			<p dir="rtl" mode="horizontal-tb">
 				黔野主編<lb/>
 			</p>
@@ -21,7 +22,7 @@
 			<p>
 				兩種傳說　（上）　潢虎<lb/>
 			</p>
-			<div>
+			
 			<p>
 				元明之際頗有一種傳說，說元順帝是宋朝末主恭帝㬎的兒子。據庚申君遺事等<lb/>
 				書，說恭帝降元之後封爲瀛國公，元世祖把一位女兒嫁給他。有一夜世祖作一個<lb/>
@@ -43,7 +44,7 @@
 				廟，文宗皇后東安州安置。雖是這樣的雷厲風行，却對於『明宗在日，自謂非其<lb/>
 				子』一語，也無所說明，而順帝爲宋後之說也人言藉藉了。<lb/>
 			</p>
-			</div>
+			
 		</div>
 		<div type="article">
 			<p>
@@ -55,7 +56,7 @@
 			</p>
 			<p>	新加坡的威力<lb/></p>
 			<p>（二）<lb/></p>
-	       	<div>
+	       	
 			<p>
 				海軍根據地在塞<lb/>
 				利太島的北岸，離<lb/>
@@ -139,7 +140,7 @@
 				試驗證明它可容水<lb/>
 				六千八百萬加侖。<lb/>
 			</p>	       	
-	       	</div>
+	       	
 		</div>
 		<div type="article">
 			<div>
@@ -157,7 +158,7 @@
 				詩經話繹　如鐘<lb/>
 				六　將仲子　（鄭風）<lb/>
 			</p>
-			<div>
+			
 			<p>
 				姐兒開口叫聲將<lb/>
 				仲子，<lb/>
@@ -216,7 +217,7 @@
 				。仲可懷也，人之<lb/>
 				多言，亦可畏也。<lb/>
 			</p>
-			</div>
+			
 		</div>
 		<div type="article">
 			<p>
@@ -226,7 +227,7 @@
 				賽珍珠女士作<lb/>	
 				諍　諍　譯<lb/>			
 			</p>
-	       	<div>				
+	       			
 	      	<p>三　革命黨員<lb/></p>		
 			<p>
 				『少爺，』獄吏<lb/>
@@ -297,7 +298,7 @@
 				專門刼富濟貧，看<lb/>
 				了心上痛快。<lb/>
 			</p>
-		      </div>
+		      
 		</div>
 		<div type="article">
 			<p>
@@ -320,7 +321,8 @@
 				袁寒雲先生手寫<lb/>
 				丁卯日記之六<lb/>
 			</p>
-			<div type="image">
+			<!--      see #128      -->
+<!--			<div type="image">-->
 				<!-->
 					識也㫺名林媛：擅歌亂彈今顦顇蕭條无復<lb/>
 					當年矣<lb/>			
@@ -334,7 +336,7 @@
 					二十一日敎意蘐電吿以行期爲金鈴𦤺語曰金難<lb/>
 					買笑玉㪅生𥞌比湖上幽蓮湖邊明月　鈴𠊳護<lb/>
 				<-->
-			</div>
+			<!--</div>-->
 		</div>		
 		<div type="advert" dir="rtl" mode="vertical-rl">
 			<p dir="rtl" mode="horizontal-tb">
@@ -373,7 +375,7 @@
 				樂隊會集<lb/>
 				世界佳曲<lb/>
 			</p>
-			<div>
+		
 				<p dir="rtl" mode="horizontal-tb">
 					天天茶舞<lb/>
 				</p>
@@ -385,8 +387,8 @@
 					淸紅<lb/>
 					香茗<lb/>
 				</p>
-			</div>
-			<div>
+			
+		
 				<p>
 					地址<lb/>
 					愛多<lb/>
@@ -397,7 +399,7 @@
 				<p dir="rtl" mode="horizontal-tb">
 					電話八一三八一號<lb/>
 				</p>					
-			</div>
+			
 		</div>
 		<div type="advert">
 			<p dir="rtl" mode="horizontal-tb">
@@ -556,8 +558,9 @@
 			<p>
 				一致公認頗有希望之影星－李紅<lb/>
 			</p>
-		<div>				
-		</div>
+<!--	TODO(DP) @xiejia check if this is supposed to be an image delet other wise		-->
+<!--		<div>				
+		</div>-->
 	</div>
 		<div type="article">
 			<p>
@@ -622,9 +625,9 @@
 			<p dir="rtl" mode="horizontal-tb">
 				中國廣生行出品<lb/>
 			</p>
-			<div type="image">
-				
-			</div>
+			<!--      see #128      -->
+<!--			<div type="image">		-->
+			<!--</div>-->
 			<p dir="rtl" mode="horizontal-tb">
 				雙妹牌<lb/>
 				生髮油<lb/>
@@ -634,9 +637,9 @@
 				送禮自用<lb/>
 				并皆曼妙<lb/>
 			</p>
-			<div type="image">
-				
-			</div>
+			<!--      see #128      -->
+<!--			<div type="image">-->
+			<!--</div>-->
 		</div>
 		<div type="advert">
 			<p>
@@ -833,15 +836,16 @@
 			</p>
 		</div>
 		<div type="advert">
-			<div type="image">
-				
-			</div>
+			<!--      see #128      -->
+<!--			<div type="image">-->
+			<!--</div>-->
 			<p dir="rtl" mode="horizontal-tb">
 				一滴淸<lb/>
 				眼藥水<lb/>
 			</p>
-			<div type="image">
-			</div>
+			<!--      see #128      -->
+<!--			<div type="image">-->
+			<!--</div>-->
 				<p>
 					統治<lb/>
 					目疾<lb/>
@@ -853,7 +857,7 @@
 				<p>
 					◇一滴淸眼藥水主治之眼病◇<lb/>
 				</p>
-				<div>
+				
 					<p>
 						砂眼赤眼　瘙癢多脂<lb/>
 						羞明畏光　迎風流淚<lb/>
@@ -874,10 +878,9 @@
 					<p>
 						新華藥行發行<lb/>
 					</p>
-				</div>
-				<div type="image">
-					
-				</div>
+			<!--      see #128      -->
+<!--				<div type="image">-->
+				<!--</div>-->
 				<p>
 					認明<lb/>
 					商標<lb/>

@@ -11,9 +11,8 @@
 		    <p dir="rtl" mode="horizontal-tb">
 		    	文化營<lb/>
 		    </p>
-		    <div type="image">
-		    	
-		    </div>
+			<!--	see #128		-->
+<!--		    <div type="image"></div>-->
 			<p dir="rtl" mode="horizontal-tb">
 				黔野主編<lb/>
 			</p>
@@ -22,7 +21,7 @@
 			<p>
 				新軒渠錄　不凡<lb/>
 			</p>
-			<div>
+			
 			<p>
 				老虎<lb/>
 			</p>
@@ -55,7 +54,7 @@
 				道。但是我們能够<lb/>
 				證明這一點嗎」？<lb/>
 			</p>
-			</div>
+			
 		</div>
 		<div type="article">
 			<p>
@@ -106,7 +105,7 @@
 			<p>
 				新加坡的威力　（六）<lb/>
 			</p>
-			<div>
+		
 			<p>
 				新加坡的最大優<lb/>
 				點是它的地位，它<lb/>
@@ -181,7 +180,7 @@
 				概正在期待這一天<lb/>
 				的來臨了。<lb/>
 			</p>
-			</div>
+			
 		</div>
 		<div type="article">
 			<p>				
@@ -206,7 +205,7 @@
 			<p>
 				六　你是我的孫子<lb/>
 			</p>
-			<div>
+		
 				<p>
 				他本想拒不要<lb/>
 				，可是他一看見那<lb/>
@@ -361,14 +360,15 @@
 				。他一看見這個樣<lb/>
 				子就把門碰上了。<lb/>
 			</p>			
-		</div>
+		
 		</div>
 		<div type="other">
 			<p dir="rtl" mode="horizontal-tb">
 				袁寒雲先生手寫<lb/>
 				丁卯日記之十<lb/>
 			</p>
-			<div type="image">
+			<!--	see #128		-->
+<!--			<div type="image"> -->
 				<!-->雨濕簾攏對酒幾沉吟正眼波輕掠眉痕淺映<lb/>
 				已自昏深但是無言把手相對縱淸斟莫&gaiji;傷<lb/>
 				&gaiji;&gaiji;且共登臨　我欲江頭留滯漸沾泥團絮此<lb/>
@@ -379,7 +379,7 @@
 				邀聖婉&gaiji;竟夕&gaiji;<lb/>
 				初六日雨邀元美燕翼林屋讌集素&gaiji;空歸<lb/>
 				寓爲聖婉書屏三幀卽錄八聲甘州詞<lb/><-->
-			</div>
+			<!--</div>-->
 		</div>		
 		<div type="advert" dir="rtl" mode="vertical-rl">
 			<p dir="rtl" mode="horizontal-tb">
@@ -418,7 +418,7 @@
 				樂隊會集<lb/>
 				世界佳曲<lb/>
 			</p>
-			<div>
+			
 				<p dir="rtl" mode="horizontal-tb">
 					天天茶舞<lb/>
 				</p>
@@ -430,8 +430,8 @@
 					淸紅<lb/>
 					香茗<lb/>
 				</p>
-			</div>
-			<div>
+			
+			
 				<p>
 					地址<lb/>
 					愛多<lb/>
@@ -442,7 +442,7 @@
 				<p dir="rtl" mode="horizontal-tb">
 					電話八一三八一號<lb/>
 				</p>					
-			</div>
+			
 		</div>
 		<div type="advert">
 			<p dir="rtl" mode="horizontal-tb">
@@ -480,7 +480,7 @@
 				羅明佑著文<lb/>
 				稱譽陳雲裳<lb/>
 			</p>
-			<div>
+		
 			<p>
 				羅明佑在香港創辦眞光影片公司，專<lb/>
 				拍英語聲片，以溝通中英文化自承。第<lb/>
@@ -505,14 +505,14 @@
 				，立功「異域」，而將大有造於中國電<lb/>
 				影之復生也。」　（古林）<lb/>
 			</p>
-			</div>
+			
 		</div>
 		<div type="article">			
 			<p>
 				男主角無從物色<lb/>
 				文素臣開拍無期<lb/>
 			</p>
-			<div>
+			
 			<p>
 				舞台上的「文素<lb/>
 				臣」大賣銅鈿，於<lb/>
@@ -557,14 +557,14 @@
 				童來扮演呢。<lb/>
 				　　　（刀岡）<lb/>
 			</p>
-			</div>
+			
 		</div>
 		<div type="article">
 			<p>
 				嚴月嫻的一件往事<lb/>
 				與力球選手作弊<lb/>
 			</p>
-			<div>
+		
 			<p>
 				嚴月嫻二小姐爲<lb/>
 				銀國裏最歡喜交外<lb/>
@@ -622,13 +622,13 @@
 				賣號頭秘密也失了<lb/>
 				效力。　（探）<lb/>
 			</p>
-			</div>
+			
 		</div>
 		<div type="article">
 			<p dir="rtl" mode="horizontal-tb">
 				近事錄<lb/>
 			</p>
-			<div>
+		
 				<p>
 					新光大<lb/>
 					戯院之木<lb/>
@@ -692,7 +692,7 @@
 					外片中映期最長之<lb/>
 					一片。　（林火）<lb/>
 				</p>
-			</div>
+			
 		</div>
 		<div type="advert">
 			<p dir="rtl" mode="horizontal-tb">
@@ -700,9 +700,8 @@
 				中英菓子塩<lb/>
 				永保健康<lb/>
 			</p>
-			<div type="image">
-				
-			</div>
+			<!--	see #128		-->
+<!--			<div type="image"></div>-->
 			<p>
 				降火消積<lb/>
 				淸血潤腸<lb/>
@@ -721,9 +720,8 @@
 			<p dir="rtl" mode="horizontal-tb">
 				中國廣生行出品<lb/>
 			</p>
-			<div type="image">
-				
-			</div>
+			<!--	see #128		-->
+<!--			<div type="image"></div> -->
 			<p dir="rtl" mode="horizontal-tb">
 				雙妹牌<lb/>
 				生髮油<lb/>
@@ -733,12 +731,11 @@
 				送禮自用<lb/>
 				并皆曼妙<lb/>
 			</p>
-			<div type="image">
-				
-			</div>
+			<!--	see #128		-->
+<!--			<div type="image"></div> -->
 		</div>
 		<div type="advert">
-			<div>
+			
 				<p>
 					老協大祥<lb/>
 				</p>
@@ -760,7 +757,7 @@
 					盡有定價常年低廉一律足尺<lb/>
 					加三歡迎各界參觀比較<lb/>
 				</p>
-			</div>
+			
 			<p dir="rtl" mode="horizontal-tb">
 				▷總店◁<lb/>
 				小東門外大街<lb/>
@@ -775,7 +772,7 @@
 				梅邨<lb/>
 				專營<lb/>
 			</p>
-			<div>
+			
 				<p>
 					地址嵩山路二號<lb/>
 				</p>
@@ -787,8 +784,8 @@
 				<p>
 					滬光大戲院隔壁<lb/>
 				</p>
-			</div>
-			<div>
+			
+			
 				<p dir="rtl" mode="horizontal-tb">
 					業已開幕<lb/>
 				</p>
@@ -801,7 +798,7 @@
 					安娜竇萍<lb/>
 					照片一幀<lb/>
 				</p>
-			</div>
+			
 		</div>
 		<div type="advert">
 			<p dir="rtl" mode="horizontal-tb">
@@ -814,7 +811,7 @@
 			<p dir="rtl" mode="horizontal-tb">
 				熱水瓶桶罐廠<lb/>
 			</p>
-			<div>
+			
 				<p>
 					●各大公司均有出售●零躉批發●均極歡迎●<lb/>
 				</p>
@@ -850,7 +847,7 @@
 					過了廿四小時之後<lb/>
 					仍舊保持原有熱力<lb/>
 				</p>
-				<div>
+				
 					<p>
 						總製<lb/>
 						造廠<lb/>
@@ -864,7 +861,7 @@
 					<p>
 						八三一六一號總批發所<lb/>
 					</p>
-					<div>
+					
 						<p>
 							公共租界北京路盆<lb/>
 							湯弄西首<lb/>
@@ -872,9 +869,9 @@
 						<p>
 							電話九一一五五號<lb/>
 						</p>
-					</div>
-				</div>
-			</div>
+					
+				
+			
 		</div>
 		<div type="margin">
 			本報具有二十年的歷史是小型報紙鼻祖銷路普遍全國刊登廣吿最有效力<pb/>	
@@ -905,17 +902,15 @@
 			</p>
 		</div>
 		<div type="advert">
-			<div type="image">
-				
-			</div>
+			<!--	see #128		-->
+<!--			<div type="image"></div> -->
 			<p dir="rtl" mode="horizontal-tb">
 				一滴淸<lb/>
 				眼薬水<lb/>
 			</p>
-			<div type="image">
-				
-			</div>
-			<div>
+			<!--	see #128		-->
+<!--			<div type="image"></div> -->
+			
 				<p>
 					統治<lb/>
 					目疾<lb/>
@@ -927,7 +922,7 @@
 				<p>
 					⬨一滴淸眼藥水主治之眼病⬨<lb/>
 				</p>
-				<div>
+				
 					<p>
 						砂眼赤眼<lb/>
 						羞明畏光<lb/>
@@ -954,10 +949,8 @@
 					<p>
 						新華藥行發行<lb/>
 					</p>
-				</div>
-				<div type="image">
-					
-				</div>
+			<!--	see #128		-->
+<!--				<div type="image"></div> -->
 				<p>
 					認明<lb/>
 					商標<lb/>
@@ -966,7 +959,7 @@
 					新華大藥行監製<lb/>
 					上海江西路十號<lb/>
 				</p>
-			</div>
+			
 		</div>
 	</div>
 </fold>

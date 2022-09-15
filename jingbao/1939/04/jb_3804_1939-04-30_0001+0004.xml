@@ -61,7 +61,7 @@
 				連日南昌奉新兩地猛烈巷戰<lb/>
 				粉碎日軍卽向長沙進攻計劃<lb/>
 			</p>
-			<div>
+			
 			<p>
 				（重慶廿九日美聯社電）據中國軍方可靠人士稱、此次進攻南昌之眞價値、<lb/>
 				乃欲破壞日軍之卽進攻長沙之計劃、日軍爲欲集中實力再行進攻、尚須數月、此<lb/>
@@ -85,7 +85,7 @@
 				（東鄉廿九日電）日軍以蓮塘向塘兩據點被華軍圍攻甚急、廿七日有日軍千餘<lb/>
 				、沿浙贛路南下增援、企圖挽囘南昌厄運、刻此項增援日軍、亦在華軍圍攻中、<lb/>
 			</p>
-			</div>
+			
 		</div>
 		<div type="article">
 			<p>
@@ -93,7 +93,7 @@
 				擊落兩日機<lb/>			
 				飛晉南轟炸頗奏奇效<lb/>
 			</p>
-			<div>
+			
 			<p>
 				（垣曲廿九日電<lb/>
 				）在晉南激戰聲中<lb/>
@@ -122,7 +122,7 @@
 				兩架、其餘日機、<lb/>
 				狼狽逃竄、<lb/>
 			</p>
-			</div>
+			
 		</div>
 		<div type="article">
 			<p>
@@ -638,7 +638,7 @@
 				寧波市區被炸實錄<lb/>
 				昨晨日機又飛甬偵察<lb/>
 			</p>
-			<div>
+			
 				<p>
 				寗波於前日、爲日機五架、投彈十七枚後、昨<lb/>
 				日寗波旅滬同鄉會等團體、已接被炸詳情之電吿略<lb/>
@@ -677,7 +677,7 @@
 				並未投彈、以係偵察、至十<lb/>
 				二時、始解除警報、<lb/>
 			</p>
-			</div>
+			
 		</div>
 		<div type="article">
 			<p>
@@ -813,7 +813,7 @@
 				一來一去<lb/>
 				外交官動態<lb/>
 			</p>
-			<div>
+			
 				<p>
 					△德國駐滬領事<lb/>
 					費霖、偕同顧問諾<lb/>
@@ -834,7 +834,7 @@
 					决於今晚、偕同夫<lb/>
 					人離滬、<lb/>
 				</p>
-			</div>
+			
 		</div>
 		<div type="article">
 			<p dir="rtl" mode="horizontal-tb">
@@ -843,7 +843,7 @@
 			<p>			
 				妹妹我愛你　六　卓呆<lb/>
 			</p>
-			<div>
+		
 				<p>
 				「先到銀行！我下了車，<lb/>
 				再送夫人跟陶小姐囘去。」<lb/>
@@ -884,7 +884,7 @@
 					這是夫人可以從種種事情想<lb/>
 					像得到。<lb/>
 				</p>
-			</div>
+			
 		</div>
 		<div type="advert" dir="rtl" mode="horizontal-tb"><p>
 			海上第一流攝影專家<lb/>
@@ -899,9 +899,9 @@
 			<p>
 				痰敵<lb/>
 			</p>
-			<div type="image">
-				
-			</div>
+<!--	see #128		-->
+<!--			<div type="image">-->
+			<!--</div>-->
 			<p>
 				分片露<lb/>
 			</p>
@@ -927,9 +927,8 @@
 			<p dir="rtl" mode="horizontal-tb">
 				發行<lb/>	
 			</p>
-			<div type="image">
-				
-			</div>
+			<!--	see #128		-->
+<!--			<div type="image"></div>-->
 		</div>
 		<div type="advert" dir="rtl" mode="vertical-rl">
 			<p dir="rtl" mode="horizontal-tb"> 
@@ -939,9 +938,8 @@
 				煙中<lb/>
 				鉄軍<lb/>
 			</p>
-			<div type="image">
-				
-			</div>
+			<!--	see #128		-->
+<!--			<div type="image"></div>-->
 			<p dir="rtl" mode="horizontal-tb"> 
 				中國福新煙公司出品<lb/>
 			</p>
