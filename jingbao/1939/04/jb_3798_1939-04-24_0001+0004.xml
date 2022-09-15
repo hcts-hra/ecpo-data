@@ -22,14 +22,14 @@
                 中華民國貳拾捌年四月廿四日　星期一　今日兩全張售國幣貳分四厘　本報創刊於民國八年三月三日<lb/>
             </div> 
         </div>
-        <div type="advert">
+        <div type="advert" itemid="507">
             <div dir="rtl" mode="horizontal-tb">
                 金字塔香煙<lb/>
             </div>
             <div>
                 煙中<lb/>
             </div>
-            <div type="image"></div>
+            <div type="image" itemid="364"></div>
             <div>
                 鉄軍<lb/>
             </div>
@@ -37,7 +37,7 @@
                 中國福新煙公司出品<lb/>
             </div>
         </div>
-        <div type="advert" dir="rtl" mode="horizontal-tb">
+        <div type="advert" dir="rtl" mode="horizontal-tb" itemid="648">
             海上第一流攝影專家<lb/>
             國泰藝術照相館<lb/>
             定價經濟化照相貴族化<lb/>
@@ -45,7 +45,7 @@
             地　址　南　京　路　石　路　西<lb/>
             電　話　九　三　〇　九　三　號<lb/>
         </div>
-        <div type="article">
+        <div type="article" itemid="501">
            <div>
                鄂贛華軍節節勝利<lb/>
                通山高安相繼收復<lb/>
@@ -82,7 +82,7 @@
                </p>
            </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="502">
             <div>
                 東戰塲華軍採取攻勢<lb/>
                 分三路進迫京鎭<lb/>
@@ -109,7 +109,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="503">
             <div>
                 芷江遭轟炸<lb/>
                 死平民四百<lb/>
@@ -134,7 +134,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="504">
             <div>
                 福州　遭空襲<lb/>
                 省府移延平<lb/>
@@ -155,7 +155,7 @@
                 </p>
             </div>  
         </div>
-        <div type="article">
+        <div type="article" itemid="505">
             <div>
                 汕頭日艦<lb/>
                 調動頻繁<lb/>
@@ -173,7 +173,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="506">
             <div dir="rtl" mode="horizontal-tb">
                 華南戰事<lb/>
             </div>
@@ -211,7 +211,7 @@
                 </p>
             </div>
         </div>    
-        <div type="article">
+        <div type="article" itemid="507">
             <div dir="rtl" mode="horizontal-tb">
                 政府　將限制<lb/>
                 官費留學生<lb/>
@@ -234,7 +234,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="508">
             <div>
                 蔣派員核減<lb/>
                 渝食品售價<lb/>
@@ -253,7 +253,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="509">
             <div>
                 中向美購新機<lb/>
                 已簽訂合同<lb/>
@@ -275,7 +275,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="510">
             <div>
                 國民參政會<lb/>
                 會議期延長<lb/>
@@ -293,7 +293,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="511">
             <div>
                 蘇聯政府發起<lb/>
                 召集國際會議<lb/>
@@ -311,11 +311,11 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="512">
             <div>
                 西部地中海的爭霸<lb/>
             </div>
-            <div type="image"></div>
+            <div type="image" itemid="365"></div>
             <div>
                 （國際時事地圖之四）<lb/>
             </div>
@@ -367,7 +367,7 @@
                 中華民國二十八年四月廿四日　晶報　星期一　第四版<lb/>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="534">
             <div>
                 甌江口發生砲戰<lb/>
                 昨起實行封鎖<lb/>
@@ -386,7 +386,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="535">
             <div>
                 定海附近之嵊泗列島<lb/>
             </div>
@@ -404,7 +404,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="536">
             <div>
                 辦理茶筍貸款<lb/>
                 浙地方銀行撥款廿五萬<lb/>
@@ -429,7 +429,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="538">
             <div>
                 滬銀行界<lb/>
                 存款激增<lb/>
@@ -455,7 +455,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="537">
             <div>
                 燃料調查<lb/>
                 減輕了一些生活負擔<lb/>
@@ -538,7 +538,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="539">
             <div>
                 宮本之助<lb/>
                 來華任務<lb/>
@@ -560,7 +560,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="540">
             <div> 
                 華人浩然正氣<lb/>
                 一致拒用日軍用票與僞鈔<lb/>
@@ -578,7 +578,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="541">
             <div>
                 昨日傍晚<lb/>
                 十六浦轟炸聲由來<lb/>
@@ -607,7 +607,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="542">
             <div>
                 鮮豬業<lb/>
                 昨函吿各會員<lb/>
@@ -629,7 +629,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="543">
             <div>
                 滬甬間航線<lb/>
                 有恢復可能<lb/>
@@ -654,7 +654,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="544">
             <div>
                 日方大言不慚<lb/>
                 竟向工部局提出如此要求<lb/>
@@ -698,7 +698,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="545">
             <div>
                 濟南以北<lb/>
                 包裹停寄<lb/>
@@ -721,7 +721,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="546">
             <div dir="rtl" mode="horizontal-tb">
                 靑　年　節<lb/>
                 發起學生十不運動<lb/>
@@ -754,7 +754,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="547">
             <div>
                 法僑招待<lb/>
                 戈斯默<lb/>
@@ -776,7 +776,7 @@
                 </p>
             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="548">
             <div>
                 陳南山<lb/>
             </div>
@@ -803,7 +803,7 @@
                 </p>
             </div>  
         </div>
-        <div type="article">
+        <div type="article" itemid="549">
             <div>
                 小消息<lb/>
             </div>
@@ -815,6 +815,8 @@
                     座靜安寺路華安飯<lb/>
                     店行結婚禮、<lb/>
                 </p>
+                </div>
+        <div type="article" itemid="549">
                 <p>
                     ▲僞「南京市長<lb/>
                     」高冠吾、僞「上<lb/>
