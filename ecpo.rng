@@ -22,24 +22,62 @@
     <define name="contents">
         <interleave>
             <text/>
+            <!-- TODO(DP): Can probable be oneOrMore -->
             <zeroOrMore>
                 <element name="lb">
                     <empty/>
                 </element>
             </zeroOrMore>
+            <optional>
+                <element name="pb">
+                    <empty/>
+                </element>
+            </optional>
+            <zeroOrMore>
+                <element name="r">
+                    
+                    <attribute name="style"/>  <!-- to allow CSS formatting, e.g. "transform: rotate(90deg);" -->
+                    
+                    <ref name="contents"/>
+                </element>
+            </zeroOrMore>            
         </interleave>
-        <choice>
-            <element name="lb">
+        <!-- <optional> -->
+            <!-- <element name="lb">
                 <empty/>
-            </element>
+            </element> -->
             <!-- thx ⌘ Paul ⌘ -->
-            <element name="pb">
+            <!-- <element name="pb">
                 <empty/>
             </element>
-        </choice>
+        </optional> -->
+    </define>
+    <define name="flow">
+            <optional>
+                <!-- see https://www.w3.org/International/articles/vertical-text/ -->
+                <attribute name="mode">
+                    <!--  see https://developer.mozilla.org/en-US/docs/Web/CSS/writing-mode -->
+                    <choice>
+                        <value>horizontal-tb</value>
+                        <value>vertical-rl</value> <!--the default-->
+                        <value>vertical-lr</value>
+                        <value>sideways-rl</value>
+                        <value>sideways-lr</value>
+                    </choice>
+                </attribute>
+            </optional>
+            <optional>
+                <attribute name="dir">
+                    <!--  see https://developer.mozilla.org/en-US/docs/Web/CSS/direction -->
+                    <choice>
+                        <value>ltr</value>
+                        <value>rtl</value> <!--the default-->
+                    </choice>
+                </attribute>
+            </optional>        
     </define>
     <define name="structure">
-        <element name="div">
+        <element name="div">           
             <optional>
                 <attribute name="type">
                     <choice>
@@ -56,28 +94,7 @@
             <optional>
                 <attribute name="xml:id"/>
             </optional>
-            <optional>
-                <group>
-                    <!-- see https://www.w3.org/International/articles/vertical-text/ -->
-                    <attribute name="mode">
-                        <!--  see https://developer.mozilla.org/en-US/docs/Web/CSS/writing-mode -->
-                        <choice>
-                            <value>horizontal-tb</value>
-                            <value>vertical-rl</value> <!--the default-->
-                            <value>vertical-lr</value>
-                            <value>sideways-rl</value>
-                            <value>sideways-lr</value>
-                        </choice>
-                    </attribute>
-                    <attribute name="dir">
-                        <!--  see https://developer.mozilla.org/en-US/docs/Web/CSS/direction -->
-                        <choice>
-                            <value>ltr</value>
-                            <value>rtl</value> <!--the default-->
-                        </choice>
-                    </attribute>
-                </group>
-            </optional>
+            <ref name="flow"/>            
             <optional>
                 <group>
                     <attribute name="page">
@@ -97,17 +114,10 @@
             <choice>
                 <oneOrMore>
                     <element name="p">
-                        <ref name="contents"/>
+                        <ref name="flow"/>   
+                        <ref name="contents"/>                     
                     </element>
                 </oneOrMore>
-                <optional>
-                    <element name="r">
-                        <group>
-                            <attribute name="style"/>  <!-- to allow CSS formatting, e.g. "transform: rotate(90deg);" -->
-                        </group>
-                        <ref name="contents"/>
-                    </element>
-                </optional>
                 <ref name="contents"/>
                 <zeroOrMore>
                     <ref name="structure"/>

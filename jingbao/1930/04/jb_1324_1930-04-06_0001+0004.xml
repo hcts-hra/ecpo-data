@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/hcts-hra/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
@@ -7,53 +6,53 @@
     <!-- start recto page   -->
     <div type="page" page="recto" n="1" mode="vertical-rl" dir="rtl">
         <div type="margin" mode="horizontal-tb" dir="rtl">
-            <div>
+            <p>
                 民國十九年四月六日<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 星期日<lb/>
-            </div>
-            <div  mode="vertical-lr" dir="ltr">
+            </p>
+            <p mode="vertical-lr" dir="ltr">
                 The　Crystal<lb/>
-            </div>
-            <div  mode="vertical-lr" dir="ltr">
+            </p>
+            <p mode="vertical-lr" dir="ltr">
                 ESTABLISHED　1919<lb/>
-            </div>
+            </p>
         </div>
         <div type="advert">
-            <div mode="horizontal-tb" dir="rtl">
+            <p mode="horizontal-tb" dir="rtl">
                 定報價格<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 每三日出一張增刊無定<lb/>
                 中國境内全年二元半年一元一<lb/>
                 角每月二角日本同其餘外國各<lb/>
                 埠加倍均作大洋計算報資先惠<lb/>
                 郵費在内郵票加一<lb/>
-            </div>
+            </p>
         </div>
-        <div type="other">
+        <div type="other"><p>
                 今日一張零售大洋二分四釐<lb/> 
-        </div>
+        </p></div>
         <div type="head" dir="rtl" mode="horizontal-tb">
-            <div>
+            <p>
                 晶報<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 ◘自動電話一二四二八號◘<lb/> 
-            </div>
-            <div>
+            </p>
+            <p>
                 ◘電報掛號四三七七卽神字◘<lb/> 
-            </div>
+            </p>
         </div>
-        <div type="other">
+        <div type="other"><p>
                 第一千三百廿四號<lb/> 
-        </div>
+        </p></div>
         <div type="advert">
-            <div mode="horizontal-tb" dir="rtl">
+            <p mode="horizontal-tb" dir="rtl">
                 廣吿刊例<lb/>
-            </div> 
-            <div>
+            </p> 
+            <p>
                 『新聞欄中』價面議『新聞中縫』<lb/> 
                 計三十字長十字寬爲一格以半<lb/> 
                 格起碼每期每格洋八元『封面<lb/>
@@ -62,7 +61,7 @@
                 高十九字寬爲一格以半格起碼<lb/>
                 每期每格洋六元『後幅』分格等<lb/>
                 與封面同每期每格洋五元<lb/>               
-            </div>
+            </p>
         </div>
         <div type="advert" itemid="884">
             <!-- 專醫婦女停經
@@ -244,22 +243,22 @@
     <!-- start verso page   -->
     <div type="page" page="verso" n="4" mode="vertical-rl" dir="rtl">
         <div type="head">
-            <div>
+            <p>
                 此處<lb/>
                 招登<lb/>
                 廣吿<lb/>
                 價格<lb/>
                 面議<lb/>
-            </div>
-            <div mode="horizontal-tb" dir="rtl">晶報<lb/>
-            </div>
-            <div>
+            </p>
+            <p mode="horizontal-tb" dir="rtl">晶報<lb/>
+            </p>
+            <p>
                 此處<lb/>
                 招登<lb/>
                 廣吿<lb/>
                 價格<lb/>
                 面議<lb/>
-            </div>
+            </p>
         </div>        
         <div type="advert" itemid="897">
             <!-- 逸園
