@@ -1,32 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/hcts-hra/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_0137_1920-04-27_0002+0003" lastedit="2022-03-17" lasteditor="ysmlouis" issueid="99">
+<fold xml:id="jb_0137_1920-04-27_0002to0003" lastedit="2022-03-17" lasteditor="ysmlouis" issueid="99">
     <!-- start verso page -->
     <div type="page" page="verso" n="2" mode="vertical-rl" dir="rtl">
         <div type="margin" mode="horizontal-tb" dir="rtl">
-            <div>
+            <p>
                 第二版　民國九年四月廿七日<lb/> 
-            </div>
-            <div>
+            </p>
+            <p>
                 晶報<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 庚申年三月初九日　星期二<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="4024">
-            <div>
+            <p>
                 女票友<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （丹翁）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 男子樂爲優、不以優爲業而登台者謂之票友、娼之名、女子往往加諸所<lb/>
-                &gaiji;<!-- The character should be written like this: ⿲讎⿱言. -->視之人、固女子之所不樂受者也、然謂女子必不樂爲娼、恐尙係一偏<lb/>
+                <!-- The character should be written like this: ⿲讎⿱言. -->視之人、固女子之所不樂受者也、然謂女子必不樂爲娼、恐尙係一偏<lb/>
                 之見、京師北班、曩日嘗有貴族婦女、潛身其中、客方入而挑妓、彼卽在<lb/>
                 帷薄間窺客、無當意者則匿跡不出、見有年少者、壯健者、美風姿者、衣<lb/>
                 服麗都者、非其素所識者、則出而應客、其粧飾居然妓也、姿態居然妓<lb/>
@@ -39,16 +38,16 @@
                 而學爲票友者、則組織一場合以硏究之、此之謂票房、上海台基林立、女<lb/>
                 子之來者、皆嗜利無恥者也、然亦有不以金錢爲目的者、是亦票友之類、<lb/>
                 則台基一票房也、<lb/>
-            </div>           
+            </p>           
         </div>
         <div type="article" itemid="4026">
-            <div>
+            <p>
                 保安商標<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （涵秋）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 名者實之符、實者名之歸、大凡一件事體、只要實在上幹得不錯、那名字<lb/>
                 却沒有甚麽關係、我因爲看見漢口那個保安會、官廳裏以爲這保安名義<lb/>
                 、有涉政權、遂要把來取消他、訓令改名叫做消防會、我覺得官廳、未免<lb/>
@@ -63,19 +62,19 @@
                 就算做商標、專利一千年、凡有影射的、准許提起訴訟、同百姓們打一場<lb/>
                 官司、瞧他們還敢佔據保安名義嗎、我常嘆我們今日官吏、不向大政見<lb/>
                 上去發揮發揮、專揀這沒要緊的事提議、却未免小題大做了哇、<lb/>
-            </div>           
+            </p>           
         </div>
         <div type="article" itemid="4027">
-            <div>
+            <p>
                 梅蘭芳之硏究<!-- The three characters「梅蘭芳」are in a rectangle. --><lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （六）<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （小隱）<lb/>
-            </div>          
-            <div>
+            </p>          
+            <p>
                 這次梅蘭芳到了上海、紀載上的文<lb/>
                 字、多稱他的下處爲行轅、儼然是前<lb/>
                 淸的轅門抄、對於他的一舉一動、瑣<lb/>
@@ -119,19 +118,19 @@
                 這樣看來、現在這些聽戲的裏頭、像<lb/>
                 鄕下老初看電燈的人、只怕就很不<lb/>
                 少呢、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="4029">
-            <div>
+            <p>
                 梅蘭芳研究之硏究<!-- The five characters 「梅蘭芳研究」 are in a rectangle. --><lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （二）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 （豂子）<lb/>
-            </div>          
-            <div>
+            </p>          
+            <p>
                 小隱君又有梅蘭芳之硏究第二篇、<lb/>
                 把四項應該硏究的理由、自已發表<lb/>
                 了一個大槪的意見、（第一）他說蘭<lb/>
@@ -169,16 +168,16 @@
                 感審美這些話、他倒曉得要應現代<lb/>
                 的思潮、（見第一篇）這現代的思潮、<lb/>
                 是什麽、我眞有些不懂、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="4030">
-            <div>
+            <p>
                 硏究梅蘭芳畣豂子<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （小隱）<lb/>
-            </div>          
-            <div>
+            </p>          
+            <p>
                 豂子君、對於我的梅蘭芳之硏究、又<lb/>
                 硏究了一番、在豂子君、爲梅黨的人<lb/>
                 物、這也是當然應盡的義務、不過他<lb/>
@@ -232,16 +231,16 @@
                 認他有價値了、我爲什麽不向着梅<lb/>
                 蘭芳說話、我又何必去問那通俗敎<lb/>
                 育會呢、<lb/>
-            </div>
+            </p>
         </div>
             <div type="article" itemid="4032">
-                <div>
+                <p>
                     看梅蘭芳的心理<lb/>
-                </div>           
-                <div dir="rtl" mode="horizontal-tb">
+                </p>           
+                <p dir="rtl" mode="horizontal-tb">
                     （小坡）<lb/>
-                </div>            
-                <div>
+                </p>            
+                
                     <p>
                         我是個守獨身主義的人、但是家庭<lb/>
                         樂趣、我又何嘗不曉得、然固爲種種<lb/>
@@ -304,35 +303,35 @@
                         靑衣頭銜是少不掉的、恐怕還有個<lb/>
                         醉梅外號呢、<pb/>
                     </p> 
-                </div>
+                
             </div>
         </div>
         <!-- start recto page -->
         <div type="page" page="recto" n="3" mode="vertical-rl" dir="rtl">
-            <div type="margin" mode="horizontal-tb" dir="rtl">
+            <div type="margin" mode="horizontal-tb" dir="rtl"><p>
                 第三版　民國九年四月廿七日　社會定期日刊　庚申年三月初九日　星期二<lb/>                               
-            </div>
+            </p></div>
             <div type="article" itemid="4033">
-                <div>
+                <p>
                     愛克司光錄<lb/>
-                </div>
-                <div  mode="horizontal-tb" dir="rtl">
+                </p>
+                <p mode="horizontal-tb" dir="rtl">
                     （一）<lb/>                  
                     （一）<lb/>                   
                     （一）<lb/>
-                </div>          
-                <div>
+                </p>          
+                <p>
                     李涵秋著<lb/>
                     禁止轉載<lb/>
-                </div>
-                <div>
+                </p>
+                <p>
                     第八囘<lb/>
-                </div>
-                <div>
+                </p>
+                <p>
                     假撮合威壓平民<lb/>
                     眞風波羞生中冓<lb/>
-                </div>
-                <div>
+                </p>
+                <p>
                     張三丰笑道、這到不然、不孝有三、<lb/>
                     無後爲大、他若爲兄弟繼續起見、包<lb/>
                     他定然樂從、萬一他竟不允許我、我<lb/>
@@ -394,23 +393,23 @@
                     、至早也須等待三日以後、張三丰笑<lb/>
                     道、好好、三日後再聽你的消息、<lb/>
                     （未完）<lb/>                   
-                </div>
+                </p>
             </div>
             <div type="article" itemid="4034">
-                <div>
+                <p>
                     夕陽紅檻錄<lb/>
-                </div>
-                <div mode="horizontal-tb" dir="rtl">
+                </p>
+                <p mode="horizontal-tb" dir="rtl">
                     （一）<lb/>
                     （七）<lb/>
-                </div>
-                <div>
+                </p>
+                <p>
                     鵷雛<lb/>
-                </div>
-                <div>
+                </p>
+                <p>
                     第四章　莽風塵書劍辭家　老學士衣冠上院<lb/>
-                </div>
-                <div>  
+                </p>
+                 
                     <p>
                         過一天、那韓冶春瞿松筠兩位大名<lb/>
                         士、就以身殉義了、他雖困在圍城中<lb/>
@@ -482,21 +481,21 @@
                         百世、雖言各有當、亦自見作者忠<lb/>
                         厚處、　野鶴<lb/>
                     </p>
-                </div>  
+                  
             </div> 
             <div type="image" itemid="2342">
-                <div dir="rtl" mode="horizontal-tb">
+                <p dir="rtl" mode="horizontal-tb">
                     ◀殉客自盡之蔣紅英老五▶<lb/>
-                </div>
+                </p>
             </div>
             <div type="article" itemid="4035">
-                <div>
+                <p>
                     息爭<lb/>
-                </div>
-                <div dir="rtl" mode="horizontal-tb">
+                </p>
+                <p dir="rtl" mode="horizontal-tb">
                     （恨水）<lb/>
-                </div>                        
-                <div>
+                </p>                        
+                <p>
                     評章風月、小報本分、高之曰移風易<lb/>
                     俗、猶未免小題大做、今復抵掌而談<lb/>
                     天下興亡、肆口而駡新舊學識、言出<lb/>
@@ -525,16 +524,16 @@
                     爭而不息、乃坐在雲端裏看厮殺、其<lb/>
                     罪又可恕乎、特揭出之、大家一笑而<lb/>
                     罷也可、<lb/>
-                </div>
+                </p>
             </div>
             <div type="article" itemid="4036">
-                <div>
+                <p>
                     晶報的好戲目<lb/>
-                </div>
-                <div dir="rtl" mode="horizontal-tb">
+                </p>
+                <p dir="rtl" mode="horizontal-tb">
                     （民哀）<lb/>
-                </div>                        
-                <div>
+                </p>                        
+                
                     <p>
                         近來的晶報、好戲多得狠呢、不過<lb/>
                         戲目沒有標出來、我姑且做個案<lb/>
@@ -580,16 +579,16 @@
                         台唱好戲、再行報吿、就目前而論、<lb/>
                         這幾齣戲也不壞了、<lb/>
                     </p>
-                </div>
+                
             </div>
             <div type="article" itemid="4037">
-                <div>
+                <p>
                     春江花事<lb/>
-                </div>
-                <div dir="rtl" mode="horizontal-tb">
+                </p>
+                <p dir="rtl" mode="horizontal-tb">
                     （老匏）<lb/>
-                </div>
-                <div>
+                </p>
+                
                     <p>
                         ▲蔣紅英家裏主政老五、爲情殉死<lb/>
                         一事、這幾天<!-- There is a half space. -->各報多有記載、差不<lb/>
@@ -616,32 +615,32 @@
                         大狠像、媚蘭像麒麟童、可是再像也<lb/>
                         沒有了、<lb/>
                     </p>
-                </div>                       
+                                       
             </div>   
             <div type="article" itemid="4039">
-                <div>
+                <p>
                     ◘再復馬二<lb/>
-                </div> 
-                <div>
+                </p> 
+                <p>
                     （寒雲）<lb/>
-                </div>
-                <div>
+                </p>
+                <p>
                     又承下敎、載感載惶、足下謂不解者<lb/>
                     五、鄙人亦不解足下之不解也、鄙作<lb/>
                     致使足下不解、大罪、大罪、今無解<lb/>
                     人、奈何、足下雖不恥下問、而鄙人<lb/>
                     實難爲不解之解也、春光有限、恕不<lb/>
                     再答、　寒雲<lb/>
-                </div>              
+                </p>              
             </div>
             <div type="article" itemid="4040">
-                <div>
+                <p>
                     ◘致大雄書<lb/>
-                </div> 
-                <div>
+                </p> 
+                <p>
                     （馬二先生）<lb/>
-                </div>
-                <div>
+                </p>
+                <p>
                     辱書敬悉、日來因俗冗、致遲屬稿、<lb/>
                     惟前期貴報夫已氏之論調、已怒不<lb/>
                     可遏、此實僕一賦激之使然、顧僕饉<lb/>
@@ -652,7 +651,7 @@
                     報倘更以此等粗鄙文字刊入、僕便<lb/>
                     不敢妄附其列、以有關人格故也、幸<lb/>
                     垂察焉、餘不白、<pb/>
-                </div>              
+                </p>              
             </div>
       </div>
 </fold>

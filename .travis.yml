@@ -1,9 +1,0 @@
-dist: xenial
-
-addons:
-  apt:
-    packages:
-      - libxml2-utils
-
-script:
-  - xmllint --noout --relaxng ecpo.rng jingbao/19**/**/*.xml

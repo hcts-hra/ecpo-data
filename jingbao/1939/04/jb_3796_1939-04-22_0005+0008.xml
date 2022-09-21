@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/hcts-hra/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
@@ -7,79 +6,71 @@
 <fold xml:id="jb_3796_1939-04-22_0005+0008" lastedit="2022-09-13" lasteditor="xiejia1995" issueid="21">
 	<div type="page" page="recto" n="5" dir="rtl" mode="vertical-rl">
 	    <div type="margin" dir="rtl" mode="horizontal-tb">
-		    中華民國二十八年四月廿二日　晶報　星期六　第五版<lb/>	
+			<p>
+		    	中華民國二十八年四月廿二日　晶報　星期六　第五版<lb/>	
+			</p>
         </div>
-		<div type="article" itemid="398">
-		    <div dir="rtl" mode="horizontal-tb">
+		<div type="image" itemid="357">	
+			<p dir="rtl" mode="horizontal-tb">
 		    	文化營<lb/>
-		    </div>
-		    <div type="image" itemid="357">		    	
-		    </div>
-			<div>
-				<div dir="rtl" mode="horizontal-tb">
-					黔野主編<lb/>
-				</div>
-				<div>
-					<p>
-						詩經話繹　（如鐘）<lb/>
-					</p>
-					<p>
-						二，著（齊風）<lb/>
-						佩着瓊華，<lb/>
-						素絲的充耳下垂在<lb/>
-						兩鬢邊，－<lb/>
-						是她啊，<lb/>
-						候我在屛門間！<lb/>
-						<!--the difference between 屛 and 屏 is quite small-->
-					</p>
-					<p>
-						佩着瓊瑩，<lb/>
-						靑絲的充耳下垂在<lb/>
-						兩鬢邊，－<lb/>
-						是她啊，<lb/>
-						候我在小庭院！<lb/>
-					</p>
-					<p>
-						佩着瓊英，<lb/>
-						黃絲的充耳下垂在<lb/>
-						兩鬢邊，－<lb/>
-						是她啊，<lb/>
-						候我在畫堂前！<lb/>
-					</p>
-					<p>
-						（解）這是赴情<lb/>
-						人約會以前的想像<lb/>
-						之詞。<lb/>
-					</p>
-					<p>
-						原文：<lb/>
-					</p>
-					<p>
-						俟我於著乎而，<lb/>
-						充耳以素乎而，尚<lb/>
-						之以瓊華乎而。<lb/>
-					</p>
-					<p>
-						俟我於庭乎而，<lb/>
-						充耳以靑乎而，尚<lb/>
-						之以瓊瑩乎而。<lb/>
-					</p>
-					<p>
-						俟我於堂乎而，<lb/>
-						充耳以黃乎而，尚<lb/>
-						之以瓊英乎而。<lb/>
-					</p>
-				</div>	
-			</div>
+		    </p>	    	
+			<p dir="rtl" mode="horizontal-tb">
+				黔野主編<lb/>
+			</p>
+		</div>
+		<div type="article" itemid="398"> 				
+			<p>
+				詩經話繹　（如鐘）<lb/>
+			</p>
+			<p>
+				二，著（齊風）<lb/>
+				佩着瓊華，<lb/>
+				素絲的充耳下垂在<lb/>
+				兩鬢邊，－<lb/>
+				是她啊，<lb/>
+				候我在屛門間！<lb/>
+				<!--the difference between 屛 and 屏 is quite small-->
+			</p>
+			<p>
+				佩着瓊瑩，<lb/>
+				靑絲的充耳下垂在<lb/>
+				兩鬢邊，－<lb/>
+				是她啊，<lb/>
+				候我在小庭院！<lb/>
+			</p>
+			<p>
+				佩着瓊英，<lb/>
+				黃絲的充耳下垂在<lb/>
+				兩鬢邊，－<lb/>
+				是她啊，<lb/>
+				候我在畫堂前！<lb/>
+			</p>
+			<p>
+				（解）這是赴情<lb/>
+				人約會以前的想像<lb/>
+				之詞。<lb/>
+			</p>
+			<p>
+				原文：<lb/>
+			</p>
+			<p>
+				俟我於著乎而，<lb/>
+				充耳以素乎而，尚<lb/>
+				之以瓊華乎而。<lb/>
+			</p>
+			<p>
+				俟我於庭乎而，<lb/>
+				充耳以靑乎而，尚<lb/>
+				之以瓊瑩乎而。<lb/>
+			</p>
+			<p>
+				俟我於堂乎而，<lb/>
+				充耳以黃乎而，尚<lb/>
+				之以瓊英乎而。<lb/>
+			</p>
 		</div> 
 		<div type="article" itemid="399">
-			<div>
-				相見禮　<lb/>
-			</div>	
-			<div>
-				（唐潢虎）<lb/>
-			</div>
-			<div>
+			<p>相見禮　　　　（唐潢虎）<lb/></p>			
 			<p>			
 				自從叔孫通定了朝儀之後，漢高祖始知天子之貴，然而漢朝的皇帝實在遠不<lb/>
 				似後世的尊嚴。漢朝最重宰相，天子至於在座爲起，在輿爲下，就是宰相以下的<lb/>
@@ -104,22 +95,25 @@
 				愈妙。（據說碰響頭的地點是有一定的，那里的磚下泥土都挖空了，一碰就響，<lb/>
 				可得用小費，太監才吿訴你，岑春煊不肯出錢，把頭碰得起塊，還沒有響），士<lb/>
 				大夫的醜態，至此而極，便也是君主專制的末運了。<lb/>
-			</p>
-			</div>
+			</p>			
 		</div>
 		<div type="article" itemid="400">
-			<div>
+			<p>
 				亞洲內幕<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				約翰耿脫著<lb/>
 				亦朋譯<lb/>
-			</div>
-			<div>蔣介石上將<lb/></div>
-			<div>（二）<lb/></div>
-			<div>領導中國抗戰的人<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
+				蔣介石上將<lb/>
+			</p>
+			<p>
+				（二）<lb/>
+			</p>
+			<p>
+				領導中國抗戰的人<lb/>
+			</p>			
 			<p>
 				一九〇九年在日<lb/>
 				本遇見總理孫逸仙<lb/>
@@ -324,21 +318,19 @@
 				希讀者勿因辭害<lb/>
 				意，或斷章取義<lb/>
 				爲幸。<lb/>
-			</p>
-			</div>
+			</p>			
 		</div>
 		<div type="article" itemid="402">
-			<div>
+			<p>
 				愛國志士<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				賽珍珠女士作<lb/>
 				諍諍譯<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				二　一件小事<lb/>
-			</div>
-			<div>
+			</p>			
 			<p>
 				他之所以被稱呼<lb/>
 				爲吳將軍者，一則<lb/>
@@ -474,14 +466,13 @@
 				『因爲我還有比<lb/>
 				這件好一點的袍子<lb/>
 				，』一寰答道。<lb/>
-			</p>
-			</div>
+			</p>			
 		</div>
 		<div type="article" itemid="401">
-			<div>
+			<p>
 				每日國際政治測驗<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				（三）蘇台德區國社黨運動的領袖<lb/>
 				是：<lb/>
 				一、衞爾。<lb/>
@@ -501,53 +492,51 @@
 				五、猶太人陰謀在第二次大戰中<lb/>
 				反叛德國。<lb/>
 				（昨日答案：一，三）<lb/>
-			</div>
+			</p>
 		</div>
 		<div type="article" itemid="403">
-			<div dir="rtl" mode="horizontal-tb">
+			<p dir="rtl" mode="horizontal-tb">
 				袁寒雲先生手寫<lb/>
 				丁卯日記之二<lb/>
-			</div>
-			<div>
-				<!-- 輕度黃昏任凮𠕒江樓百尺鏡鸞且共温存𦝫<lb/>
-					圍料應柔減正歌敎珠落舞並𥞌屯鳳𧙏鴛<lb/>
-			    	釵今宵何處多少緒疊離痕禁寒知否人憔悴<lb/>
-					黯芳艸咽斷王孫𠊳吹𠛮杏𠌶開了馬嘶可許<lb/>
-					當門詣岳外舅家拜年訪地山師師適䙷揚<lb/>
-			    	州家電謂其弟澤山丈病危促歸師語時慟<lb/>
-				     哭失聲哀感不輟予亦為之慘然流涕王煥<lb/>
-					然自濟南来䙷桐𣶒書<lb/>
-					初𠄡日煥然来託敎畣桐𣶒書夕邀之竝偕六<lb/>
-					良及睂雲十妹初觀嘏彰騮三兒觀影劇于<lb/> -->
-			</div>
+			</p>
+			<p>
+				輕度黃昏任凮𠕒江樓百尺鏡鸞且共温存𦝫<lb/>
+				圍料應柔減正歌敎珠落舞並𥞌屯鳳𧙏鴛<lb/>
+				釵今宵何處多少緒疊離痕禁寒知否人憔悴<lb/>
+				黯芳艸咽斷王孫𠊳吹𠛮杏𠌶開了馬嘶可許<lb/>
+				當門詣岳外舅家拜年訪地山師師適䙷揚<lb/>
+				州家電謂其弟澤山丈病危促歸師語時慟<lb/>
+					哭失聲哀感不輟予亦為之慘然流涕王煥<lb/>
+				然自濟南来䙷桐𣶒書<lb/>
+				初𠄡日煥然来託敎畣桐𣶒書夕邀之竝偕六<lb/>
+				良及睂雲十妹初觀嘏彰騮三兒觀影劇于<lb/>
+			</p>
 		</div>
-    	<div type="margin" >
+    	<div type="margin">
     		本報具有二十年的歷史是小型報紙鼻祖銷路普遍全國刊登廣吿最有效力<pb/>	
     	</div>
     </div>
 	<div type="page" page="verso" n="8" dir="rtl" mode="vertical-rl">
-		<div type="margin" dir="rtl" mode="horizontal-tb">
+		<div type="margin" dir="rtl" mode="horizontal-tb"><p>
 			中華民國二十八年四月廿二日　晶報　星期六　第八版<lb/>	
 		</div>
 		<div type="image" itemid="360">
-			<div>
-				影城<lb/>	
-			</div>
-			<div dir="rtl" mode="horizontal-tb">
+			<!--影城<lb/>-->
+			<p dir="rtl" mode="horizontal-tb">
 				趙廉。田豐合輯<lb/>
-			</div>
+			</p>
 		</div>
 		<div type="article" itemid="418">
-			<div>
+			<p>
 				兩院<lb/>
 				同映<lb/>
 				雲裳<lb/>
 				仙子<lb/>
-			</div>
-			<div dir="rtl" mode="horizontal-tb"> 
+			</p>
+			<p dir="rtl" mode="horizontal-tb"> 
 				乃是交換條件<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				「木蘭從軍」在滬<lb/>
 				光大戲院連映六十四<lb/>
 				天，昨天起已移轉於<lb/>
@@ -571,14 +560,14 @@
 				滬光大戲院映過六十四天的「木蘭從軍<lb/>
 				」，將來「雲裳仙子」開映，則以滬光<lb/>
 				新光同時開映爲交換條件。　（末將）<lb/>
-			</div>
+			</p>
 		</div>
 		<div type="article" itemid="419">
-			<div>
+			<p>
 				京戯院映電影<lb/>
 				各有巧妙不同<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				京戱院的日場因<lb/>
 				卡爾登開其先例，<lb/>
 				開映電影，現在有<lb/>
@@ -605,13 +594,13 @@
 				以「武松與潘金蓮<lb/>
 				」一類片子來號召<lb/>
 				了。　（跳王）<lb/>
-			</div>
+			</p>
 		</div>
 		<div type="article" itemid="420">
-			<div dir="rtl" mode="horizontal-tb">
+			<p dir="rtl" mode="horizontal-tb">
 				另外一欄<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				與海立笙<lb/>
 				同稱舞場<lb/>
 				樂隊中滑<lb/>
@@ -641,14 +630,14 @@
 				洋琴鬼不怕無人追<lb/>
 				求，但到底是一椿<lb/>
 				難事了。（莫成）<lb/>
-			</div>
+			</p>
 		</div>
 		<div type="article" itemid="421">
-			<div>
+			<p>
 				小汽車<lb/>
 				吃香！<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				王引的小汽車<lb/>
 				，連開車的祇能<lb/>
 				坐二個人，高度<lb/>
@@ -665,17 +654,16 @@
 				爲，「上海僅有的一部」七個字，有錢<lb/>
 				的人多拋二千元不算什麼，便見獵心喜<lb/>
 				，這小汽車也大大的出風頭，據昨天消<lb/>
-				息，王引與袁美雲等&gaiji;商之下，决定保<lb/>
+				息，王引與袁美雲等商之下，决定保<lb/>
 				留這部小汽車，好在並不等錢用，就是<lb/>
 				再買一部轎車，這小車子也打算留着讓<lb/>
 				王引一個人使用了。　（趙廉）<lb/>
-			</div>
+			</p>
 		</div>
 		<div type="article" itemid="422">
-		    <div>
+		    <p>
 		    	王引當導演了<lb/>
-		    </div>
-	              <div>
+		    </p>	              
 			<p>
 				電影演員當導演<lb/>
 				，以前有王元龍與<lb/>
@@ -706,122 +694,121 @@
 				之嘆，演員也相鬧<lb/>
 				荒，王引實多此一<lb/>
 				舉。（壯士）<lb/>
-			</p>
-	              </div>
+			</p>	              
 		</div>
 		<div type="article" itemid="423">
-			<div dir="rtl" mode="horizontal-tb">
+			<p dir="rtl" mode="horizontal-tb">
 				好萊塢影星<lb/>
 				擇偶條件<lb/>
-			</div>
-			<div>
-				<p>
-					有個法國記者曾特地往<lb/>
-					好萊塢去徵詢當地男女星<lb/>
-					們選擇對象的條件。（按<lb/>
-					：這是單指容貌，身體，<lb/>
-					品性而言，其他條件如財<lb/>
-					產，職業，學問等都撇開<lb/>
-					不談。）<lb/>
-				</p>
-				<p>
-					（一）他們愛金<lb/>
-					粟色髮的女子，因<lb/>
-					這種女子大概美麗<lb/>
-				    的居多。<lb/>
-				</p>
-				<p>
-					（二）他們崇拜<lb/>
-					瘦的女子，（當然<lb/>
-					不是指骨瘦如柴，<lb/>
-					弱不禁風的女子，<lb/>
-					）充滿曲線美，女<lb/>
-					體育家典型的女子<lb/>
-					，並非是他們理想<lb/>
-					的配偶，好萊塢有<lb/>
-					句流行的俗語道：<lb/>
-					「曲線並不是從一<lb/>
-					點至另一點最短的<lb/>
-					路程，所以這不是<lb/>
-					一條有趣的線」這<lb/>
-					句話便十足表示出<lb/>
-					他們厭惡肌肉肥滿<lb/>
-					的程度了。<lb/>
-				</p>
-				<p>
-					（三）他們愛快<lb/>
-					樂，善笑，活潑，<lb/>
-					略帶優性的女人。<lb/>
-					因爲娶了這種女子<lb/>
-					，在日常生活上能<lb/>
-					使丈夫容易得到安<lb/>
-					慰，忘却工作的<lb/>
-					辛勞，反之，若是<lb/>
-					娶了一位終日悲愁<lb/>
-					的婦人，便無異在<lb/>
-					家中安放一隻製造<lb/>
-					煩惱和悲劇的機器<lb/>
-					。<lb/>
-				</p>
-				<p>
-					據女星們擇夫的<lb/>
-					意見是：<lb/>
-				</p>
-				<p>
-					（一）她們愛嫁<lb/>
-					給棕色髮的男性，<lb/>
-					因爲美國大多數男<lb/>
-					性的頭髮却是棕色<lb/>
-					的。黑色和深色頭<lb/>
-					髮的男性不能受她<lb/>
-					們的歡迎，因爲太<lb/>
-					深色的頭髮，使人<lb/>
-					面部顯出不温柔的<lb/>
-					樣子。<lb/>
-				</p>
-				<p>
-					（二）她們愛長<lb/>
-					腳淸瘦的男子。<lb/>
-				</p>
-				<p>
-					（三）她們愛態<lb/>
-					度自然，不愛拘束<lb/>
-					，善說笑話，含有<lb/>
-					英雄氣概的男子，<lb/>
-					沉默寡言，英國紳<lb/>
-					士派的男人，是她<lb/>
-					們認爲最無味的東<lb/>
-					西。<lb/>
-				</p>
-			</div>
+			</p>			
+			<p>
+				有個法國記者曾特地往<lb/>
+				好萊塢去徵詢當地男女星<lb/>
+				們選擇對象的條件。（按<lb/>
+				：這是單指容貌，身體，<lb/>
+				品性而言，其他條件如財<lb/>
+				產，職業，學問等都撇開<lb/>
+				不談。）<lb/>
+			</p>
+			<p>
+				（一）他們愛金<lb/>
+				粟色髮的女子，因<lb/>
+				這種女子大概美麗<lb/>
+				的居多。<lb/>
+			</p>
+			<p>
+				（二）他們崇拜<lb/>
+				瘦的女子，（當然<lb/>
+				不是指骨瘦如柴，<lb/>
+				弱不禁風的女子，<lb/>
+				）充滿曲線美，女<lb/>
+				體育家典型的女子<lb/>
+				，並非是他們理想<lb/>
+				的配偶，好萊塢有<lb/>
+				句流行的俗語道：<lb/>
+				「曲線並不是從一<lb/>
+				點至另一點最短的<lb/>
+				路程，所以這不是<lb/>
+				一條有趣的線」這<lb/>
+				句話便十足表示出<lb/>
+				他們厭惡肌肉肥滿<lb/>
+				的程度了。<lb/>
+			</p>
+			<p>
+				（三）他們愛快<lb/>
+				樂，善笑，活潑，<lb/>
+				略帶優性的女人。<lb/>
+				因爲娶了這種女子<lb/>
+				，在日常生活上能<lb/>
+				使丈夫容易得到安<lb/>
+				慰，忘却工作的<lb/>
+				辛勞，反之，若是<lb/>
+				娶了一位終日悲愁<lb/>
+				的婦人，便無異在<lb/>
+				家中安放一隻製造<lb/>
+				煩惱和悲劇的機器<lb/>
+				。<lb/>
+			</p>
+			<p>
+				據女星們擇夫的<lb/>
+				意見是：<lb/>
+			</p>
+			<p>
+				（一）她們愛嫁<lb/>
+				給棕色髮的男性，<lb/>
+				因爲美國大多數男<lb/>
+				性的頭髮却是棕色<lb/>
+				的。黑色和深色頭<lb/>
+				髮的男性不能受她<lb/>
+				們的歡迎，因爲太<lb/>
+				深色的頭髮，使人<lb/>
+				面部顯出不温柔的<lb/>
+				樣子。<lb/>
+			</p>
+			<p>
+				（二）她們愛長<lb/>
+				腳淸瘦的男子。<lb/>
+			</p>
+			<p>
+				（三）她們愛態<lb/>
+				度自然，不愛拘束<lb/>
+				，善說笑話，含有<lb/>
+				英雄氣概的男子，<lb/>
+				沉默寡言，英國紳<lb/>
+				士派的男人，是她<lb/>
+				們認爲最無味的東<lb/>
+				西。<lb/>
+			</p>			
 		</div>
 		<div type="advert" itemid="503">
-			<div type="image" itemid="361">
-				
+			<div type="image" itemid="361">				
 			</div>
-			<div dir="ltr" mode="horizontal-tb">
-				雙妹牌<lb/>
-				生髮油<lb/>
+			<div type="other">
+				<p dir="ltr" mode="horizontal-tb">
+					雙妹牌<lb/>
+					生髮油<lb/>
+				</p>
 			</div>
 			<div type="image" itemid="432">				
 			</div>
-			<div>
-				用生髮油<lb/>
-				自覺頭上<lb/>
-				光澤𠁊滑<lb/>
-				馨香撲鼻<lb/>
-				中國廣生行出品<lb/>
+			<div type="other">
+				<p>
+					用生髮油<lb/>
+					自覺頭上<lb/>
+					光澤𠁊滑<lb/>
+					馨香撲鼻<lb/>
+					中國廣生行出品<lb/>
+				</p>
 			</div>
 		</div>
 		<div type="advert" itemid="504">
-			<div>		
+			<p>		
 				沈淇泉太史潤格<lb/>		
-			</div>
-		      <div>
-			    	己卯正月重訂<lb/>
-			    	別號兼巢時年七十有八<lb/>
-	     	      </div>
-			<div>
+			</p>
+		    <p>
+		    	己卯正月重訂<lb/>
+		    	別號兼巢時年七十有八<lb/>
+	     	</p>			
 			<p>
 				己卯元日戲賦<lb/>
 				孼由自作罰由天寒士窮途復暮年賣賦傭書俱有例評量能値幾文<lb/>
@@ -979,13 +966,14 @@
 			<p>
 				等謹代訂<lb/>
 			</p>
-			</div>
+			
 		</div>
 		<div type="margin">
 			本報忠實報道新聞說人人要說的話文字淺近趣味濃厚是最平民化的物刊<pb/>	
 		</div>
 	</div>
-	<div type= "margin" dir="rtl" mode="vertical-rl">
+
+	<div type="margin" dir="rtl" mode="vertical-rl">
 		<div type="advert" itemid="505">
 			<p>
 				毛興昌<lb/>
@@ -1010,61 +998,62 @@
 			</p>
 		</div>
 		<div type="advert" itemid="506">
-			<div type="image" itemid="362">				
-			</div>
+			<div type="image" itemid="362"></div>
 			<div dir="rtl" mode="horizontal-tb">
 				一滴淸<lb/>
       			眼薬水<lb/>
 			</div>
 			<div type="image" itemid="363"></div>
-				<div>
+				<!--texts inside the image
+					<p>
 					統治<lb/>
 					目疾<lb/>
-				</div>
-				<div>
+				</p>
+				<p>
 					一滴<lb/>
 					見功<lb/>
-				</div>
-				<div>
+				</p>-->
+			<div type="other">
+			 	<p>
 					◇一滴淸眼藥水主治之眼病◇<lb/>
-				</div>
-				<div>
-					<p>
-						砂眼赤眼<lb/>
-						羞明畏光<lb/>
-						顆粒密生<lb/>
-						雲翳外障<lb/>
-					</p>
-					<p>
-						瘙癢多脂<lb/>
-						迎風流淚<lb/>
-						視力模糊<lb/>
-						眼皮發紅<lb/>
-					</p>
-					<p>
-						消毒完全<lb/>
-						功効確實<lb/>
-						攜帶便利<lb/>
-						價値低廉<lb/>
-						（每瓶貳角四）<lb/>
-					</p>
-					<p>
-						三洋涇橋<lb/>
-						江西路口<lb/>
-					</p>
-					<p>
-						新華藥行發行<lb/>
-					</p>
-				</div>				
-				<div>
+				</p>				
+				<p>
+					砂眼赤眼<lb/>
+					羞明畏光<lb/>
+					顆粒密生<lb/>
+					雲翳外障<lb/>
+				</p>
+				<p>
+					瘙癢多脂<lb/>
+					迎風流淚<lb/>
+					視力模糊<lb/>
+					眼皮發紅<lb/>
+				</p>
+				<p>
+					消毒完全<lb/>
+					功効確實<lb/>
+					攜帶便利<lb/>
+					價値低廉<lb/>
+					（每瓶貳角四）<lb/>
+				</p>
+				<p>
+					三洋涇橋<lb/>
+					江西路口<lb/>
+				</p>
+				<p>
+					新華藥行發行<lb/>
+				</p>
+				</p>				
+				<!-- texts inside the image
+				<p>
 					認明<lb/>
 					商標<lb/>
-				</div>
-				<div dir="rtl" mode="horizontal-tb">
+				</p>-->
+				<p dir="rtl" mode="horizontal-tb">
 					新華大薬行監製<lb/>
 					上海江西路十號<lb/>
-				</div>
-			
+				</p>
+			</div>
 		</div>
 	</div>
 </fold>

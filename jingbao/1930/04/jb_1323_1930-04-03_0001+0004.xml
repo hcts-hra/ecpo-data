@@ -1,59 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/hcts-hra/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_1323_1930-04-03_0001+0004" lastedit="2022-03-19" lasteditor="ysmlouis" issueid="932">
+<fold xml:id="jb_1323_1930-04-03_0001to0004" lastedit="2022-03-19" lasteditor="ysmlouis" issueid="932">
     <!-- start recto page -->
     <div type="page" page="recto" n="1" mode="vertical-rl" dir="rtl">
+       <!-- TODO(DP) needs fixing see #79  -->
            <div type="margin" mode="horizontal-tb" dir="rtl">
-                  <div>
+                  <p>
                          民國十九年四月三日<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          星期四<lb/>
-                  </div>
-                  <div  mode="horizontal-tb" dir="ltr">
+                  </p>
+                  <p mode="horizontal-tb" dir="ltr">
                          The　Crystal<lb/>
-                  </div>
-                  <div  mode="horizontal-tb" dir="ltr">
+                  </p>
+                  <p mode="horizontal-tb" dir="ltr">
                          ESTABLISHED　1919<lb/>
-                  </div>
+                  </p>
            </div> 
            <div type="advert">
-                  <div mode="horizontal-tb" dir="rtl">
+                  <p mode="horizontal-tb" dir="rtl">
                          定報價格<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          每三日出一張增刊無定<lb/>
                          中國境內全年二元半年一元一<lb/>
                          角每月二角日本同其餘外國各<lb/>
                          埠加倍均作大洋計算報資先惠<lb/>
                          郵費在內郵票加一<lb/>
-                  </div> 
+                  </p> 
            </div>
-           <div type="other">
+           <div type="other"><p>
                   今日一張零售大洋二分四釐<lb/> 
-           </div>
+           </p></div>
            <div type="head" dir="rtl" mode="horizontal-tb">
-                  <div>
+                  <p>
                          晶報<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          ◘自動電話一二四二八號◘<lb/> 
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          ◘電報掛號四三七七卽神字◘<lb/> 
-                  </div>
+                  </p>
            </div> 
-           <div type="other">
+           <div type="other"><p>
                   第一千三百廿三號<lb/> 
-           </div>
+           </p></div>
            <div type="advert">
-                  <div mode="horizontal-tb" dir="rtl">
+                  <p mode="horizontal-tb" dir="rtl">
                          廣吿刊例<lb/>
-                  </div> 
-                  <div>
+                  </p> 
+                  <p>
                          『新聞欄中』價面議『新聞中縫』<lb/> 
                          計三十字長十字寬爲一格以半<lb/> 
                          格起碼每期每格洋八元『封面<lb/>
@@ -62,7 +62,7 @@
                          高十九字寬爲一格以半格起碼<lb/>
                          每期每格洋六元『後幅』分格等<lb/>
                          與封面同每期每格洋五元<lb/>               
-                  </div>
+                  </p>
            </div>
            <div type="advert" itemid="844">
                   <!-- 百病平安藥水 
@@ -242,23 +242,23 @@
     <!-- start verso page -->
     <div type="page" page="verso" n="4" mode="vertical-rl" dir="rtl">
            <div type="margin">
-                  <div>
+                  <p>
                          此處<lb/>
                          招登<lb/>
                          廣告<lb/>
                          價格<lb/>
                          面議<lb/>
-                  </div>
-                  <div mode="horizontal-tb" dir="rtl">
+                  </p>
+                  <p mode="horizontal-tb" dir="rtl">
                          晶報<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          此處<lb/>
                          招登<lb/>
                          廣告<lb/>
                          價格<lb/>
                          面議<lb/>
-                  </div>
+                  </p>
            </div>
            <div type="advert" itemid="857">
                   <!-- 亞爾培路逸園

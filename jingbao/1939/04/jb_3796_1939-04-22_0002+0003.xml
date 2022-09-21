@@ -1,24 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/hcts-hra/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3796_1939-04-22_0002+0003" lastedit="2021-06-28" lasteditor="xiejia1995" issueid="21">
+<fold xml:id="jb_3796_1939-04-22_0002+0003" lastedit="2022-09-20" lasteditor="xiejia1995" issueid="21">
 	<div type="page" page="verso" n="2" dir="rtl" mode="vertical-rl">
 	    <div type="margin" dir="rtl" mode="horizontal-tb">
-		    中華民國二十八年四月廿二日　晶報　星期六　第二版<lb/>
-        </div>
+			<p>
+		  		中華民國二十八年四月廿二日　晶報　星期六　第二版<lb/>
+      		</p>
+		</div>
 		<div type="article" itemid="356">
-		    <div dir="rtl" mode="horizontal-tb">
-			　　美艦集中太平洋<lb/>
-		    </div>
-			<div>
+		    <p dir="rtl" mode="horizontal-tb">
+				美艦集中太平洋<lb/>
+		    </p>
+			<p>
 			    爲長江權益問題<lb/>
 			    美已向日抗議<lb/>
 				艦隊泊於距離日本較近洋面<lb/>
 				保護所有屬地免日乘機掠奪<lb/>
-			</div>
-			<div>
+			</p>
+			
 		    <p>
 				（華盛頓廿一日<lb/>
 				路透社電）關於長<lb/>
@@ -51,8 +52,8 @@
 				美駐日大使格魯、<lb/>
 				向日外務省提出、<lb/>
 			</p>
-			</div>
-			<div>
+			
+			<p>
 				（紐約廿一日海<lb/>
 				通社電）關於美國<lb/>
 				艦隊之大部分軍艦<lb/>
@@ -81,16 +82,16 @@
 				上、或泊於夏威夷<lb/>
 				羣島附近、亦未可<lb/>
 				必云、<lb/>
-			</div>
+			</p>
 		</div>
-		<div type="article" itemid="357">
-			<div>
+	    <div type="article" itemid="357">
+			<p>
 			    英蘇繼續會談<lb/>
 				集體安全制<lb/>
 				各關係國可成立妥協<lb/>
 				波蘭政府竟不擬參加<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				（倫敦廿一日哈<lb/>
 				瓦斯社電）此間外<lb/>
 				交界人士頃宣稱、<lb/>
@@ -102,71 +103,65 @@
 				蘇三國、與其他各<lb/>
 				關係國、均有成立<lb/>
 				妥協之望云、<lb/>
-			</div>
-			<div>
-				<p>
-				    英蘇會商<lb/>
-					三國同盟<lb/>
-				</p>
-			</div>
-	    	<div>
-				<p>
-				    （華<lb/>
-				    沙廿<lb/>
-					一日海通電）據此<lb/>
-					間報章接莫斯科消<lb/>
-					息、蘇聯共產黨政<lb/>
-					治部、昨日開會、由<lb/>
-					史丹林主席、外交<lb/>
-					委員長李維諾夫、<lb/>
-					駐英大使邁斯基，<lb/>
-					均曾列席、商討締<lb/>
-					結英法蘇同盟問題<lb/>
-					、以及蘇聯加入之<lb/>
-					條件、决定向倫敦<lb/>
-					巴黎、提議召開國<lb/>
-					際會議、討論締盟<lb/>
-					問題云、<lb/>
-				</p>
-			</div>
-			<div>
-				<p>
-				    軍事協定<lb/>
-				    繼續談判<lb/>
-				</p>
-			</div>
-	    	<div>
-				<p>
-					（巴<lb/>
-					黎廿<lb/>
-					一日美聯電）英法<lb/>
-					兩國、不問波蘭羅<lb/>
-					馬尼亞、願否於被<lb/>
-					侵略時接受蘇聯之<lb/>
-					軍事援助、决計與<lb/>
-					蘇聯訂立三國軍事<lb/>
-					協定、該項軍事協<lb/>
-					定、目前雖尚在繼<lb/>
-					續談判中、但大致<lb/>
-					已吿完畢、<lb/>
-			    </p>
-				<p>
-				    （華沙廿一日美<lb/>
-					聯電）政府昨夜宣<lb/>
-					稱、波蘭會曾通知英<lb/>
-					法兩國、謂將不參<lb/>
-					加、任何英國企圖<lb/>
-					拉攏蘇聯共組之反<lb/>
-					侵略集團之談判、<lb/>
-				</p>
-			</div>
+			</p>			
+			<p>
+				英蘇會商<lb/>
+				三國同盟<lb/>
+			</p>		
+			<p>
+				（華<lb/>
+				沙廿<lb/>
+				一日海通電）據此<lb/>
+				間報章接莫斯科消<lb/>
+				息、蘇聯共產黨政<lb/>
+				治部、昨日開會、由<lb/>
+				史丹林主席、外交<lb/>
+				委員長李維諾夫、<lb/>
+				駐英大使邁斯基，<lb/>
+				均曾列席、商討締<lb/>
+				結英法蘇同盟問題<lb/>
+				、以及蘇聯加入之<lb/>
+				條件、决定向倫敦<lb/>
+				巴黎、提議召開國<lb/>
+				際會議、討論締盟<lb/>
+				問題云、<lb/>
+			</p>		
+			<p>
+				軍事協定<lb/>
+				繼續談判<lb/>
+			</p>		
+			<p>
+				（巴<lb/>
+				黎廿<lb/>
+				一日美聯電）英法<lb/>
+				兩國、不問波蘭羅<lb/>
+				馬尼亞、願否於被<lb/>
+				侵略時接受蘇聯之<lb/>
+				軍事援助、决計與<lb/>
+				蘇聯訂立三國軍事<lb/>
+				協定、該項軍事協<lb/>
+				定、目前雖尚在繼<lb/>
+				續談判中、但大致<lb/>
+				已吿完畢、<lb/>
+			</p>
+			<p>
+				（華沙廿一日美<lb/>
+				聯電）政府昨夜宣<lb/>
+				稱、波蘭會曾通知英<lb/>
+				法兩國、謂將不參<lb/>
+				加、任何英國企圖<lb/>
+				拉攏蘇聯共組之反<lb/>
+				侵略集團之談判、<lb/>
+			</p>			
 		</div>
-		<div type="article" itemid="358">
-			<div>
-			　　西國民軍各部<lb/>
-			　  移瑪德里<lb/>
-			</div>
-			<div>
+
+		<div type="article" itemid="358">			
+			<p>
+
+				西國民軍各部<lb/>
+				移瑪德里<lb/>
+			</p>
+			
 			<p>
 			    （蒲爾哥斯廿一<lb/>
 				日海通電）散在蒲<lb/>
@@ -177,14 +172,16 @@
 				月上半月、概概行集<lb/>
 				中瑪德里、<lb/>
 			</p>
-			</div>
+			
 		</div>
-		<div type="article" itemid="359">
-			<div>
+
+		<div type="article" itemid="359">			
+			<p>
+
 				墨與德義訂立<lb/>
 			    換物協定<lb/>
-			</div>
-			<div>
+			</p>
+			
 			<p>
 			    （墨西哥京城廿<lb/>
 				一日哈瓦斯社電）<lb/>
@@ -200,14 +197,17 @@
 				煤油、易取紙張與<lb/>
 				製紙機器、<lb/>
 			</p>
-			</div>
+			
 		</div>
+
 		<div type="article" itemid="361">
-			<div>
-			　　北菲義軍<lb/>
-			　　調動頻繁<lb/>
-			</div>
-			<div>
+			
+			<p>
+
+				北菲義軍<lb/>
+				調動頻繁<lb/>
+			</p>
+			
 			<p>
 				（北菲洲法屬都<lb/>
 			    尼斯港廿一日哈瓦<lb/>
@@ -223,14 +223,17 @@
 				港、或將集中埃及<lb/>
 				國邊境附近云、<lb/>
 			</p>
-			</div>
+			
 		</div>
+
 		<div type="article" itemid="362">
-			<div>
-			　　日本債台高築<lb/>
-			　   又發新債三萬萬元<lb/>
-			</div>
-			<div>
+			
+			<p>
+
+				日本債台高築<lb/>
+				又發新債三萬萬元<lb/>
+			</p>
+			
 				<p>
 			    （東京廿日路透<lb/>
 				電）三月卅一日、<lb/>
@@ -249,15 +252,17 @@
 				、分十七年零三個<lb/>
 				月償還、<lb/>
 				</p>
-			</div>
+			
 		</div>
-		<div type="article" itemid="360">
-			<div dir="rtl" mode="horizontal-tb">
+
+		<div type="article" itemid="360">			
+			<p dir="rtl" mode="horizontal-tb">
+
 				在自由的歐洲<lb/>
 				重建捷克國<lb/>
 				捷民族在美宣言<lb/>
-		    </div>
-			<div>
+		    </p>
+			<p>
 			    （美國芝加哥城廿<lb/>
 				一日哈瓦斯社電）捷克<lb/>
 				民族委員會、日前在此<lb/>
@@ -270,13 +275,16 @@
 				草擬獨立宣言、）頃已結束工作、當卽<lb/>
 				發表宣言、略謂本委員會當努力、在「<lb/>
 				自由的歐洲、重建自由的捷克國」云、<lb/>
-			</div>
+			</p>
 		</div>
+
 		<div type="article" itemid="363">
-			<div>
-			　 匈邊烽火<lb/>
-			</div>
-			<div>
+			
+			<p>
+
+			    匈邊烽火<lb/>
+			</p>
+			
 				<p>
 			    （匈牙利國京城<lb/>
 				廿一日哈瓦斯電）<lb/>
@@ -291,14 +299,17 @@
 				彈五枚、匈國邊防<lb/>
 				軍當卽予以還擊、<lb/>
 				</p>
-		    </div>
+		    
 		</div>
+
 		<div type="article" itemid="364">
-			<div>
-			　  帆船航海<lb/>
-			　　登陸被扣留<lb/>
-			</div>
-			<div>
+			
+			<p>
+
+				帆船航海<lb/>
+				登陸被扣留<lb/>
+			</p>
+			
 				<p>
 				（台北廿日路<lb/>
 				透電）寓滬俄人<lb/>
@@ -314,14 +325,17 @@
 				罪、各判處充苦<lb/>
 				役一年、<lb/>
 				</p>
-			</div>
+			
 		</div>
+
 		<div type="article" itemid="365">
-			<div>
-			　　國聯又將開會<lb/>
-				　中國　提申訴<lb/>
-			</div>
-			<div>
+			
+			<p>
+
+				國聯又將開會<lb/>
+				中國　提申訴<lb/>
+			</p>
+			
 				<p>
 				（日內瓦廿一日<lb/>
 				哈瓦斯電）國聯會<lb/>
@@ -332,32 +346,35 @@
 				國政府所提出之中<lb/>
 				日爭端申訴案、<lb/>
 				</p>
-			</div>
+			
 		</div>
+
 		<div type="article" itemid="366">
-			<div>
-			　  長篇<lb/>
-			　　小說<lb/>
-			</div>
-			<div>
+			
+			<p>
+
+				長篇<lb/>
+				小說<lb/>
+			</p>
+			<p>
 				新上海春秋<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				（三三六）<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				天笑<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				第十七回　千金之子不敢上堂　一字爲師可以折獄<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				周局長道：『這可惡極了，捉住了重重的辦他幾個纔好。』張律師道：『所<lb/>
 				以呢！但在法律上講起來，擲糞的沒有什麼大罪名，而且爲條文所不載，至多<lb/>
 				辦他個公然侮辱罷了。這不比被他打了一頓，可以驗傷有證據，那個被人擲糞<lb/>
 				的人，難受是難受極了，但到底驗不出傷痕。還有講到現代的法律，首重證據<lb/>
 				，你說他擲糞，他說沒有擲糞，這證據早已湮滅了。被擲糞的人，臉上身上，<lb/>
-			  　弄的一塌糊塗臭氣熏天，趕緊囘家去洗濯也來不及，難道還有那種人，從從容<lb/>
+			    弄的一塌糊塗臭氣熏天，趕緊囘家去洗濯也來不及，難道還有那種人，從從容<lb/>
 				容的，跑到巡捕房，請捕房裏人驗過，作爲證據嗎？要是如此，你跑到巡捕房<lb/>
 				裏，人家都要掩鼻而過之，而且還叫你站得遠些咧。』周局長道：『上海眞是<lb/>
 				個汚穢的世界，我倒情願還是打一頓，這種汚穢的事，實在受不了，嘔也先嘔<lb/>
@@ -366,247 +383,249 @@
 				等你出門或是上汽車的時候，用荷葉包好一包糞，對準了你的面孔，丟了過來<lb/>
 				。但是他們覺得這個方法不大好，因爲一個不當心，或者被擲糞的人一躲閃，<lb/>
 				就會擲到別人身上去，所以此刻是用另一方法了。』<lb/>
-			</div>
+			</p>
 		</div>
 		<div type="advert">
-			<div>
-			　　福煦路南成都路口<lb/>
+			<p>
+			    福煦路南成都路口<lb/>
 			    振新洗染廠<lb/>
-			</div>
-			<div dir="rtl" mode="horizontal-tb">
+			</p>
+			<p dir="rtl" mode="horizontal-tb">
 				春季<lb/>
 				大<lb/>
 				減價<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				精染不褪色綢緞衣料<lb/>
-			</div>
+			</p>
 		</div>
-		<div type="advert" itemid="481">
-			<div dir="rtl" mode="horizontal-tb">
+
+		<div type="advert" itemid="481">			
+			<p dir="rtl" mode="horizontal-tb">
+
 				霞飛路呂班路西<lb/>
-			</div>
-		    <div>
-				<div>
+			</p>
+		    
+				<p>
 					麗<lb/>
-			    </div>
-				<div>
+			    </p>
+				<p>
 					都<lb/>
-				</div>
-				<div>
+				</p>
+				<p>
 					綢緞公司<lb/>
-				</div>
-			</div>
-			<div>
-				<div>
-					<div>
+				</p>
+			
+			
+				
+					<p>
 					    新到<lb/>
-					</div>
-					<div>
+					</p>
+					<p>
 					    花素綢<lb/>
 						緞呢絨<lb/>
-					</div>
-					<div>
+					</p>
+					<p>
 					    種類繁多定價低廉<lb/>
 						承製春裝飄亮大方<lb/>
-					</div>
-			    </div>
-				<div>
-					<div dir="rtl" mode="horizontal-tb">
+					</p>
+			    
+				
+					<p dir="rtl" mode="horizontal-tb">
 					    大<lb/>
 						減價<lb/>
-					</div>
-					<div dir="rtl" mode="horizontal-tb">
+					</p>
+					<p dir="rtl" mode="horizontal-tb">
 					    奉送縫工<lb/>
-					</div>
-					<div>
-					    <div dir="rtl" mode="horizontal-tb">
+					</p>
+					
+					    <p dir="rtl" mode="horizontal-tb">
 					        印花<lb/>
-					    </div>
-                        <div>
+					    </p>
+                        <p>
                             春娜綢<lb/>
-                        </div>
-					    <div>
+                        </p>
+					    <p>
 					        每件<lb/>
 						    連工<lb/>
-					    </div>
-					    <div>
+					    </p>
+					    <p>
 					        三元<lb/>
-					    </div>
-					    <div dir="rtl" mode="horizontal-tb">
+					    </p>
+					    <p dir="rtl" mode="horizontal-tb">
 					        八角<lb/>
-					    </div>
-                        <div>
+					    </p>
+                        <p>
 					        花呢<lb/>
 						    春季<lb/>
-					    </div>
-                        <div>
+					    </p>
+                        <p>
                             大衣<lb/>
-                        </div>
-                        <div>
+                        </p>
+                        <p>
                             每件<lb/>
 						    連工<lb/>
-                        </div>
-					    <div>
+                        </p>
+					    <p>
 					        十二元<lb/>
-					    </div>
-					    <div>
+					    </p>
+					    <p>
 					        純純<lb/>
 							色<lb/>
-					    </div>
-                        <div>
+					    </p>
+                        <p>
                             紆縐<lb/>
-                        </div>
-					    <div>
+                        </p>
+					    <p>
 					        每件<lb/>
 						    連工<lb/>
-					    </div>
-					    <div>
+					    </p>
+					    <p>
 					        四元<lb/>
-					    </div>
-					    <div dir="rtl" mode="horizontal-tb">
+					    </p>
+					    <p dir="rtl" mode="horizontal-tb">
 					        八角<lb/>
-					    </div>
-					</div>
-			    </div>
-				<div>
-					<div>
+					    </p>
+					
+			    
+				
+					<p>
 					    服裝部<lb/>
-					</div>
-					<div>
+					</p>
+					<p>
 					    承製新裝大衣各式旗袍工<lb/>
 					    作可靠式樣新穎出租男女<lb/>
 						<!-- "靠"is not clear here. but clear in the same ad in 《新闻报》1938-11-18 p1-->
 						禮服兜紗定價特別低廉<lb/>
-					</div>
-				</div>
-			</div>
-			<div dir="rtl" mode="horizontal-tb">
-				<div>
+					</p>
+				
+			
+			
+				<p dir="rtl" mode="horizontal-tb">
 				    電話八五九九九<lb/>
 					廉價部<lb/>
-				</div>
-				<div dir="rtl" mode="vertical-rl">
+				</p>
+				<p dir="rtl" mode="vertical-rl">
 					每尺<lb/>
-				</div>
-				<div>
+				</p>
+				<p>
 					二角<lb/>
-				</div>
-				<div dir="rtl" mode="vertical-rl">
+				</p>
+				<p dir="rtl" mode="vertical-rl">
 					五分<lb/>
-				</div>
-				<div>
+				</p>
+				<p>
 					起<lb/>
-				</div>
-			</div>
+				</p>
+			
 		</div>
 		<div type="advert" itemid="578">
 			<div>
-			    <div>
+			    <p>
 				    石路二馬路口<lb/>
-			    </div>
-				<div dir="rtl" mode="horizontal-tb">
+			    </p>
+				<p dir="rtl" mode="horizontal-tb">
 					鴻昌<lb/>
 					綢緞皮貨衣莊<lb/>
 					二樓特設營業部<lb/>
-				</div>
-			    <div>
+				</p>
+			    <p>
 					電話九一五七〇<lb/>
-			    </div>
+			    </p>
 			</div>
 			<div>
 				<div>
-					<div dir="rtl" mode="horizontal-tb">
+					<p dir="rtl" mode="horizontal-tb">
 					    估衣部<lb/>
-					</div>
-					<div>
+					</p>
+					<p>
 					    精選大當<lb/>
 						典押滿貨<lb/>
 						四季衣服<lb/>
 						品質高貴<lb/>
-					</div>
-					<div dir="rtl" mode="horizontal-tb">
+					</p>
+					<p dir="rtl" mode="horizontal-tb">
 					    皮貨部<lb/>
-					</div>
-					<div>
+					</p>
+					<p>
 						灰鼠狐嵌<lb/>
 						紫貂豹皮<lb/>
 						粗細皮貨<lb/>
 						應有盡有<lb/>
-					</div>
+					</p>
 				</div>
 				<div>
-					<div>
+					<p>
 					    各界<lb/>
 						注意<lb/>
-					</div>
-					<div>
+					</p>
+					<p>
 						敝號近向滬上各大<lb/>
 						典當印出大批原當<lb/>
 						男女春季衣服綢緞<lb/>
 						嗶吱式樣新穎劃碼<lb/>
 						便宜諸君一試便知<lb/>
-					</div>
+					</p>
 				</div>
 				<div>
-					<div dir="rtl" mode="horizontal-tb">
+					<p dir="rtl" mode="horizontal-tb">
 					    新裝部<lb/>
-					</div>
-					<div>
+					</p>
+					<p>
 						專家設計<lb/>
 						式樣翻新<lb/>
 						定製衣着<lb/>
 						隔日取貨<lb/>
-					</div>
-					<div dir="rtl" mode="horizontal-tb">
+					</p>
+					<p dir="rtl" mode="horizontal-tb">
 					    壽衣部<lb/>
-					</div>
-					<div>
+					</p>
+					<p>
 						繡花衾枕<lb/>
 						錦被錦褥<lb/>
 						各種壽衣<lb/>
 						一應俱全<lb/>
-					</div>
+					</p>
 				</div>
 			</div>
 			<div>
-				<div>
+				<p>
 					不限<lb/>
 					日期<lb/>
-				</div>
-				<div>
+				</p>
+				<p>
 					歡迎<lb/>
 					參觀<lb/>
-				</div>
-				<div>
+				</p>
+				<p>
 					包退<lb/>
 				    還洋<lb/>
-				</div>
+				</p>
 			</div>
 		</div>
 		<div type="margin">
 			廣吿刊例：　報名旁　每日每方二十元　長行計七寸高　每日每行一元八角　短行計三寸半高　每日每行九角　中縫計三寸半高二寸濶　每日每格八元<pb/>
 		</div>
 	</div>
-	<div type= "margin" dir="rtl" mode="vertical-rl">
+	<div type="margin" dir="rtl" mode="vertical-rl">
 	    <div type="advert" itemid="482">
-			<div dir="rtl" mode="horizontal-tb">
+			<p dir="rtl" mode="horizontal-tb">
 			    梅邨<lb/>
-			</div>
-			<div>
-				<div>
+			</p>
+			
+				<p>
 			        專營上等罐頭食品<lb/>
 				    擇吉開幕<lb/>
-				</div>
-				<div>
+				</p>
+				<p>
 					裝璜淸秀<lb/>
 				    售價便宜<lb/>
-				</div>
-				<div>
+				</p>
+				<p>
 					糖果餅乾麵包冷飲<lb/>
-				</div>
-			</div>
-			<div>
+				</p>
+			
+			<p>
 			    地址<lb/>
 				嵩山<lb/>
 				路二<lb/>
@@ -616,36 +635,36 @@
 				大戲<lb/>
 				院隔<lb/>
 				壁<lb/>
-			</div>
+			</p>
 		</div>
 	    <div type="advert" itemid="483">
-			<div>
+			<p>
 				小兒科<lb/>
 				內科<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				專門<lb/>
 				醫師<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				宋虞琪<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 			    ▲診所霞飛路馬斯路口東首先施公<lb/>
 				司一元商店對面六百二十二<lb/>
 				弄泰山公寓六號內五十三號<lb/>
 				▲時間門診上午十時至十二時下午<lb/>
 				三時至五時餘時出診<lb/>
 				▲電話八一〇四二號<lb/>
-			</div>
+			</p>
 		</div>
 	    <div type="advert" itemid="484">
-	    	<div>
+	    	<p>
 			    陳效懷醫師<lb/>
 		        △負責根治淋濁　梅毒　下瘡<lb/>
 	    		及其併發症暨男女一切性病<lb/>
-	    	</div>
-	    	<div>
+	    	</p>
+	    	<p>
 				採用現代最新療法及特効專業<lb/>
 			    參以多年臨診經驗運用精嫻手術<lb/>
 	    		靈巧器械爲病者迅速解除痛苦<lb/>
@@ -660,15 +679,17 @@
 				二三八號（拋球場東首）電話一六七〇五時間●每日上午九時至下午六時星期日下午停診（附吿）<lb/>
 				近常有以花柳病及性病病症狀及治法函詢者惟來函多簡略不詳殊難爲切實之解答爲此特定每日<lb/>
 				下午一時至三時在此時間內病者可親臨詢問俾得爲較確切之檢查與解答完全義務不收任何費用<pb/>
-	    	</div>
+	    	</p>
 		</div>
 	</div>
 	<div type="page" page="recto" n="3" dir="rtl" mode="vertical-rl">
 	    <div type="margin" dir="rtl" mode="horizontal-tb">
-		    中華民國二十八年四月廿二日　晶報　星期六　第三版<lb/>
-        </div>
+			<p>
+				中華民國二十八年四月廿二日　晶報　星期六　第三版<lb/>
+			</p>
+		</div>
 		<div type="article" itemid="367">
-		    <p type="title">
+		    <p>
 			    龍華游擊隊<lb/>
 		        神計妙算<lb/>
 		    	黑夜大雨下擾亂日僞陣線<lb/>
@@ -686,8 +707,7 @@
 	    		駛到、以電筒照射、始知中神計、然遊<lb/>
 	    		擊隊早已引去、日軍當晚在該處挨戶搜<lb/>
 	    		索、捕去農民十餘人云、<lb/>
-			</p>
-	    	
+			</p>	    	
 		</div>
 		<div type="article" itemid="368">
 			<p>
@@ -743,11 +763,11 @@
 			</p>
 		</div>
         <div type="article" itemid="369">
-			<div dir="rtl" mode="horizontal-tb">
+			<p dir="rtl" mode="horizontal-tb">
 			    綢莊經理<lb/>
 				被婦人控侵佔<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 			    南匯婦人邱徐氏<lb/>
 				、今年卅五歲、住<lb/>
 				居大西路汪家衖六<lb/>
@@ -767,16 +787,19 @@
 				訴、二庭傳審、被<lb/>
 				吿不到、諭改期五<lb/>
 				月一日再審云、<lb/>
-			</div>
+			</p>
         </div>
+
 		<div type="article" itemid="370">
-			<div>
+			
+			<p>
+
 			    通訊社社長<lb/>
 			    婚期將屆被拘<lb/>
 				因借愛國名義詐財<lb/>
 			    苦了未婚妻余雯英女士<lb/>
-			</div>
-			<div>
+			</p>
+			
 			<p>
 				中國新聞社社長祈仍璋、及自稱記者<lb/>
 				之朱紹良、陳學明等、用三民主義靑年<lb/>
@@ -785,11 +808,11 @@
 				一起拘獲、解特一院、奉諭收押偵查、昨<lb/>
 				晨解案、據被害人、<lb/>
 		    </p>
-			</div>
-			<div>
+			
+			<p>
 				楊雪樵供<lb/>
-			</div>
-		    <div>	
+			</p>
+		    	
 		    <p>
 				被吿<lb/>
 				等第<lb/>
@@ -843,14 +866,17 @@
 				諭交保不准、均還<lb/>
 				押、<lb/>
 			</p>
-		</div>
+		
 	   </div>
+
 		<div type="article" itemid="371">
-			<div>
+			
+			<p>
+
 			    戰時食糧調節<lb/>
 			    各省省地銀行協助辦理<lb/>
-			</div>
-			<div>
+			</p>
+			
 			<p>
 				各省省銀行、及地方銀行、現積極<lb/>
 				協助省市縣政府及農本局等主管機關<lb/>
@@ -868,13 +894,15 @@
 				均儘量利用木船、手車、及牲畜等廉價<lb/>
 				運輸工具、務使成本減輕、而利民食、<lb/>
 			</p>
-			</div>
+			
 		</div>
-		<div type="article" itemid="372">
-		    <div dir="rtl" mode="horizontal-tb">
+
+		<div type="article" itemid="372">		
+		    <p dir="rtl" mode="horizontal-tb">
+
 			    刦土巨案<lb/>
-			</div>
-			<div>
+			</p>
+			
 				<p>
 				    朱葆三路<lb/>
 				    發現空汽車一輛<lb/>
@@ -917,15 +945,18 @@
 					房遂將該汽車帶去<lb/>
 			    	備案偵查、<lb/>
 				</p>
-			</div>
+			
 		</div>
+
 		<div type="article" itemid="373">
-			<div>
+			
+			<p>
+
 			    交友之道難矣<lb/>
 			    强佔友妻唆使捲逃壓迫離婚<lb/>
 			    捕房以妨害等罪起訴<lb/>
-			</div>
-			<div>
+			</p>
+			
 		    <p>
 				無錫人周紀根、<lb/>
 			    向開設鐵廠、早年<lb/>
@@ -952,71 +983,66 @@
 				二院、依法起訴、<lb/>
 				諭知改期廿八日再<lb/>
 				審云、<lb/>
-			</p>
-			</div>
+			</p>			
 		</div>
 		<div type="article" itemid="374">
-			<div>
-				<p>
-			        經濟簡訊<lb/>
-			    </p>
-			</div>
-			<div>
+			<p>
+				經濟簡訊<lb/>
+			</p>			
+			<p>
 				 貼現<lb/>
-			</div>
-			<div>
-			    <p>
-				    昨日匯劃<lb/>
-					票據貼現<lb/>
-					率、一度<lb/>
-					曾到四十九元、最<lb/>
-					後價爲四十八元七<lb/>
-					角五分、<lb/>
-				</p>
-			</div>
+			</p>			
+			<p>
+				昨日匯劃<lb/>
+				票據貼現<lb/>
+				率、一度<lb/>
+				曾到四十九元、最<lb/>
+				後價爲四十八元七<lb/>
+				角五分、<lb/>
+			</p>
 		</div>
 		<div type="article" itemid="376">
-			<div>
+			<p>
 				飾金<lb/>
-			</div>
-			<div>
-				<p>
-                昨日銀樓<lb/>
-			　　飾金（每<lb/>
-			　　兩兌出）<lb/>
-			　　大同行二百十元、<lb/>
-			   新同行二百〇八元<lb/>
-			　　云、<lb/>
-				</p>
-			</div>
+			</p>			
+			<p>
+				昨日銀樓<lb/>
+				飾金（每<lb/>
+				兩兌出）<lb/>
+				大同行二百十元、<lb/>
+				新同行二百〇八元<lb/>
+				云、<lb/>
+			</p>		
 		</div>
 		<div type="article" itemid="375">
-			<div>
+			<p>
 				米市不振<lb/>
-			</div>
-			<div>
-			　　日昨河下來源、<lb/>
-			　　仍見寥落、僅車輪<lb/>
-			　　到貨約計三千包弱<lb/>
-			　　、本街銷場、毫無<lb/>
-			　　進展、囤戶更鮮問<lb/>
-			　　津、兼天時悶蒸、<lb/>
-			　　米質易宿、是以執<lb/>
-			　　貨者、紛紛求脫、<lb/>
-			　　市面一蹶不振、結<lb/>
-			　　果厚粳續瘦數分至<lb/>
-			　　角許、薄稻貨稀定<lb/>
-			　　站、羊尖略緊惟變<lb/>
-			　　元因去路呆滯、已<lb/>
-			　　疲跌二角云、<lb/>
-			</div>
+			</p>
+			<p>
+				日昨河下來源、<lb/>
+				仍見寥落、僅車輪<lb/>
+				到貨約計三千包弱<lb/>
+				、本街銷場、毫無<lb/>
+				進展、囤戶更鮮問<lb/>
+				津、兼天時悶蒸、<lb/>
+				米質易宿、是以執<lb/>
+				貨者、紛紛求脫、<lb/>
+				市面一蹶不振、結<lb/>
+				果厚粳續瘦數分至<lb/>
+				角許、薄稻貨稀定<lb/>
+				站、羊尖略緊惟變<lb/>
+				元因去路呆滯、已<lb/>
+				疲跌二角云、<lb/>
+			</p>
 		</div>
-		<div type="article" itemid="377">
-			<div>
-			　　江海關搜查太原輪<lb/>
-			　  抄獲現銀一大木箱<lb/>
-			</div>
-			<div>
+
+		<div type="article" itemid="377">			
+			<p>
+
+				江海關搜查太原輪<lb/>
+				抄獲現銀一大木箱<lb/>
+			</p>
+			
 			<p>
 				本埠素日行駛於<lb/>
 				油頭香港線之英商<lb/>
@@ -1031,16 +1057,19 @@
 				二萬餘元、抄出後<lb/>
 				、經海關予以沒收<lb/>
 				、一面正在嚴查携<lb/>
-			  　帶者云、<lb/>
+			  	帶者云、<lb/>
 			</p>
-			</div>
+			
 	    </div>
+
 		<div type="article" itemid="378">
-			<div>
-			　　公債<lb/>
-			　  反動下跌<lb/>
-			</div>
-			<div>
+			
+			<p>
+
+				公債<lb/>
+				反動下跌<lb/>
+			</p>
+			
 			<p>
 				昨日統一公債暗<lb/>
 				盤市况忽起反動<lb/>
@@ -1049,39 +1078,43 @@
 				不捨、結果各跌三<lb/>
 				角至四角五分、九<lb/>
 				六亦小一角、成交<lb/>
-				約一百萬&gaiji;、<lb/>
+				約一百萬、<lb/>
 				<!-- "云" or nothing. not sure. -->
 		    </p>
-			</div>
+			
 		</div>
+
 		<div type="article" itemid="381">
-			<div>
-			　　體育<lb/>
-			　　簡報<lb/>
-			</div>
-			<div>
-			　　▲華聯田<lb/>
-			　　徑隊、卽<lb/>
-			　　日開始報名、<lb/>
-			</div>
+			<p>
+				體育<lb/>
+				簡報<lb/>
+			</p>
+			<p>
+				▲華聯田<lb/>
+				徑隊、卽<lb/>
+				日開始報名、<lb/>
+			</p>
 		</div>
 		<div type="article" itemid="380">		
-			　　▲錢業聯誼會、<lb/>
-			　　今晚下午舉行乒乓<lb/>
-			　　表演賽、<lb/>			
+			<p>
+				▲錢業聯誼會、<lb/>
+				今晚下午舉行乒乓<lb/>
+				表演賽、<lb/>
+			</p>			
 		</div>
 		<div type="article" itemid="379">			    
-			　　▲警務處運動會<lb/>
-			　　、今日在美童揭幕<lb/>
-			　　、下午一時半開始<lb/>
+			<p>
+				▲警務處運動會<lb/>
+				、今日在美童揭幕<lb/>
+				、下午一時半開始<lb/>
+			</p>
 	    </div>
 		<div type="article" itemid="382">
-			<div>
-			　　孤島球壇<lb/>
-			　  今晚將創奇績<lb/>
-			　　中靑健身房大戰爆發<lb/>
-			</div>
-			<div>
+			<p>
+				孤島球壇<lb/>
+				今晚將創奇績<lb/>
+				中靑健身房大戰爆發<lb/>
+			</p>			
 			<p>
 				中靑年會與復旦同學會合辦之慈<lb/>
 				善籃球賽、今晚爲最後一幕、比賽<lb/>
@@ -1094,27 +1127,27 @@
 		    </p>
 		</div>
 		<div type="article" itemid="383">
-			<div>
-			　　今雜事祕<lb/>
-			</div>
-			<div>
-			　　△早熟<lb/>
-			</div>
-			<div dir="rtl" mode="horizontal-tb">
+			<p>
+				今雜事祕<lb/>
+			</p>
+			<p>
+				△早熟<lb/>
+			</p>
+			<p dir="rtl" mode="horizontal-tb">
 			    （十五）<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 			    捉刀人譔<lb/>
-			</div>
-			<div>
+			</p>
+			
 			    <p>
-				　　俶南憑窗呼黃鶯，黃鶯登樓，俶南曰：「我今日發現大秘密，公子幼俶欺<lb/>
+					俶南憑窗呼黃鶯，黃鶯登樓，俶南曰：「我今日發現大秘密，公子幼俶欺<lb/>
 				    我。汝速爲我召眉峯以下六人來，我將一一加以嚴鞠。」黃鶯乃遍召六人至<lb/>
 				    ，俶南審視六人面。翡翠與心田現笑容，俶南曰：「年稍長，聞好事近，則<lb/>
 					笑，在情理中也。」其次心坎與足音，垂首至臆，縱有問，答時語聲自臆際<lb/>
 					出，俶南曰：「所謂羞人答答，此因常有之事，亦在情理中也。」惟一婢眼<lb/>
 					波，惶駭不可名狀，震其齒，戰其股。俶南曰：「是殆蹈眉峯之覆轍者，懼<lb/>
-				  　一旦事發。今事發之期屆矣。」卽舍他婢，獨令眼波來前，問曰：「汝與幼<lb/>
+				    一旦事發。今事發之期屆矣。」卽舍他婢，獨令眼波來前，問曰：「汝與幼<lb/>
 					俶有染乎？」眼波震懾言曰：「無之。」又問曰：「除幼俶之外，僮若麒麟<lb/>
 					，僕若老鷹，亦嘗侮汝乎？」眼波復震懾言曰：「無之。」俶南曰：「我不<lb/>
 					信。」因以治眉峯之法治眼波，眼波流淚曰：「我母吿我，謂主人酷信妾不<lb/>
@@ -1123,34 +1156,33 @@
 					母名石榴。」俶南聞之，盡揮諸婢下樓。次日，毀其冊。又次日，盡遣諸婢<lb/>
 			    	他去，第中僅傭老婦。說者，謂石榴爲劉家最早之婢，俶南御之，孕眼波而<lb/>
 					嫁人，今俶南乃自食其果也。噫！<lb/>
-			    </p>
-			</div>
+			    </p>			
 		</div>
 		<div type="advert" dir="rtl" mode="vertical-rl" itemid="485">
-			<div dir="rtl" mode="horizontal-tb">
-				品特效<lb/>
-				<!-- here should be "本品特效", but the first character is not clearly printed !-->
+			<div type="image" itemid="351">
 			</div>
-			<div>
-		        調經<lb/>
-			    活血<lb/>
-			    温宮<lb/>
-				催孕<lb/>
-			</div>			
-		    <div type="image" itemid="351">
+			<div type="other">
+				<p dir="rtl" mode="horizontal-tb">
+					本品特效<lb/>
+					<!-- here the first character is not clearly printed !-->
+				</p>
+				<p>
+					調經<lb/>
+					活血<lb/>
+					温宮<lb/>
+					催孕<lb/>
+				</p>
 			</div>
 			<div type="image" itemid="352">
 			</div>
-			<div>
-			    <div>
+			<div type="other">
+			    <p>
 				    晚霞廿四<lb/>
-		        </div>
-			</div>
-			<div>
-				<div dir="rtl" mode="horizontal-tb">
+		        </p>					
+				<p dir="rtl" mode="horizontal-tb">
 					當歸兒<lb/>
-				</div>			
-				<div>
+				</p>			
+				<p>
 					當歸爲婦人<lb/>
 				    科聖藥、早<lb/>
 					經國醫界所<lb/>
@@ -1163,69 +1195,67 @@
 					稀宮冷、久<lb/>
 					不生育、均<lb/>
 					有特効、<lb/>
-				</div>
-				<div>
+				</p>
+				<p>
 					新亞藥廠製造<lb/>
 					藥房均售<lb/>
-				</div>
-			</div>
-		</div>
+				</p>
 		</div>
 		<div type="advert" itemid="486">
-		    <div dir="rtl" mode="horizontal-tb">
+		    <p dir="rtl" mode="horizontal-tb">
 				大華舞廳<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				首創第一<lb/>
 			    通宵營業<lb/>
 				紅星總匯<lb/>
 				日夜擁擠<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				全班著名<lb/>
 			    樂隊會集<lb/>
 				世界佳曲<lb/>
-		    </div>
-			<div>
-				<div dir="rtl" mode="horizontal-tb">
+		    </p>
+
+				<p dir="rtl" mode="horizontal-tb">
 				    天天茶舞<lb/>
-				</div>
-				<div>
+				</p>
+				<p>
 					四時<lb/>
 				    起八<lb/>
 					時止<lb/>
 					奉送<lb/>
 					淸紅<lb/>
 					香茗<lb/>
-				</div>
-			</div>
-			<div>
-				<div>
+				</p>
+			
+			
+				<p>
 					地址<lb/>
 					愛多<lb/>
 					亞路<lb/>
 					馬霍<lb/>
 					路口<lb/>
-				</div>
-				<div dir="rtl" mode="horizontal-tb">
+				</p>
+				<p dir="rtl" mode="horizontal-tb">
 				    電話八一三八一號<lb/>
-				</div>
-		    </div>
+				</p>
+		    
 		</div>
 		<div type="advert" itemid="487">
-		    <div dir="rtl" mode="horizontal-tb">
+		    <p dir="rtl" mode="horizontal-tb">
 				虎標<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				頭痛粉<lb/>
 				提神養腦<lb/>
 				驅風散邪<lb/>
 				頭痛牙痛<lb/>
 				卽服卽止<lb/>
-			</div>
-			<div dir="rtl" mode="horizontal-tb">
+			</p>
+			<p dir="rtl" mode="horizontal-tb">
 				各藥房烟兌雜貨店均有售<lb/>
-			</div>
+			</p>
 		</div>
 		<div type="margin" dir="rtl" mode="vertical-rl">
 			定報價目：　本埠　每月四角　三個月一元　外埠　每月五角　三月一元四角　半年二元六角　全年五元　郵費在內　國外加倍報資先惠<pb/>

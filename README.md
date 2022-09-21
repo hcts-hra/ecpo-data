@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/exc-asia-and-europe/ecpo.svg?branch=master)](https://travis-ci.com/exc-asia-and-europe/ecpo)
+[![CI](https://github.com/hcts-hra/ecpo/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/hcts-hra/ecpo/actions/workflows/ci.yml)
 
 # ECPO
 Early Chinese Periodicals Online:

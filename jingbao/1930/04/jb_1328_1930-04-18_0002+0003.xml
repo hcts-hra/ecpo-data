@@ -1,27 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/hcts-hra/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_1328_1930-04-18_0002+0003" lastedit="2022-01-18" lasteditor="xiejia1995">
+<fold xml:id="jb_1328_1930-04-18_0002to0003" lastedit="2022-01-18" lasteditor="xiejia1995">
     <!-- start verso page -->
     <div type="page" page="verso" n="2" dir="rtl" mode="vertical-rl">
         <div type="margin">
-            <div dir="rtl" mode="horizontal-tb">
+            <div type="other">
+            <p dir="rtl" mode="horizontal-tb">
                 晶報<lb/>
-            </div>
+            </p>
+                </div>
             <div type="advert" dir="rtl" mode="horizontal-tb" itemid="1233">
                 <!--  請飲金納氏巴德補血酒以健尊體<lb/> -->
             </div>
         </div>
         <div type="article" itemid="1348">
-            <div>
+            <p>
                 怕女政客<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （丹翁）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 日本婦人參政權同盟、招待貴族院<lb/>
                 議員同志、上院議員、竟無一人出席<lb/>
                 、據言甚畏女政客捉住話柄、嘻、此<lb/>
@@ -39,21 +40,21 @@
                 欲帖括者、乃在『話柄』二字、以日本<lb/>
                 上院議員之吐囑名雋至此、誠可風<lb/>
                 云、<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 悽慘舌頭尖臨時忽戒嚴只因機累<lb/>
                 靶易惹客開箝嚼縱忘蛆白搖還愧<lb/>
                 塵纖旣非三寸爛何事故從謙<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1349">
-            <div>
+            <p>
                 宜昌特稅之特狀<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （寶鳳）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 淸理兩湖特稅處、有分處三、其在老河口之襄鄖分處、近因軍事戒嚴、特<lb/>
                 貨亦將阻滯、湖南分處、不在寶慶而在長沙、月收特稅約一百萬、皆爲湘<lb/>
                 政府截留、該處雖名兩湖、實僅限於一湖、稅之最旺者爲宜昌分處、月收<lb/>
@@ -68,16 +69,16 @@
                 、不似宜昌歸公安局收捐、漢公安局乃常有依法查辦烟館、緝拿運土之舉<lb/>
                 、春間有漢口三律師、控特稅處長沈公慄不法、法庭雖受理而無判决、是<lb/>
                 則特稅處之所以爲特也、<lb/>              
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1350">
-            <div>
+            <p>
                 某廳購鎗之黑幕<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （天倪）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 近有某機關中人、投函本<lb/>
                 報者、謂以么二三四五六<lb/>
                 著名之某廳長、卽以購槍<lb/>
@@ -108,16 +109,16 @@
                 機關、均以廉潔爲號召、果<lb/>
                 如是、則所云不廉潔者又<lb/>
                 若之何、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1351">
-            <div>
+            <p>
                 納稅西人會之華董案<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （絳雪）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 上海公共租界西人納稅會、於十六<lb/>
                 日下午二時、在市政廳開年會、廳外<lb/>
                 門禁森嚴、新聞記者之列席、每報均<lb/>
@@ -158,28 +159,28 @@
                 言時、頻𦦙桌上之小<lb/>
                 茶壺就口解渴、可見<lb/>
                 其舌敝而唇焦也、<lb/>                             
-            </div>
+            </p>
         </div>       
         <div type="image" itemid="757">
-            <div dir="rtl" mode="horizontal-tb">
+            <p dir="rtl" mode="horizontal-tb">
                 ◘下月拆造之上海市政廳◘<lb/>
-            </div>          
+            </p>          
         </div>
         <div type="image" itemid="758">
-            <div dir="rtl" mode="horizontal-tb">
+            <p dir="rtl" mode="horizontal-tb">
                 ◘大馬路小菜場址售與哈同洋行◘<lb/>                
-            </div>
+            </p>
         </div>        
         <div type="article" itemid="1352">
-            <div>
+            <p>
                 地中海岸Berre水上飛機場沙灘吟眺<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 （一枝）<lb/>
                 （鷦寄）<lb/>
                 （客稿）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 高天深海無寗羽。蟾闕龍<lb/> 
                 宮幾戰塲。回首欷噓十年<lb/>
                 事。白沙洲外有滄桑。<lb/>
@@ -209,16 +210,16 @@
                 友名記者某公、軺乘過此、<lb/>
                 於我多所勗勉、我愧廢劣、<lb/>
                 無以爲報也、自巴黎寄）<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1353">
-            <div>
+            <p>
                 無線電以不學爲是<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （殷鑑）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 閱本報所載之無線電<lb/>
                 傳習所新聞、及更正<lb/>
                 一函、卽使紀載非實、更正不虛、竊<lb/>
@@ -242,10 +243,10 @@
                 耗數百元、費時六個月、卒之求一三<lb/>
                 等報務員、而不可得、荒廢稍久、學<lb/>
                 業便疏、似猶以不學爲是也、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1354">
-            <div>
+            <p>
                 ◘中國航空公司、去年五月與美國<lb/>
                 航空發展公司、訂立中美航空合同、<lb/>
                 後經中華航空協進會上海郵務公會<lb/>
@@ -255,10 +256,10 @@
                 派代表百林來華、惟聞百係一煤油<lb/>
                 小商人、與航空毫無關係、會議前途<lb/>
                 、尙難樂觀、（航客）<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1355">
-            <div>
+            <p>
                 ◘五卅慘案、旣以卹欵了事、近復有<lb/>
                 詐欺取財事發生、損辱國體極矣、被<lb/>
                 難烈士家屬會胡長生陳甫才等、已<lb/>
@@ -266,16 +267,16 @@
                 文三人、冒羅文烺名、至會登記、領<lb/>
                 欵二千元、又控志成泰茶號爲之抯<lb/>
                 保、聲請緊急處分、立提法辦、（威）<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1356">
-            <div>
+            <p>
                 納稅華人會之霏屑<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （神獅）<lb/>
-            </div>
-            <div>
+            </p>
+            
                 <p>
                 上海公共租界納稅華人會、十六日在天后宮橋商整會內、開第九屆選𦦙<lb/>
                 大會、以工部局華董將由三人增至五人、開會時、較往年尤爲興奮、定三<lb/>
@@ -305,11 +306,11 @@
                 汽車碾死請求援助案、會衆討論、頗爲激昂、代表江一平君卽承辦劉案之<lb/>
                 律師、謂曾見劉屍一足轢斷、腸腑壓出、七竅流血、滿座皆爲蹙額者久之、<pb/> 
                 </p>
-            </div>
+            
         </div>
     </div>
     <!-- start middle of the fold -->
-    <div type= "margin" dir="rtl" mode="vertical-rl">
+    <div type="margin" dir="rtl" mode="vertical-rl">
         <div type="advert" itemid="1232">
             <!--
                        絞盤牌
@@ -320,28 +321,28 @@
     <!-- start recto page -->
     <div type="page" page="recto" n="3" dir="rtl" mode="vertical-rl">
         <div type="margin">
-            <div>
+            <p>
                 此處<lb/>
                 招登<lb/>
                 廣吿<lb/>
                 價格<lb/>
                 面議<lb/>			
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 社會文藝之結晶<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 晶報<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1357">
-            <div>
+            <p>
                 汽車號碼之卜術<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （乃公）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 某寓公精卜筮術、能以汽車號碼、斷<lb/>
                 人休咎、有奇驗、律師淸河二郎、聞<lb/>
                 而異之、以自備二五〇〇號請卜、時<lb/>
@@ -356,16 +357,16 @@
                 子、二郎聞之、大笑而退、以爲此術、<lb/>
                 足與葫蘆糊塗鼎峙而三、或曰、所卜<lb/>
                 與某律師與香君老五事相彷彿也、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1358">
-            <div>
+            <p>
                 新興木人頭戲<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （曼妙）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 傀儡之戲、吾國自古已有之、卽所謂木人頭戲也、兒時於新年中、每見有<lb/>
                 此演傀儡戲者、荷一担、其一頭則爲戲台、一頭爲圓箱、藏木人及種種道<lb/>
                 具、演時以戲台矗立担桿上、下垂以幕、遮其圓箱、乃出木人、以手握之、<lb/>
@@ -379,16 +380,16 @@
                 本現在也有人提倡木人戲、寫了許多用木人演的戲曲、因爲這是極簡單<lb/>
                 的、有流動性的、無論何處的鄉村僻壤都可以做的、我們中國也有人想提<lb/>
                 倡而改良木人頭戲、說了好久、我們却很盼望新興的木人頭戲、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1359">
-            <div>
+            <p>
                 珮影<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （小英）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 周五小姐之居、元名易居、近改爲周<lb/>
                 公館、幼女佩珮出走後、厭厭無生氣<lb/>
                 、客往多談珮事、聞珮於兩三年間、<lb/>
@@ -398,14 +399,15 @@
                 、玩物紛列、一如囊日、五時被以薰<lb/>
                 染、珮以是益慧、去時僅攜一小鑽戒<lb/>
                 、五思之甚、猶夢想其翩然來歸也、<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 ◘易居之花◘<lb/>
                 （佩珮去年小影）<lb/>                
-            </div>
-            <div type="image" itemid="756"></div>
+            </p>
+            <!--  see #128       -->
+<!--            <div type="image" itemid="756"/>-->
         </div>
-        <div type="article" itemid="1360">
+        <div type="article" itemid="1360"><p>
             ◘國際聯盟辦事處吳凱聲君、前在<lb/>
             滬任律師時、曾與蘇頌堯因抵押物<lb/>
             涉訟、上訴至最高法院、又發囘更審<lb/>
@@ -414,15 +416,15 @@
             一副、吳不甘服、其代理人賈耀西延<lb/>
             伍澄宇律師又向最高法院提起上訴<lb/>
             、請將案卷迅速送至第三審、（明）<lb/>                        
-        </div>        
+        </p></div>        
         <div type="article" itemid="1366">
-            <div>
+            <p>
                 江灣覆車案之摩女淚<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （傍花）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 華女按摩、旣雲湧而興、一<lb/>
                 班婦女、視與舞女及女招<lb/>
                 待相等夷、惟初見男子裸<lb/>
@@ -456,19 +458,19 @@
                 一萬四千元、已經檢察官<lb/>
                 偵查、不久開庭審理、寶媛<lb/>
                 且擬往旁聽也、<lb/>
-            </div>            
+            </p>            
         </div>
-        <div type="article" itemid="1361">
+        <div type="article" itemid="1361"><p>
             ◘江西鹽商周渭賓、因營業失敗、所<lb/>
             開錢莊曁鹽號、先後淸理、聞虧累計<lb/>
             一百四十萬、而周之產業、直一百二<lb/>
             十萬、兩抵尙少二十萬、現將以其夫<lb/>
             人等所藏貼入、以彌其空、（柳）<lb/>            
-        </div>
-        <div type="image" itemid="755">            
+        </p></div>
+        <div type="image" itemid="755"><p>            
             ◘興波作浪◘<lb/>
-        </div>
-        <div type="article" itemid="1362">           
+        </p></div>
+        <div type="article" itemid="1362"><p>           
             ◘黃浦灘沙遜大廈內之卡賽旅社、<lb/>
             設有精室八間、裝設分華英美法日<lb/>
             意德土八國之式、木器及陳列品、各<lb/>
@@ -476,15 +478,15 @@
             紳商、聞僅有黃楚九君爲考察起見、<lb/>
             曾偕其夫人蒞中華室兩宿、給二百<lb/>
             二十元而去、（劍）<lb/>            
-        </div>
+        </p></div>
         <div type="article" itemid="47240">
-            <div>
+            <p>
                 天蟾之拆卸問題<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （昭綏）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 今年海上舞台、添三星而少共舞、四<lb/>
                 馬路之丹桂第一台、亦將改造、而二<lb/>
                 馬路之天蟾舞台、近亦奉工部局諭、<lb/>
@@ -495,9 +497,9 @@
                 則未聞拆卸、故已延定律師、擬先函<lb/>
                 致工部局、要求免拆、或展期一二年<lb/>
                 、倘不蒙允則將備呈訴諸領事團云、<lb/>
-            </div>
+            </p>
         </div>   
-        <div type="article" itemid="1363">
+        <div type="article" itemid="1363"><p>
             ◘杭州舉行全國運動大會、西<lb/>
             子湖畔各業<!-- there is a half space -->增利十倍、會後適<lb/>
             爲香汛、婦女坌集必多、聞朱家<lb/>
@@ -506,8 +508,8 @@
             入、預算當增四百六十萬元、省<lb/>
             政府因此所得捐稅、當亦有七<lb/>
             十萬之譜、（道）<lb/>            
-        </div>
-        <div type="article" itemid="1364">            
+        </p></div>
+        <div type="article" itemid="1364"><p>            
             ◘昨聽某君言、徽紳程霖生、作<lb/>
             黃金貿易、共虧二千二百萬、以<lb/>
             地皮等項作抵、尙盈六百萬、唯<lb/>
@@ -517,76 +519,76 @@
             件、亦値數十萬、凡所抵產業設<lb/>
             及長房者、實行處置之權、則操<lb/>
             諸其姪貽澤之手、（耳食）<lb/>            
-        </div>
-        <div type="article" itemid="1365">            
+        </p></div>
+        <div type="article" itemid="1365"><p>            
             ◘下關外交賓館對面之草房、因丹<lb/>
             麥太子來、已拆其大部分、茲將藩籬<lb/>
             盡撤、各草房原址、已鳩工庀材、建<lb/>
             造新草屋、（怡）<lb/>            
-        </div>
-        <div type="article" itemid="1367">            
+        </p></div>
+        <div type="article" itemid="1367"><p>            
             ◘老靶子路一帶、西籍摩<lb/>
             女將絕跡、一百〇六號之<lb/>
             麥爾姑、遷霞飛路、一百十六號之吹簫法婦、改往香港<lb/>
             營業、其舊址將有華女遷入、摩區展至西面赫司克而<lb/>
             路口及北河南路、赫司克而路爲慧珍福珍、北河南路<lb/>
             爲阿毛、皆名手、（摩客）<lb/>            
-        </div>
-        <div type="article" itemid="1368">            
+        </p></div>
+        <div type="article" itemid="1368"><p>            
             ◘連日陰雨、中山馬路兩旁之塘水<lb/>
             盛漲、浸及馬路、正從事宣洩工作、<lb/>
             世界大戲院、宛在水中央、內部溼氣<lb/>
             難聞、營業因而減色、（怡自京寄）<lb/>            
-        </div>
-        <div type="article" itemid="1369">            
+        </p></div>
+        <div type="article" itemid="1369"><p>            
             ◘鎭江當局、現以建設新省會、規定<lb/>
             中山中正北固竹林金山諸大路線、<lb/>
             着手拆屋、自中山至北固、經過均係<lb/>
             市面、自丈許放寬至六丈、房東大憂<lb/>
             、正在設法、（潤深<!--there is a half space-->自鎭江寄）<lb/>            
-        </div>
-        <div type="article" itemid="1370">            
+        </p></div>
+        <div type="article" itemid="1370"><p>            
             ◘下關一帶、獲娼罰欵、如在旅館、<lb/>
             妓女罰五元六角、茶房則罰二十元、<lb/>
             有人言每一次夜度資爲二十元、茶<lb/>
             房得七元、妓得十三元、罰則茶房損<lb/>
             失十三元、而妓猶有七元四角可餘、<lb/>
             當土匪難、拉皮條尤不易、（斤厂）<lb/>            
-        </div>
-        <div type="article" itemid="1371">            
+        </p></div>
+        <div type="article" itemid="1371"><p>            
             ◘貌似牛奶總統之霞珍老七、聞係<lb/>
             嫁與海上某銀行周主任、約法三章、<lb/>
             先試行同居一年、如雙方融洽、再訂<lb/>
             正約、（龍）<lb/>            
-        </div>
-        <div type="article" itemid="1372">            
+        </p></div>
+        <div type="article" itemid="1372"><p>            
             ◘天麟老九於星二午後、獨乘街車<lb/>
             至北四川路橋亞洲理髮館燙髮、以<lb/>
             客滿退出、連呼晦氣、九年甫十六七<lb/>
             、而染有嗜好、致面色稍見黃黝、遂<lb/>
             以臙脂厚塗兩頰、以增顏色、說者謂<lb/>
             似自燕支山來者、（𣏌）<lb/>            
-        </div>
-        <div type="article" itemid="1373">        
+        </p></div>
+        <div type="article" itemid="1373"><p>        
             ◘探春老六、數年前撫蓄一鄉女、名<lb/>
             蘭寶、授以文字戲曲、皆無進步、前<lb/>
             星期、有人誘蘭出外、乘車歸蘇、意<lb/>
             圖再賣、現方在交涉中、（徐公）<lb/>            
-        </div>
-        <div type="article" itemid="1234">           
+        </p></div>
+        <div type="article" itemid="1234"><p>           
             ◘詠美飴公司之黃山百合粉◘<lb/>
             翠椀春調百合香怡怡美味甲䬮餳天<lb/>
             都峯際雲如海許共仙粮一例嘗（黃<lb/>
             山亦產黃精、一名仙人餘粮、）<lb/>            
-        </div>        
+        </p></div>        
         <div type="article" itemid="1374">
-            <div>
+            <p>
                 可有恩波到此君<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （無諍）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 謝恩君老四、初以虫二閣名、籍甚於漢皋、與滬之虫二閣老七相頡頏、當<lb/>
                 老七尙儷平陽公子時、老四亦星光熠熠於<lb/>
                 謝法官之側、螓首獬冠、相映成趣、<lb/>
@@ -605,12 +607,13 @@
                 上花閥、蓄姝罔不綽綽、有張寶寶者、亦蔡之帲幪人物<lb/>
                 適曉樓後人、曾久居蔡之樓下一室、卽今四之妝閣也、<lb/>
                 四更今名、頗含深意、倘仍冀恩波浩渺、重浴春禽乎、<lb/>
-            </div>            
-            <div type="image" itemid="759">
-                <div dir="rtl" mode="horizontal-tb">
+            </p> 
+<!-- see #128 TODO(DP) @xiejia please chck the nesting of this image div which as p contents inside           -->
+<!--            <div type="image" itemid="759">
+                <p dir="rtl" mode="horizontal-tb">
                     ◘謝恩君老四◘<lb/>
-                </div>
-            </div>
+                </p>
+            </div>-->
         </div>
         <div type="margin" dir="rtl" mode="vertical-rl">
             各稿版權均歸本社所有禁止轉載翻印譒譯<pb/>

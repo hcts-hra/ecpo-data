@@ -1,30 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/hcts-hra/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_0138_1920-04-30_0002+0003" lastedit="2022-03-20" lasteditor="ysmlouis" issueid="100">
+<fold xml:id="jb_0138_1920-04-30_0002to0003" lastedit="2022-03-20" lasteditor="ysmlouis" issueid="100">
     <!-- start verso page -->
     <div type="page" page="verso" n="2" mode="vertical-rl" dir="rtl">
         <div type="margin" mode="horizontal-tb" dir="rtl">
-            <div>
+            <p>
                 第二版　民國九年四月三十日<lb/> 
-            </div>
-            <div>
+            </p>
+            <p>
                 晶報<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 庚申年三月十二日　星期五<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="3960">
-            <div>
+            <p>
                 跋胡適之先生嘗試集<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （丹翁）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 閱報紙、知吾老友胡適之先生嘗試集已印行、急購歸讀之、又與全家之<lb/>
                 穉子幼女及蒼頭奴赤足婢同聲讀之、不禁起而歎曰、智矣哉吾老友、仁<lb/>
                 矣哉吾老友、勇矣哉吾老友、詩人至李杜、尊矣、然杜之稱李曰、淸新庾<lb/>
@@ -71,16 +70,16 @@
                 而何、且以拉摧舊詩之力謀解放、則何事不可解放、以提倡新詩之力謀<lb/>
                 改造、則何事不可改造、吾老友豈區區以詩人終哉、吾服其智旦仁、吾<lb/>
                 尤服其勇不可及也、<lb/>
-            </div>           
+            </p>           
         </div>
         <div type="article" itemid="3963">
-            <div>
+            <p>
                 浙江學潮的感想<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （涵秋）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 浙江學生、因爲在那裏愛國、特的犧牲寶貴的光陰、相約罷課、遍處演說<lb/>
                 、都想人人由此知道愛國、好改革那不良政治、其用心很可敬佩的、不料<lb/>
                 撞着當地的軍警、同他們反對、公然用武力對待起來、據那通電上的報<lb/>
@@ -96,19 +95,19 @@
                 生充當軍警的時候、必須知道學潮是不可不擁護的、必須知道學生愛國<lb/>
                 、是不可不尊敬的、互相攜手、互相進行、那就沆瀣一氣、不至發生衝突、<lb/>
                 如今日浙江的憾事了哇、<lb/>
-            </div>           
+            </p>           
         </div>
         <div type="article" itemid="3965">
-            <div>
+            <p>
                 梅蘭芳<!-- meilanfang are in a Rectangle -->之硏究<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （七）<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （小隱）<lb/>
-            </div>          
-            <div>
+            </p>          
+            <p>
                 上年梅蘭芳、到了一囘東洋、這些梅<lb/>
                 黨人物、有的隨他同去、作起居注官<lb/>
                 、有的在國內報館、專給他編東洋通<lb/>
@@ -152,19 +151,19 @@
                 貨、論梅蘭芳、還得在他的那本領上<lb/>
                 說話、不必用烘雲托月的手段、拿這<lb/>
                 些閒篇來朦世、<lb/>                
-            </div>
+            </p>
         </div>
         <div type="article" itemid="3967">
-            <div>
+            <p>
                 硏究梅蘭芳答<!-- yitizi畣 -->豂子<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （二）<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （小隱）<lb/>
-            </div>          
-            <div>
+            </p>          
+            
                 <p>
                     豂子君、對於我這梅蘭芳之硏究第<lb/>
                     二篇、也有意見發表出來、他說梅蘭<lb/>
@@ -234,19 +233,19 @@
                     解法、這天女散花一類戲、只是好看<lb/>
                     也就沒有什麽歌舞上的價値了、<lb/>
                 </p>
-            </div>
+            
         </div>
             <div type="article" itemid="3969">
-                <div>
+                <p>
                     宜<!-- yitizi𡨆 -->春<!-- yitizi旾 -->漫墨<lb/>
-                </div>
-                <div dir="rtl" mode="horizontal-tb">
+                </p>
+                <p dir="rtl" mode="horizontal-tb">
                     （健厂）<lb/>
-                </div>
-                <div>
+                </p>
+                <p>
                     ▲天津特約通信<lb/>
-                </div>          
-                <div>
+                </p>          
+                
                     <p>
                         ◉小梅去新明、孫菊仙田桂鳳二老<lb/>
                         代興、上座絕佳、孰謂非梅不足號召<lb/>
@@ -266,35 +265,35 @@
                         禁、說者謂殆有似末年之譚金福田<lb/>
                         桂鳳二老、<pb/>
                     </p>                   
-                </div>
+                
             </div>
         </div>
         <!-- start recto page -->
         <div type="page" page="recto" n="3" mode="vertical-rl" dir="rtl">
-            <div type="margin" mode="horizontal-tb" dir="rtl">
+            <div type="margin" mode="horizontal-tb" dir="rtl"><p>
                 第三版　民國九年四月三十日　社會定期日刊　庚申年三月十二日　星期五<lb/>                               
-            </div>
+            </p></div>
             <div type="article" itemid="3971">
-                <div>
+                <p>
                     愛克司光錄<lb/>
-                </div>
-                <div  mode="horizontal-tb" dir="rtl">
+                </p>
+                <p mode="horizontal-tb" dir="rtl">
                     （一）<lb/>                  
                     （一）<lb/>                   
                     （二）<lb/>
-                </div>          
-                <div>
+                </p>          
+                <p>
                     李涵秋著<lb/>
                     禁止轉載<lb/>
-                </div>
-                <div>
+                </p>
+                <p>
                     第八囘<lb/>
-                </div>
-                <div>
+                </p>
+                <p>
                     假撮合威壓平民<lb/>
                     眞風波羞生中冓<lb/>
-                </div>
-                <div>
+                </p>
+                <p>
                     侯標見張三丰再沒有話說、方才打<lb/>
                     了一個扦兒、慢慢退得出去、其時衙<lb/>
                     署裏人、多有一半知道這件事了、齊<lb/>
@@ -354,23 +353,23 @@
                     事、甥少爺好一個品貌、還愁妹子看<lb/>
                     不中他嗎、侯標笑道、怎麽你又瞧見<lb/>
                     過他們甥少爺了呢、（未完）<lb/>                     
-                </div>
+                </p>
             </div>
             <div type="article" itemid="3972">
-                <div>
+                <p>
                     夕陽紅檻錄<lb/>
-                </div>
-                <div mode="horizontal-tb" dir="rtl">
+                </p>
+                <p mode="horizontal-tb" dir="rtl">
                     （一）<lb/>
                     （八）<lb/>
-                </div>
-                <div>
+                </p>
+                <p>
                     鵷雛<lb/>
-                </div>
-                <div>
+                </p>
+                <p>
                     第五章　邵湘秋花底感滄桑　趙鷺翁尊前話簪盍<lb/>
-                </div>
-                <div>  
+                </p>
+                <p>  
                     却說當下虎臣湘秋、談談說說、吃過<lb/>
                     了飯、已有三點多鐘、虎臣自囘旅館<lb/>
                     、約定明日一早在車站相會、湘秋又<lb/>
@@ -433,22 +432,22 @@
                     便囘過頭去、一囘兒、蘭舟也來了、<lb/>
                     免不得又和湘秋寒暄了幾句、<lb/>
                     （未完）<lb/>
-                </div>                 
+                </p>                 
             </div>
-            <div type="image" itemid="2320">
+            <div type="image" itemid="2320"><p>
                 ▲梅蘭芳之戲裝▲<lb/>
-            </div>                      
+            </p></div>                      
             <div type="article" itemid="3973">
-                <div>
+                <p>
                     沁香閣<lb/>
-                </div>
-                <div mode="horizontal-tb" dir="rtl">
+                </p>
+                <p mode="horizontal-tb" dir="rtl">
                     隨　筆<lb/>
-                </div>
-                <div mode="horizontal-tb" dir="rtl">
+                </p>
+                <p mode="horizontal-tb" dir="rtl">
                     （涵秋）<lb/>
-                </div>               
-                <div>  
+                </p>               
+                
                     <p>
                         我有一個朋友、新近赴美國調查敎<lb/>
                         育狀况、日前寄我一函、我讀了狠覺<lb/>
@@ -501,16 +500,16 @@
                         聽之、今日提倡白話詩之諸公、恐其<lb/>
                         尊著、未必有此天然音節、<lb/>
                     </p>
-                </div>
+                
             </div>
                 <div type="article" itemid="3974">
-                    <div>
+                    <p>
                         述意示大雄<!-- yitizi䧺 -->西江月二首<lb/>
-                    </div>
-                    <div>
+                    </p>
+                    <p>
                         （馬二先生）<lb/>
-                    </div>                        
-                    <div>
+                    </p>                        
+                    
                         <p>
                             偶然筆墨游戲。惹出無限糾紛<!-- there is a half space -->觸怒<lb/>
                             涵秋與寒雲。恰是八兩半斤。<lb/>
@@ -527,30 +526,30 @@
                             晶報紙幅有限。春光大好足珍。多謝<lb/>
                             盛意謹書紳。從茲不復齗齗。<lb/>
                         </p>
-                    </div>
+                    
                 </div>
                 <div type="article" itemid="3975">
-                    <div>
+                    <p>
                         我之花事談<lb/>
-                    </div>
-                    <div dir="rtl" mode="horizontal-tb">
+                    </p>
+                    <p dir="rtl" mode="horizontal-tb">
                         （癡）<lb/>
-                    </div>
-                    <div>
+                    </p>
+                    <p>
                         ▲三馬路含第妝閣中、有一付古篆<lb/>
                         對聯云、『願爲鷄舌含香伴、』『莫問<lb/>
                         兒孫第幾喬、』署名剖圜二字、有人<lb/>
                         因這別號、就推測是一位姓方的客<lb/>
                         人送的、<lb/>
-                    </div>
-                    <div>
+                    </p>
+                    <p>
                         ▲蔣紅英家愛寶老五情死一事、笑<lb/>
                         舞台果然編出脚本、叫做『蔣紅英老<lb/>
                         五殉情記、』定於今日（十二）開演、<lb/>
                         這種投機事業、眞要算上海人會做<lb/>
                         的了、<lb/>
-                    </div>    
-                    <div>
+                    </p>    
+                    <p>
                         ▲老匏君說、福致里的高女、有一天<lb/>
                         同一戶姓徐的客人、在房內講起流<lb/>
                         年來、却巧外邊走來一個野和尙、問<lb/>
@@ -566,13 +565,13 @@
                         算推算、還要幹什麽這烏勾當、姓徐<lb/>
                         的就沒得話說、看不出這小孩子、到<lb/>
                         有破除迷信的决心、<lb/>
-                    </div> 
+                    </p> 
                 </div>
-                <div type="article" itemid="3976">
+                <div type="article" itemid="3976"><p>
                     ◘更正　廿七日本報梅蘭芳之硏究<lb/>
                     、（好像前淸的起居注官）句、被手民<lb/>
                     誤爲（前淸顯官的起居注、）合亟更<lb/>
                     正、<pb/>
-                </div> 
+                </p></div> 
             </div>
 </fold>

@@ -1,15 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/hcts-hra/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_1330_1930-04-24_0002+0003" lastedit="2022-01-14" lasteditor="xiejia1995">
+<fold xml:id="jb_1330_1930-04-24_0002to0003" lastedit="2022-01-14" lasteditor="xiejia1995">
     <!-- start verso page -->
     <div type="page" page="verso" n="2" dir="rtl" mode="vertical-rl">
         <div type="margin">
-            <div dir="rtl" mode="horizontal-tb">
+            <div type="other">
+            <p dir="rtl" mode="horizontal-tb">
                 晶報<lb/>
-            </div>
+            </p>
+            </div>    
             <div type="advert" dir="rtl" mode="horizontal-tb" itemid="1328">
                 <!--  請飲金納氏巴德補血酒以健尊體<lb/> -->
             </div>
@@ -21,13 +22,13 @@
             </div>
         </div>
         <div type="article" itemid="1452">
-            <div>
+            <p>
                 拉車<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （丹翁）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 古時六藝、禮樂射御書數、而風頭健<lb/>
                 于今者、疑莫樂御若矣、皮黃旣有洋<lb/>
                 莊、黃包提高、當亦不在汽車之次、<lb/>
@@ -46,29 +47,29 @@
                 並拉車而亦不能、又將如何、再進一<lb/>
                 解、實行其敎化、感賦三絕、又似不<lb/>
                 僅助敎員張目也、<lb/>
-            </div>        
-            <div>
+            </p>        
+            <p>
                 執鞭之士近扶輪大雅焉能不救貧<lb/>
                 敎法但難言改組問君倒馬又誰人<lb/>
                 後來容易換前來打破長途老漢推<lb/>
                 終算東吳陳怪佛椎輪大輅學生開<lb/>
                 佳人自御汽車跑妙轉輪盤術亦高<lb/>
                 選手而今兼選脚幾時開會賽黃包<lb/>
-            </div>        
+            </p>        
         </div>
         <div type="image" itemid="818">
-            <div dir="rtl" mode="horizontal-tb">
+            <p dir="rtl" mode="horizontal-tb">
                 ◘海外僑胞集資購贈中央之飛機（文農贈）<lb/>
-            </div>                     
+            </p>                     
         </div>
         <div type="article" itemid="1453">
-            <div>
+            <p>
                 皖北之烟苗談<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （穎賓）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 自倪嗣冲經營<lb/>
                 蚌埠以來、一<lb/>
                 拳之蚌山、遂<lb/>
@@ -101,16 +102,16 @@
                 隴海津浦之兩路間、當此戎旅未息、<lb/>
                 此等事已無暇顧及、而日言拒毒、亦<lb/>
                 戛戛乎難哉、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1454">
-            <div>
+            <p>
                 蔣縂主席之新居<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （靑旗）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 蔣總主席自奉化囘京後、近已遷居新宅、此<lb/>
                 處所居、在中央軍事學校內、蓋比諸舊宅三<lb/>
                 元巷爲整齊靜逸也、德國實業考察團來京、<lb/>
@@ -130,16 +131,16 @@
                 未明、而軍笳之聲、悠揚悲壯、令人不能安睡、<lb/>
                 語時、蔣主席亦爲之莞爾、聞此次遷居以後、<lb/>
                 所宴請之客、以德實業團爲第一也、<lb/>              
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1463">
-            <div>
+            <p>
                 各大報將重見光明<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （天馬）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 大光明影戲院之不怕死一案、現已<lb/>
                 漸歸岑寂、法院亦不聞開審消息、惟<lb/>
                 社會人士、心目間尙注意此案、前日<lb/>
@@ -171,15 +172,15 @@
                 亦將隨<lb/>
                 之而解<lb/>
                 决也、<lb/>
-            </div>
+            </p>
         </div>       
         <div type="image" itemid="819">
-            <div dir="rtl" mode="horizontal-tb">
+            <p dir="rtl" mode="horizontal-tb">
                 ◘全國童子軍在檢閱前之淸晨露營（南京中華攝）◘<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1464">
-            <div>
+            <p>
                 ◘譚辛震律師之汽車夫副手張城、<lb/>
                 在天津路弄機肇禍、撞傷六人一案、<lb/>
                 開審時、張供無意中脚踏扳機、眼睛<lb/>
@@ -190,16 +191,16 @@
                 行稍斜、車撞捕房堅壁、軸輪均壞、<lb/>
                 乃停、如直行、當闖入捕房、如力足、<lb/>
                 當折而向南、爲禍將尤烈云、（柔）<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1465">
-            <div>
+            <p>
                 濟東銀行案之現狀<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （小偵）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 昨有訪李徵會計師者、其<lb/>
                 事務所中、地上滿堆銀行<lb/>
                 帳簿、約十餘巨捆、又有木<lb/>
@@ -226,16 +227,16 @@
                 望、李君因其責任、僅限於<lb/>
                 會計部份、僅云並無所聞、<lb/>
                 然亦望和解之成立耳、<lb/>                
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1466">
-            <div>
+            <p>
                 劉紀文江海關讀書<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （絳雪）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 前南京特別市長劉紀文君、呈請辭<lb/>
                 職後、財部委爲江海關監督、而前監<lb/>
                 督陳藹士君、則改任江蘇財政廳長、<lb/>
@@ -254,25 +255,25 @@
                 、卒卒竟無片晷、得親書本、此後開<lb/>
                 卷有益、可以一開茅塞云云、近日劉<lb/>
                 正在江海關讀書也、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1467">
-            <div>
+            <p>
                 ◘三茅閣橋之五洲旅社、前改爲江<lb/>
                 南旅社、今則新開一大陸飯店、大陸<lb/>
                 較前佈置益精、肴饌尤美、人謂五洲<lb/>
                 範圍過廣、江南規模太狹、稱爲大陸<lb/>
                 、恰到好處、（戴）<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1468">
-            <div>
+            <p>
                 小抖亂之不抖亂生活<lb/><!-- the second "亂" ist written in caoshu -->
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （文治）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 葉仲芳君、雖以小抖亂著名、而天分<lb/>
                 極高、通文字、善交際、因人而施、莊<lb/>
                 諧雜出、其逸事播於人口、足資談助<lb/>
@@ -287,17 +288,17 @@
                 亂之非、欲離滬他往、另求新生活、<lb/>
                 如葉太夫人允其請者、海上或將少<lb/>
                 一妙人矣、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1469">
-            <div>
+            <p>
                 上將風懷詞客語<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 （紅葉山人）<lb/>
                 （自巴黎寄）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 杜牧詩云、『腰纏十萬貫、騎鶴上揚州、』爲個人計、頗足自豪矣、而欲爲羣<lb/>
                 衆謀、終當注重實際之考察、與唐<lb/>
                 詩人杜牧同宗之國民政府考察海<lb/>
@@ -312,17 +313,18 @@
                 加評斷、簡而有當、此外儀度應對、尤有<lb/>
                 遊刃自如之槪、說者謂中國近年、百事<lb/>
                 均有進步、此特其一端耳、<lb/>
-            </div>
-            <div type="image" itemid="820"></div>
-            <div type="image" itemid="821">
-                <div>
+            </p>
+            <!--  see #128       -->
+            <!--<div type="image" itemid="820"/>
+            <div type="image" itemid="821">-->
+                <p>
                     （上）杜君近影（下）法國鼉龍港<pb/>
-                </div>
-            </div>            
+                </p>
+            <!--</div>-->            
         </div>   
     </div>
     <!-- start middle of the fold -->
-    <div type= "margin" dir="rtl" mode="vertical-rl">
+    <div type="margin" dir="rtl" mode="vertical-rl">
         <div type="advert" itemid="1327">
             <!--
                   大前門香烟
@@ -334,28 +336,28 @@
     <!-- start recto page -->
     <div type="page" page="recto" n="3" dir="rtl" mode="vertical-rl">
         <div type="margin">
-            <div>
+            <p>
                 此處<lb/>
                 招登<lb/>
                 廣吿<lb/>
                 價格<lb/>
                 面議<lb/>			
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 社會文藝之結晶<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 晶報<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1470">
-            <div>
+            <p>
                 兆豐花園拒絕小學生<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （華嚴）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 住居租界裏的人、往往有種不平之<lb/>
                 事、使人無處可以申訴、法租界有個<lb/>
                 女學校、初級小學是男女兒童兼收<lb/>
@@ -389,17 +391,17 @@
                 孩不必買票、也可以進去、那就對<lb/>
                 了、爲甚的兆豐花園有敎師帶領<lb/>
                 了、還不許小學生進去呢、<lb/>
-            </div>
+            </p>
         </div>        
        
         <div type="article" itemid="1471">
-            <div>
+            <p>
                 全律會之女律師及大炮<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 寶鳳）<lb/>
-            </div>
-            <div>
+            </p>
+            
                 <p>
                 全國律師協會第二屆大會、四月初旬、在漢口舉行事、僅新聞報追紀一<lb/>
                 則、據漢上歸客言、會中不乏逸事、亦追記之、<lb/>
@@ -440,16 +442,16 @@
                 、解釋係往遊藝會演講、相與一笑而罷、然吳大砲之稱、已傳遍全國律師<lb/>
                 會中、<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="article" itemid="1472">
-            <div>
+            <p>
                 五德俱備之三郎<lb/><!-- "wu" written as "𠄡" -->
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （如是）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 富貴易妻、原爲世人通病、<lb/>
                 自投機事業盛行以來、暴<lb/>
                 發戶如微菌之繁殖、所謂<lb/>
@@ -480,21 +482,21 @@
                 三之姓雖只佔五字之一、<lb/>
                 而潘驢小閒之技則全備、<lb/>
                 <r style="transform: rotate(-30deg);">亦</r>一綺羅場中之驕子哉、<lb/>
-            </div>
+            </p>
         </div>
         <div type="image" itemid="822">
-            <div>
+            <p>
                 ◘一唱而三歎◘<lb/>
-            </div>            
+            </p>            
         </div>
         <div type="article" itemid="1473">
-            <div>
+            <p>
                 松江運副兩度被控<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （神獅）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 松江運副粟顯揚被控一案、原吿松<lb/>
                 塲監務警務長尙海珊、近又延羅家<lb/>
                 衡唐鳴時二律師、具狀聲請特區法<lb/>
@@ -510,16 +512,16 @@
                 迅賜拘案嚴辦、以維法治而保人權<lb/>
                 等語、此狀聞已於二十二日呈進、第<lb/>
                 不知法院改組後、處置又將何若也、<lb/>                              
-            </div>
+            </p>
         </div>
         <div type="article" itemid="1474">
-            <div>
+            <p>
                 聖婉家庭之一叠波瀾<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （𣏌柳）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 賽春樓小老虎之姊聖婉老七、氏周、元名婉娥、曾肄業中西女塾、於華西<lb/>
                 文俱窺門徑、當錢寶珠老五嫁人後、在妓院爲其母助、寒雲公子極揄揚之<lb/>
                 、善談吐、嘗與公子夜話、飛辭騁辨、直達更闌、七厭平康生活、未幾、卽適<lb/>
@@ -540,25 +542,26 @@
                 子由戴氏收養、二七以後絕對自由、三戴給七贍養費萬元、四昏後所置衣<lb/>
                 飾器物、均歸七有、所傳如確、近日當在磋商中、但聞七平日不解撫嬰之<lb/>
                 法、其姑則含飴至樂、去檳留珠、亦社會習見、但知者終冀其琴瑟重調也、<lb/>
-            </div>
-            <div type="image" itemid="823">
-                 <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <!--  see #128       -->
+           <!-- <div type="image" itemid="823">
+                 <p dir="rtl" mode="horizontal-tb">
                      ◘戴周婉娥女士◘<lb/>
-                 </div>
-            </div>
+                 </p>
+            </div>-->
         </div>       
         <div type="article" itemid="47239">
-            <div>
+            <p>
                 ◘上海生絲檢驗處副主任黃蒲仲君<lb/>
                 十七日、假客賽飯店舞廳、與南濤邵<lb/>
                 芸芝女士結婚、禮堂船式、堂中置大<lb/>
                 蛋糕一座、禮畢、經新娘奏刀切開、<lb/>
                 分餐三百餘來賓、只盡二層、糕體之<lb/>
                 厚可想、（思潛）<lb/>
-            </div>           
+            </p>           
         </div>
         <div type="article" itemid="1475">
-            <div>
+            <p>
                 ◘首都之新聞攝影、初祗有中華照<lb/>
                 相館主人汪鑑榮君、汪兼任新聞報<lb/>
                 駐京攝影記者、成績甚佳、此次檢閱<lb/>
@@ -567,17 +570,17 @@
                 照相館包辦、汪據理力爭、事爲主席<lb/>
                 戴季陶君所聞、不以包辦爲然、仍任<lb/>
                 汪照常攝影、（斤自京寄）<lb/>
-            </div>          
+            </p>          
         </div>
         <div type="article" itemid="1476">
-            <div>
+            <p>
                 ◘名票李烈寶君、去冬東渡留學、近<lb/>
                 已考入早稻田大學法學部、春假回<lb/>
                 國省親、有人晤及、操東語頗流利、<lb/>
-            </div>          
+            </p>          
         </div>
         <div type="article" itemid="1477">
-            <div>
+            <p>
                 ◘民和總萬里紅老六、有魏姓客、與<lb/>
                 論嫁娶、已有成議、惟六必欲自舖房<lb/>
                 間一節、並向魏借資本千元、魏雖勉<lb/>
@@ -589,24 +592,24 @@
                 時、毒遽發、他客遁、魏亟送六往寶<lb/>
                 隆醫院、救治不及、遂死、下午驗尸<lb/>
                 裝殮、後事均由魏料理、（雷）<lb/>
-            </div>          
+            </p>          
         </div>
         <div type="article" itemid="1478">
-            <div>
+            <p>
                 ◘有致書本報者、謂江灣覆車案之<lb/>
                 項祥麟、（參照一三二八號）並無親<lb/>
                 串操摩女生涯、而寶媛亦否認此事、<lb/>
                 當係誤傳、（記者）<lb/>
-            </div>          
+            </p>          
         </div>
         <div type="article" itemid="1479">
-            <div>
+            <p>
                 風塵固如寄也<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （傍花）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 去載小四金剛出缺時、人多主張以寄塵小阿媛遞補、媛行六、聰明伶俐、<lb/>
                 足膺上選、而遭際則殊轗軻、元姓宓、吳縣產、年十<lb/>
                 四、墮入倡門、體育發達甚早、鴇命應客、有花衣商<lb/>
@@ -624,16 +627,16 @@
                 原名應徵、六今年甫十六、已<lb/>
                 俁俁如成人、而憨態猶昔、但經磨礱以後、愁腸百結、不似往日之嚶寗時<lb/>
                 見矣、貌則較前益麗、語云、金剛不壞身、六之所遇、或亦華嚴小劫者乎、<lb/>
-            </div>
-            <div type="image" itemid="824">
-                <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <!--  see #128       -->
+            <!--<div type="image" itemid="824">
+                <p dir="rtl" mode="horizontal-tb">
                     ◘寄塵老六◘<lb/>
-                </div>
-            </div>
+                </p>
+            </div>-->
         </div>
         <div type="margin" dir="rtl" mode="vertical-rl">
             各稿版權均歸本社所有禁止轉載翻印譒譯<pb/>
         </div>      
     </div>  
-</fold>    
-        
+</fold>

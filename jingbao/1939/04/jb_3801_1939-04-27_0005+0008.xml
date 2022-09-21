@@ -1,34 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/hcts-hra/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3801_1939-04-27_0005+0008" lastedit="2021-08-18" lasteditor="ysmlouis">
+<fold xml:id="jb_3801_1939-04-27_0005to0008" lastedit="2021-08-18" lasteditor="ysmlouis">
 	<!-- start recto page -->
 	<div type="page" page="recto" n="5" dir="rtl" mode="vertical-rl">
-           <div type="margin" dir="rtl" mode="horizontal-tb">
+           <div type="margin" dir="rtl" mode="horizontal-tb"><p>
                   中華民國二十八年四月廿七日　晶報　星期四　第五版<lb/>	
-           </div>
+           </p></div>
            <div type="article">
-                  <div dir="rtl" mode="horizontal-tb">
+                  <p dir="rtl" mode="horizontal-tb">
                          文化營<lb/>
-                  </div>
-                  <div type="image"></div>
-                  <div dir="rtl" mode="horizontal-tb">
+                  </p>
+                  <!--      see #128      -->
+<!--                  <div type="image"/>-->
+                  <p dir="rtl" mode="horizontal-tb">
                          黔野主編<lb/>
-                  </div>
+                  </p>
            </div>
            <div type="article">
-                  <div>
+                  <p>
                          兩種傳說<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          （下）<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          潢虎<lb/>
-                  </div>
-                  <div>
+                  </p>
+                 
                          <p>
                               明朝還有一件更奇怪的傳說，說明成祖是元順帝的兒子。據明成祖自己說，他<lb/>
                               和懿文太子，秦晉二王同是馬皇后生的。其實馬皇后是無所出的，懿文和秦晉二<lb/>
@@ -50,23 +50,23 @@
                               聊寄隱痛，志存故國也。（這種思想固爲阿Q式，却也未可厚非。）第二段則硬<lb/>
                               把我四征不庭，威震南洋的永樂都奪以歸之胡元之裔，其意就不可解了。<lb/>
                          </p>
-                  </div>
+                  
            </div>
            <div type="article">
-                  <div>
+                  <p>
                          亞洲內幕<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          約翰耿脫著<lb/>
                          亦　朋　譯<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          新加坡的威力<lb/>
-                  </div>
-                  <div> 
+                  </p>
+                  <p> 
                          （三）<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  
                          <p>
                               那個浮船渠在必<lb/>
                               要時可隨意移往他<lb/>
@@ -122,16 +122,16 @@
                               印度的航空分隊可<lb/>
                               以飛來增援。<lb/>
                          </p>
-                  </div>
+                  
            </div>
            <div type="article">
-                  <div>
+                  <p>
                          小故事<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          惠<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  
                          <p>
                               有一個荷蘭人在<lb/>
                               一輛德國餐車中吃<lb/>
@@ -166,28 +166,29 @@
                               『我們已經有一個<lb/>
                               你們的廢皇了。』<lb/>
                          </p>
-                  </div>
+                  
            </div>
            <div type="article">
-                  <div>
+                  <p>
                          動物的叛變<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          （五）<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          此外還需要武裝………<lb/>
-                  </div>
-                  <div type="image"></div>
+                  </p>
+                  <!--      see #128      -->
+<!--                  <div type="image"/>-->
            </div>
            <div type="article">
-                  <div>
+                  <p>
                          一首短歌<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          不凡<lb/>
-                  </div>
-                  <div>
+                  </p>
+                 
                          <p>
                               德國的情形，儘<lb/>
                               管在希特勒，戈林<lb/>
@@ -216,20 +217,20 @@
                               這就是第三帝國。<lb/>
                               」<lb/>
                          </p>
-                  </div>
+                  
            </div>
            <div type="article">
-                  <div>
+                  <p>
                          愛國志士<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          賽珍珠女士作<lb/>
                          諍　諍　譯<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          四　牡丹<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  
                          <p>
                               在這所房子裏面<lb/>
                               ，每一個人都起身<lb/>
@@ -261,7 +262,7 @@
                               『我遲了，』她<lb/>
                               看見他已經穿好衣<lb/>
                               服，急忙說道。『<lb/>
-                              我睡失&gaiji;了。』<lb/>
+                              我睡失了。』<lb/>
                          </p>
                          <p>
                               『不要緊，』他<lb/>
@@ -385,21 +386,22 @@
                               在一寰過的是兩個<lb/>
                               完全不同的生活，<lb/>
                          </p>
-                  </div>
+                  
            </div>
            <div type="article">
-                  <div>
+                  <p>
                          昨日國際政<lb/>
                          治測驗答案。<lb/>
                          五<lb/>
-                  </div>
+                  </p>
            </div>
            <div type="article">
-                  <div dir="rtl" mode="horizontal-tb">
+                  <p dir="rtl" mode="horizontal-tb">
                          袁寒雲先生手寫<lb/>
                          丁卯日記之七<lb/>
-                  </div>
-                  <div type="image">
+                  </p>
+                  <!--      see #128      -->
+<!--                  <div type="image">-->
                          <!--<p>
                          彎閣應巢鳳望天涯芳艸天末驚鴻𩠐 &gaiji;索瑑<lb/>
                          聯帖<lb/>
@@ -412,108 +414,108 @@
                          堪說別離征夢天涯吹漸遠沽流不盡繫人思<lb/>
                          一雨關山未盡歲寒郊艸木已蒼茫飛車直指<lb/>
                          </p>-->
-                  </div>
+                  <!--</div>-->
            </div>		
            <div type="advert" dir="rtl" mode="vertical-rl">
-                  <div dir="rtl" mode="horizontal-tb">
+                  <p dir="rtl" mode="horizontal-tb">
                          暑期之必需品<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          順風牌<lb/>
                          鮮桔水<lb/>
                          汽　水<lb/>
-                  </div>
-                  <div dir="rtl" mode="horizontal-tb">
+                  </p>
+                  <p dir="rtl" mode="horizontal-tb">
                          四大特點<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          滴　滴　蒸　餾<lb/>
                          鮮　美　可　口<lb/>
                          科　學　製　造<lb/>
                          淸　潔　衞　生<lb/>
-                  </div>
-                  <div dir="rtl" mode="horizontal-tb">
+                  </p>
+                  <p dir="rtl" mode="horizontal-tb">
                          美華汽水公司出品<lb/>
-                  </div>
+                  </p>
            </div>
-           <div type="advert" >
-                  <div dir="rtl" mode="horizontal-tb">
+           <div type="advert">
+                  <p dir="rtl" mode="horizontal-tb">
                          大華舞廳<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          首創第一<lb/>
                          通宵營業<lb/>
                          紅星總匯<lb/>
                          日夜擁擠<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          全班著名<lb/>
                          樂隊會集<lb/>
                          世界佳曲<lb/>
-                  </div>
-                  <div dir="rtl" mode="horizontal-tb">
+                  </p>
+                  <p dir="rtl" mode="horizontal-tb">
                          天天茶舞<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          四時<lb/>
                          起八<lb/>
                          時止<lb/>
                          奉送<lb/>
                          淸紅<lb/>
                          香茗<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          地址<lb/>
                          愛多<lb/>
                          亞路<lb/>
                          馬霍<lb/>
                          路口<lb/>
-                 </div>
-                 <div dir="rtl" mode="horizontal-tb">
+                 </p>
+                 <p dir="rtl" mode="horizontal-tb">
                          電話八一三八一號<lb/>
-                 </div>					
+                 </p>					
            </div>
-           <div type="advert" >
-                  <div dir="rtl" mode="horizontal-tb">
+           <div type="advert">
+                  <p dir="rtl" mode="horizontal-tb">
                          虎標<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          頭痛粉<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          提　神　養　腦<lb/>
                          驅　風　散　邪<lb/>
                          頭　痛　牙　痛<lb/>
                          卽　服　卽　止<lb/>
-                  </div>
-                  <div dir="rtl" mode="horizontal-tb">
+                  </p>
+                  <p dir="rtl" mode="horizontal-tb">
                          各藥房烟兌雜貨店均有售<lb/>
-                  </div>
+                  </p>
            </div>
-           <div type="margin" >
+           <div type="margin">
                   本報忠實報道新聞說人人要說的話文字淺近趣味濃厚是最平民化的物刊<pb/>	
            </div>
        </div>
     <!-- start verso page -->
     <div type="page" page="verso" n="8" dir="rtl" mode="vertical-rl">
-           <div type="margin" dir="rtl" mode="horizontal-tb">
+           <div type="margin" dir="rtl" mode="horizontal-tb"><p>
                   中華民國二十八年四月廿七日　晶報　星期四　第八版<lb/>	
-           </div>
+           </p></div>
            <div type="article" dir="rtl" mode="horizontal-tb">
-                  <div>
+                  <p>
                          影城<lb/>
-                  </div>	
-                  <div>
+                  </p>	
+                  <p>
                          趙廉．老田合輯<lb/>
-                  </div>
+                  </p>
            </div>
            <div type="article">
-                  <div>
+                  <p>
                          公開陳雲裳的信<lb/>
                          回香港前由上海<lb/>
                          寄給香港友人<lb/>
-                  </div>
-                  <div>
+                  </p>
+                 
                          <p>
                               登龍先生：<lb/>
                          </p>
@@ -596,20 +598,21 @@
                               謹致民族的敬禮！<lb/>
                               陳　雲　裳<lb/>
                          </p>
-                  </div>
-           </div>
-           <div type="article">			
-                  <div type="image"></div>
-                  <div dir="rtl" mode="horizontal-tb">
-                         白虹在雲裳仙子中<lb/>
-                  </div>
+                  
            </div>
            <div type="article">
-                  <div>
+                  <!--      see #128      -->
+<!--                  <div type="image"/>-->
+                  <p dir="rtl" mode="horizontal-tb">
+                         白虹在雲裳仙子中<lb/>
+                  </p>
+           </div>
+           <div type="article">
+                  <p>
                          宣剛辦歌舞團<lb/>
                          正在積極籌備中<lb/>
-                  </div>
-                  <div>
+                  </p>
+                 
                          <p>
                               歌舞在上海，有一個時期，的確可以<lb/>
                               號召一些觀衆，後來各歌舞團的管理不<lb/>
@@ -633,15 +636,15 @@
                               經營下有所貢獻，未始不是中國歌舞復<lb/>
                               興的一線曙光呢！　（木）<lb/>
                          </p>
-                  </div>
+                  
            </div>
            <div type="article">
-                  <div>
+                  <p>
                          陳雲裳<lb/>
                          在香港<lb/>
                          －近况如何<lb/>
-                  </div>
-                  <div>
+                  </p>
+                
                          <p>
                               陳雲裳五日囘香<lb/>
                               港，大爲香港影迷<lb/>
@@ -691,14 +694,14 @@
                               表，表示歡迎之意<lb/>
                               。　（豐）<lb/>
                          </p>
-                  </div>
+                  
            </div>
            <div type="article">
-                  <div>
+                  <p>
                          方沛霖的導演前途<lb/>
                          繫於化身姑娘上<lb/>
-                  </div>
-                  <div>
+                  </p>
+                 
                          <p>
                               「化身姑娘」能<lb/>
                               比較的賣座，藝華<lb/>
@@ -729,59 +732,59 @@
                               可以特別叫座也。<lb/>
                               （戈里）<lb/>
                          </p>
-                  </div>
+                  
            </div>
            <div type="advert">
-                  <div>
+                  <p>
                          老協大祥<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          綢緞<lb/>
                          棉布<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          莊<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          新出各種<lb/>
                          國產春裝<lb/>
                          衣料<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          本莊自設織造工廠新出各種<lb/>
                          國產春裝衣料花色齊備應有<lb/>
                          盡有定價常年低廉一律足尺<lb/>
                          加三歡迎各界參觀比較<lb/>
-                  </div>
-                  <div dir="rtl" mode="horizontal-tb">
+                  </p>
+                  <p dir="rtl" mode="horizontal-tb">
                          ▷總店◁<lb/>
                          小東門外大街<lb/>
                          大世界支店<lb/>
                          大世界南隔壁<lb/>
                          八仙橋支店<lb/>
                          八仙橋小菜場<lb/>
-                  </div>
+                  </p>
            </div>
            <div type="advert">
-                  <div dir="rtl" mode="horizontal-tb">
+                  <p dir="rtl" mode="horizontal-tb">
                          梅　邨<lb/>
                          專　營<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          地址嵩山路二號<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          糖果餅乾<lb/>
                          麵包西點<lb/>
                          罐頭食品<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          滬光大戲院隔壁<lb/>
-                  </div>
-                  <div dir="rtl" mode="horizontal-tb">
+                  </p>
+                  <p dir="rtl" mode="horizontal-tb">
                          業已開幕<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          凡購糖果<lb/>
                          滿法幣一<lb/>
                          元以上者<lb/>
@@ -789,77 +792,77 @@
                          影明星狄<lb/>
                          安娜竇萍<lb/>
                          照片一幀<lb/>
-                  </div>
+                  </p>
            </div>
            <div type="advert">
-                  <div dir="rtl" mode="horizontal-tb">
+                  <p dir="rtl" mode="horizontal-tb">
                          偉大貢獻<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          光<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          文記<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          大<lb/>
-                  </div>
-                  <div dir="rtl" mode="horizontal-tb">
+                  </p>
+                  <p dir="rtl" mode="horizontal-tb">
                          熱水瓶桶罐廠<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          ●各大公司均有出售●零躉批發●均極歡迎●<lb/>
-                  </div>
-                  <div dir="rtl" mode="horizontal-tb">
+                  </p>
+                  <p dir="rtl" mode="horizontal-tb">
                          新出<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          最新式<lb/>
-                  </div>
-                  <div dir="ltr" mode="horizontal-tb">
+                  </p>
+                  <p dir="ltr" mode="horizontal-tb">
                          24號<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          厚鉛桶<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          堅固美麗可用十年<lb/>
                          爲鉛桶界之新紀元<lb/>
-                  </div>
-                  <div dir="rtl" mode="horizontal-tb">
+                  </p>
+                  <p dir="rtl" mode="horizontal-tb">
                          密切注意<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          出品精良耐用保熱<lb/>
-                  </div>
-                  <div dir="rtl" mode="horizontal-tb">
+                  </p>
+                  <p dir="rtl" mode="horizontal-tb">
                          人人樂用<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          金鼎牌熱水瓶<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          過了廿四小時之後<lb/>
                          仍舊保持原有熱力<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          總製<lb/>
                          造廠<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          法租界馬浪路徐家匯路口六六一號<lb/>
-                  </div>
-                  <div dir="rtl" mode="horizontal-tb">
+                  </p>
+                  <p dir="rtl" mode="horizontal-tb">
                          電話<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          八三一六一號總批發所<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          公共租界北京路盆<lb/>
                          湯弄西首<lb/>
                          電話九一一五五號<lb/>
-                  </div>
+                  </p>
             </div>
             <div type="margin">
                    本報具有二十年的歷史是小型報紙鼻祖銷路普遍全國刊登廣吿最有效力<pb/>	
@@ -868,76 +871,80 @@
     <!--start middle of the fold-->
     <div dir="rtl" mode="vertical-rl">
             <div type="advert">
-                   <div>
+                   <p>
                           毛興昌<lb/>
-                   </div>
-                   <div>
+                   </p>
+                   <p>
                           男女<lb/>
                           西服<lb/>
-                   </div>
-                   <div>
+                   </p>
+                   <p>
                           公司<lb/>
-                   </div>
-                   <div>
+                   </p>
+                   <p>
                           本公司前開設江灣復旦大學附近<lb/>
                           自八一三戰事爆發後現遷移法租<lb/>
                           界霞飛路海格路王家宅一號照常<lb/>
                           營業茲爲顧客便利起見內專設修<lb/>
                           理部凡各界惠顧者請打電話通知<lb/>
                           『二三三七六號』無任歡迎<lb/>
-                   </div>
-                   <div>
+                   </p>
+                   <p>
                           毛興昌啓<lb/>
-                   </div>
+                   </p>
             </div>
             <div type="advert">
-                   <div type="image"></div>
-                   <div dir="rtl" mode="horizontal-tb">
+                   <!--      see #128      -->
+<!--                   <div type="image"/>-->
+                   <p dir="rtl" mode="horizontal-tb">
                           一滴清<lb/>
                           眼薬水<lb/>
-                   </div>
-                   <div type="image"></div>
-                   <div>
+                   </p>
+                   <!--      see #128      -->
+<!--                   <div type="image"/>-->
+                   <p>
                           統治<lb/>
                           目疾<lb/>
-                   </div>
-                   <div>
+                   </p>
+                   <p>
                           一滴<lb/>
                           見功<lb/>
-                   </div>
-                   <div type="image"></div>
-                   <div>
+                   </p>
+                   <!--      see #128      -->
+<!--                   <div type="image"/>-->
+                   <p>
                           ◇一滴淸眼藥水主治之眼病◇<lb/>
-                   </div>
-                   <div>
+                   </p>
+                   <p>
                           砂眼赤眼　瘙癢多脂<lb/>
                           羞明畏光　迎風流淚<lb/>
                           顆粒密生　視力糢糊<lb/>
                           雲翳外障　眼皮發紅<lb/>
-                   </div>
-                   <div>
+                   </p>
+                   <p>
                           消　毒　完　全<lb/>
                           功　効　確　實<lb/>
                           攜　帶　便　利<lb/>
                           價　値　低　廉<lb/>
                           （每瓶貳角四）<lb/>
-                   </div>
-                   <div>
+                   </p>
+                   <p>
                           三洋涇橋<lb/>
                           江西路口<lb/>
-                   </div>
-                   <div>
+                   </p>
+                   <p>
                           新華藥行發行<lb/>
-                   </div>
-                   <div type="image"></div>
-                   <div>
+                   </p>
+                   <!--      see #128      -->
+<!--                   <div type="image"/>-->
+                   <p>
                           認明<lb/>
                           商標<lb/>
-                   </div>
-                   <div dir="rtl" mode="horizontal-tb">
+                   </p>
+                   <p dir="rtl" mode="horizontal-tb">
                           新華大薬行監製<lb/>
                           上海江西路十號<lb/>
-                   </div>
+                   </p>
              </div>
        </div>
 </fold>

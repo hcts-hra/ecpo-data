@@ -1,30 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/hcts-hra/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_0136_1920-04-24_0002+0003" lastedit="2022-03-20" lasteditor="ysmlouis" issueid="98">
+<fold xml:id="jb_0136_1920-04-24_0002to0003" lastedit="2022-03-20" lasteditor="ysmlouis" issueid="98">
     <!-- start verso page -->
     <div type="page" page="verso" n="2" mode="vertical-rl" dir="rtl">
         <div type="margin" mode="horizontal-tb" dir="rtl">
-            <div>
+            <p>
                 第二版　民國九年四月廿四日<lb/> 
-            </div>
-            <div>
+            </p>
+            <p>
                 晶報<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 庚申年三月初六日　星期六<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="4015">
-            <div>
+            <p>
                 省長整頓吏治的訓詞書後<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 （丹翁）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 官場如戲場這眞是中國一句有趣味的舊話、但是向來中國人、不但沒有<lb/>
                 政治學識、就連唱戲的精微、懂得的也不多、無怪官場中唱不出好戲來<lb/>
                 了、自從譚迷梅毒、到處傳染、一時的賢士大夫、幾乎不能嚷兩嗓子的、<lb/>
@@ -52,16 +51,16 @@
                 心、還要學着去敲人家的耳光、算是看戲的活該晦氣罷了、獨有我們省<lb/>
                 長召集全署職員時、專以唱戲爲比喻、足見省長還有要我們國民叫好的<lb/>
                 心、倘若各省的省長、全像我們省長會唱好戲、眞是全國國民的幸福了、<lb/>
-            </div>           
+            </p>           
         </div>
         <div type="article" itemid="4016">
-            <div>
+            <p>
                 氣鼓鼓歌<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （涵秋）<lb/>
-            </div>            
-            <div>
+            </p>            
+            
                 <p>
                 　　偶於晶報中得此句、戲成打油詩、仍以實晶報、不通之氣鼓鼓句、自<lb/>
                 　　當以不通之氣鼓鼓歌答之、諸君勿笑、<lb/>
@@ -89,16 +88,16 @@
                     像這樣氣鼓鼓的文法、　不該打手心、也該打屁股、　氣鼓鼓、　氣鼓<lb/>
                     鼓、<lb/>
                 </p>                                  
-            </div>
+            
         </div>
         <div type="article" itemid="4017">
-            <div>
+            <p>
                 珠簾寨之改良觀<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （小隱）<lb/>
-            </div>            
-            <div>
+            </p>            
+            
                 <p>
                     珠簾寨、長庚名劇也、予生也晚、不<lb/>
                     及見程氏、譚鑫培學於長庚、近之言<lb/>
@@ -141,19 +140,19 @@
                     標異炫奇、以惑庸人之耳目、適形其<lb/>
                     技之窮而已矣、改良云平哉、<lb/>
                 </p>                
-            </div>
+            
         </div>
         <div type="article" itemid="4018">
-            <div>
+            <p>
                 梅蘭芳<!-- meilanfang are in a Rectangle -->之硏究<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （五）<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （小隱）<lb/>
-            </div>          
-            <div>
+            </p>          
+            <p>
                 又有人說捧小梅的、都是現時的名<lb/>
                 士、所謂一經品題、聲價十倍、况且<lb/>
                 這些名士、又代他編曲本、所以他的<lb/>
@@ -212,19 +211,19 @@
                 不相干、現在居然有人、也在上頭加<lb/>
                 上梅蘭芳三個字、印出來賣、那更是<lb/>
                 無聊到了極處了、<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="4019">
-            <div>
+            <p>
                 梅蘭芳硏究<!-- meilanfang are in a Rectangle -->之硏究<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （一）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 （豂子）<lb/>
-            </div>          
-            <div>
+            </p>          
+            <p>
                 小隱君的『梅蘭芳之硏究』（一）、對<lb/>
                 於梅蘭芳提出四個硏究的問題、（一<lb/>
                 ）他的臉子、在現時旦角裏頭、是否<lb/>
@@ -286,35 +285,35 @@
                 有充分的理由、我並不是捧梅蘭芳、<lb/>
                 我也不過是和小隱君硏究硏究這個<lb/>
                 梅蘭芳問題罷了、<pb/>
-            </div>
+            </p>
         </div>
     </div>
     <!-- start recto page -->
     <div type="page" page="recto" n="3" mode="vertical-rl" dir="rtl">
-        <div type="margin" mode="horizontal-tb" dir="rtl">
+        <div type="margin" mode="horizontal-tb" dir="rtl"><p>
             第三版　民國九年四月廿四日　社會定期日刊　庚申年三月初六日　星期六<lb/>                               
-        </div>
+        </p></div>
         <div type="article" itemid="4020">
-            <div>
+            <p>
                 愛克司光錄<lb/>
-            </div>
-            <div  mode="horizontal-tb" dir="rtl">
+            </p>
+            <p mode="horizontal-tb" dir="rtl">
                 （一）<lb/>                  
                 （一）<lb/>                   
                 （〇）<lb/>
-            </div>          
-            <div>
+            </p>          
+            <p>
                 李涵秋著<lb/>
                 禁止轉載<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 第八囘<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 假撮合威壓平民<lb/>
                 眞風波羞生中冓<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 俞蘭軒先前聽說話、只不住的點頭<lb/>
                 、及至聽完了、忙忍住笑、放下一副<lb/>
                 嚴厲面孔、將炕几一拍說道、胡說、<lb/>
@@ -362,23 +361,23 @@
                 事、他不會自家去打算、到反肯替你<lb/>
                 舅太爺出這樣大力、事出情理之外、<lb/>
                 怕不能就如大人的心願呢、（未完）<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="4021">
-            <div>
+            <p>
                 夕陽紅檻錄<lb/>
-            </div>
-            <div mode="horizontal-tb" dir="rtl">
+            </p>
+            <p mode="horizontal-tb" dir="rtl">
                 （一）<lb/>
                 （六）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 鵷雛<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 第四章　莽風塵書劍辭家　老學士衣冠上院<lb/>
-            </div>
-            <div>               
+            </p>
+            <p>               
                 然而不然、那時有一位權貴、當着軍<lb/>
                 機大臣、他有一位最得意的門客、恰<lb/>
                 恰也應這囘殿試、他便出來遍託閱<lb/>
@@ -425,17 +424,17 @@
                 是個大近視、一總也沒見天顏震怒<lb/>
                 的樣兒、倒寫寫意意的、和別人一同<lb/>
                 退了出來、（未完）<lb/>
-            </div>                    
+            </p>                    
         </div> 
         <div type="article" itemid="4022">
-            <div>
+            <p>
                 再致寒雲論梅蘭芳<lb/>
-            </div>           
-            <div>                
+            </p>           
+            <p>                
                 （馬二<lb/>
                 先生）<lb/>               
-            </div>            
-            <div>
+            </p>            
+            
                 <p>
                     辱答、恧甚、僕自省不能文、常藏拙<lb/>
                     於時賢之白話文體、附句讀符號、以<lb/>
@@ -482,16 +481,16 @@
                     蓋有不能自已焉者、幸足下平心思<lb/>
                     之、餘不白、<lb/>
                 </p> 
-            </div>
+            
         </div>
         <div type="article" itemid="4023">
-            <div>
+            <p>
                 我之花事談<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （癡）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 ▲二十一號（初三）天明的時候、久<lb/>
                 安里北一弄、蔣紅英家的老五、忽然<lb/>
                 吞生鴉片烟自盡、這幾天外面紛傳、<lb/>
@@ -528,8 +527,8 @@
                 史、讀者說他是殉那羅姓固可、說<lb/>
                 他是自悲身世、悔恨輕生亦可、大約<lb/>
                 都不免要嘆息幾聲罷、<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 ▲福裕里三弄、有個叫做香君的倌<lb/>
                 人、雖遠比不上桃花肩上的小扇墮、<lb/>
                 倒也舉止温文、我有個朋友、聽見這<lb/>
@@ -541,16 +540,16 @@
                 吃晚飯、所以堂差來不及、我這朋友<lb/>
                 、沒得話說、祗好歎一口氣道我旣沒<lb/>
                 福叫小扇壟、亦犯不著去叫大飯桶、<lb/>
-            </div>         
+            </p>         
         </div>
         <div type="article" itemid="4025">
-            <div>
+            <p>
                 春江花事<lb/>
-            </div>
-            <div dir="rtl" mode="horizontal-tb">
+            </p>
+            <p dir="rtl" mode="horizontal-tb">
                 （老匏）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 ▲會樂里的蓮第、年紀雖然不大、路<lb/>
                 却走得不少、北京天津漢口廣東都<lb/>
                 去過、他唱的曲子、是老票友陳彥<lb/>
@@ -562,8 +561,8 @@
                 三個月裏、戒掉了烟、那客情願送兩<lb/>
                 身極漂亮的衣料給他、所以從三月<lb/>
                 初一起、蓮第實行戒烟哩、<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 ▲前天我在樂餘里<!-- there is a half space -->艷嬌那裏應酬、<lb/>
                 有一個人、去叫久安里的林雲仙來、<lb/>
                 等到林雲仙一到、有的人叫他老八、<lb/>
@@ -580,8 +579,8 @@
                 雲仙經過、在車兒上喊了一聲、阿虎<lb/>
                 頓然跑了、所以叫他做武松、他會打<lb/>
                 老虎呢、<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 ▲小花園秋菱一家的筱蘭珍、本是<lb/>
                 杭州的汪頭總統、唱幾句靑衫、鬚生<lb/>
                 多不壞、幷且有一支香烟五更調、多<lb/>
@@ -594,13 +593,13 @@
                 來、你們道他爲什麽要懊悔呢、原來<lb/>
                 這客人、應着上海通行的一句俗語、<lb/>
                 叫做『癟的生司、』怪不得叫起屈來、<lb/>
-            </div>                       
+            </p>                       
         </div>   
         <div type="article" itemid="4028">
-            <div>
+            <p>
                 ◘漱六山房致靑鳳書<lb/>
-            </div> 
-            <div>
+            </p> 
+            <p>
                 鳳君芳鑒、別久矣、風淸月白、良夜<lb/>
                 如何、桂葉菱枝、未妨惆悵、遠念華<lb/>
                 彩、不覺惘然、近接來札、甚慰甚慰、<lb/>
@@ -610,12 +609,12 @@
                 其便、大約今歲夏間、總須一行、倘<lb/>
                 有相吿之言、可請余四轉致、匆匆手<lb/>
                 復、不盡欲言、春風中人、千萬珍重、<lb/>                
-            </div>
-            <div>
+            </p>
+            <p>
                 漱六山房主人<lb/>         
-            </div>
+            </p>
         </div>
-        <div type="article" itemid="4031">
+        <div type="article" itemid="4031"><p>
             ◘正誤　斝齋雜詩、論太和元年江<lb/>
             州刺史造象爲唐物、以北魏太和時、<lb/>
             江州屬宋、决非魏物也、茲以金石証<lb/>
@@ -635,6 +634,6 @@
             江州刺史、江州不屬於趙魏、必晉物<lb/>
             也、三國魏、唐、五代吳、皆大和也、<lb/>
             又標題『唐造象』改『晉造象』（寒雲）<pb/>                         
-        </div>       
+        </p></div>       
     </div>
 </fold>

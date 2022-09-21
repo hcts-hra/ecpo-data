@@ -1,56 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/hcts-hra/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_0137_1920-04-27_0001+0004" lastedit="2022-03-20" lasteditor="ysmlouis" issueid="99">
+<fold xml:id="jb_0137_1920-04-27_0001to0004" lastedit="2022-03-20" lasteditor="ysmlouis" issueid="99">
     <!-- start recto page -->
     <div type="page" page="recto" n="1" mode="vertical-rl" dir="rtl">
            <div type="margin" mode="horizontal-tb" dir="rtl">
-                  <div>
+                  <p>
                         第一版　民國九年四月廿七日<lb/>
-                  </div>
-                  <div  mode="horizontal-tb" dir="ltr">
+                  </p>
+                  <p mode="horizontal-tb" dir="ltr">
                         THE　CRYSTAL<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                         庚申年三月初九日　星期二<lb/>
-                  </div>
+                  </p>
            </div> 
            <div type="advert">
-                  <div>
+                  <p>
                          定報價格<lb/>
-                  </div>
-                  <div>
+                  </p>
+                  <p>
                          每三日出一張逐期<lb/>
                          寄閱全年大洋二元<lb/>
                          半年大洋一元一角<lb/>
                          每月大洋二角郵費<lb/>
                          在內郵票加一<lb/>
-                  </div> 
+                  </p> 
            </div>
-           <div type="other">
+           <div type="other"><p>
                   今日一張售大洋二分<lb/> 
-           </div>
+           </p></div>
            <div type="head" dir="rtl" mode="horizontal-tb">
-                  <div>
+                  <p>
                          晶報<lb/>
-                  </div>                 
+                  </p>                 
            </div> 
-           <div type="other">
+           <div type="other"><p>
                   第一百三十七號<lb/> 
-           </div>
+           </p></div>
            <div type="advert">
-                  <div>
+                  <p>
                          廣吿刊例<lb/>
-                  </div> 
-                  <div>
+                  </p> 
+                  <p>
                          每三英寸寬二英<lb/> 
                          寸高爲一格每期<lb/>
                          刊資大洋三角封<lb/>
                          面加倍中縫全部<lb/>
                          一元五角<lb/>               
-                  </div>
+                  </p>
            </div>
            <div type="advert" itemid="4646">
                   <!-- 上海五洲藥大房
@@ -80,7 +79,7 @@
                        五角 每磅
                        南京路三十七號
                    --> 
-                 <div type="image" itemid="2331"></div>
+                 <div type="image" itemid="2331"/>
            </div> 
            <div type="advert" itemid="4648">
                   <!-- 家藏良藥龍虎丹
@@ -101,7 +100,7 @@
                        諸君不信　請即嘗試
                        南洋兄弟烟草公司
                    -->
-                  <div type="image" itemid="2332"></div>
+                  <div type="image" itemid="2332"/>
            </div>  
            <div type="advert" itemid="4651">
                   <!-- 西醫張世楷秘製
@@ -110,7 +109,7 @@
                        凡男女之患癧子頸者均由先天不足後
                        天失調若男子患之者必致終身血虧發
                        育不固傳染妻子貽害無窮若女子患之
-                       者必致月經不調子宮(This character is written like this:「子+宮」)乏力終身難孕遺
+                       者必致月經不調子宮(This character is written like this:「子to宮」)乏力終身難孕遺
                        禍丈夫豈不危哉本醫士存心濟世不惜
                        工本將租傳良方供諸社會非爲名利焉
                        功效
@@ -191,9 +190,9 @@
     </div>
     <!-- start verso page -->
     <div type="page" page="verso" n="4" mode="vertical-rl" dir="rtl">
-        <div type="margin" mode="horizontal-tb" dir="rtl">
+        <div type="margin" mode="horizontal-tb" dir="rtl"><p>
             第四版　民國九年四月廿七日　晶　報　庚申年三月初九日　星期二<lb/>                               
-        </div>
+        </p></div>
         <div type="advert" itemid="4656">
                 <!-- 和盛首飾號
                      本號創自同治季年專辦頭等

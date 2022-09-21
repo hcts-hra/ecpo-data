@@ -1,30 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/hcts-hra/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3795_1939-04-21_0005+0008" lastedit="2021-07-09" lasteditor="ysmlouis" issueid="20">
+<fold xml:id="jb_3795_1939-04-21_0005+0008" lastedit="2022-09-20" lasteditor="xiejia1995" issueid="20">
     <!-- start recto page -->
     <div type="page" page="recto" n="5" mode="vertical-rl" dir="rtl">
         <div type="margin" mode="horizontal-tb" dir="rtl">
+            <p>
                 中華民國二十八年四月廿一日　晶報　星期五　第五版<lb/>
+            </p>
         </div>
         <div type="image" itemid="419">
-            <div dir="rtl" mode="horizontal-tb">
+            <p dir="rtl" mode="horizontal-tb">
                 文化營<lb/>
-            </div>            
-            <div dir="rtl" mode="horizontal-tb">
+            </p>            
+            <p dir="rtl" mode="horizontal-tb">
                 黔野主編<lb/>
-            </div>
+            </p>
         </div>
+
         <div type="article" itemid="324">
-            <div>
+            <p>
                 旗主奴<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 唐潢虎<lb/>
-            </div>
-            <div>
+            </p>
+            
                 <p>
                     滿洲八旗制度中主奴的分際頗嚴，旗奴應絕對服從旗主，甚至違反皇帝的命令<lb/>
                     也在所不惜，見面之時，無論旗奴的地位怎樣高，仍得叩頭請安，恪守主奴的規<lb/>
@@ -54,19 +56,19 @@
                     八部大人必有相當的關係，蓋部落之權尚未集中於一人之手，其勢必然，正如封<lb/>
                     建之不得不行於商周，府主舉主不得不重於漢一般。<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="article" itemid="325">
-            <div>
+            <p>
                 亞洲內幕<lb/>
                 蔣介石上將　　　（一）<lb/>
                 領導中國抗戰的人<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 約翰耿脫著<lb/>
                 亦　朋　譯<lb/>
-            </div>
-            <div>
+            </p>
+            
                 <p>
                     蔣介石以一個內<lb/>
                     地小商人的兒子，<lb/>
@@ -175,16 +177,16 @@
                     在日本軍隊中實習<lb/>
                     。<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="article" itemid="323">
-            <div>
+            <p>
                 詩經話譯<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 如鐘<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 一，溱洧（鄭風）<lb/>
                 溱與洧，<lb/>
                 春水洸漾，<lb/>
@@ -219,18 +221,19 @@
                 （解）這是一首<lb/>
                 溱洧兩水地方上已<lb/>
                 修禊日的遊春詩。<lb/>
-            </div>
+            </p>
         </div>
+
         <div type="image" itemid="420">           
-            <div mode="horizontal-tb" dir="rtl">
+            <p mode="horizontal-tb" dir="rtl">
                 大地作者　賽珍珠女士<lb/>
-            </div>
+            </p>
         </div>
         <div type="article">
-            <div>
+            <p>
                 每日國際政治測驗<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 （甲）去年九月，歐洲幾乎發生第<lb/>
                 二次大戰，原因是：<lb/>
                 一、德國向捷克要求土地。<lb/>
@@ -254,20 +257,20 @@
                 五、艾登，希特勒，達拉第，莫<lb/>
                 索里尼。<lb/>
                 （答案見明日本營）<lb/>
-            </div>
+            </p>
         </div>
         <div type="article" itemid="327">
-            <div>
+            <p>
                 愛國志士<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 賽珍珠女士作<lb/>
                 諍　諍　譯<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                     一　家世<lb/>
-            </div>
-            <div>
+            </p>
+            
                 <p>
                     民國十五年，卽<lb/>
                     西曆一千九百二十<lb/>
@@ -446,39 +449,40 @@
                     有看見過什麼戰役<lb/>
                     。<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="other" itemid="595">
+            <p>
             本營地絕對公<lb/>
             開，歡迎賜稿，<lb/>
             一經刊出，卽致<lb/>
             薄酬。<lb/>
             營地管理員<lb/>
+            </p>
         </div>
-        <div type="article" itemid="328">
-            <div mode="horizontal-tb" dir="rtl">
+        <div type="article" itemid="328">            
+            <p mode="horizontal-tb" dir="rtl">
                 袁寒雲先生手寫<lb/>
                 丁卯日記之一<lb/>
-            </div>
-            <div type="image">
-                <!--<p>
-                    丁卯日記<lb/>
-                    正月初一日晨率兒孫祀　祖寄鳳珠曰江樓<lb/>
-                    共遣蕭蕭 <!-\- In the writing, he used two dots to represent the repeated character 蕭 -\-> 雨回𩠐歬宵已隔年我自關山向凬<lb/>
-                    <!-\-𩠐 正體爲 首；歬 正體爲 前；凬 正體爲風-\->
-                    雪何堪顰笑記當筵<lb/>
-                    初二日地山師過譚致桐𣶒書<lb/>
-                    <!-\-𣶒 正體爲 淵-\->
-                    初三日撰尊畔小語寄芥塵致愚公師雲<lb/>
-                    岑書<lb/>
-                    初亖日𧩿𠄡綵結同心寄鳳珠海上𤔲曰天涯旾<lb/>
-                    <!-\-亖 正體爲 四；𧩿 正體爲 譔；𠄡 正體爲 五；𤔲 正體爲 辭; 旾 正體爲 春-\->
-                    遠夢底𠌶遲歸車催破征魂歡醉都如昨揮<lb/>
-                    <!-\-𠌶 正體爲 花-\->
-                    絃管𢕄語試記停尊幾回攜手憐嚬笑飜愁絕<lb/>
-                    <!-\-絃 正體爲 弦；𢕄 正體爲 微；嚬 正體爲 顰；飜 正體爲 翻-\->
-                </p>-->
-            </div>
+            </p>
+            <p>
+                丁卯日記<lb/>
+                正月初一日晨率兒孫祀　祖寄鳳珠曰江樓<lb/>
+                共遣蕭蕭 <!-\- In the writing, he used two dots to represent the repeated character 蕭 -\-> 雨回𩠐歬宵已隔年我自關山向凬<lb/>
+                <!-\-𩠐 正體爲 首；歬 正體爲 前；凬 正體爲風-\->
+                雪何堪顰笑記當筵<lb/>
+                初二日地山師過譚致桐𣶒書<lb/>
+                <!-\-𣶒 正體爲 淵-\->
+                初三日撰尊畔小語寄芥塵致愚公師雲<lb/>
+                岑書<lb/>
+                初亖日𧩿𠄡綵結同心寄鳳珠海上𤔲曰天涯旾<lb/>
+                <!-\-亖 正體爲 四；𧩿 正體爲 譔；𠄡 正體爲 五；𤔲 正體爲 辭; 旾 正體爲 春-\->
+                遠夢底𠌶遲歸車催破征魂歡醉都如昨揮<lb/>
+                <!-\-𠌶 正體爲 花-\->
+                絃管𢕄語試記停尊幾回攜手憐嚬笑飜愁絕<lb/>
+                <!-\-絃 正體爲 弦；𢕄 正體爲 微；嚬 正體爲 顰；飜 正體爲 翻-\->
+            </p>
+
         </div>                  
         <div type="margin">
                 本報具有二十年的歷史是小型報紙鼻祖銷路普遍全國刊登廣吿最有效力<pb/>
@@ -486,23 +490,24 @@
     </div>
     <!-- start verso page -->
     <div type="page" page="verso" n="8" dir="rtl" mode="vertical-rl">
-        <div type="margin" mode="horizontal-tb" dir="rtl">
+        <div type="margin" mode="horizontal-tb" dir="rtl"><p>
             中華民國二十八年四月廿一日　晶報　星期五　第八版<lb/>
-        </div>
+        </p>
         <div type="image" itemid="429">            
-            <div>
+            <p>
                 影<lb/>
                 城<lb/>
-            </div>
-            <div mode="horizontal-tb" dir="rtl">
+            </p>
+            <p mode="horizontal-tb" dir="rtl">
                 豐田編輯<lb/>
-            </div>
+            </p>
         </div>
+
         <div type="article" itemid="342">
-            <div>
+            <p>
                 王次龍不吿而別<lb/>
-            </div>
-            <div>
+            </p>
+            
                 <p>
                     王次龍爲藝華公司之「台柱導演」，<lb/>
                     藝華在近來劍拔拏張，與新華公司有不<lb/>
@@ -518,14 +523,14 @@
                     藝華現在已聘定吳村，巨片「王寶川<lb/>
                     」卽由吳村導演了。　（未將）<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="article" itemid="343">
-            <div>
+            <p>
                 談瑛不<lb/>
                 出亂子<lb/>
-            </div>
-            <div>
+            </p>
+            
                 <p>
                     談瑛一到了香港<lb/>
                     ，她是去看看「外<lb/>
@@ -543,21 +548,23 @@
                     性質，一無其他原<lb/>
                     因。（壯士）<lb/>
                 </p>
-            </div>
+            
         </div>
+
         <div type="image" itemid="430"> 
-            <div mode="horizontal-tb" dir="rtl">
+            <p mode="horizontal-tb" dir="rtl">
                 陳雲裳之『古典美』<lb/>
-            </div>
+            </p>
         </div>
+
         <div type="article" itemid="344">
-            <div>
+            <p>
                 小汽<lb/>
                 車唱<lb/>
                 隨之<lb/>
                 樂<lb/>
-            </div>
-            <div>
+            </p>
+            
                 <p>
                     袁美雲<lb/>
                     王引是<lb/>
@@ -591,14 +598,15 @@
                     ，各戲院看電影。<lb/>
                     （趙廉）<lb/>
                 </p>
-            </div>
+            
         </div>
+
         <div type="article" itemid="346">
-            <div mode="horizontal-tb" dir="rtl">
+            <p mode="horizontal-tb" dir="rtl">
                 邵醉翁來滬<lb/>
                 關於他的「雄心」<lb/>
-            </div>
-            <div>
+            </p>
+            
                 <p>
                     在上海曾經以「偷工減<lb/>
                     料」出名之電影事業家邵<lb/>
@@ -623,21 +631,20 @@
                     使舵，多少有點「垂涎」，他又加是上<lb/>
                     海王「老土地」，當然將引起他的雄心<lb/>
                     來了。　　（跳王）<lb/>
-                </p>
-            </div>
+                </p>            
         </div>
         <div type="article" itemid="345">
-            <div>
+            <p>
                 『桃色慘案』就是『<lb/>
                 小博士』<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 無關<lb/>
                 緊要<lb/>
                 的小<lb/>
                 祕密<lb/>
-            </div>
-            <div>
+            </p>
+            
                 <p>
                     目下正在金城大戲院<lb/>
                     開映中之「桃色慘案」<lb/>
@@ -654,15 +661,14 @@
                     在現下並無正式管理機關，隨便換上一<lb/>
                     個名稱，也無人來反對，於是新片「桃<lb/>
                     色慘案」卽問世了。<lb/>
-                </p>
-            </div>
+                </p>            
         </div>
         <div type="article" itemid="347">
-            <div>
+            <p>
                 國華公司老闆是一個<lb/>
                 書迷<lb/>
-            </div>
-            <div>
+            </p>
+            
                 <p>
                     上次國華公司公映「紅粉飄零」的廣<lb/>
                     吿上，預吿了許多新片的名稱，大約有<lb/>
@@ -679,18 +685,21 @@
                     充之喜，這李昌鑑便被邀爲編劇。<lb/>
                     （貢廷）<lb/>
                 </p>
-            </div>
+            
         </div>
+
         <div type="other" itemid="606">
+            <p>
             本報各版<lb/>
             公開歡迎<lb/>
             讀者投稿<lb/>
+            </p>
         </div>
         <div type="article" itemid="348">
-            <div>
+            <p>
                 珍屑<lb/>
-            </div>
-            <div>
+            </p>
+            
                 <p>
                     美商中國聯合<lb/>
                     影業公司成立新<lb/>
@@ -704,69 +713,71 @@
                     在該處辦公。<lb/>
                     （莫成）<lb/>
                 </p>
-            </div>
+            
         </div>
         <div type="advert" itemid="607">
-            <div>
+            <p>
                 中西按摩院<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 本院聘有中西美貌<lb/>
                 女子精按摩術服務<lb/>
                 週到歡迎各界光顧<lb/>
                 上午十二時至下午八時　地址卡德路八三號大厦四號房間<lb/>
                 （愛文義路口）<lb/>
-            </div>
+            </p>
         </div>
         <div type="advert" itemid="608">
-            <div>
+            <p>
                 按摩浴室<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 西籍女子擅長按摩術室內<lb/>
                 設備完美淸潔衞生招待週<lb/>
                 到歡迎華賓光顧請駕靜安<lb/>
                 寺路西摩路口滄州飯店隔壁滄州別墅卅二號樓上<lb/>
-            </div>
+            </p>
         </div>
         <div type="advert" itemid="474">
-            <div type="image" itemid="433"></div>
-            <div mode="horizontal-tb" dir="rtl">
+            <!--  see #128       -->
+<!--            <div type="image" itemid="433"/>-->
+            <p mode="horizontal-tb" dir="rtl">
                 雙妹牌<lb/>
                 生髮油<lb/>
-            </div>
-            <div type="image" itemid="434"></div>
-            <div>
+            </p>
+            <!--  see #128       -->
+<!--            <div type="image" itemid="434"/>-->
+            <p>
                 用生髮油<lb/>
                 自覺頭上<lb/>
                 光澤𠁊滑<lb/>
                 馨香撲鼻<lb/>
                 中國廣生行出品<lb/>
-            </div>
+            </p>
         </div>
         <div type="advert" itemid="609">
-            <div mode="horizontal-tb" dir="rtl">
+            <p mode="horizontal-tb" dir="rtl">
                 林肯<lb/>
                 藥水牙膏<lb/>
                 含有特製「卡卜利克」‧效益最宏<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 白齒療蛀　殺菌除𦤀<lb/>
                 功效神速　從來未有<lb/>
                 敬贈樣品　藉資證明<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 林肯葯水牙膏含有特製卡卜利克及其他珍貴成分故能發揮白齒療<lb/>
                 蛀殺菌除臭諸功迅速有效為從來所未有茲欲普遍証明功效起見不<lb/>
                 惜犧牲廣贈各界樣品以資試用<lb/>
                 上海美通行謹啟<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 各大葯房<lb/>
                 各百貨店<lb/>
                 均有出售<lb/>
-            </div>
-            <div type="image" itemid="431">
+            </p>
+<!--            <div type="image" itemid="431">-->
                 <!-- <div>
                           LINCOLN<lb/>
                           CARBOLIC<lb/>
@@ -798,123 +809,123 @@
                           姓　名<lb/>
                           住　址<lb/>
                      </div>-->
-            </div>
+            <!--</div>-->
         </div>
         <div type="advert" itemid="610">
-            <div>
+            <p>
                 石路二馬路口<lb/>
-            </div>
-            <div mode="horizontal-tb" dir="rtl">
+            </p>
+            <p mode="horizontal-tb" dir="rtl">
                 鴻昌<lb/>
                 綢緞皮貨衣莊<lb/>
                 二樓特設營業部<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 電話九一五七〇<lb/>
-            </div>
-            <div mode="horizontal-tb" dir="rtl">
+            </p>
+            <p mode="horizontal-tb" dir="rtl">
                 皮貨部<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 灰鼠狐嵌<lb/>
                 紫貂豹皮<lb/>
                 粗細皮貨<lb/>
                 應有盡有<lb/>
-            </div>
-            <div mode="horizontal-tb" dir="rtl">
+            </p>
+            <p mode="horizontal-tb" dir="rtl">
                 估衣部<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 精選大當<lb/>
                 典押滿貨<lb/>
                 四季衣服<lb/>
                 品質高貴<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 開幕以來<lb/>
                 承蒙各界<lb/>
                 踴躍光顧<lb/>
                 特此擧行<lb/>
-            </div>
-            <div mode="horizontal-tb" dir="rtl">
+            </p>
+            <p mode="horizontal-tb" dir="rtl">
                 全部各貨<lb/>
                 特<lb/>
                 別<lb/>
                 大<lb/>
                 犧牲<lb/>
                 （二時至六時止）<lb/>
-            </div>
-            <div mode="horizontal-tb" dir="rtl">
+            </p>
+            <p mode="horizontal-tb" dir="rtl">
                 新裝部<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 專家設計<lb/>
                 式樣翻新<lb/>
                 定制衣着<lb/>
                 隔日取貨<lb/>
-            </div>
-            <div mode="horizontal-tb" dir="rtl">
+            </p>
+            <p mode="horizontal-tb" dir="rtl">
                 壽衣部<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 繡花衾枕<lb/>
                 錦被錦褥<lb/>
                 各種壽衣<lb/>
                 一應俱全<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 不限<lb/>
                 日期<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 開幕期<lb/>
                 內各貨<lb/>
                 一律廉<lb/>
                 價出售<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 包退<lb/>
                 還洋<lb/>
-            </div>
+            </p>
         </div>
-        <div type="advert" itemid="611">
-            <div mode="horizontal-tb" dir="rtl">
+        <div type="advert" itemid="611">            
+            <p mode="horizontal-tb" dir="rtl">
                 南京路<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 馮氏<lb/>
                 老牌<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 陶園酒家<lb/>
-            </div>
-            <div mode="horizontal-tb" dir="rtl">
+            </p>
+            <p mode="horizontal-tb" dir="rtl">
                 創設四十年<lb/>
                 首推第一家<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 高等粵菜<lb/>
                 早午茶點<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 譽滿<lb/>
                 春申<lb/>
                 改良<lb/>
                 名點<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 老牌香腸<lb/>
                 𧐢油义燒<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 味透<lb/>
                 鮮美<lb/>
                 風味<lb/>
                 別緻<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 第一支店成都路威海衞路口<lb/>
-            </div>
+            </p>
         </div>
         <div type="margin">
                 本報忠實報道新聞說人人要說的話文字淺近趣味濃厚是最平民化的物刊<pb/>
@@ -924,17 +935,17 @@
     <!--start middle of the fold-->
     <div type="margin">
         <div type="advert" itemid="612">
-            <div>
+            <p>
                 毛興昌<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 男女<lb/>
                 西服<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 公司<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 本公司前開設江灣復旦大學附近<lb/>
                 自八一三戰事爆發後現遷移法租<lb/>
                 界霞飛路海格路王家宅一號照常<lb/>
@@ -942,53 +953,56 @@
                 理部凡各界惠顧者請打電話通知<lb/>
                 『二三三七六號』無任歡迎<lb/>
                 毛興昌啓<lb/>
-            </div>
+            </p>
         </div>
         <div type="advert" itemid="613">
-            <div type="image" itemid="435"></div>
-            <div mode="horizontal-tb" dir="rtl">
+            <!--  see #128       -->
+<!--            <div type="image" itemid="435"/> -->
+            <p mode="horizontal-tb" dir="rtl">
                 一滴清<lb/>
                 眼薬水<lb/>
-            </div>
-            <div type="image"></div>
-            <div>
+            </p>
+            <!--  see #128       -->
+<!--            <div type="image"/> -->
+            <p>
                 統治<lb/>
                 目疾<lb/>
                 一滴<lb/>
                 見功<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 ◇一滴淸眼藥水主治之眼病◇<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 砂眼赤眼　瘙癢多脂<lb/>
                 羞明畏光　迎風流淚<lb/>
                 顆粒密生　視力糢糊<lb/>
                 雲翳外障　眼皮發紅<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 消毒完全<lb/>
                 功効確實<lb/>
                 攜帶便利<lb/>
                 價值低廉<lb/>
                 （每瓶貳角四）<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 三洋涇橋<lb/>
                 江西路口<lb/>
-            </div>
-            <div>
+            </p>
+            <p>
                 新華藥行發行<lb/>
-            </div> 
-            <div type="image" itemid="436"></div>
-            <div>
+            </p> 
+            <!--  see #128       -->
+<!--            <div type="image" itemid="436"/> -->
+            <p>
                 認明<lb/>
                 商標<lb/>
-            </div>
-            <div mode="horizontal-tb" dir="rtl">
+            </p>
+            <p mode="horizontal-tb" dir="rtl">
                 新華大藥行監製<lb/>
                 上海江西路十號<lb/>
-            </div>
+            </p>
         </div>
     </div>
 </fold>

@@ -1,51 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/exc-asia-and-europe/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/hcts-hra/ecpo/master/ecpo.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3804_1939-04-30_0006+0007" lastedit="2021-08-26" lasteditor="xiejia1995">
+<fold xml:id="jb_3804_1939-04-30_0006to0007" lastedit="2021-08-26" lasteditor="xiejia1995">
 	<div type="page" page="verso" n="6" dir="rtl" mode="vertical-rl">
-		<div type="margin" dir="rtl" mode="horizontal-tb">
+		<div type="margin" dir="rtl" mode="horizontal-tb"><p>
 			中華民國二十八年四月三十日　晶報　星期日　第六版<lb/>	
-		</div>
+		</p></div>
 		<div type="article">
-			<div>
+			
 			<p>
 				北<lb/>
-			</p>
-			<p>
 				平<lb/>
-			</p>
-			<p>
 				八<lb/>
-			</p>
-			<p>
 				大<lb/>
-			</p>
-			<p>
 				胡<lb/>
-			</p>
-			<p>
 				同<lb/>
-			</p>
-			<p>
 				今<lb/>
-			</p>
-			<p>
 				昔<lb/>
-			</p>
-			<p>
 				觀<lb/>
 			</p>
-			</div>
-			<div>
+			
+			<p>
 				（雲裳自）<lb/>
 				（北平寄）<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				◘城南游藝園改爲屠宰場<lb/>
-			</div>
-			<div>
+			</p>
+			
 			<p>
 				「八大胡同」，在北平具有悠久之歷史，其間樂戶林立，望衡對宇，絃管嗷嘈<lb/>
 				，爲走馬王孫銷魂勝地，頭等稱爲「淸吟小班」，次則爲「茶室」至於「下處」<lb/>
@@ -68,20 +51,20 @@
 				，另創新局矣。<lb/>
 			</p>
 			<p>
-				至於香廠以南之東西兩大森里，&gaiji;地處偏僻，自民十八以後，該處市况，一蹶<lb/>
+				至於香廠以南之東西兩大森里，地處偏僻，自民十八以後，該處市况，一蹶<lb/>
 				不振，迄今依然凄慘荒凉，已爲最低級之暗娼巢窟，然非販夫走卒之流，不敢問<lb/>
 				津！昔雖盛極一時之城南游藝園，今則改爲屠宰場，每値深更，畜類哀鳴，四週<lb/>
 				氣氛，亦爲之充滿恐怖殺伐景象也。<lb/>
 			</p>
-			</div>
+			
 		</div>
 		<div type="article">
-			<div>
+			<p>
 				南昌克復消息<lb/>
 				與日軍陸軍報道部<lb/>
 				　（知止）<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				南昌克復消息傳來，廿七日大美<lb/>
 				晚報根據日軍發言人所稱，大意謂<lb/>
 				南昌安謐如恆，絕無其事。越日而<lb/>
@@ -89,27 +72,21 @@
 				性質何等重要，虛實何能倒顚，且<lb/>
 				正式發言，尤爲觀瞻所繫，豈一報<lb/>
 				道部，並此而不知耶。<lb/>
-			</div>
+			</p>
 		</div>
 		<div type="article">
-			<div>
+			
 				<p>
 					佹<lb/>
-				</p>
-				<p>
 					失<lb/>
-				</p>
-				<p>
 					記<lb/>
-				</p>
-				<p>
 					（十）<lb/>
 				</p>
-			</div>
-			<div dir="rtl" mode="horizontal-tb">
+			
+			<p dir="rtl" mode="horizontal-tb">
 				（兼巢老人沈淇泉太史作）<lb/>
-			</div>
-			<div>
+			</p>
+			
 				<p>
 					甲午北行之先，餘姚邵<lb/>
 					筱邨師，（友濂，丁卯補<lb/>
@@ -159,20 +136,19 @@
 					，痛詈汪師不已，<lb/>
 					聞汪師頗憾之。<lb/>
 				</p>
-			</div>
+			
 		</div>
 		<div type="article">
-			<div>
+			<p>
 				老閻<lb/>
 				健驢<lb/>
-			</div>
-			<div type="image">
-				
-			</div>
-			<div dir="rtl" mode="horizontal-tb">
+			</p>
+			<!--	see #128		-->
+<!--			<div type="image"></div> -->
+			<p dir="rtl" mode="horizontal-tb">
 				法西斯的騙局！<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				抗戰軍興後，我<lb/>
 				軍事長官，努力於<lb/>
 				抗戰工作，宵旰午<lb/>
@@ -186,7 +162,7 @@
 				之前進者。當戰事<lb/>
 				發生時，陝晉以形<lb/>
 				勢關係，成爲鏖兵<lb/>
-				之所。閻率所部&gaiji;<lb/>
+				之所。閻率所部<lb/>
 				戰於其中，所到著<lb/>
 				有功勳，而每戰間<lb/>
 				卽親自指揮。而其<lb/>
@@ -195,7 +171,7 @@
 				之特備者。驢全身<lb/>
 				均白毛，祗驢之四<lb/>
 				蹄，乃有一撮黑毛<lb/>
-				在其中，體力&gaiji;甚<lb/>
+				在其中，體力甚<lb/>
 				，閻氏每跨健驢爲<lb/>
 				往來於其中，以爲<lb/>
 				指揮。此驢能日行<lb/>
@@ -205,16 +181,16 @@
 				故閻氏對之，異常<lb/>
 				珍愛，每行必與之<lb/>
 				俱也。　（N）<lb/>
-			</div>
+			</p>
 		</div>
 		<div type="article">
-			<div>
+			<p>
 				新游俠傳　張恨水<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				六十三　不由得軟了下去<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				這天秦鏡明他吃過了早飯，正吩咐打轎，要上衙門去，秦<lb/>
 				太太這就走向前，將他攔住道：大人，你今天不要上衙門去<lb/>
 				罷，外面的風聲，緊得很呀，秦鏡明一鼓作氣的，戴上了小<lb/>
@@ -232,19 +208,19 @@
 				己寬心，到了一天，眞有了事情出來，那就比我們太太們的<lb/>
 				胆子大也有限，秦鏡明聽了這話，又吹着了紙煤，將烟吸了<lb/>
 				幾袋，正在這個時候，平生進來了。<lb/>
-			</div>
+			</p>
 		</div>
 		<div type="article">
-			<div>
+			<p>
 				蔣委員長之生平<lb/>
-			</div>
-			<div dir="rtl" mode="horizontal-tb">
+			</p>
+			<p dir="rtl" mode="horizontal-tb">
 				（十）<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				（毛思誠）<lb/>
-			</div>
-			<div>
+			</p>
+			
 				<p>
 					民國前七年至民國前二年卽十九歲至二十四歲<lb/>
 				</p>
@@ -267,7 +243,7 @@
 					田獵，老而彌善其能，蓋其聰明才力，<lb/>
 					有以大過人者也。」公晚年歸老於鄉，<lb/>
 					斥其貲財，以開奉嵊通道，披荊棘，刊<lb/>
-					山谷，駕津梁，篳路藍縷，以迄於&gaiji;事<lb/>
+					山谷，駕津梁，篳路藍縷，以迄於事<lb/>
 					，皆公之力也。夫善居積者，往往聚而<lb/>
 					不能散，故曰爲富不仁矣。以其身敎之<lb/>
 					之難，思以貽其子孫，又未嘗敎以禮養<lb/>
@@ -291,97 +267,97 @@
 					生子二，賢鉅，賢裕，女一，卽我先妣<lb/>
 					慈菴王太夫人也，<lb/>
 				</p>
-			</div>
+			
 		</div>
 		<div type="advert">
-			<div>
+			<p>
 				石路二馬路口<lb/>
-			</div>
-			<div dir="rtl" mode="horizontal-tb">
+			</p>
+			<p dir="rtl" mode="horizontal-tb">
 				鴻昌<lb/>
 				綢緞皮貨衣莊<lb/>
 				二樓特設營業部<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				電話九一五七〇<lb/>
-			</div>
-			<div dir="rtl" mode="horizontal-tb">
+			</p>
+			<p dir="rtl" mode="horizontal-tb">
 				估衣部<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				精選大當<lb/>
 				典押滿貨<lb/>
 				四季衣服<lb/>
 				品質高貴<lb/>
-			</div>
-			<div dir="rtl" mode="horizontal-tb">
+			</p>
+			<p dir="rtl" mode="horizontal-tb">
 				皮貨部<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				灰鼠狐嵌<lb/>
 				紫貂豹皮<lb/>
 				粗細皮貨<lb/>
 				應有盡有<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				開幕以來<lb/>
 				承蒙各界<lb/>
 				踴躍光顧<lb/>
 				特此舉行<lb/>
-			</div>
-			<div dir="rtl" mode="horizontal-tb">
+			</p>
+			<p dir="rtl" mode="horizontal-tb">
 				全部各貨<lb/>
 				特別<lb/>
 				大<lb/>
 				犧牲<lb/>
 				（二時至六時止）<lb/>
-			</div>
-			<div dir="rtl" mode="horizontal-tb">
+			</p>
+			<p dir="rtl" mode="horizontal-tb">
 				新裝部<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				專家設計<lb/>
 				式樣翻新<lb/>
 				定製衣着<lb/>
 				隔日取貨<lb/>
-			</div>
-			<div dir="rtl" mode="horizontal-tb">
+			</p>
+			<p dir="rtl" mode="horizontal-tb">
 				壽衣部<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				繡花衾枕<lb/>
 				錦被錦褥<lb/>
 				各種壽衣<lb/>
 				一應俱全<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				不限<lb/>
 				日期<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				開幕期<lb/>
 				內各貨<lb/>
 				一律廉<lb/>
 				價出售<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				包退<lb/>
 				還洋<lb/>
-			</div>
+			</p>
 		</div>
 		<div type="advert">
-			<div>
+			<p>
 				福煦路南成都路口<lb/>
 				振新洗染廠<lb/>
-			</div>
-			<div dir="rtl" mode="horizontal-tb">
+			</p>
+			<p dir="rtl" mode="horizontal-tb">
 				春季<lb/>
 				大<lb/>
 				減價<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				精染不褪色綢緞衣料<lb/>
-			</div>
+			</p>
 		</div>
 	<div type="advert">
 		<div dir="rtl" mode="horizontal-tb">
@@ -394,48 +370,48 @@
 			</p>
 		</div>
 		<div>
-			<div dir="rtl" mode="horizontal-tb">
+			<p dir="rtl" mode="horizontal-tb">
 				前八盤　後八盤<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				1安力凱<lb/>
 				2卡禮加<lb/>
 				3普登巧<lb/>
 				4伊却利<lb/>
 				5古禮地<lb/>
 				6阿斯蒂<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				1安杜利<lb/>
 				2泰寶達<lb/>
 				3奧薩<lb/>
 				4爾加<lb/>
 				5后蘭多<lb/>
 				6沙薩門地<lb/>
-			</div>
+			</p>
 		</div>
-		<div>
-			<div dir="rtl" mode="horizontal-tb">
+		<div dir="rtl" mode="horizontal-tb">
+			<p>
 				前八盤　後八盤<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				1拉飛爾<lb/>
 				2袁利石<lb/>
 				3葛尼加<lb/>
 				4佛蘭多<lb/>
 				5伊却利<lb/>
 				6安力凱<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				1沙薩門地<lb/>
 				2拉摩司<lb/>
 				3蘇羅沙伯<lb/>
 				4亞爾培地<lb/>
 				5奧薩<lb/>
 				6安杜利<lb/>
-			</div>
-		</div>
-		<div>
+			</p>
+		
+		<p>
 			夏季<lb/>
 			香檳<lb/>
 			每張<lb/>
@@ -444,7 +420,8 @@
 			出售<lb/>
 			請速<lb/>
 			購買<lb/>
-		</div>
+		</p>
+		</div>	
 	</div>
 		<div type="margin">
 			廣吿刊例：　報名旁　每日每方二十元　長行計七寸高　每日每行一元八角　短行計三寸半高　每日每行九角　中縫計三寸半高二寸潤　每日每格八元<pb/>	
@@ -452,12 +429,12 @@
 	</div>
 	<div type="margin" dir="rtl" mode="vertical-rl">
 		<div type="advert">
-			<div>
+			<p>
 				陳效懷醫師<lb/>
 				△負責根治淋濁　梅毒　下瘡<lb/>
 				及其併發症暨男女一切性病<lb/>
-			</div>
-			<div>			
+			</p>
+			<p>			
 				採用現代最新療法<lb/>
 				及特効專業參以多年<lb/>
 				臨診經驗運用精嫻手<lb/>
@@ -474,7 +451,7 @@
 				間●每日上午五時至下午六時星期日下午停診（附吿）近常有以花柳病及性病病症狀<lb/>
 				及治法函詢者惟來函多簡略不詳殊最爲切實之解答爲此特定每日下午一時至三時在<lb/>
 				此時間內之者可親臨詢問俾得爲較確切之檢查與解答完全義務不收任何費用<lb/>
-			</div>
+			</p>
 		</div> 
 		<div type="advert">
 			<p>
@@ -518,80 +495,68 @@
 			</p>
 		</div>
 		<div type="advert" dir="rtl" mode="vertical-rl">	
-			<div>
+			<p>
 				陽痿<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				可以<lb/>
 				限日<lb/>
 				治愈<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				早洩<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				保能<lb/>
 				如期<lb/>
 				耐久<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				小便點滴<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				當日<lb/>
 				通利<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				血淋<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				當日<lb/>
 				卽止<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				滑精，遺精，老白濁，<lb/>
 				及一切性衰弱均可於短期內保證治愈包醫聽使<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				腎病專家陳中一國醫師，爲建德世醫，是性病個中老手，其治法用內服外治，所以非常<lb/>
 				神驗，迅速。諸位可查閱六月十九至廿五，七月十五至廿一，十月十日至廿五，十一月<lb/>
 				五日至十日，如新聞申報文匯大美各大報。均看見許多人的感謝他，<lb/>
 				腎科陳中一國醫師　診所北京路三七八號景雲大樓　電話九〇三九七號<lb/>			       
-			</div>
+			</p>
 		</div>
 	</div>
 	<div type="page" page="recto" n="7" dir="rtl" mode="vertical-rl">
-	    <div type="margin" dir="rtl" mode="horizontal-tb">
+	    <div type="margin" dir="rtl" mode="horizontal-tb"><p>
 		    中華民國二十八年四月三十日　晶報　星期日　第七版<lb/>	
-        </div>
+        </p></div>
 		<div type="article">
-			<div>
+			
 			<p>
 				詠<lb/>
-			</p>
-			<p>
 				褚<lb/>
-			</p>
-			<p>
 				民<lb/>
-			</p>
-			<p>
-				誼<lb/>
-			</p>
-			<p>
+			    誼<lb/>
 				之<lb/>
-			</p>
-			<p>
 				詩<lb/>
-			</p>
-			<p>
 				聯<lb/>
 			</p>
-			</div>
-			<div>
+			
+			<p>
 				（余文）<lb/>
-			</div>
-			<div>
+			</p>
+			
 			<p>
 				連日讀褚民誼在各報所刊巨幅廣吿，因憶及其服官京華之舊事：時褚在京，雖<lb/>
 				任行政院秘書長職，但一切政務，則率由政務處長彭學沛處理，褚則致力於提倡<lb/>
@@ -623,14 +588,14 @@
 			<p>
 				以上所記，俱成陳跡，民誼先生今日在滬讀之，當亦啞然失笑，不以爲忤也。<lb/>
 			</p>
-			</div>
+			
 		</div>
 		<div type="article">
-			<div>
+			<p>
 				春江花乘　（不平凡公子）<lb/>
 				一日一姬　（七）雙華三媛<lb/>
-			</div>
-			<div>
+			</p>
+			
 			<p>
 				跑跑生意浪的朋<lb/>
 				友，無不知「北里<lb/>
@@ -643,7 +608,7 @@
 				三援氏楊，西子<lb/>
 				湖畔產，最早隸花<lb/>
 				國大總統雪飛老七<lb/>
-				&gaiji;下，稱雪飛三媛<lb/>
+				下，稱雪飛三媛<lb/>
 				，離雪飛後，自張<lb/>
 				一軍，芳織曰「亞<lb/>
 				男，」此爲三媛黃<lb/>
@@ -717,21 +682,19 @@
 				，直到現在，此人<lb/>
 				不知所終。<lb/>
 			</p>
-			</div>
+			
 		</div>
 		<div type="article">
 			<div dir="rtl" mode="horizontal-tb">				
-				<div>
+				
 				<p>
 					押<lb/>
-				</p>
-				<p>
 					韻<lb/>
 				</p>
-				</div>
-				<div>
+				
+				<p>
 					（不比）<lb/>
-				</div>
+				</p>
 			</div>
 			<div>
 				<p>
@@ -795,17 +758,17 @@
 			</div>
 		</div>
 		<div type="article">
-			<div>
+			<p>
 				烏托邦<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				（一名理想的世界）<lb/>
 				（六）畢倚虹遺著<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				第一回　度蜜空夫妻驚墮落　滅欲性男女泯猜疑<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				簡直是人盡可夫，人盡可妻的國家了，不想公妻公夫<lb/>
 				的過激議論，在這裏親眼目覩了，秦琤道，你又錯了，<lb/>
 				你還是沒明白呢，這極樂世界裏，根本沒有什麼夫，也<lb/>
@@ -822,14 +785,14 @@
 				以沒有男女之別了，秦琤道，也不然，這裏的人生理上<lb/>
 				却有陰陽之分，地位上却沒有男女之判，所以此地男女<lb/>
 				的服裝一般無二。<lb/>
-			</div>
+			</p>
 		</div>
 		<div type="article">
-			<div>
+			<p>
 				翁壻合作佳劇<lb/>
 				　（禪翁）<lb/>
-			</div>
-			<div>
+			</p>
+			
 			<p>
 				梨園行中，有親<lb/>
 				婭關係者，數蓋不<lb/>
@@ -884,13 +847,13 @@
 				形，當爲之啞然失<lb/>
 				笑也。（S）<lb/>
 			</p>
-			</div>
+			
 		</div>
 		<div type="article">
-			<div dir="rtl" mode="horizontal-tb">
+			<p dir="rtl" mode="horizontal-tb">
 				東西女人　（明）<lb/>
-			</div>
-			<div>
+			</p>
+		
 				<p>
 					歐人嘗<lb/>
 					謂：德女<lb/>
@@ -915,19 +878,19 @@
 					然則廢物乎？曰：<lb/>
 					叫作花瓶。<lb/>
 				</p>
-			</div>
+			
 		</div>
 		<div type="article">
-			<div>
+			<p>
 				怎樣使淂健康美<lb/>
-			</div>
-			<div dir="rtl" mode="horizontal-tb">
+			</p>
+			<p dir="rtl" mode="horizontal-tb">
 				（十）<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				（芸芸）<lb/>
-			</div>
-			<div>
+			</p>
+			
 				<p>
 					第二章　直立姿勢<lb/>
 				</p>
@@ -1022,7 +985,7 @@
 					也能有大的貢獻，<lb/>
 					凡是有意志的人。<lb/>
 					快樂的人，有調和<lb/>
-					餘裕的人，對於&gaiji;<lb/>
+					餘裕的人，對於<lb/>
 					命有樂趣的人，都<lb/>
 					是有這好姿勢的人<lb/>
 					。如果社會職員中<lb/>
@@ -1031,7 +994,7 @@
 					向上發展是不難預<lb/>
 					期的。<lb/>
 				</p>
-			</div>
+			
 		</div>
 		<div type="advert">
 			<div dir="rtl" mode="horizontal-tb">
@@ -1075,26 +1038,26 @@
 		</div>
 		<div type="advert">
 			<div>
-				<div>
+				<p>
 					電話<lb/>
 					八四八〇八<lb/>
 					八五八八九<lb/>
-				</div>
-				<div dir="rtl" mode="horizontal-tb">
+				</p>
+				<p dir="rtl" mode="horizontal-tb">
 					榮記<lb/>
 					共舞台<lb/>
-				</div>
-				<div>
+				</p>
+				<p>
 					地址<lb/>
 					大世界東<lb/>
 					愛多亞路<lb/>
-				</div>	
+				</p>	
 			</div>
 			<div>
-				<div dir="rtl" mode="horizontal-tb">
+				<p dir="rtl" mode="horizontal-tb">
 					價目<lb/>
-				</div>
-				<div>
+				</p>
+				<p>
 					日戲<lb/>
 					一角<lb/>
 					二角<lb/>
@@ -1113,26 +1076,28 @@
 					半<lb/>
 					六角<lb/>
 					八角<lb/>
-				</div>
+				</p>
 			</div>
 			<div>
+				<p>
 				今天日戲●多情女盜●<lb/>
 				第廿九集<lb/>
+			</p>
 			</div>
 			<div>
-				<div>
+				<p>
 					今夜<lb/>
 					務請<lb/>
 					早臨<lb/>
-				</div>
-				<div>
+				</p>
+				<p>
 					第三<lb/>
 					十集<lb/>
-				</div>
-				<div dir="rtl" mode="horizontal-tb">
+				</p>
+				<p dir="rtl" mode="horizontal-tb">
 					燈光有苗頭<lb/>
-				</div>
-				<div>
+				</p>
+				<p>
 					一忽<lb/>
 					兒瑞<lb/>
 					雪紛<lb/>
@@ -1140,30 +1105,30 @@
 					忽兒<lb/>
 					紅日<lb/>
 					高昇<lb/>
-				</div>
-				<div dir="rtl" mode="horizontal-tb">
+				</p>
+				<p dir="rtl" mode="horizontal-tb">
 					追魂珠<lb/>
-				</div>
-				<div>
+				</p>
+				<p>
 					忽然男<lb/>
 					聲忽然<lb/>
 					女會說<lb/>
 					得響亮<lb/>
 					听得淸<lb/>
 					楚<lb/>
-				</div>
-				<div dir="rtl" mode="horizontal-tb">
+				</p>
+				<p dir="rtl" mode="horizontal-tb">
 					火燒紅蓮寺<lb/>
-				</div>
+				</p>
 			</div>
 		</div>
 		<div type="article">
-			<div>
+			<p>
 				尚小雲<lb/>
 				廣收女弟子<lb/>
 				（戲迷自北平寄）<lb/>
-			</div>
-			<div>
+			</p>
+			<p>
 				四大名旦之一之<lb/>
 				尚小雲，平日演旦<lb/>
 				賣力，博得聽衆歡<lb/>
@@ -1189,9 +1154,9 @@
 				頗爲不惡，如能繼<lb/>
 				續上進，前途光大<lb/>
 				可爲預卜。<lb/>
-			</div>
+			</p>
 		</div>
-    	<div type="margin" >
+    	<div type="margin">
     		定報價目：　本埠　每月五角　三個月一元四角　外埠　每月六角　三月一元七角　半年三元二角　全年六元　郵費在內　國外加倍報資先惠<pb/>	
     	</div>
     </div>
