@@ -2,7 +2,7 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3799_1939-04-25_0001to0004" lastedit="2021-08-23" lasteditor="ysmlouis">
+<fold xml:id="jb_3799_1939-04-25_0001to0004" lastedit="2022-10-04" lasteditor="xiejia1995" issueid="24">
     <!-- start recto page -->
     <div type="page" page="recto" n="1" mode="vertical-rl" dir="rtl">
          <div type="head" mode="horizontal-tb" dir="rtl">
@@ -21,7 +21,7 @@
                       中華民國貳拾捌年四月廿五日　星期二　今日兩全張售國幣貳分四厘　本報創刊於民國八年三月三日<lb/>
                </p> 
          </div>
-         <div type="advert">
+         <div type="advert" itemid="679">
                 <p mode="horizontal-tb" dir="rtl">
                      金字塔香煙<lb/>
                 </p>
@@ -37,15 +37,17 @@
                      中國福新煙公司出品<lb/>
                 </p>
          </div>
-         <div type="advert" mode="horizontal-tb" dir="rtl"><p>
+         <div type="advert" itemid="680">
+               <p mode="horizontal-tb" dir="rtl">
                 海上第一流攝影專家<lb/>
                 國泰藝術照相館<lb/>
                 定價經濟化照相貴族化<lb/>
                 際此春光攝影良機<lb/>
                 地址南京路石路西<lb/>
                 電話九〇三九三號<lb/>
-        </p></div>
-        <div type="article">
+               </p>
+         </div>
+         <div type="article" itemid="581">
              <p mode="horizontal-tb" dir="rtl">
                   日反攻新會失敗<lb/>
              </p>
@@ -55,70 +57,66 @@
                   日部隊現集中於長沙一線<lb/>
                   其他各城防守力量均單薄<lb/>
              </p>
-                   <p>
-                        （重慶廿四日海通社電）據華方報吿稱、華軍反攻贛北、迭奏奇勛、除高安已再度克復<lb/>
-                        外、高安與南昌間之鄕村、亦有多處均欣吿克復、長沙人民聞捷報後、熱烈慶祝、<lb/>
-                   </p>
-                   <p>
-                        （重慶廿四日路透社電）今日此間綏軍訊稱、四月二十二日夜、華軍突襲鄂湘邊境武長<lb/>
-                        公路上之通山日軍、而於昨日拂曉克復之、日軍向南林橋（譯音）西退、炸毀公路與橋梁<lb/>
-                        、以阻華軍追擊、同時另一路華軍、刻向南林輪北進、俾與自通山西進之華軍會合、<lb/>
-                   </p>
-                   <p>
-                        （重慶廿四日路透社電）今晨華字報紙、咸以顯著地位刊載贛省前線華軍勝利消息、<lb/>
-                        內稱、昨克高安之一路軍隊、續循公路向南昌東進、同日午刻克南昌郊外之祥符<lb/>
-                        觀、與萬壽宮、華軍係昨晨六時三十分攻入高安、與日軍巷戰二小時、日軍向東<lb/>
-                        北撤退、華軍遂全克該城、是役日軍遺屍二百具、輕重機關槍十七挺、步槍六十<lb/>
-                        枝、<lb/>
-                   </p>
+               <p>
+                    （重慶廿四日海通社電）據華方報吿稱、華軍反攻贛北、迭奏奇勛、除高安已再度克復<lb/>
+                    外、高安與南昌間之鄕村、亦有多處均欣吿克復、長沙人民聞捷報後、熱烈慶祝、<lb/>
+               </p>
+               <p>
+                    （重慶廿四日路透社電）今日此間綏軍訊稱、四月二十二日夜、華軍突襲鄂湘邊境武長<lb/>
+                    公路上之通山日軍、而於昨日拂曉克復之、日軍向南林橋（譯音）西退、炸毀公路與橋梁<lb/>
+                    、以阻華軍追擊、同時另一路華軍、刻向南林輪北進、俾與自通山西進之華軍會合、<lb/>
+               </p>
+               <p>
+                    （重慶廿四日路透社電）今晨華字報紙、咸以顯著地位刊載贛省前線華軍勝利消息、<lb/>
+                    內稱、昨克高安之一路軍隊、續循公路向南昌東進、同日午刻克南昌郊外之祥符<lb/>
+                    觀、與萬壽宮、華軍係昨晨六時三十分攻入高安、與日軍巷戰二小時、日軍向東<lb/>
+                    北撤退、華軍遂全克該城、是役日軍遺屍二百具、輕重機關槍十七挺、步槍六十<lb/>
+                    枝、<lb/>
+               </p>
              
              <p>
                    日防守力單薄<lb/>
                    華軍迭奏奇勛<lb/>
-             </p>
-             
-                    <p>
-                         （重慶廿四日美聯社電）此間軍事領袖今日相<lb/>
-                         信、日軍向長沙進展、已甚迫切、據云、在南<lb/>
-                         昌以西之武甯通山及通城、日方有重兵結集中<lb/>
-                         、因日方在長沙一線各點、集中大軍、其他城市之守衞、均感單薄矣、華方軍事<lb/>
-                         領袖稱、華軍仍沿用其傳統政策、攻擊日方守衞單薄之城市、抗拒力量、當較小<lb/>
-                         也、華軍部隊、已克復南昌西北之要塞高安、日軍以集中於長沙一線之故、其他<lb/>
-                         各城之防守力量、均極單薄、致給予華軍以莫大之進攻機會云、<lb/>
-                    </p>
-             
+             </p>             
+               <p>
+                    （重慶廿四日美聯社電）此間軍事領袖今日相<lb/>
+                    信、日軍向長沙進展、已甚迫切、據云、在南<lb/>
+                    昌以西之武甯通山及通城、日方有重兵結集中<lb/>
+                    、因日方在長沙一線各點、集中大軍、其他城市之守衞、均感單薄矣、華方軍事<lb/>
+                    領袖稱、華軍仍沿用其傳統政策、攻擊日方守衞單薄之城市、抗拒力量、當較小<lb/>
+                    也、華軍部隊、已克復南昌西北之要塞高安、日軍以集中於長沙一線之故、其他<lb/>
+                    各城之防守力量、均極單薄、致給予華軍以莫大之進攻機會云、<lb/>
+               </p>             
              <p>
                    華軍佔通山後<lb/>
                    正東西並進中<lb/>
-             </p>
-            
-                    <p>
-                         （平江廿四日電）華軍克復通山部隊、仍繼續<lb/>
-                         西追、另一部則沿公路東進、於今晨佔領大畈<lb/>
-                         、斃日軍近百、當有一部刻在陽新鎭、與日軍<lb/>
-                         激戰、佔大畈之華軍、正東開趕往夾擊、<lb/>
-                    </p>
-             
+             </p>            
+               <p>
+                    （平江廿四日電）華軍克復通山部隊、仍繼續<lb/>
+                    西追、另一部則沿公路東進、於今晨佔領大畈<lb/>
+                    、斃日軍近百、當有一部刻在陽新鎭、與日軍<lb/>
+                    激戰、佔大畈之華軍、正東開趕往夾擊、<lb/>
+               </p>             
              <p>
                    新會失而復得<lb/>
                    日軍無法登陸<lb/>
-             </p>
-            
-                    <p>
-                         （翁源廿四日電）華軍連日進擊新會城、與日<lb/>
-                         軍爭奪、至爲激烈、失而復克者凡數次、廿二<lb/>
-                         日晨日軍藉飛機十四架、及炮兵之掩護、向西<lb/>
-                         北門進犯、華軍奮勇抵抗、血戰數晝夜、華軍沿河扼守、日卒無法登陸、<lb/>
-                    </p>
-             
+            </p>            
+               <p>
+                    （翁源廿四日電）華軍連日進擊新會城、與日<lb/>
+                    軍爭奪、至爲激烈、失而復克者凡數次、廿二<lb/>
+                    日晨日軍藉飛機十四架、及炮兵之掩護、向西<lb/>
+                    北門進犯、華軍奮勇抵抗、血戰數晝夜、華軍沿河扼守、日卒無法登陸、<lb/>
+               </p>             
         </div>
-        <div type="article">
-             <p mode="horizontal-tb" dir="rtl">
-                  柏林羅馬軸心⋯⋯國際時事地圖之五<lb/>
-             </p>
-              <!--     see #128        -->
-<!--             <div type="image"/>-->
-             
+        <div type="article" itemid="582">
+             <div type="other">
+                 <p mode="horizontal-tb" dir="rtl">
+                      柏林羅馬軸心⋯⋯國際時事地圖之五<lb/>
+                 </p>
+             </div>
+             <div type="image" itemid="438">
+             </div>
+             <div type="other">
                     <p>
                          現在歐洲地圖上<lb/>
                          德義兩國佔顯著重<lb/>
@@ -136,83 +134,82 @@
                          法兩國地中海航路<lb/>
                          實屬嚴重之威脅。<lb/>
                     </p>
-             
+             </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="583">
              <p>
                    烏鎭有激戰<lb/>
                    日軍被包圍<lb/>
-             </p>
-             
-                    <p>
-                         （五原廿三日電<lb/>
-                         ）廿二日午犯烏鎭<lb/>
-                         之日軍潰敗後、退<lb/>
-                         至泥灘、遇華方某<lb/>
-                         部伏擊、又折囘、<lb/>
-                         現已將日軍重重包<lb/>
-                         圍、現正激戰中、<lb/>
-                    </p>
+             </p>             
+               <p>
+                    （五原廿三日電<lb/>
+                    ）廿二日午犯烏鎭<lb/>
+                    之日軍潰敗後、退<lb/>
+                    至泥灘、遇華方某<lb/>
+                    部伏擊、又折囘、<lb/>
+                    現已將日軍重重包<lb/>
+                    圍、現正激戰中、<lb/>
+               </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="584">
              <p>
                    日機襲永嘉<lb/>
              </p>
              
-                    <p>
-                         （金華廿四日電<lb/>
-                         ）日機三架、今日<lb/>
-                         分三次轟炸永嘉、<lb/>
-                         投彈十二枚、毀民<lb/>
-                         房百間餘、無死傷<lb/>
-                    </p>
+               <p>
+                    （金華廿四日電<lb/>
+                    ）日機三架、今日<lb/>
+                    分三次轟炸永嘉、<lb/>
+                    投彈十二枚、毀民<lb/>
+                    房百間餘、無死傷<lb/>
+               </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="47251">
              <p>
                    國府命令<lb/>
              </p>
              
-                    <p>
-                         （重慶廿四日電<lb/>
-                          ）國府廿四日令、<lb/>
-                         （一）劉宗寬任爲<lb/>
-                          陸軍少將、（二）<lb/>
-                          陸軍步兵上校張世<lb/>
-                          希、晉任爲陸軍少<lb/>
-                          將、（三）任命<lb/>
-                          傅角今爲內政部技<lb/>
-                          正、王以義爲內政<lb/>
-                          部編審、<lb/>
-                    </p>
+               <p>
+                    （重慶廿四日電<lb/>
+                         ）國府廿四日令、<lb/>
+                    （一）劉宗寬任爲<lb/>
+                         陸軍少將、（二）<lb/>
+                         陸軍步兵上校張世<lb/>
+                         希、晉任爲陸軍少<lb/>
+                         將、（三）任命<lb/>
+                         傅角今爲內政部技<lb/>
+                         正、王以義爲內政<lb/>
+                         部編審、<lb/>
+               </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="586">
              <p mode="horizontal-tb" dir="rtl">
                   華軍採取攻勢後<lb/>
                   日死傷逾七萬<lb/>
              </p>
              
-                    <p>
-                         （香港廿四日電）<lb/>
-                         外息、華軍採取攻勢<lb/>
-                         以後、各線日軍、時<lb/>
-                         遭突襲、故死傷甚重<lb/>
-                         、據估計、在贛北<lb/>
-                         前線、運至上海之<lb/>
-                         傷兵、超過一萬五<lb/>
-                         千人、死者尚不在<lb/>
-                         內、而自廣州東方面<lb/>
-                         運出之死屍傷兵、亦<lb/>
-                         幾相等、刻上海之各<lb/>
-                         日軍傷兵醫院、收容傷兵已達六萬<lb/>
-                         以上、至屍灰已運囘日本者、尚在<lb/>
-                         萬數云、<lb/>
-                    </p>
+               <p>
+                    （香港廿四日電）<lb/>
+                    外息、華軍採取攻勢<lb/>
+                    以後、各線日軍、時<lb/>
+                    遭突襲、故死傷甚重<lb/>
+                    、據估計、在贛北<lb/>
+                    前線、運至上海之<lb/>
+                    傷兵、超過一萬五<lb/>
+                    千人、死者尚不在<lb/>
+                    內、而自廣州東方面<lb/>
+                    運出之死屍傷兵、亦<lb/>
+                    幾相等、刻上海之各<lb/>
+                    日軍傷兵醫院、收容傷兵已達六萬<lb/>
+                    以上、至屍灰已運囘日本者、尚在<lb/>
+                    萬數云、<lb/>
+               </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="587">
              <p>
                    日機飛越南領空<lb/>
                    法提出警吿<lb/>
@@ -250,7 +247,7 @@
                     </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="588">
              <p mode="horizontal-tb" dir="rtl">
                   蘇聯紅星報論<lb/>
                   華軍反攻勝利<lb/>
@@ -283,7 +280,7 @@
                     </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="589">
              <p>
                    漢『市府』慶祝會<lb/>
                    戯台炸彈爆發<lb/>
@@ -305,7 +302,7 @@
                     </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="590">
              <p>
                    蔣鼎文出巡<lb/>
              </p>
@@ -319,7 +316,7 @@
                     </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="591">
              <p>
                    地政學會<lb/>
                    電蔣致敬<lb/>
@@ -341,7 +338,7 @@
                     </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="592">
              <p>
                    湘邊無接觸<lb/>
              </p>
@@ -356,7 +353,7 @@
                     </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="593">
              <p>
                    蘇北魯南佈成弧形陣線<lb/>
                    華大軍會攻徐州<lb/>
@@ -423,7 +420,7 @@
          <div type="margin" mode="horizontal-tb" dir="rtl"><p>
               中華民國二十八年四月廿五日　晶報　星期二　第四版<lb/>
          </p></div>
-         <div type="article">
+         <div type="article" itemid="618">
               <p>
                     滬浙交通暫斷<lb/>
                     甌江嚴密戒備<lb/>
@@ -438,7 +435,8 @@
                          石黃華等處、有防禦工程、駐紮重兵、枕戈待命、而嚴防<lb/>
                          日軍之偷渡登陸、至於此次之禁航、係暫時性質<lb/>
                     </p>
-              
+          </div>
+          <div type="article" itemid="619">
               <p>
                     甌江炮戰<lb/>
                     日機投彈<lb/>
@@ -459,7 +457,8 @@
                          均遭日機之轟炸、幸地方均未受重大之<lb/>
                          損失、<lb/>
                     </p>
-              
+          </div>
+          <div type="article" itemid="620">
               <p>
                     各輪訉<lb/>
               </p>
@@ -541,7 +540,7 @@
                     </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="621">
              <p>
                    蔣委員長手諭<lb/>
                    優待新聞記者<lb/>
@@ -568,7 +567,7 @@
                     </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="622">
              <p>
                    謀福輪歸來記<lb/>
                    李事務長詳談經過<lb/>
@@ -629,7 +628,7 @@
                     </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="623">
              <p>
                    寇爾<lb/>
                    在渝小作勾留<lb/>
@@ -650,7 +649,7 @@
                     </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="624">
              <p>
                    不盡銅元滾滾外流<lb/>
                    奸商圖小利不惜爲禍國之擧<lb/>
@@ -686,7 +685,7 @@
                     </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="625">
              <p>
                    華方大隊空軍<lb/>
                    時飛滬杭線偵察<lb/>
@@ -701,7 +700,7 @@
                     </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="626">
              <p>
                    滬浙新交通線<lb/>
                    由此道赴浙並不艱難<lb/>
@@ -729,7 +728,8 @@
                          福輪班次、將因而<lb/>
                          轉旺云、<lb/>
                     </p>
-             
+        </div>
+        <div type="article" itemid="627">
              <p>
                    金麗溫<lb/>
                    安謐如恆<lb/>
@@ -759,7 +759,7 @@
                     </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="628">
              <p>
                    勸募總額<lb/>
                    近三十萬元<lb/>
@@ -777,7 +777,7 @@
                     </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="629">
              <p>
                    法捕房取去國旗<lb/>
                    今日准可發還<lb/>
@@ -805,7 +805,7 @@
                     </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="630">
              <p mode="horizontal-tb" dir="rtl">
                    小說<lb/>
              </p>
@@ -857,7 +857,7 @@
                     </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="631">
              <p>
                    浙東郵件<lb/>
                    業已停止<lb/>
@@ -877,7 +877,7 @@
                     </p>
               
         </div>
-        <div type="article">
+        <div type="article" itemid="632">
              <p>
                    ◇晶訊◇<lb/>
              </p>
@@ -893,6 +893,8 @@
                          五月六日、開國貨<lb/>
                          商品展覽會、<lb/>
                     </p>
+        </div>
+        <div type="article" itemid="633">
                     <p>
                          ▲唐榮愷、對於<lb/>
                          油繪人像、尤專<lb/>
@@ -903,7 +905,7 @@
                     </p>
              
         </div>
-        <div type="advert">
+        <div type="advert" itemid="694">
              <p>
                    質<lb/>
                    香<lb/>
@@ -946,7 +948,7 @@
               <!--     see #128        -->
 <!--             <div type="image"/>-->
         </div>
-        <div type="advert">
+        <div type="advert" itemid="695">
              <p mode="horizontal-tb" dir="rtl">
                  胃鑰<lb/>
              </p>
@@ -974,7 +976,7 @@
     </div>
     <!-- start middle of the fold -->
     <div type="margin" mode="vertical-rl" dir="rtl">
-        <div type="advert">
+        <div type="advert" itemid="696">
             <p>
                   摩登照相<lb/>
             </p>
@@ -991,7 +993,7 @@
                   電話　九三八八四號<lb/>
             </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="697">
              <p>
                    小兒科<lb/>
                    內　科<lb/>

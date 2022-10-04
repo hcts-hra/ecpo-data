@@ -2,13 +2,13 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3799_1939-04-25_0002to0003" lastedit="2021-08-23" lasteditor="ysmlouis">
+<fold xml:id="jb_3799_1939-04-25_0002to0003" lastedit="2022-10-04" lasteditor="xiejia1995" issueid="24">
     <!-- start verso page -->
     <div type="page" page="verso" n="2" mode="vertical-rl" dir="rtl">
         <div type="margin" mode="horizontal-tb" dir="rtl"><p> 
              中華民國二十八年四月廿五日　晶報　星期二　第二版<lb/>     
         </p></div>
-        <div type="article">
+        <div type="article" itemid="594">
              <p>
                    民治國反侵略談判<lb/>
                    英蘇猶相持<lb/>
@@ -69,7 +69,7 @@
                     </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="595">
              <p>
                    英圖拉攏羅馬尼亞<lb/>
                    抵制全能國<lb/>
@@ -87,7 +87,7 @@
                     </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="596">
              <p>
                    南斯拉夫國<lb/>
                    投入德意懷抱<lb/>
@@ -155,7 +155,7 @@
                     </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="597">
              <p>
                    海發暴亂<lb/>
              </p>
@@ -174,7 +174,7 @@
                     </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="598">
              <p>
                    遠東和平<lb/>
                    解决徵兆<lb/>
@@ -211,7 +211,7 @@
                     </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="599">
              <p>
                    美艦調太平洋<lb/>
                    日極感威脅<lb/>
@@ -246,7 +246,7 @@
                     </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="600">
              <p>
                    英海軍演習<lb/>
              </p>
@@ -262,7 +262,7 @@
                     </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="601">
              <p>
                    美國內閣<lb/>
                    將大加更動<lb/>
@@ -283,7 +283,7 @@
                     </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="602">
              <p>
                    伊朗王儲與<lb/>
                    埃郡主結婚<lb/>
@@ -305,7 +305,7 @@
                     </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="603">
              <p>
                    世博會失愼<lb/>
                    損失百萬元<lb/>
@@ -325,7 +325,7 @@
                     </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="605">
              <p>
                    長篇<lb/>
                    小說<lb/>
@@ -361,7 +361,7 @@
                     </p>
              
         </div>
-        <div type="advert">
+        <div type="advert" itemid="681">
              <p>
                    福煦路南成都路口<lb/>
              </p>
@@ -377,7 +377,7 @@
                    精染不褪色綢緞衣料<lb/>
              </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="682">
              <p mode="horizontal-tb" dir="rtl">
                    梅　邨<lb/>
                    專　營<lb/>
@@ -402,7 +402,7 @@
                    照片一幀<lb/>
              </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="683">
              <p mode="horizontal-tb" dir="rtl">
                    偉大貢獻<lb/>
              </p>
@@ -478,7 +478,7 @@
     </div>
     <!--start middle of the fold-->
     <div type="margin" mode="vertical-rl" dir="rtl">
-        <div type="advert">
+        <div type="advert" itemid="684">
              <p>
                    陳效懷醫師<lb/>
              </p>
@@ -507,7 +507,7 @@
                     </p>
              
         </div>
-        <div type="advert">
+        <div type="advert" itemid="685">
              <p>
                    西洋女子按摩<lb/>
              </p>
@@ -523,7 +523,7 @@
                    地址　白克路（黃家沙口）七三八號永樂坊一號房間<lb/>
              </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="686">
              <p>
                    中西按摩院<lb/>
              </p>
@@ -537,7 +537,7 @@
                    （愛文義路口）<lb/>
              </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="687">
              <p>
                    按摩浴室<lb/>
              </p>
@@ -548,7 +548,7 @@
                    寺路西摩路口滄州飯店隔壁滄州別墅卅二號樓上<lb/>
              </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="688">
              <p>
                    陽痿<lb/>
              </p>
@@ -598,7 +598,7 @@
         <div type="margin" mode="horizontal-tb" dir="rtl"><p>
              中華民國二十八年四月廿五日　晶報　星期二　第三版<lb/>
         </p></div>
-        <div type="article">
+        <div type="article" itemid="606">
              <p mode="horizontal-tb" dir="rtl">
                    東　新　橋　畔<lb/>
              </p>
@@ -705,13 +705,9 @@
                     </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="607">
              <p>
-                   子<lb/>
-                   不<lb/>
-                   養<lb/>
-                   其<lb/>
-                   母<lb/>
+                   子不養其母<lb/>
              </p>
              <p>
                    索贍養反遭挨打<lb/>
@@ -750,7 +746,7 @@
                     </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="608">
              <p mode="horizontal-tb" dir="rtl">
                   燃料無虞<lb/>
                   本市存貨充足<lb/>
@@ -773,7 +769,7 @@
                     </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="609">
              <p>
                    岱山洋面慘劇<lb/>
                    帆船七艘被日艦焚燬<lb/>
@@ -794,7 +790,7 @@
                     </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="610">
              <p>
                    靑年協會大廈<lb/>
                    美籍靑年自殺<lb/>
@@ -812,7 +808,7 @@
                          、突以步槍自殺、<lb/>
                          立卽斃命、死者爲<lb/>
                          旅滬美僑、名羅遜<lb/>
-                         飛L·Rosenfielb、<lb/>
+                         飛L·Rosenfielb<!--latin letters with roration-->、<lb/>
                          年卅五歲、來滬已<lb/>
                          十餘年、向開設永<lb/>
                          和洋行、又另設生<lb/>
@@ -828,7 +824,7 @@
                     </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="611">
              <p>
                    沿途大喊<lb/>
                    報販賣假號外<lb/>
@@ -857,7 +853,7 @@
                     </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="612">
              <p mode="horizontal-tb" dir="rtl">
                   僞譯員侵犯租界警權<lb/>
                   竟擅自捕人<lb/>
@@ -910,7 +906,7 @@
                     </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="613">
              <p>
                    登報徵婚纒訟不已<lb/>
                    程瑛女士之一頁浪漫史<lb/>
@@ -950,7 +946,7 @@
                     </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="614">
              <p>
                    奪稅卡<lb/>
                    同類火倂<lb/>
@@ -975,7 +971,7 @@
                     </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="615">
              <p>
                    社會瑣聞<lb/>
              </p>
@@ -985,6 +981,8 @@
                          兩犯、昨上訴審結<lb/>
                          、定五月一日宣判<lb/>
                     </p>
+        </div>
+        <div type="article" itemid="616">
                     <p>
                          ▲毒死養母之錢<lb/>
                          莊氏、昨日開上訴<lb/>
@@ -993,7 +991,7 @@
                     </p>
              
         </div>
-        <div type="article">
+        <div type="article" itemid="617">
              <p>
                    今雜事祕<lb/>
              </p>
@@ -1026,7 +1024,7 @@
                     </p>
              
         </div>
-        <div type="advert">
+        <div type="advert" itemid="689">
              <p>
                    老協大祥<lb/>
              </p>
@@ -1057,7 +1055,7 @@
                   八仙橋小菜場<lb/>
              </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="690">
              <p mode="horizontal-tb" dir="rtl">
                   四馬路<lb/>
                   晝錦里口<lb/>
@@ -1084,7 +1082,7 @@
                   華貴禮堂　租費從廉<lb/>
              </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="691">
              <p>
                    眼科<lb/>
                    專家<lb/>
@@ -1120,7 +1118,7 @@
                    永安•新新•大新三公司代售<lb/>
              </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="693">
              <p>
                    雜誌界巨擘：全書銅版紙彩紙精印每冊兩角<lb/>
              </p>
@@ -1142,7 +1140,7 @@
                    內容包羅萬象無奇勿有：噱頭十足趣味化刊物的頂兒腦兒<lb/>
              </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="692">
              <p>
                    女人特輯<lb/>
              </p>

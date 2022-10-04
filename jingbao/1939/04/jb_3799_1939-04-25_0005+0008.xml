@@ -2,23 +2,19 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3799_1939-04-25_0005to0008" lastedit="2021-08-23" lasteditor="ysmlouis">
+<fold xml:id="jb_3799_1939-04-25_0005to0008" lastedit="2022-10-04" lasteditor="xiejia1995" issueid="24">
     <!-- start verso page -->
     <div type="page" page="verso" n="5" mode="vertical-rl" dir="rtl">
             <div type="margin" mode="horizontal-tb" dir="rtl"><p>
                  中華民國二十八年四月廿五日　晶報　星期二　第五版<lb/>
             </p></div>
-            <div type="article">
+            <div type="image" itemid="443">
                  <p mode="horizontal-tb" dir="rtl">
                       文化營<lb/>
-                 </p>
-                  <!--     see #128        -->
-<!--                 <div type="image"/>-->
-                 <p mode="horizontal-tb" dir="rtl">
                       黔野主編<lb/>
                  </p>
             </div>
-            <div type="article">
+            <div type="article" itemid="635">
                  <p>
                         皇帝的私生子<lb/>
                  </p>
@@ -68,7 +64,7 @@
                        </p>
               
         </div>
-        <div type="article">
+        <div type="article" itemid="636">
               <p>
                      亞洲內幕<lb/>
               </p>
@@ -166,7 +162,7 @@
                       </p>
               
         </div>
-        <div type="article">
+        <div type="article" itemid="634">
               <p>
                      詩經話繹<lb/>
               </p>
@@ -177,7 +173,7 @@
                      五　野有死麕<lb/>
               </p>
               <p>
-                  　 （召南）<lb/>
+                    （召南）<lb/>
               </p>
               
                      <p>
@@ -247,17 +243,16 @@
                      </p>
               
         </div>
-        <div type="article">
-              <p>
+        <div type="article" itemid="637">
+            <div type="other">
+                  <p>
                      動物的叛變　（三）<lb/>
-              </p>
-              <p>
                      最狡詭的站起來論辯⋯⋯⋯<lb/>
-              </p>
-              <!--     see #128        -->
-<!-- <div type="image"/> -->
+                  </p>
+            </div>
+            <div type="image" itemid="444">
         </div>
-        <div type="article">
+        <div type="article" itemid="47233">
               <p>
                      愛國志士<lb/>
               </p>
@@ -310,7 +305,7 @@
                       </p>
               
         </div>
-        <div type="article">
+        <div type="article" itemid="639">
               <p>
                     每日國際政治測驗<lb/>
               </p>
@@ -360,12 +355,12 @@
                       （昨日答案：二，二，）<lb/>
                 </p>
         </div>
-        <div type="article">
+        <div type="article" itemid="640">
               <p>
                     蔣介石上將<lb/>
               </p>
               <p>
-                 　（續完）<lb/>
+                   （續完）<lb/>
               </p>
               <p>
                     領導中國抗戰的人<lb/>
@@ -391,37 +386,34 @@
                      </p>
               
         </div>
-        <div type="article">
+        <div type="article" itemid="641">
               <p mode="horizontal-tb" dir="rtl">
                     袁寒雲先生手寫<lb/>
                     丁卯日記之五<lb/>
               </p>
-              <!--     see #128        -->
-<!--              <div type="image">-->
-                   <!--<p>
-                       冩聯帖語曰修八尺有餘飲一石亦醉<lb/>
-                       <!-\-冩 正體爲 寫-\->
-                       十三日䙷次公灨一書偕六良𡘋邀蓮狠飲市<lb/>
-                       <!-\-䙷 正體爲 得；𡘋 正體爲 並-\->
-                       樓召金玲旋過其居𨒥𢕒訪香君即之即十𠄡<lb/>
-                       <!-\-𨒥 正體爲 後；𢕒 正體爲 復；𠄡 正體爲 五-\->
-                       年沽上旧識林媛"："也夜桐𣶒返自掖縣邀予<lb/>
-                       <!-\-"：" should be 媛; 𣶒 正體爲 淵-\->
-                       入城下榻其宅意蘐葛矦先𡉰<lb/>
-                       <!-\-蘐 正體爲 萱；矦 正體爲 侯；𡉰 正體爲 至-\->
-                       十亖日既𦱤𢌱意蘐詣署爲效公預祝晤稚薌<lb/>
-                       <!-\-亖 正體爲 四；𦱤 正體爲 莫；𢌱 正體爲 與；-\->
-                       十𠄡日意蘐燕翼詣過𡘋邀桐𣶒赴稚薌約座<lb/>
-                       有畹華玉霜綺霞連泉君稼玉芙潤卿𠦑岩萬<lb/>
-                       <!-\-𠦑 正體爲 叔-\->
-                       旾月旾諸伶夕偕玉霜爨琴挑䙷睂雲書畣之<lb/>
-                       <!-\-旾 正體爲 春；䙷 正體爲 得；睂 正體爲 眉；畣 正體爲 答-\->
-                       十六日夕鑄臣邀飲座上有伎曰香君十年歬故<lb/>
-                       <!-\-歬 正體爲 前-\->
-                       </p>-->
-              <!--</div>-->
+              <p>
+                  冩聯帖語曰修八尺有餘飲一石亦醉<lb/>
+                  <!--冩 正體爲 寫-->
+                  十三日䙷次公灨一書偕六良𡘋邀蓮狠飲市<lb/>
+                  <!--䙷 正體爲 得；𡘋 正體爲 並-->
+                  樓召金玲旋過其居𨒥𢕒訪香君即之即十𠄡<lb/>
+                  <!--𨒥 正體爲 後；𢕒 正體爲 復；𠄡 正體爲 五-->
+                  年沽上旧識林媛"："也夜桐𣶒返自掖縣邀予<lb/>
+                  <!--"：" should be 媛; 𣶒 正體爲 淵-->
+                  入城下榻其宅意蘐葛矦先𡉰<lb/>
+                  <!--蘐 正體爲 萱；矦 正體爲 侯；𡉰 正體爲 至-->
+                  十亖日既𦱤𢌱意蘐詣署爲效公預祝晤稚薌<lb/>
+                  <!--亖 正體爲 四；𦱤 正體爲 莫；𢌱 正體爲 與；-->
+                  十𠄡日意蘐燕翼詣過𡘋邀桐𣶒赴稚薌約座<lb/>
+                  有畹華玉霜綺霞連泉君稼玉芙潤卿𠦑岩萬<lb/>
+                  <!--𠦑 正體爲 叔-->
+                  旾月旾諸伶夕偕玉霜爨琴挑䙷睂雲書畣之<lb/>
+                  <!--旾 正體爲 春；䙷 正體爲 得；睂 正體爲 眉；畣 正體爲 答-->
+                  十六日夕鑄臣邀飲座上有伎曰香君十年歬故<lb/>
+                  <!--歬 正體爲 前-->
+               </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="698">
               <p mode="horizontal-tb" dir="rtl">
                     暑期之必需品<lb/>
               </p>
@@ -443,7 +435,7 @@
                     美華汽水公司出品<lb/>
               </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="699">
               <p mode="horizontal-tb" dir="rtl">
                    大華舞廳<lb/>
               </p>
@@ -480,7 +472,7 @@
                    電話八一三八一號<lb/>
               </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="700">
               <p mode="horizontal-tb" dir="rtl">
                     虎標<lb/>
               </p>
@@ -503,7 +495,7 @@
     </div>
     <!-- start middle of the fold -->
     <div type="margin">
-          <div type="advert">
+          <div type="advert" itemid="701">
                 <p>
                       毛興昌<lb/>
                 </p>
@@ -526,7 +518,7 @@
                       毛興昌啓<lb/>
                 </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="702">
               <!--     see #128        -->
 <!--              <div type="image"/>-->
               <p mode="horizontal-tb" dir="rtl">
@@ -534,13 +526,13 @@
                     眼薬水<lb/>
               </p>
               <!--     see #128        -->
-<!--              <div type="image"/>-->
+<!--              <div type="image" itemid="445"/>-->
               <p>
                     統治<lb/>
                     目疾<lb/>
               </p>
               <!--     see #128        -->
-<!--              <div type="image"/>-->
+<!--              <div type="image" itemid="446"/>-->
               <p>
                     一滴<lb/>
                     見功<lb/>
@@ -585,55 +577,53 @@
         <div type="margin" mode="horizontal-tb" dir="rtl"><p>
              中華民國二十八年四月廿五日　晶報　星期二　第八版<lb/>
         </p></div>
-        <div type="article" mode="horizontal-tb" dir="rtl">
+        <div type="image" itemid="450">
               <!--影城<lb/>-->
-              <p>
+              <p mode="horizontal-tb" dir="rtl">
                     趙廉•田豐合輯<lb/>
               </p>
         </div>
-        <div type="article">
+        <div type="article" itemid="656">
               <p>
                     陳洪光夫人<lb/>
-              </p>
-              <p>
                     胡茄在上海<lb/>
               </p>
               
-                      <p>
-                           讀者可曾記得起<lb/>
-                           胡茄嗎？她是歌舞<lb/>
-                           界中「四大天王」<lb/>
-                           之一，與王人美黎<lb/>
-                           莉莉她們齊名的。<lb/>
-                           現在却已是足球名<lb/>
-                           將陳洪光夫人，陳<lb/>
-                           洪光在保險事業方<lb/>
-                           面頗有建樹，最近<lb/>
-                           爲籌設分公司事到<lb/>
-                           上海來小住，胡茄<lb/>
-                           也一起來了。胡茄<lb/>
-                           比以前稍爲胖些，<lb/>
-                           手裏抱着孩子一個<lb/>
-                           ，這就是他們的結<lb/>
-                           晶品。<lb/>
-                      </p>
-                      <p>
-                           胡茄脾氣甚好，<lb/>
-                           有着賢妻良母的典<lb/>
-                           型，陳洪光也體貼<lb/>
-                           入微，所以他們倆<lb/>
-                           自結婚以來，簡直 <!-- ⿺𠃊𥃭 --><lb/>
-                           連小小的吵嘴的事<lb/>
-                           也沒發生過。且前<lb/>
-                           因上海不容易找房<lb/>
-                           子，暫時寄住在金<lb/>
-                           燄家中。聽說在上<lb/>
-                           海還有半年要躭擱<lb/>
-                           呢！　（趙廉）<lb/>
-                      </p>
+                  <p>
+                        讀者可曾記得起<lb/>
+                        胡茄嗎？她是歌舞<lb/>
+                        界中「四大天王」<lb/>
+                        之一，與王人美黎<lb/>
+                        莉莉她們齊名的。<lb/>
+                        現在却已是足球名<lb/>
+                        將陳洪光夫人，陳<lb/>
+                        洪光在保險事業方<lb/>
+                        面頗有建樹，最近<lb/>
+                        爲籌設分公司事到<lb/>
+                        上海來小住，胡茄<lb/>
+                        也一起來了。胡茄<lb/>
+                        比以前稍爲胖些，<lb/>
+                        手裏抱着孩子一個<lb/>
+                        ，這就是他們的結<lb/>
+                        晶品。<lb/>
+                  </p>
+                  <p>
+                        胡茄脾氣甚好，<lb/>
+                        有着賢妻良母的典<lb/>
+                        型，陳洪光也體貼<lb/>
+                        入微，所以他們倆<lb/>
+                        自結婚以來，簡直 <!-- ⿺𠃊𥃭 --><lb/>
+                        連小小的吵嘴的事<lb/>
+                        也沒發生過。且前<lb/>
+                        因上海不容易找房<lb/>
+                        子，暫時寄住在金<lb/>
+                        燄家中。聽說在上<lb/>
+                        海還有半年要躭擱<lb/>
+                        呢！　（趙廉）<lb/>
+                  </p>
               
         </div>
-        <div type="article">
+        <div type="article" itemid="657">
               <p>
                     投機朋友無孔勿入<lb/>
                     陳雲裳粵語片配音後來滬<lb/>
@@ -675,7 +665,7 @@
                       </p>
               
         </div>
-        <div type="article">
+        <div type="article" itemid="658">
               <p>
                     袁美<lb/>
                     雲將<lb/>
@@ -714,7 +704,7 @@
                       </p>
               
         </div>
-        <div type="article">
+        <div type="article" itemid="655">
               <p>
                     白虹的誓言<lb/>
                     與某導演事爲「誤傳」<lb/>
@@ -735,7 +725,7 @@
                       </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="659">
               <p>
                 金燄勤<lb/>
                 習建築<lb/>
@@ -743,53 +733,51 @@
                 學打字<lb/>
               </p>
               
-                      <p>
-                           金燄王人美自結<lb/>
-                           合後，極盡唱隨之<lb/>
-                           樂，他們的私生活<lb/>
-                           在一般的電影從業<lb/>
-                           員中間是比較的嚴<lb/>
-                           肅。金燄在以前老<lb/>
-                           是出門打獵，現在<lb/>
-                           却至多不過喝酒；<lb/>
-                           王人美也不出來交<lb/>
-                           際，從來不打扮得<lb/>
-                           像其他的所謂女明<lb/>
-                           星一樣。可是，他<lb/>
-                           們倆在電影界的地<lb/>
-                           位，已决計不能囘<lb/>
-                           到「漁光曲」與「<lb/>
-                           人道」的時代了。<lb/>
-                           金燄早知自己的電<lb/>
-                           影生命的短促，在<lb/>
-                           一年以前已勤習建<lb/>
-                           築學，萬一電影界<lb/>
-                           需用他的程度再有<lb/>
-                           下降之勢，他就跳<lb/>
-                           到建築事業方面去<lb/>
-                           奮鬥。王人美却在<lb/>
-                           學習打字，她說過<lb/>
-                           一二年准要投考什<lb/>
-                           麼行家當女辦事員<lb/>
-                           去。如此看來，金<lb/>
-                           燄王人美頗有心胸<lb/>
-                           ，已爲他們的將來<lb/>
-                           决定了努力的路徑<lb/>
-                           ，這實在可以在一<lb/>
-                           般的電影從業員面<lb/>
-                           前驕傲的。<lb/>
-                           （老田）<lb/>
-                       </p>
+            <p>
+                  金燄王人美自結<lb/>
+                  合後，極盡唱隨之<lb/>
+                  樂，他們的私生活<lb/>
+                  在一般的電影從業<lb/>
+                  員中間是比較的嚴<lb/>
+                  肅。金燄在以前老<lb/>
+                  是出門打獵，現在<lb/>
+                  却至多不過喝酒；<lb/>
+                  王人美也不出來交<lb/>
+                  際，從來不打扮得<lb/>
+                  像其他的所謂女明<lb/>
+                  星一樣。可是，他<lb/>
+                  們倆在電影界的地<lb/>
+                  位，已决計不能囘<lb/>
+                  到「漁光曲」與「<lb/>
+                  人道」的時代了。<lb/>
+                  金燄早知自己的電<lb/>
+                  影生命的短促，在<lb/>
+                  一年以前已勤習建<lb/>
+                  築學，萬一電影界<lb/>
+                  需用他的程度再有<lb/>
+                  下降之勢，他就跳<lb/>
+                  到建築事業方面去<lb/>
+                  奮鬥。王人美却在<lb/>
+                  學習打字，她說過<lb/>
+                  一二年准要投考什<lb/>
+                  麼行家當女辦事員<lb/>
+                  去。如此看來，金<lb/>
+                  燄王人美頗有心胸<lb/>
+                  ，已爲他們的將來<lb/>
+                  决定了努力的路徑<lb/>
+                  ，這實在可以在一<lb/>
+                  般的電影從業員面<lb/>
+                  前驕傲的。<lb/>
+                  （老田）<lb/>
+            </p>
               
         </div>
-        <div type="article">
-              <!--     see #128        -->
-<!--              <div type="image"/>-->
+        <div type="image" itemid="451">
               <p mode="horizontal-tb" dir="rtl">
                     陳雲裳在『雲裳仙子』中之一鏡頭<lb/>
               </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="711">
               <p mode="horizontal-tb" dir="rtl">
                     天樂園酒樓<lb/>
               </p>
@@ -806,15 +794,15 @@
                     △電話九四九四七號▽<lb/>
               </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="712">
               <!--     see #128        -->
-<!--              <div type="image"/>-->
+<!--              <div type="image" itemid="453"/>-->
               <p mode="horizontal-tb" dir="rtl">
                     雙妹牌<lb/>
                     生髮油<lb/>
               </p>
               <!--     see #128        -->
-<!--              <div type="image"/>-->
+<!--              <div type="image" itemid="454"/>-->
               <p>
                     用生髮油<lb/>
                     自覺頭上<lb/>
@@ -823,7 +811,7 @@
                     中國廣生行出品<lb/>
             </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="713">
               <p>
                     沈淇泉太史潤格<lb/>
               </p>
