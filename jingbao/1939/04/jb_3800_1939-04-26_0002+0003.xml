@@ -2,13 +2,15 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3800_1939-04-26_0002to0003" lastedit="2021-07-28" lasteditor="xiejia1995">
+<fold xml:id="jb_3800_1939-04-26_0002to0003" lastedit="2022-10-10" lasteditor="xiejia1995" issueid="25">
     <div type="page" page="verso" n="2" mode="vertical-rl" dir="rtl">
-    	<div type="margin" mode="horizontal-tb" dir="rtl"><p> 
+    	<div type="margin" mode="horizontal-tb" dir="rtl">
+    	     <p> 
                 中華民國二十八年四月廿六日　晶報　星期三　第二版<lb/>     
-    	</p></div>
+        	</p>
+    	</div>
         
-        <div type="article">
+        <div type="article" itemid="671"> 
             <p mode="horizontal-tb" dir="rtl">
                 英對德不再容忍<lb/>
             </p>
@@ -91,7 +93,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="672">
             <p>
                 日召開緊急五相會議<lb/>
                 商應付歐洲現局<lb/>
@@ -114,7 +116,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="673">
             <p>
                 英蘇繼續談判<lb/>
                 英羅會談經過良好<lb/>
@@ -142,7 +144,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="674">
             <p>
                 英新任美使<lb/>
             </p>
@@ -160,7 +162,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="675">
             <p mode="horizontal-tb" dir="rtl">
                 德國社黨宣傳<lb/>
                 但澤將歸德<lb/>
@@ -187,7 +189,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="676">
             <p>
                 英實施徵兵<lb/>
                 本日可決定<lb/>
@@ -211,7 +213,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="677">
             <p>
                 印度罷工潮<lb/>
             </p>
@@ -229,7 +231,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="678">
             <p>
                 西葡通話<lb/>
                 中斷已兩年<lb/>
@@ -247,7 +249,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="679">
             <p>
                 爲油煤權<lb/>
                 日向蘇抗議<lb/>
@@ -267,7 +269,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="681">
             <p>
                 立波民族問題<lb/>
                 將成立協定<lb/>
@@ -286,7 +288,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="680">
             <p>
                 波蘭反德運動<lb/>
                 德方謂係受人指使<lb/>
@@ -303,7 +305,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="682">
             <p>
                 長篇<lb/>
                 小說<lb/>
@@ -337,7 +339,7 @@
                 </p>
             
         </div>
-        <div type="advert">
+        <div type="advert" itemid="716">
             <p>
                 福煦路南成都路口<lb/>
             </p>
@@ -353,7 +355,7 @@
                 精染不褪色綢緞衣料<lb/>
             </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="717">
             <p mode="horizontal-tb" dir="rtl">
                 梅邨<lb/>
                 專營<lb/>
@@ -384,7 +386,7 @@
                 照片一幀<lb/>
             </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="718">
             <p mode="horizontal-tb" dir="rtl">
                 偉大貢獻<lb/>
             </p>
@@ -460,7 +462,7 @@
     </div>
     <!--start middle of the fold-->
     <div type="margin" mode="vertical-rl" dir="rtl">
-        <div type="advert">
+        <div type="advert" itemid="719">
             <p>
                 董惠民醫師<lb/>
             </p>
@@ -516,7 +518,7 @@
                 特備長短波電療機　最高倍顯微鏡　橫痃消散機　尿道檢查鏡　義務助治愈後可向衞生局檢驗斷根<lb/>
             </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="721">
             <p>
                 上海河南<lb/>
                 路四馬路<lb/>
@@ -572,7 +574,7 @@
                 本堂咳藥　確有經驗　請嘗試之　方知不謬<lb/>
             </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="722">
             <p>
                 東南醫院<lb/>
             </p>
@@ -593,7 +595,7 @@
                 中華民國二十八年四月廿六日　晶報　星期三　第三版<lb/>
             </p></div>
         </div>
-        <div type="article">
+        <div type="article" itemid="683">
             <p mode="horizontal-tb" dir="rtl">
                 黑暗的浦東<lb/>
             </p>
@@ -615,7 +617,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="684">
             <p>
                 滬市存米<lb/>
                 計六十五萬包<lb/>
@@ -651,7 +653,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="685">
             <p>
                 昌興運輸公司<lb/>
                 黑幕敗露<lb/>
@@ -682,7 +684,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="686">
             <p>
                 舞女劉珍<lb/>
                 求上進之志未遂<lb/>
@@ -715,7 +717,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="687">
             <p>
                 地痞搗亂米船<lb/>
                 日無工部局<lb/>
@@ -744,7 +746,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="688">
             <p>
                 羣玉芳武劇<lb/>
                 小香閣率衆打房間<lb/>
@@ -763,7 +765,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="689">
             <p>
                 彩鳳不願隨鴉<lb/>
                 王和尚誘姦少女被拘<lb/>
@@ -802,7 +804,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="690">
             <p mode="horizontal-tb" dir="rtl">
                 新光經理<lb/>
                 控吿羅民佑等違約<lb/>
@@ -832,7 +834,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="691">
             <p>
                 甘維露化名控房東<lb/>
                 充「立法委員」兼新聲半月刊編輯<lb/>
@@ -907,7 +909,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="692">
             <p mode="horizontal-tb" dir="rtl">
                 奉賢富紳<lb/>
                 身後多故<lb/>
@@ -945,7 +947,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="694">
             <p>今雜事祕<lb/></p>
             <p>△井波<lb/></p>
             <p mode="horizontal-tb" dir="rtl">
@@ -972,7 +974,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="693">
             <p>
                 熊劍東<lb/>
                 被捕餘聞<lb/>
@@ -1000,7 +1002,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="695">
             <p>
                 盜案累累<lb/>
             </p>
@@ -1036,7 +1038,7 @@
                 </p>
             
         </div>
-        <div type="advert">
+        <div type="advert" itemid="723">
             <p>
                 老協大祥<lb/>
             </p>
@@ -1067,7 +1069,7 @@
                 八仙橋小菜場<lb/>
             </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="724">
             <p mode="horizontal-tb" dir="rtl">
                 四馬路<lb/>
                 晝錦里口<lb/>
@@ -1094,7 +1096,7 @@
                 華貴禮堂　租費從廉<lb/>
             </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="725">
             <p>
                 眼科<lb/>
                 專家<lb/>
@@ -1131,9 +1133,9 @@
             </p>
         </div>
         <div type="margin">
-            <div type="other">
+            <p>
                 定報價目：　本埠　每月五角　三個月一元四角　外埠　每月六角　三月一元七角　半年三元二角　全年六元　郵費在內　國外加倍報資先惠<pb/>
-            </div>
+            </p>
         </div>
     </div>
 </fold>

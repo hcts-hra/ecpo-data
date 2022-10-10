@@ -2,13 +2,15 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3799_1939-04-25_0006to0007" lastedit="2021-08-24" lasteditor="ysmlouis">
+<fold xml:id="jb_3799_1939-04-25_0006to0007" lastedit="2021-10-10" lasteditor="xiejia1995" issueid="24">
     <!-- start verso page -->
     <div type="page" page="verso" n="6" mode="vertical-rl" dir="rtl">
-        <div type="margin" mode="horizontal-tb" dir="rtl"><p>
-             中華民國二十八年四月廿五日　晶報　星期二　第六版<lb/>
-        </p></div>
-        <div type="article">
+        <div type="margin" mode="horizontal-tb" dir="rtl">
+              <p>
+                  中華民國二十八年四月廿五日　晶報　星期二　第六版<lb/>
+              </p>
+        </div>
+        <div type="article" itemid="642">
               <p>
                      追悼吳瞿安先生<lb/>
               </p>
@@ -39,7 +41,7 @@
                       </p>
               
         </div>
-        <div type="article">
+        <div type="article" itemid="643">
               <p dir="rtl" mode="horizontal-tb">
                    佹失記<lb/>
               </p>
@@ -91,7 +93,7 @@
                     </p>
               
         </div>
-        <div type="article">
+        <div type="article" itemid="644">
               <p>
                      浪裏<lb/>
                      魁星<lb/>
@@ -135,7 +137,7 @@
                       </p>
               
         </div>
-        <div type="article">
+        <div type="article" itemid="647">
               <p>
                      黎園消息話春明<lb/>
               </p>
@@ -185,7 +187,7 @@
                       </p>
               
         </div>
-        <div type="article">
+        <div type="article" itemid="645">
               <p>
                      蔣委員長之平生<lb/>              
               </p>
@@ -307,7 +309,7 @@
                       </p>
               
         </div>
-        <div type="article">
+        <div type="article" itemid="646">
               <p>
                      新游俠傳<lb/>
               </p>
@@ -340,7 +342,7 @@
                       </p>
               
         </div>
-        <div type="advert">
+        <div type="advert" itemid="703">
               <p>
                      大<lb/>
               </p>
@@ -374,7 +376,7 @@
                      ●地址四馬路廣西路口●<lb/>
               </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="704">
               <p mode="horizontal-tb" dir="rtl">
                      回力球<lb/>
               </p>
@@ -404,7 +406,7 @@
                      6泰寶達<lb/>
               </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="705">
               <p mode="horizontal-tb" dir="rtl">
                      救一死<lb/>
               </p>
@@ -462,7 +464,7 @@
     </div>
     <!-- start margin between pages -->   
     <div type="margin" mode="vertical-rl" dir="rtl">
-          <div type="advert">
+          <div type="advert" itemid="720">
                 <p>
                       上海河南<lb/>
                       路四馬路<lb/>
@@ -522,7 +524,7 @@
                       本堂咳藥　確有經驗　請嘗試之　方知不謬<lb/>
                 </p>
           </div>
-          <div type="advert">
+          <div type="advert" itemid="707">
                 <p>
                       東南醫院<lb/>
                 </p>
@@ -536,7 +538,7 @@
                       院址法租界薩坡賽路二九九號電話八〇六〇八號<lb/>
                 </p>
           </div>
-          <div type="advert">
+          <div type="advert" itemid="708">
                 <p>
                       董惠民醫師<lb/>
                 </p>
@@ -596,7 +598,7 @@
                中華民國二十八年四月廿五日　晶報　星期二　第七版<lb/>
           </p>
           </div>
-          <div type="article">
+          <div type="article" itemid="648">
                 <p>
                       旅行華北的三件事<lb/>
                 </p>
@@ -619,7 +621,7 @@
                        </p>
                 
           </div>
-          <div type="article">
+          <div type="article" itemid="649">
                 <p>
                       滬壖食品志　（十八）<lb/>
                 </p>
@@ -694,7 +696,7 @@
                       </p>
                
         </div>
-        <div type="article">
+        <div type="article" itemid="650">
               <p>
                     名<lb/>
                     人<lb/>
@@ -731,7 +733,7 @@
                       </p>
               
         </div>
-        <div type="article">
+        <div type="article" itemid="652">
               <p mode="horizontal-tb" dir="rtl">
                    兒童心理<lb/>
               </p>
@@ -789,7 +791,7 @@
                     </p>
               
         </div>
-        <div type="article">
+        <div type="article" itemid="653">
               <p>
                     蕭蕭下<lb/>
                     （佚）<lb/>
@@ -815,7 +817,7 @@
                     </p>
               
         </div>
-        <div type="article">
+        <div type="article" itemid="651">
               <p>
                      怎樣使得健康美<lb/>
               </p>
@@ -984,7 +986,7 @@
                     </p>
               
         </div>
-        <div type="article">
+        <div type="article" itemid="654">
               <p>
                      烏托邦<lb/>
               </p>
@@ -1014,43 +1016,44 @@
                     </p>
               
         </div>
-        <div type="advert">
-<!--  see #128  -->
-<!--              <div type="image"/>-->
-              <p>
-                    此間樂！不思蜀！<lb/>
-              </p>
-              <p>
-                    一道<lb/>
-              </p>
-              <p>
-                    上海一隅，地處海濱，在未闢商埠以<lb/>
-                    前，荒凉一如內地。自華洋互市迄今<lb/>
-                    ，外人開闢租界，積極整理，不遺餘<lb/>
-                    力，市况便日趨繁榮。於是各種娛樂<lb/>
-                    場所，如雨後春笋，乘時崛起，冶游<lb/>
-                    途徑旣多，舊時書寓娼寮，遂逐漸無<lb/>
-                    形消減。而最新穎最摩登之娛樂，厥<lb/>
-                    惟跳<lb/>
-                    舞，<lb/>
-                    按摩<lb/>
-                    ，嚮<lb/>
-                    導三<lb/>
-                    種。<lb/>
-                    但伴<lb/>
-                    舞按<lb/>
-                    摩二<lb/>
-                    者，手續繁瑣，不若嚮導之簡單，雖<lb/>
-                    投顧客所好。樂百思嚮導社，雖創辦<lb/>
-                    未久，因服務認眞，人材豐富，問津<lb/>
-                    者輒交相讚許。內有社員陳雪芳，豐<lb/>
-                    姿秀逸，應酬周到，顧客得識此姝，<lb/>
-                    洵有樂不思蜀之感、該社電話，爲九<lb/>
-                    〇八六六⋯九六六八四號，謂予不信<lb/>
-                    ，招來一試，方信言之不謬也。<lb/>
-              </p>
+        <div type="advert" itemid="709">
+              <div type="image" itemid="447"/>
+              <div type="other">
+                   <p>
+                         此間樂！不思蜀！<lb/>
+                   </p>
+                   <p>
+                         一道<lb/>
+                   </p>
+                   <p>
+                         上海一隅，地處海濱，在未闢商埠以<lb/>
+                         前，荒凉一如內地。自華洋互市迄今<lb/>
+                         ，外人開闢租界，積極整理，不遺餘<lb/>
+                         力，市况便日趨繁榮。於是各種娛樂<lb/>
+                         場所，如雨後春笋，乘時崛起，冶游<lb/>
+                         途徑旣多，舊時書寓娼寮，遂逐漸無<lb/>
+                         形消減。而最新穎最摩登之娛樂，厥<lb/>
+                         惟跳<lb/>
+                         舞，<lb/>
+                         按摩<lb/>
+                         ，嚮<lb/>
+                         導三<lb/>
+                         種。<lb/>
+                         但伴<lb/>
+                         舞按<lb/>
+                         摩二<lb/>
+                         者，手續繁瑣，不若嚮導之簡單，雖<lb/>
+                         投顧客所好。樂百思嚮導社，雖創辦<lb/>
+                         未久，因服務認眞，人材豐富，問津<lb/>
+                         者輒交相讚許。內有社員陳雪芳，豐<lb/>
+                         姿秀逸，應酬周到，顧客得識此姝，<lb/>
+                         洵有樂不思蜀之感、該社電話，爲九<lb/>
+                         〇八六六⋯九六六八四號，謂予不信<lb/>
+                         ，招來一試，方信言之不謬也。<lb/>
+                   </p>
+              </div>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="710">
               <p>
                     電話<lb/>
                     八四八〇八<lb/>

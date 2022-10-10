@@ -250,7 +250,7 @@
                      最狡詭的站起來論辯⋯⋯⋯<lb/>
                   </p>
             </div>
-            <div type="image" itemid="444">
+              <div type="image" itemid="444"> </div>
         </div>
         <div type="article" itemid="47233">
               <p>
@@ -574,9 +574,11 @@
     </div>
     <!-- start recto page -->
     <div type="page" page="recto" n="8" dir="rtl" mode="vertical-rl">
-        <div type="margin" mode="horizontal-tb" dir="rtl"><p>
-             中華民國二十八年四月廿五日　晶報　星期二　第八版<lb/>
-        </p></div>
+        <div type="margin" mode="horizontal-tb" dir="rtl">
+              <p>
+                 中華民國二十八年四月廿五日　晶報　星期二　第八版<lb/>
+              </p>
+        </div>
         <div type="image" itemid="450">
               <!--影城<lb/>-->
               <p mode="horizontal-tb" dir="rtl">
@@ -974,7 +976,10 @@
               </p>
         </div>
         <div type="margin">
-             本報忠實報道新聞說人人要說的話文字淺近趣味濃厚是最平民化的物刊<pb/>
+              <p>
+                    本報忠實報道新聞說人人要說的話文字淺近趣味濃厚是最平民化的物刊<pb/>
+              </p>
         </div>
     </div>
+    
 </fold>
