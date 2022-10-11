@@ -518,7 +518,8 @@
     </div>
 	<div type="page" page="verso" n="8" dir="rtl" mode="vertical-rl">
 		<div type="margin" dir="rtl" mode="horizontal-tb"><p>
-			中華民國二十八年四月廿二日　晶報　星期六　第八版<lb/>	
+			中華民國二十八年四月廿二日　晶報　星期六　第八版<lb/>
+			</p>
 		</div>
 		<div type="image" itemid="360">
 			<!--影城<lb/>-->
@@ -1043,12 +1044,11 @@
 				<p>
 					新華藥行發行<lb/>
 				</p>
-				</p>				
-				<!-- texts inside the image
+			
 				<p>
 					認明<lb/>
 					商標<lb/>
-				</p>-->
+				</p>
 				<p dir="rtl" mode="horizontal-tb">
 					新華大薬行監製<lb/>
 					上海江西路十號<lb/>

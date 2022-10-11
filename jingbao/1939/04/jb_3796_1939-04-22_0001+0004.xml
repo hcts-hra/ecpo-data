@@ -49,7 +49,8 @@
 			際此春光攝影良機<lb/> 
 			地址南京路五五號<lb/> 
 			電話九〇三九三號<lb/>
-		</p></div>
+		</p>
+		</div>
 	    <div type="article" itemid="349">
 			<p dir="rtl" mode="horizontal-tb"> 
 				粵南戰事激烈<lb/>
@@ -373,7 +374,7 @@
 			</p>
 
 		</div>
-	</div>
+	
 	<div type="article" itemid="354">		
 		<p> 
 
@@ -410,12 +411,13 @@
 				（國際時事地圖之二）<lb/>
 			</p>
 		</div>
-    </div>
-	 	  <div type="margin">
+	</div>
+	 <div type="margin">
 		本報忠實報道新聞說人人要說的話文字淺近趣味濃厚是最平民化的刊物<pb/>
-	 	  </div>	
+	</div>	
 </div>
-	<div type="page" page="verso" n="4" mode="vertical-rl" dir="rtl">
+	
+<div type="page" page="verso" n="4" mode="vertical-rl" dir="rtl">
 		<div type="margin" dir="rtl" mode="horizontal-tb">
 			<p> 
 			中華民國二十八年四月廿二日　晶報　星期六　第四版<lb/>
@@ -863,7 +865,7 @@
 			<p dir="rtl" mode="horizontal-tb"> 
 				（一五〇）<lb/>
 			</p>
-			</p>
+			<p>
 				卓呆<lb/>
 			</p>
 			<p> 
@@ -922,9 +924,9 @@
 			最不吃虧
 			金字塔香煙 
 			中國福新煙公司出品-->
-		<div type="image" itemid="353">
-		<div type="image" itemid="354">
-		</div>
+		<div type="image" itemid="353"/>
+		<div type="image" itemid="354"/>
+		
 	</div>
 	<div type="advert" itemid="490">		
 		<div type="image" itemid="355">		
@@ -946,11 +948,11 @@
 		<div type="image" itemid="356">			
 		</div>
 	</div>
-		<div type="margin"> 
+	<div type="margin"> 
 			本報具有廿一年的歷史是小型報紙鼻祖銷路普遍全國刊登廣吿最有效力<pb/>
-		</div>
 	</div>
-	<div type="margin" dir="rtl" mode="vertical-rl">
+</div>
+<div type="margin" dir="rtl" mode="vertical-rl">
 		<div type="advert" itemid="491">
 			<p dir="rtl" mode="horizontal-tb"> 
 				四馬路<lb/> 

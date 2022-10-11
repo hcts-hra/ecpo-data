@@ -2,12 +2,14 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3801_1939-04-26_0006to0007" lastedit="2021-08-26" lasteditor="xiejia1995">
+<fold xml:id="jb_3801_1939-04-26_0006to0007" lastedit="2022-10-11" lasteditor="xiejia1995" issueid="25">
 	<div type="page" page="verso" n="6" dir="rtl" mode="vertical-rl">
-		<div type="margin" dir="rtl" mode="horizontal-tb"><p>
-			中華民國二十八年四月廿六日　晶報　星期三　第六版<lb/>	
-		</p></div>
-		<div type="article">
+		<div type="margin" dir="rtl" mode="horizontal-tb">
+			<p>
+				中華民國二十八年四月廿六日　晶報　星期三　第六版<lb/>	
+			</p>
+		</div>
+		<div type="article" itemid="715">
 			<p>
 				程錫庚小史<lb/>
 			</p>
@@ -40,7 +42,7 @@
 			</p>
 			
 		</div>
-		<div type="article">
+		<div type="article" itemid="716">
 			<p>
 				故都市上吃住難<lb/>
 				（平民自北平寄）<lb/>
@@ -88,7 +90,7 @@
 				兩地焉。<lb/>
 			</p>
 		</div>
-		<div type="article">		
+		<div type="article" itemid="717">		
 				<p dir="rtl" mode="horizontal-tb">
 					佹失記<lb/>
 					（六）<lb/>
@@ -136,7 +138,7 @@
 				叔衡也。<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="720">
 			<p>
 				新游俠傳　張恨水<lb/>
 			</p>
@@ -166,7 +168,7 @@
 			
 		
 		</div>
-		<div type="article">
+		<div type="article" itemid="718">
 			<p>
 				唐六如七十歌<lb/>
 			</p>
@@ -221,7 +223,7 @@
 				</p>
 			
 		</div>
-		<div type="article">
+		<div type="article" itemid="719">
 			<p>
 				蔣委員長之生平<lb/>
 			</p>
@@ -300,7 +302,7 @@
 				</p>
 			
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="732">
 			<div dir="rtl" mode="horizontal-tb">
 				<p>
 					大<lb/>
@@ -340,15 +342,16 @@
 				</p>
 			</div>
 		</div>
-		<div type="advert">
-			<p dir="rtl" mode="horizontal-tb">
-				常服<lb/>
-				中英菓子塩<lb/>
-				永保健康<lb/>
-			</p>
-			<!--      see #128      -->
-<!--			<div type="image">-->
-			<!--</div>-->
+		<div type="advert" itemid="733">
+			<div type="other">
+				<p dir="rtl" mode="horizontal-tb">
+					常服<lb/>
+					中英菓子塩<lb/>
+					永保健康<lb/>
+				</p>
+			</div>
+			<div type="image" itemid="387"/>
+			<div type="other">
 			<p>
 				降火消積<lb/>
 				淸血潤腸<lb/>
@@ -362,8 +365,10 @@
 				總公司　上海四馬路<lb/>
 				分發行　霞飛路國泰大戲院對面<lb/>
 			</p>
+			</div>
 		</div>
-		<div type="advert">
+		
+		<div type="advert" itemid="734">
 			<p dir="rtl" mode="horizontal-tb">
 				救一死<lb/>
 			</p>
@@ -425,7 +430,7 @@
 			廣吿刊例：　報名旁　每日每方二十元　長行計七寸高　每日每行一元八角　短行計三寸半高　每日每行九角　中縫計三寸半高二寸潤　每日每格八元<pb/>	
 		</div>
 	</div>
-	<div type="margin">
+	<div type="margin" itemid="735">
 		<div type="advert">
 			<p>
 				陳效懷醫師<lb/>
@@ -451,7 +456,7 @@
 				此時間內之者可親臨詢問俾得爲較確切之檢查與解答完全義務不收任何費用<lb/>
 			</p>
 		</div> 
-		<div type="advert">
+		<div type="advert" itemid="736">
 			<p>
 				西洋女子按摩<lb/>
 			</p>
@@ -467,7 +472,7 @@
 				地址　白克路（黃家沙口）七三八號永樂坊一號房間<lb/>
 			</p>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="737">
 			<p>
 				中西按摩院<lb/>
 			</p>
@@ -481,7 +486,7 @@
 				（愛文義路口）<lb/>
 			</p>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="738">
 			<p>
 				按摩浴室<lb/>
 			</p>
@@ -492,7 +497,7 @@
 				寺路西摩路口滄州飯店隔壁滄州別墅卅二號樓上<lb/>
 			</p>
 		</div>
-		<div type="advert">	
+		<div type="advert" itemid="739">	
 			<p>
 				陽痿<lb/>
 			</p>
@@ -536,9 +541,11 @@
 		</div>
 	</div>
 	<div type="page" page="recto" n="7" dir="rtl" mode="vertical-rl">
-	    <div type="margin" dir="rtl" mode="horizontal-tb"><p>
+	    <div type="margin" dir="rtl" mode="horizontal-tb">
+	    	<p>
 		    中華民國二十八年四月廿六日　晶報　星期三　第七版<lb/>	
-            </p></div>
+            	</p>
+	    </div>
 		<div type="article">
 			<p>
 				袁<lb/>

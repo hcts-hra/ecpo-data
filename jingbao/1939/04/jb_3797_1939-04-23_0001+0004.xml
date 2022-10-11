@@ -28,6 +28,7 @@
 				</p>
 				<p>
 					煙中<lb/>
+				</p>
 	    	</div>
 	    	<div type="image" itemid="395"></div>
 	    	<div>
@@ -519,22 +520,22 @@
 			</p>            
     	</div>
     	<div type="article" itemid="468">
-            <div>
-    			外强中乾<lb/>
+            <p>            	
+    		外强中乾<lb/>
             	民衆其能久持乎<lb/>
             </p>            
-			<p>
-				二十二日法文<lb/>
-				日轉載、依日方<lb/>
-				統計、最近以來<lb/>
-				、日本國內、物<lb/>
-				價飛騰、政府雖<lb/>
-				有物價統制法令<lb/>
-				之限制、但犯法<lb/>
-				者、近竟有五萬<lb/>
-				四千三百五十起<lb/>
-				之多云、<lb/>
-			</p>	
+   		<p>
+		二十二日法文<lb/>
+		日轉載、依日方<lb/>
+		統計、最近以來<lb/>
+		、日本國內、物<lb/>
+		價飛騰、政府雖<lb/>
+		有物價統制法令<lb/>
+		之限制、但犯法<lb/>
+		者、近竟有五萬<lb/>
+		四千三百五十起<lb/>
+		之多云、<lb/>
+		</p>	
     	</div>
     	<div type="article" itemid="469">
             <p mode="horizontal-tb" dir="rtl">
@@ -825,7 +826,7 @@
     	    <div type="image" itemid="398"></div>
     	</div>
     	<div type="advert" itemid="625">
-    		<div>
+    		<p>
     			中西按摩院<lb/>
     		</p>
     		<p>
@@ -870,10 +871,11 @@
 	        <!-- see #128 -->
 <!--	        <div type="image"/>-->
 	    </div>
-	<div type="margin">
-	     本報具有廿一年的歷史是小型報紙鼻祖銷路普遍全國刊登廣吿最有效力<pb/>
+		<div type="margin">
+		     本報具有廿一年的歷史是小型報紙鼻祖銷路普遍全國刊登廣吿最有效力<pb/>
+		</div>
 	</div>
-	</div>
+
 	<!-- start middle of the fold -->
 	<div type="margin" dir="rtl" mode="vertical-rl">
 		<div type="advert" itemid="628">

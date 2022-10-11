@@ -414,9 +414,9 @@
 		<div type="margin" dir="rtl" mode="horizontal-tb"><p>
 			中華民國二十八年四月廿六日　晶報　星期三　第八版<lb/>	
 		</p></div>
-		<div type="image" itemid="389">
-			<!--characters in the picture 影城<lb/>-->
+		<div type="other" itemid="389">			
 			<p dir="rtl" mode="horizontal-tb">
+				影城<lb/>
 				趙廉．田豐合輯<lb/>
 			</p>
 		</div>

@@ -212,7 +212,8 @@
                     <!--正體字版本：“竝”爲“並”；“䛡”爲“話”-->
                     十二日伯華邀飲晤董睂林睂林集語屬爲<lb/>
 
-        </p>                  
+        </p>    
+        </div>
         <div type="article" itemid="556">
             <p>
                 愛國志士<lb/>
@@ -418,7 +419,7 @@
             </p>
         </div>
         <div type="article" itemid="577">
-            <div>
+            <p>
                 滬光‧金門‧平安之外<lb/>
                 上海究有多少新戯院出現<lb/>
             </p>
@@ -635,12 +636,14 @@
                 </p>
             </div>
             <div type="image" itemid="376"></div>
-            <div>
-                <p>送禮自用<lb/>
-                并皆曼妙<lb/></p>
-            </p>
+            <div type="other">
+                <p>
+                   送禮自用<lb/>
+                   并皆曼妙<lb/>
+                </p>   
+            </div>
         </div>
-        <div type="advert"itemid="673">
+        <div type="advert" itemid="673">
         <p>
             中西按摩院<lb/>
             本院聘有中西美貌<lb/>
@@ -827,7 +830,7 @@
                 毛興昌啓<lb/>
             </p>
         </div>
-        <div type="advert"itemid="678">
+        <div type="advert" itemid="678">
             <!--	see #128		-->
 <!--            <div type="image" itemid="377"/>-->
             <p mode="horizontal-tb" dir="rtl">
