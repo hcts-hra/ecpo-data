@@ -414,13 +414,13 @@
 		<div type="margin" dir="rtl" mode="horizontal-tb"><p>
 			中華民國二十八年四月廿六日　晶報　星期三　第八版<lb/>	
 		</p></div>
-		<div type="image" >
-			<!--影城<lb/>-->
+		<div type="image" itemid="389">
+			<!--characters in the picture 影城<lb/>-->
 			<p dir="rtl" mode="horizontal-tb">
 				趙廉．田豐合輯<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="729">
 			<p dir="rtl" mode="horizontal-tb">
 				「影城」預吿<lb/>
 			</p>
@@ -438,7 +438,7 @@
 				片之時增加不少趣味也。<lb/>
 			</p>
 		</div>
-		<div type="article">			
+		<div type="article" itemid="730">			
 			<p>
 				歌舞組淸潔運動<lb/>
 				新華女學員有九人被開除<lb/>
@@ -455,7 +455,7 @@
 				取的志向，則擬一一訂立正式之演員合同云。　（老田）<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="731">
 			<p>
 				不願意拍電影<lb/>
 				都去唱文明戯<lb/>
@@ -499,7 +499,7 @@
 				　　　（趙廉）<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="732">
 			<p>
 				女明<lb/>
 				星國<lb/>
@@ -541,15 +541,12 @@
 				麼噱頭？（壯士）<lb/>
 			</p>
 		</div>
-		<div type="image">
+		<div type="image" itemid="390">
 			<p>
 				一致公認頗有希望之影星－李紅<lb/>
 			</p>
-<!--	TODO(DP) @xiejia check if this is supposed to be an image delet other wise		-->
-<!--		<div>				
-		</div>-->
-	</div>
-		<div type="article">
+		</div>
+		<div type="article" itemid="733">
 			<p>
 				藝華<lb/>
 				之生<lb/>
@@ -591,7 +588,7 @@
 				　　（末將）<lb/>
 			</p>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="743">
 			<p dir="rtl" mode="horizontal-tb">
 				天樂園酒樓<lb/>
 			</p>
@@ -608,13 +605,14 @@
 				△電話九四九四七號▽<lb/>
 			</p>
 		</div>
-		<div type="advert">
-			<p dir="rtl" mode="horizontal-tb">
-				中國廣生行出品<lb/>
-			</p>
-			<!--      see #128      -->
-<!--			<div type="image">		-->
-			<!--</div>-->
+		<div type="advert" itemid="744">
+			<div type="other">
+				<p dir="rtl" mode="horizontal-tb">
+					中國廣生行出品<lb/>
+				</p>
+			</div>
+			<div type="image" itemid="391"/>
+			<div type="other">
 			<p dir="rtl" mode="horizontal-tb">
 				雙妹牌<lb/>
 				生髮油<lb/>
@@ -624,11 +622,10 @@
 				送禮自用<lb/>
 				并皆曼妙<lb/>
 			</p>
-			<!--      see #128      -->
-<!--			<div type="image">-->
-			<!--</div>-->
+			</div>
+			<div type="image" itemid="392"/>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="745">
 			<p>
 				沈淇泉太史潤格<lb/>
 			</p>
@@ -799,7 +796,7 @@
 		</div>
 	</div>	
 	<div dir="rtl" mode="vertical-rl">
-		<div type="advert">
+		<div type="advert" itemid="746">
 			<p>
 				毛興昌<lb/>
 			</p>
@@ -822,17 +819,15 @@
 				毛興昌啓<lb/>
 			</p>
 		</div>
-		<div type="advert">
-			<!--      see #128      -->
-<!--			<div type="image">-->
-			<!--</div>-->
-			<p dir="rtl" mode="horizontal-tb">
-				一滴淸<lb/>
-				眼藥水<lb/>
-			</p>
-			<!--      see #128      -->
-<!--			<div type="image">-->
-			<!--</div>-->
+		<div type="advert" itemid="747">
+			<div type="other">
+				<p dir="rtl" mode="horizontal-tb">
+					一滴淸<lb/>
+					眼藥水<lb/>
+				</p>
+			</div>
+			<div type="image" itemid="393"/>
+			<div type="other">
 				<p>
 					統治<lb/>
 					目疾<lb/>
@@ -865,9 +860,6 @@
 					<p>
 						新華藥行發行<lb/>
 					</p>
-			<!--      see #128      -->
-<!--				<div type="image">-->
-				<!--</div>-->
 				<p>
 					認明<lb/>
 					商標<lb/>
@@ -876,6 +868,8 @@
 					新華大藥行監製<lb/>
 					上海江西路十號<lb/>
 				</p>
+			</div>
+			<div type="image" itemid="394"/>
 			</div>
 		</div>
 </fold>
