@@ -2,23 +2,19 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3801_1939-04-26_0005to0008" lastedit="2022-10-10" lasteditor="xiejia1995" issueid="25">
+<fold xml:id="jb_3801_1939-04-26_0005to0008" lastedit="2022-10-11" lasteditor="xiejia1995" issueid="25">
 
 	<div type="page" page="recto" n="5" dir="rtl" mode="vertical-rl">
 	    <div type="margin" dir="rtl" mode="horizontal-tb"><p>
 		    中華民國二十八年四月廿六日　晶報　星期三　第五版<lb/>	
         </p></div>
-		<div type="article">
-		    <p dir="rtl" mode="horizontal-tb">
-		    	文化營<lb/>
-		    </p>
-			<!--      see #128      -->
-<!--		    <div type="image"/>-->
-			<p dir="rtl" mode="horizontal-tb">
+		<div type="image" itemid="385">
+		    	<p dir="rtl" mode="horizontal-tb">
+		    		文化營<lb/>
 				黔野主編<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="709">
 			<p>
 				兩種傳說　（上）　潢虎<lb/>
 			</p>
@@ -46,7 +42,7 @@
 			</p>
 			
 		</div>
-		<div type="article">
+		<div type="article" itemid="710">
 			<p>
 				亞洲內幕<lb/>
 			</p>
@@ -142,18 +138,13 @@
 			</p>	       	
 	       	
 		</div>
-		<div type="article">
-			<div>
-				<p>
-					動物的叛變　（四）<lb/>
-				</p>
-				<p>
-					有些謀用和平會議來爭取權利………<lb/>
-				</p>
-			</div>
-			<div type="image"/>
+		<div type="image" itemid="386">
+			<p>
+				動物的叛變　（四）<lb/>		
+				有些謀用和平會議來爭取權利………<lb/>
+			</p>		
 		</div>
-		<div type="article">
+		<div type="article" itemid="711">
 			<p>
 				詩經話繹　如鐘<lb/>
 				六　將仲子　（鄭風）<lb/>
@@ -219,7 +210,7 @@
 			</p>
 			
 		</div>
-		<div type="article">
+		<div type="article" itemid="47234">
 			<p>
 				愛國志士<lb/>
 			</p>
@@ -283,7 +274,8 @@
 			<p>
 				他走進家中，知<lb/>
 				道他們並沒有發覺<lb/>
-				他一夜不在家裏。<lb/>				因爲他本來常常出<lb/>
+				他一夜不在家裏。<lb/>				
+				因爲他本來常常出<lb/>
 				外看京戲；一星期<lb/>
 				總有兩三趟，一直<lb/>
 				到天將黎明的時候<lb/>
@@ -300,7 +292,7 @@
 			</p>
 		      
 		</div>
-		<div type="article">
+		<div type="article" itemid="713">
 			<p>
 				每日國際政治測驗<lb/>
 			</p>
@@ -316,29 +308,26 @@
 				　　　（昨日答案：四，一，）<lb/>
 			</p>
 		</div>	
-		<div type="article">
+		<div type="article" itemid="714">
 			<p dir="rtl" mode="horizontal-tb">
 				袁寒雲先生手寫<lb/>
 				丁卯日記之六<lb/>
 			</p>
-			<!--      see #128      -->
-<!--			<div type="image">-->
-				<!-->
-					識也㫺名林媛：擅歌亂彈今顦顇蕭條无復<lb/>
-					當年矣<lb/>			
-					焕然<lb/>
-				 	十七日為用之伉儷暨意蘐陛雲書箑聯屏<lb/>
-					幅都數十事孫燕翼見過<lb/>
-					十八日重宷耒自靑㠀夕𢌱桐𣶒燕翼隨效公<lb/>
-					北上<lb/>
-					十九日晨抵沽上獨下車歸省䙷雲岑佐卿書<lb/>
-					二十日晨效公南征過津予因事未从<lb/>
-					二十一日敎意蘐電吿以行期爲金鈴𦤺語曰金難<lb/>
-					買笑玉㪅生𥞌比湖上幽蓮湖邊明月　鈴𠊳護<lb/>
-				<-->
-			<!--</div>-->
+			<p>
+				識也㫺名林媛：擅歌亂彈今顦顇蕭條无復<lb/>
+				當年矣<lb/>			
+				焕然<lb/>
+			 	十七日為用之伉儷暨意蘐陛雲書箑聯屏<lb/>
+				幅都數十事孫燕翼見過<lb/>
+				十八日重宷耒自靑㠀夕𢌱桐𣶒燕翼隨效公<lb/>
+				北上<lb/>
+				十九日晨抵沽上獨下車歸省䙷雲岑佐卿書<lb/>
+				二十日晨效公南征過津予因事未从<lb/>
+				二十一日敎意蘐電吿以行期爲金鈴𦤺語曰金難<lb/>
+				買笑玉㪅生𥞌比湖上幽蓮湖邊明月　鈴𠊳護<lb/>
+			</p>
 		</div>		
-		<div type="advert" dir="rtl" mode="vertical-rl">
+		<div type="advert" itemid="729">
 			<p dir="rtl" mode="horizontal-tb">
 				暑期之必需品<lb/>
 			</p>
@@ -360,7 +349,7 @@
 				美華汽水公司出品<lb/>
 			</p>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="730">
 			<p dir="rtl" mode="horizontal-tb">
 				大華舞廳<lb/>
 			</p>
@@ -401,7 +390,7 @@
 				</p>					
 			
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="731">
 			<p dir="rtl" mode="horizontal-tb">
 				虎標<lb/>
 			</p>
@@ -425,9 +414,9 @@
 		<div type="margin" dir="rtl" mode="horizontal-tb"><p>
 			中華民國二十八年四月廿六日　晶報　星期三　第八版<lb/>	
 		</p></div>
-		<div type="other" dir="rtl" mode="horizontal-tb">
+		<div type="image" >
 			<!--影城<lb/>-->
-			<p>
+			<p dir="rtl" mode="horizontal-tb">
 				趙廉．田豐合輯<lb/>
 			</p>
 		</div>
