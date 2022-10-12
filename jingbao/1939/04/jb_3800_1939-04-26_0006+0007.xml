@@ -548,22 +548,7 @@
 	    </div>
 		<div type="article">
 			<p>
-				袁<lb/>
-			</p>
-			<p>
-				子<lb/>
-			</p>
-			<p>
-				才<lb/>
-			</p>
-			<p>
-				談<lb/>
-			</p>
-			<p>
-				性<lb/>
-			</p>
-			<p>
-				（水直）<lb/>
+				袁子才談性　（水直）<lb/>
 			</p>
 			
 			<p>
@@ -586,7 +571,7 @@
 			</p>
 			
 		</div>
-		<div type="article">
+		<div type="article" itemid="722">
 			<p>
 				春江花乘　（不平凡公子）<lb/>
 			</p>
@@ -653,7 +638,7 @@
 			</p>
 			
 		</div>
-		<div type="article">
+		<div type="article" itemid="723">
 			<p>
 				趙恒惕考試湘知事趣聞<lb/>
 				（明紹）<lb/>
@@ -693,7 +678,7 @@
 				官奈我獨坍台。<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="724">
 			<p>
 				葫蘆測字記<lb/>				
 			</p>
@@ -753,18 +738,12 @@
 			</p>
 			
 		</div>
-		<div type="article">
+		<div type="article" itemid="725">
 			<p>
-				梅<lb/>
+				梅女<lb/>
 			</p>
 			<p>
-				女<lb/>
-			</p>
-			<p>
-				質<lb/>
-			</p>
-			<p>
-				疑<lb/>
+				質疑<lb/>
 			</p>
 			
 			<p>
@@ -802,7 +781,7 @@
 			</p>
 			
 		</div>
-		<div type="article">
+		<div type="article" itemid="726">
 			<p>
 				劉寶全登台雜寫　（書帶先生）<lb/>
 			</p>
@@ -897,7 +876,7 @@
 			</p>
 			
 		</div>
-		<div type="article">
+		<div type="article" itemid="728">
 			<p>
 				烏托邦<lb/>
 			</p>
@@ -928,7 +907,7 @@
 			</p>
 			
 		</div>
-		<div type="article">
+		<div type="article" itemid="727">
 			<p>
 				怎樣使淂健康美<lb/>
 			</p>
@@ -1036,9 +1015,7 @@
 				</p>
 			
 		</div>
-		<div type="advert">
-<!-- TODO(DP): @xiejia make these divs meaningful or kick them out			-->
-			<div>
+		<div type="advert" itemid="740">
 				<p>
 					電話<lb/>
 					八四八〇八<lb/>
@@ -1053,8 +1030,7 @@
 					大世界東<lb/>
 					愛多亞路<lb/>
 				</p>	
-			</div>
-			<div>
+
 				<p dir="rtl" mode="horizontal-tb">
 					價目<lb/>
 				</p>
@@ -1078,14 +1054,14 @@
 					六角<lb/>
 					八角<lb/>
 				</p>
-			</div>
-			<div>
+			
+		
 			<p>
 				苗頭十足道地<lb/>
 				軋得石實結棍<lb/>
 			</p>
-			</div>
-			<div>
+			
+		
 				<p>
 					今夜<lb/>
 					務請<lb/>
@@ -1121,9 +1097,9 @@
 				<p dir="rtl" mode="horizontal-tb">
 					火燒紅蓮寺<lb/>
 				</p>
-			</div>
+			
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="741">
 			<p>
 				女人特輯<lb/>
 				敬獻於上海的女人<lb/>
@@ -1144,8 +1120,8 @@
 				痛快<lb/>
 			</p>
 		</div>
-		<div type="advert" dir="rtl" mode="horizontal-tb">
-			<p>
+		<div type="advert" itemid="742">
+			<p dir="rtl" mode="horizontal-tb" >
 				砒製梅毒特效藥<lb/>
 				新惜花散<lb/>
 			</p>
@@ -1155,10 +1131,7 @@
 			<p dir="rtl" mode="horizontal-tb">
 				製造者．．楊氏化學治療研究所<lb/>
 				總經理．．信誼化學製藥廠<lb/>
-			</p>
-			<!--      see #128      -->
-<!--			<div type="image">			-->
-			<!--</div>-->
+			</p>		
 		</div>
     	<div type="margin">
     		定報價目：　本埠　每月五角　三個月一元四角　外埠　每月六角　三月一元七角　半年三元二角　全年六元　郵費在內　國外加倍報資先惠<pb/>	
