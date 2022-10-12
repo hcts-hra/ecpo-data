@@ -2,23 +2,19 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3801_1939-04-27_0005to0008" lastedit="2021-08-18" lasteditor="ysmlouis">
+<fold xml:id="jb_3801_1939-04-27_0005to0008" lastedit="2022-10-12" lasteditor="xiejia1995" issueid="26">
 	<!-- start recto page -->
 	<div type="page" page="recto" n="5" dir="rtl" mode="vertical-rl">
            <div type="margin" dir="rtl" mode="horizontal-tb"><p>
                   中華民國二十八年四月廿七日　晶報　星期四　第五版<lb/>	
            </p></div>
-           <div type="article">
+           <div type="image" itemid="460">
                   <p dir="rtl" mode="horizontal-tb">
-                         文化營<lb/>
-                  </p>
-                  <!--      see #128      -->
-<!--                  <div type="image"/>-->
-                  <p dir="rtl" mode="horizontal-tb">
+                         文化營<lb/>                  
                          黔野主編<lb/>
                   </p>
            </div>
-           <div type="article">
+           <div type="article" itemid="801">
                   <p>
                          兩種傳說<lb/>
                   </p>
@@ -52,7 +48,7 @@
                          </p>
                   
            </div>
-           <div type="article">
+           <div type="article" itemid="802">
                   <p>
                          亞洲內幕<lb/>
                   </p>
@@ -124,7 +120,7 @@
                          </p>
                   
            </div>
-           <div type="article">
+           <div type="article" itemid="803">
                   <p>
                          小故事<lb/>
                   </p>
@@ -168,20 +164,13 @@
                          </p>
                   
            </div>
-           <div type="article">
+           <div type="image" itemid="461">
                   <p>
-                         動物的叛變<lb/>
-                  </p>
-                  <p>
-                         （五）<lb/>
-                  </p>
-                  <p>
-                         此外還需要武裝………<lb/>
-                  </p>
-                  <!--      see #128      -->
-<!--                  <div type="image"/>-->
+                         動物的叛變　（五）<lb/>
+                         此外還需要武裝⋯⋯⋯<lb/>
+                  </p>                  
            </div>
-           <div type="article">
+           <div type="article" itemid="800">
                   <p>
                          一首短歌<lb/>
                   </p>
@@ -219,7 +208,7 @@
                          </p>
                   
            </div>
-           <div type="article">
+           <div type="article" itemid="804">
                   <p>
                          愛國志士<lb/>
                   </p>
@@ -388,21 +377,19 @@
                          </p>
                   
            </div>
-           <div type="article">
+           <div type="article" itemid="805">
                   <p>
                          昨日國際政<lb/>
                          治測驗答案。<lb/>
                          五<lb/>
                   </p>
            </div>
-           <div type="article">
+           <div type="article" itemid="806">
                   <p dir="rtl" mode="horizontal-tb">
                          袁寒雲先生手寫<lb/>
                          丁卯日記之七<lb/>
                   </p>
-                  <!--      see #128      -->
-<!--                  <div type="image">-->
-                         <!--<p>
+                  <p>
                          彎閣應巢鳳望天涯芳艸天末驚鴻𩠐 &gaiji;索瑑<lb/>
                          聯帖<lb/>
                          二十二日爲鳳珠寫旾帖子&gaiji;曰泉文美富洗字吉<lb/>
@@ -413,10 +400,9 @@
                          二十三日車中口占二首驛亭揮手念當時忍涕何<lb/>
                          堪說別離征夢天涯吹漸遠沽流不盡繫人思<lb/>
                          一雨關山未盡歲寒郊艸木已蒼茫飛車直指<lb/>
-                         </p>-->
-                  <!--</div>-->
+                  </p>
            </div>		
-           <div type="advert" dir="rtl" mode="vertical-rl">
+           <div type="advert" dir="rtl" mode="vertical-rl" itemid="762">
                   <p dir="rtl" mode="horizontal-tb">
                          暑期之必需品<lb/>
                   </p>
@@ -438,7 +424,7 @@
                          美華汽水公司出品<lb/>
                   </p>
            </div>
-           <div type="advert">
+           <div type="advert" itemid="763">
                   <p dir="rtl" mode="horizontal-tb">
                          大華舞廳<lb/>
                   </p>
@@ -475,7 +461,7 @@
                          電話八一三八一號<lb/>
                  </p>					
            </div>
-           <div type="advert">
+           <div type="advert" itemid="764">
                   <p dir="rtl" mode="horizontal-tb">
                          虎標<lb/>
                   </p>
@@ -501,13 +487,13 @@
            <div type="margin" dir="rtl" mode="horizontal-tb"><p>
                   中華民國二十八年四月廿七日　晶報　星期四　第八版<lb/>	
            </p></div>
-           <div type="article" dir="rtl" mode="horizontal-tb">
-                  <!--影城<lb/>-->	
-                  <p>
+           <div type="other" itemid="464">                  
+                  <p dir="rtl" mode="horizontal-tb">
+                         影城<lb/>
                          趙廉．老田合輯<lb/>
                   </p>
            </div>
-           <div type="article">
+           <div type="article" itemid="821">
                   <p>
                          公開陳雲裳的信<lb/>
                          回香港前由上海<lb/>
@@ -598,14 +584,8 @@
                          </p>
                   
            </div>
-           <div type="article">
-                  <!--      see #128      -->
-<!--                  <div type="image"/>-->
-                  <p dir="rtl" mode="horizontal-tb">
-                         白虹在雲裳仙子中<lb/>
-                  </p>
-           </div>
-           <div type="article">
+           
+           <div type="article" itemid="820">
                   <p>
                          宣剛辦歌舞團<lb/>
                          正在積極籌備中<lb/>
@@ -636,7 +616,31 @@
                          </p>
                   
            </div>
-           <div type="article">
+           <div type="image" itemid="465">
+                  <p dir="rtl" mode="horizontal-tb">
+                         白虹在雲裳仙子中<lb/>
+                  </p>
+           </div>
+           <div type="advert" itemid="776">
+              <div type="image" itemid="466"/>
+              <div type="other">
+                  <p mode="horizontal-tb" dir="rtl">
+                         雙妹牌<lb/>
+                         生髮油<lb/>
+                  </p>
+              </div>
+              <div type="image" itemid="467"/>
+              <div type="other">
+                  <p>
+                         用生髮油<lb/>
+                         自覺頭上<lb/>
+                         光澤𠁊滑<lb/>
+                         馨香撲鼻<lb/>
+                         中國廣生行出品<lb/>
+                  </p>
+              </div>                 
+           </div>
+           <div type="article" itemid="822">
                   <p>
                          陳雲裳<lb/>
                          在香港<lb/>
@@ -694,7 +698,7 @@
                          </p>
                   
            </div>
-           <div type="article">
+           <div type="article" itemid="823">
                   <p>
                          方沛霖的導演前途<lb/>
                          繫於化身姑娘上<lb/>
@@ -732,7 +736,7 @@
                          </p>
                   
            </div>
-           <div type="advert">
+           <div type="advert" itemid="19350">
                   <p>
                          老協大祥<lb/>
                   </p>
@@ -763,7 +767,7 @@
                          八仙橋小菜場<lb/>
                   </p>
            </div>
-           <div type="advert">
+           <div type="advert" itemid="777">
                   <p dir="rtl" mode="horizontal-tb">
                          梅　邨<lb/>
                          專　營<lb/>
@@ -792,7 +796,7 @@
                          照片一幀<lb/>
                   </p>
            </div>
-           <div type="advert">
+           <div type="advert" itemid="778">
                   <p dir="rtl" mode="horizontal-tb">
                          偉大貢獻<lb/>
                   </p>
@@ -868,7 +872,7 @@
        </div>
     <!--start middle of the fold-->
     <div dir="rtl" mode="vertical-rl">
-            <div type="advert">
+            <div type="advert" itemid="779">
                    <p>
                           毛興昌<lb/>
                    </p>
@@ -891,58 +895,56 @@
                           毛興昌啓<lb/>
                    </p>
             </div>
-            <div type="advert">
-                   <!--      see #128      -->
-<!--                   <div type="image"/>-->
-                   <p dir="rtl" mode="horizontal-tb">
-                          一滴清<lb/>
-                          眼薬水<lb/>
-                   </p>
-                   <!--      see #128      -->
-<!--                   <div type="image"/>-->
-                   <p>
-                          統治<lb/>
-                          目疾<lb/>
-                   </p>
-                   <p>
-                          一滴<lb/>
-                          見功<lb/>
-                   </p>
-                   <!--      see #128      -->
-<!--                   <div type="image"/>-->
-                   <p>
-                          ◇一滴淸眼藥水主治之眼病◇<lb/>
-                   </p>
-                   <p>
-                          砂眼赤眼　瘙癢多脂<lb/>
-                          羞明畏光　迎風流淚<lb/>
-                          顆粒密生　視力糢糊<lb/>
-                          雲翳外障　眼皮發紅<lb/>
-                   </p>
-                   <p>
-                          消　毒　完　全<lb/>
-                          功　効　確　實<lb/>
-                          攜　帶　便　利<lb/>
-                          價　値　低　廉<lb/>
-                          （每瓶貳角四）<lb/>
-                   </p>
-                   <p>
-                          三洋涇橋<lb/>
-                          江西路口<lb/>
-                   </p>
-                   <p>
-                          新華藥行發行<lb/>
-                   </p>
-                   <!--      see #128      -->
-<!--                   <div type="image"/>-->
-                   <p>
-                          認明<lb/>
-                          商標<lb/>
-                   </p>
-                   <p dir="rtl" mode="horizontal-tb">
-                          新華大薬行監製<lb/>
-                          上海江西路十號<lb/>
-                   </p>
+            <div type="advert" itemid="780">
+                   <div type="image" itemid="20823"/>
+                   <div type="other">
+                     <p dir="rtl" mode="horizontal-tb">
+                            一滴清<lb/>
+                            眼薬水<lb/>
+                     </p>
+                   </div>
+                   <div type="other">
+                          <p>
+                                 統治<lb/>
+                                 目疾<lb/>
+                          </p>
+                          <p>
+                                 一滴<lb/>
+                                 見功<lb/>
+                          </p>                   
+                          <p>
+                                 ◇一滴淸眼藥水主治之眼病◇<lb/>
+                          </p>
+                          <p>
+                                 砂眼赤眼　瘙癢多脂<lb/>
+                                 羞明畏光　迎風流淚<lb/>
+                                 顆粒密生　視力糢糊<lb/>
+                                 雲翳外障　眼皮發紅<lb/>
+                          </p>
+                          <p>
+                                 消　毒　完　全<lb/>
+                                 功　効　確　實<lb/>
+                                 攜　帶　便　利<lb/>
+                                 價　値　低　廉<lb/>
+                                 （每瓶貳角四）<lb/>
+                          </p>
+                          <p>
+                                 三洋涇橋<lb/>
+                                 江西路口<lb/>
+                          </p>
+                          <p>
+                                 新華藥行發行<lb/>
+                          </p>
+                          <p>
+                                 認明<lb/>
+                                 商標<lb/>
+                          </p>
+                          <p dir="rtl" mode="horizontal-tb">
+                                 新華大薬行監製<lb/>
+                                 上海江西路十號<lb/>
+                          </p>
+                   </div>                          
+                   <div type="image" itemid="20824"/>
              </div>
        </div>
 </fold>
