@@ -1055,21 +1055,22 @@
                     </p>
              </div>
              <div type="advert" dir="rtl" mode="horizontal-tb" itemid="775">
-                    <p>
-                           砒製梅毒特效藥<lb/>
-                    </p>
-                    <p>
-                           新惜花散<lb/>
-                    </p>
-                    <p dir="ltr" mode="horizontal-tb">
-                           NEO-SYPHARSAN<lb/>
-                    </p>
-                    <p dir="rtl" mode="horizontal-tb">
-                           製造者．．楊氏化學治療研究所<lb/>
-                           總經理．．信誼化學製藥廠<lb/>
-                    </p>
-                    <!--      see #128      -->
-<!--                    <div type="image"/> -->
+                    <div type="other">
+                            <p>
+                                   砒製梅毒特效藥<lb/>
+                            </p>
+                            <p>
+                                   新惜花散<lb/>
+                            </p>
+                            <p dir="ltr" mode="horizontal-tb">
+                                   NEO-SYPHARSAN<lb/>
+                            </p>
+                            <p dir="rtl" mode="horizontal-tb">
+                                   製造者．．楊氏化學治療研究所<lb/>
+                                   總經理．．信誼化學製藥廠<lb/>
+                            </p>
+                    </div>                    
+                    <div type="image" itemid="463"/> 
              </div>
              <div type="margin">
                     定報價目：　本埠　每月五角　三個月一元四角　外埠　每月六角　三月一元七角　半年三元二角　全年六元　郵費在內　國外加倍報資先惠<pb/>	
