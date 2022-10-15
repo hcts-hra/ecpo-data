@@ -2,7 +2,7 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3802_1939-04-28_0006to0007" lastedit="2021-08-21" lasteditor="xiejia1995">
+<fold xml:id="jb_3802_1939-04-28_0006to0007" lastedit="2022-10-15" lasteditor="xiejia1995" issueid="27">
     <!-- … start verso page   -->
     <div type="page" page="verso" n="6" mode="vertical-rl" dir="rtl">
         <div type="margin">
@@ -10,7 +10,7 @@
                 中華民國二十八年四月廿八日　晶報　星期五　第六版<lb/>
             </p></div>
         </div>
-        <div type="article">
+        <div type="article" itemid="885">
             <p>
                 吳佩孚談易逐客　（明紹）<lb/>
             </p>
@@ -29,7 +29,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="886">
             <p>
                 國府新設復性書院<lb/>
                 ⋯院長馬一浮印象記⋯<lb/>
@@ -115,7 +115,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="887">
             <p mode="horizontal-tb" dir="rtl">
                 佹失記<lb/>
                 （兼巢老人沈淇泉太史作）<lb/>
@@ -173,7 +173,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="888">
             <p>
                 希特勒拷貝<lb/>
             </p>
@@ -221,7 +221,7 @@
                 </p>
             
         </div>
-        <div type="other">
+        <div type="article" itemid="47255">
             <p>
                 代郵<lb/>
             </p>
@@ -236,7 +236,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="890">
             <p>
                 新游俠傳　張恨水<lb/>
                 六十一　照耀了一遍<lb/>
@@ -263,7 +263,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="889">
             <p>
                 蔣委員長之生平<lb/>
             </p>
@@ -335,7 +335,7 @@
                 </p>
             
         </div>
-        <div type="advert">
+        <div type="advert" itemid="797">
             <p mode="horizontal-tb" dir="rtl">
                 日新<lb/>
                 西服公司<lb/>
@@ -368,7 +368,7 @@
                 大新街三馬路口<lb/>
             </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="798">
             <p>
                 福煦路南成都路口<lb/>
             </p>
@@ -384,7 +384,7 @@
                 精染不褪色綢緞衣料<lb/>
             </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="799">
             <p mode="horizontal-tb" dir="rtl">
                 救一死<lb/>
             </p>
@@ -442,7 +442,7 @@
     </div>
     <!-- … start margin between pages   -->   
     <div type="margin" mode="vertical-rl" dir="rtl">
-        <div type="advert">
+        <div type="advert" itemid="800">
             <p>
                 陳效懷醫師<lb/>
                 △負責根治淋濁　梅毒　下疳<lb/>
@@ -467,7 +467,7 @@
                 此時間內之者可親臨詢問俾得爲較確切之檢查與解答完全義務不收任何費用<lb/>
             </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="801">
             <p>
                 西洋女子按摩<lb/>
             </p>
@@ -481,7 +481,7 @@
                 地址　白克路（黃家沙口）七三八號永樂坊一號房間<lb/>
             </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="802">
             <p>
                 西式按摩院<lb/>
             </p>
@@ -495,7 +495,7 @@
                 （愛文義路口）<lb/>
             </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="803">
             <p>
                 按摩浴室<lb/>
             </p>
@@ -508,7 +508,7 @@
                 寺路西摩路口滄州飯店隔壁滄州別墅卅二號樓上<lb/>
             </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="804">
             <p>
                 陽痿<lb/>
             </p>
@@ -558,7 +558,7 @@
             中華民國二十八年四月廿八日　晶報　星期五　第七版<lb/>
         </p>
         </div>
-        <div type="article">
+        <div type="article" itemid="891">
             <p>
                 沈淇泉聯仿詩鐘體　（知止）<lb/>
             </p>
@@ -584,7 +584,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="892">
             <p>
                 ◇心神散◇（書奴）<lb/>
             </p>
@@ -678,7 +678,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="893">
             <p mode="horizontal-tb" dir="rtl">
                 婦人的幽默<lb/>
             </p>
@@ -708,7 +708,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="894">
             <p>
                 吃女招待<lb/>
                 （余文）<lb/>
@@ -744,7 +744,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="895">
             <p>
                 電車出入分前後<lb/>
                 （平平自北平寄）<lb/>
@@ -779,7 +779,7 @@
                 便耳。<lb/>
             </p>
         </div>
-        <div type="article">
+        <div type="article" itemid="896">
             <p>
                 怎樣使得健康美<lb/>
             </p>
@@ -902,7 +902,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="47256">
             <p>
                 烏托邦<lb/>
             </p>
@@ -933,7 +933,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="898">
             <p>
                 自行檢舉<lb/>
                 並答芳菲<lb/>
@@ -979,7 +979,7 @@
                 </p>
             
         </div>
-        <div type="advert">
+        <div type="advert" itemid="805">
             <p>
                 電話<lb/>
                 八四八〇八<lb/>
@@ -1055,7 +1055,7 @@
                 火燒紅蓮寺<lb/>
             </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="806">
             <p>
                 女人特輯<lb/>
                 敬獻於上海的女人<lb/>
@@ -1078,20 +1078,21 @@
                 看個<lb/>
             </p>
         </div>
-        <div type="advert">
-            <p mode="horizontal-tb" dir="rtl">
-                砒製梅毒特效藥<lb/>
-                新惜花散<lb/>
-            </p>
-            <p mode="horizontal-tb" dir="ltr">
-                NEO-SYPHARSAN<lb/>
-            </p>
-            <p mode="horizontal-tb" dir="rtl">
-                製造者：楊氏化學治療研究所<lb/>
-                總經理：信誼化學製藥廠<lb/>
-            </p>
-<!--    see #128        -->
-<!--            <div type="image"/>-->
+        <div type="advert" itemid="807">
+            <div type="other">
+                 <p mode="horizontal-tb" dir="rtl">
+                     砒製梅毒特效藥<lb/>
+                     新惜花散<lb/>
+                 </p>
+                 <p mode="horizontal-tb" dir="ltr">
+                     NEO-SYPHARSAN<lb/>
+                 </p>
+                 <p mode="horizontal-tb" dir="rtl">
+                     製造者：楊氏化學治療研究所<lb/>
+                     總經理：信誼化學製藥廠<lb/>
+                 </p>
+            </div>
+            <div type="image" itemid="475"/>
         </div>
         <div type="margin">
                 定報價目：本埠　每月五角　三個月一元四角　外埠　每月六角　三月一元七角　半年三元二角　全年六元　郵費在內　國外加倍報資先惠<pb/>
