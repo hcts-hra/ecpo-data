@@ -2,13 +2,13 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3803_1939-04-29_0002to0003" lastedit="2021-08-20" lasteditor="ysmlouis">
+<fold xml:id="jb_3803_1939-04-29_0002to0003" lastedit="2022-10-18" lasteditor="xiejia1995" issueid="28">
     <!-- start verso page -->
     <div type="page" page="verso" n="2" mode="vertical-rl" dir="rtl">
          <div type="margin" mode="horizontal-tb" dir="rtl"><p> 
                 中華民國二十八年四月廿九日　晶報　星期六　第二版<lb/>     
          </p></div>
-         <div type="article">
+         <div type="article" itemid="911">
                 <p mode="horizontal-tb" dir="rtl">
                        徵兵案順利通過<lb/>
                 </p>
@@ -106,7 +106,7 @@
                        </p>
                 
          </div>
-         <div type="article">
+         <div type="article" itemid="912">
                 <p>
                        蘇聯駐英大使返任<lb/>
                        表示援助民主國<lb/>
