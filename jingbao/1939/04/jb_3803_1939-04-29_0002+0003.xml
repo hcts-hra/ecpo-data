@@ -699,7 +699,7 @@
          <div type="margin" mode="horizontal-tb" dir="rtl"><p>
               中華民國二十八年四月廿九日　晶報　星期六　第三版<lb/>
          </p></div>
-         <div type="article">
+         <div type="article" itemid="925">
                 <p mode="horizontal-tb" dir="rtl">
                        創學校●設騙局<lb/>
                 </p>
@@ -750,7 +750,7 @@
                        </p>
                 </div>
          
-         <div type="article">
+         <div type="article" itemid="926">
                 <p>
                        層出不窮之扣輪事件<lb/>
                        天寶輪被扣<lb/>
@@ -771,7 +771,7 @@
                        </p>
                
          </div>
-         <div type="article">
+         <div type="article" itemid="927">
                 <p>
                        音樂師楊曾恕<lb/>
                        戀歌女★棄髮妻<lb/>
@@ -807,7 +807,7 @@
                        </p>
                
          </div>
-         <div type="article">
+         <div type="article" itemid="928">
                 <p>
                        九江路<lb/>
                        昨發生鉅刦案<lb/>
@@ -824,7 +824,7 @@
                        </p>
             
          </div>
-         <div type="article">
+         <div type="article" itemid="929">
                 <p mode="horizontal-tb" dir="rtl">
                        滬西血案續審<lb/>
                 </p>
@@ -871,7 +871,7 @@
                        </p>
                 
          </div>
-         <div type="article">
+         <div type="article" itemid="930">
                 <p>
                        一行人<lb/>
                        毒發倒地<lb/>
@@ -894,7 +894,7 @@
                        </p>
                
          </div>
-         <div type="article">
+         <div type="article" itemid="931">
                 <p>
                        錢莊鉅子<lb/>
                        家藏烟具等<lb/>
@@ -918,7 +918,7 @@
                        </p>
                
          </div>
-         <div type="article">
+         <div type="article" itemid="932">
                 <p>
                        楊雪樵當庭否認<lb/>
                        曾充「維持會長」<lb/>
@@ -953,7 +953,7 @@
                        </p>
              
          </div>
-         <div type="article">
+         <div type="article" itemid="933">
                 <p>
                        米的來源<lb/>
                        昨水路斷絕<lb/>
@@ -981,7 +981,7 @@
                        </p>
                 
          </div>
-         <div type="article">
+         <div type="article" itemid="936">
                 <p>
                        爲八十元起毒心<lb/>
                        和尚害和尚<lb/>
@@ -1122,12 +1122,11 @@
                        </p>
                 
          </div>
-         <div type="article">
+         <div type="article" itemid="934">
                 <p>
-                       金<lb/>
-                       融<lb/>
-                       一<lb/>
-                       般<lb/>
+                       金融一般<lb/>
+                </p>
+                <p>
                        金市<lb/>
                 </p>
                
@@ -1171,7 +1170,7 @@
                        </p>
                 
          </div>
-         <div type="article">
+         <div type="article" itemid="935">
                 <p mode="horizontal-tb" dir="rtl">
                        賭徒活現形<lb/>
                 </p>
@@ -1211,7 +1210,7 @@
                        </p>
                 
          </div>
-         <div type="article">
+         <div type="article" itemid="937">
                 <p>
                        ◇小消息◇<lb/>
                 </p>
@@ -1223,6 +1222,8 @@
                             、總數已近七千人<lb/>
                             左右云、<lb/>
                        </p>
+         </div>
+         <div type="article" itemid="938">
                        <p>
                             ▲法郵船公司所<lb/>
                             屬各輪抵滬時、僅<lb/>
@@ -1233,7 +1234,7 @@
                        </p>
                 
          </div>
-         <div type="article">
+         <div type="article" itemid="47257">
                 <p>
                        今雜事祕<lb/>
                 </p>
@@ -1267,39 +1268,43 @@
                        </p>
                 
          </div>
-         <div type="advert">
-                <p mode="horizontal-tb" dir="rtl">
-                       電話九六六八四<lb/>
-                       人材完備<lb/>
-                       服務認眞<lb/>
-                </p>
-                <p mode="horizontal-tb" dir="ltr">
-                       TEL.96684.<lb/>
-                </p>
-                <!--       see #128         -->
-<!--                <div type="image"/> -->
-                <p>
-                       ◇王素貞倩影◇<lb/>
-                </p>
-                <p>
-                       樂百思<lb/>
-                </p>
-                <p mode="horizontal-tb" dir="rtl">
-                       歌女社<lb/>
-                </p>
-                <p>
-                       ◇筱譚英倩影◇<lb/>
-                </p>
-                <!--       see #128         -->
-<!--                <div type="image"/> -->
-                <p mode="horizontal-tb" dir="ltr">
-                       TEL.90866.<lb/>
-                </p>
-                <p mode="horizontal-tb" dir="rtl">
-                       電話傳喚<lb/>
-                       準時蒞臨<lb/>
-                       電話九〇八六六<lb/>
-                </p>
+         <div type="advert" itemid="4780">
+                <div type="other">
+                       <p mode="horizontal-tb" dir="rtl">
+                              電話九六六八四<lb/>
+                              人材完備<lb/>
+                              服務認眞<lb/>
+                       </p>
+                       <p mode="horizontal-tb" dir="ltr">
+                              TEL.96684<lb/>
+                       </p>
+                </div>
+                <div type="image" itemid="484"/>
+                <div type="other">
+                       <p>
+                              王素貞倩影<lb/>
+                       </p>
+                       <p>
+                              樂百思<lb/>
+                       </p>
+                       <p mode="horizontal-tb" dir="rtl">
+                              歌女社<lb/>
+                       </p>
+                       <p>
+                              筱譚英倩影<lb/>
+                       </p>
+                </div>
+                <div type="image" itemid="485"/>
+                <div type="other">
+                       <p mode="horizontal-tb" dir="ltr">
+                              TEL.90866<lb/>
+                       </p>
+                       <p mode="horizontal-tb" dir="rtl">
+                              電話傳喚<lb/>
+                              準時蒞臨<lb/>
+                              電話九〇八六六<lb/>
+                       </p>
+                </div>
          </div>
          <div type="margin">
               定報價目：　本　埠　每月五角　三個月一元四角　外埠　每月六角　三月一元七角　半年三元二角　全年六元　郵費在內　國外加倍報資先惠<pb/>
