@@ -2,23 +2,19 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3803_1939-04-29_0005to0008" lastedit="2021-08-22" lasteditor="ysmlouis">
+<fold xml:id="jb_3803_1939-04-29_0005to0008" lastedit="2022-10-19" lasteditor="xiejia1995" issueid="28">
     <!-- start recto page -->
     <div type="page" page="recto" n="5" mode="vertical-rl" dir="rtl">
          <div type="margin" mode="horizontal-tb" dir="rtl"><p>
               中華民國二十八年四月廿九日　晶報　星期六　第五版<lb/>
          </p></div>
-         <div type="article">
+         <div type="image" itemid="489">
                 <p dir="rtl" mode="horizontal-tb">
                        文化營<lb/>
-                </p>
-                <!--       see #128         -->
-<!--                <div type="image"/> -->
-                <p dir="rtl" mode="horizontal-tb">
                        黔野主編<lb/>
                 </p>
          </div>
-         <div type="article">
+         <div type="article" itemid="957">
                 <p>
                        山人<lb/>
                 </p>
@@ -48,7 +44,7 @@
                        </p>
                 
          </div>
-         <div type="article">
+         <div type="article" itemid="958">
                 <p>
                        亞洲內幕<lb/>
                 </p>
@@ -145,15 +141,16 @@
                        </p>
                 
          </div>
-         <div type="article">
-                <p>
-                       動物的叛變　（七）<lb/>
-                       跟着藝術也發達起來…………<lb/>
-                </p>
-                <!--       see #128         -->
-<!--                <div type="image"/> -->
+         <div type="article" itemid="959">
+                <div type="other">
+                     <p>
+                            動物的叛變　（七）<lb/>
+                            跟着藝術也發達起來…………<lb/>
+                     </p>
+                </div>
+               <div type="image" itemid="490"/> 
          </div>
-         <div type="article">
+         <div type="article" itemid="956">
                 <p>
                        新軒渠錄<lb/>
                 </p>
@@ -175,7 +172,7 @@
                        </p>
                 
          </div>
-         <div type="article">
+         <div type="article" itemid="960">
                 <p>
                        愛國志士<lb/>
                 </p>
@@ -365,7 +362,7 @@
                        </p>
                 
          </div>
-         <div type="article">
+         <div type="article" itemid="961">
                 <p mode="horizontal-tb" dir="rtl">
                        袁寒雲先生手寫<lb/>
                        丁卯日記之九<lb/>
@@ -391,7 +388,7 @@
                        <!--𧨌 正體爲 譜；𤔲 正體爲 辭-->
                       </p>
          </div>
-         <div type="advert">
+         <div type="advert" itemid="4787">
                 <p mode="horizontal-tb" dir="rtl">
                        暑期之必需品<lb/>
                 </p>
@@ -413,7 +410,7 @@
                        美華汽水公司出品<lb/>
                 </p>
          </div>
-         <div type="advert">
+         <div type="advert" itemid="4788">
                 <p mode="horizontal-tb" dir="rtl">
                        大華舞廳<lb/>
                 </p>
@@ -450,7 +447,7 @@
                        電話八一三八一號<lb/>
                 </p>
          </div>
-         <div type="advert">
+         <div type="advert" itemid="4789">
                 <p mode="horizontal-tb" dir="rtl">
                        虎標<lb/>
                 </p>
