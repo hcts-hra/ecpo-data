@@ -198,7 +198,7 @@
                        </p>
                 
          </div>
-         <div type="article">
+         <div type="article" itemid="915">
                 <p mode="horizontal-tb" dir="rtl">
                        美以榮譽金牌<lb/>
                        贈蔣委長夫人<lb/>
@@ -225,7 +225,7 @@
                        </p>
                 
          </div>
-         <div type="article">
+         <div type="article" itemid="916">
                 <p>
                        希特勒發表演說後<lb/>
                        美尚無表示<lb/>
@@ -260,7 +260,7 @@
                        </p>
                 
          </div>
-         <div type="article">
+         <div type="article" itemid="917">
                 <p>
                        法羅談判<lb/>
                        商討合作<lb/>
@@ -284,7 +284,7 @@
                        </p>
                 
          </div>
-         <div type="article">
+         <div type="article" itemid="918">
                 <p>
                        中向美訂購大批飛機<lb/>
                        合同已簽字<lb/>
@@ -337,7 +337,7 @@
                        </p>
                 
          </div>
-         <div type="article">
+         <div type="article" itemid="919">
                 <p>
                        美總統注意<lb/>
                        太平洋防務<lb/>
@@ -371,7 +371,7 @@
                        </p>
                 
          </div>
-         <div type="article">
+         <div type="article" itemid="920">
                 <p mode="horizontal-tb" dir="rtl">
                        畢德曼在參院提議<lb/>
                 </p>
@@ -409,7 +409,7 @@
                        </p>
                 
          </div>
-         <div type="article">
+         <div type="article" itemid="921">
                 <p>
                        匈總理聘德<lb/>
                        討論一般問題<lb/>
@@ -441,7 +441,7 @@
                        </p>
                 
          </div>
-         <div type="article">
+         <div type="article" itemid="922">
                 <p>
                        經保護者批准<lb/>
                        捷新閣成立<lb/>
@@ -459,7 +459,7 @@
                        </p>
                 
          </div>
-         <div type="article">
+         <div type="article" itemid="923">
                 <p>
                        昨開始經過巴拿馬<lb/>
                        美艦調太平洋<lb/>
@@ -490,7 +490,7 @@
                        </p>
                 
          </div>
-         <div type="article">
+         <div type="article" itemid="924">
                 <p>
                        長篇<lb/>
                        小說<lb/>
@@ -526,45 +526,44 @@
                        </p>
                 
          </div>
-         <div type="advert">
-                <p>
-                       質<lb/>
-                       香<lb/>
-                       味<lb/>
-                       效<lb/>
-                </p>
-                <!--       see #128         -->
-<!--                <div type="image"/> -->
-                <p mode="horizontal-tb" dir="ltr">
-                       BIOZTCEN<lb/>
-                </p>
-                <p>
-                       上海新亞藥廠製造<lb/>
-                       藥房均售<lb/>
-                </p>
-                <p>
-                       寶青春<lb/>
-                </p>
-                <p mode="horizontal-tb" dir="ltr">
-                       2L<lb/>
-                </p>
-                <p>
-                       寶青春爲真正麥酒乾燥酵母精製，富含各<lb/>
-                       種惟他命，功能開胃强身，治療脚氣，整<lb/>
-                       理胃腸，促進新陳代謝，產生新活力，質<lb/>
-                       香味效，無不超人一等。<lb/>
-                </p>
-                <p mode="horizontal-tb" dir="rtl">
-                       質香味效<lb/>
-                </p>
-                <p>
-                       含量充足<lb/>
-                       芬芳開胃<lb/>
-                       鮮美可口<lb/>
-                       靈騐偉大<lb/>
-                </p>
-                <!--       see #128         -->
-<!--                <div type="image"/> -->
+         <div type="advert" itemid="4699">
+                <div type="other">
+                      <p>
+                             質香味效<lb/>
+                      </p>
+                </div>
+                <div type="image" itemid="482"/>
+                <div type="other">
+                      <p mode="horizontal-tb" dir="ltr">
+                             BIOZTCEN<lb/>
+                      </p>
+                      <p>
+                             上海新亞藥廠製造<lb/>
+                             藥房均售<lb/>
+                      </p>
+                      <p>
+                             寶青春<lb/>
+                      </p>
+                      <p mode="horizontal-tb" dir="ltr">
+                             2L<lb/>
+                      </p>
+                      <p>
+                             寶青春爲真正麥酒乾燥酵母精製，富含各<lb/>
+                             種惟他命，功能開胃强身，治療脚氣，整<lb/>
+                             理胃腸，促進新陳代謝，產生新活力，質<lb/>
+                             香味效，無不超人一等。<lb/>
+                      </p>
+                      <p mode="horizontal-tb" dir="rtl">
+                             質香味效<lb/>
+                      </p>
+                      <p>
+                             含量充足<lb/>
+                             芬芳開胃<lb/>
+                             鮮美可口<lb/>
+                             靈騐偉大<lb/>
+                      </p>
+                </div>
+                <div type="image" itemid="483"/>
          </div>
          <div type="margin">
               廣吿刊例：　報名旁　每日每方二十元　長行計七寸高　每日每行一元八角　短行計三寸半高　每日每行九角　中縫計三寸半高二寸濶　每日每格八元<pb/>
@@ -572,7 +571,7 @@
     </div>
     <!--start middle of the fold-->
     <div type="margin" mode="vertical-rl" dir="rtl">
-         <div type="advert">
+         <div type="advert" itemid="4700">
                 <p>
                        董惠民醫師<lb/>
                 </p>
@@ -624,7 +623,7 @@
                        特備長短波電療機　最高倍顯微鏡　橫痃消散機　尿道檢查鏡　義務助治愈後可向衞生局檢驗斷根<lb/>
                 </p>
          </div>
-         <div type="advert">
+         <div type="advert" itemid="4701">
                 <p>
                        上海河南<lb/>
                        路四馬路<lb/>
@@ -680,7 +679,7 @@
                        本堂咳藥　確有經驗　請嘗試之　方知不謬<lb/>
                 </p>
          </div>
-         <div type="advert">
+         <div type="advert" itemid="4702">
                 <p>
                        東南醫院<lb/>
                 </p>
