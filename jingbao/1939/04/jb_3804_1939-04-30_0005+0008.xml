@@ -2,22 +2,18 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3804_1939-04-30_0005to0008" lastedit="2021-08-25" lasteditor="xiejia1995">
+<fold xml:id="jb_3804_1939-04-30_0005to0008" lastedit="2022-10-24" lasteditor="xiejia1995" issueid="29">
 	<div type="page" page="recto" n="5" dir="rtl" mode="vertical-rl">
 	    <div type="margin" dir="rtl" mode="horizontal-tb"><p>
 		    中華民國二十八年四月三十日　晶報　星期日　第五版<lb/>	
         </p></div>
-		<div type="other">
+		<div type="image" itemid="500">
 		    <p dir="rtl" mode="horizontal-tb">
 		    	文化營<lb/>
-		    </p>
-			<!--	see #128		-->
-<!--		    <div type="image"></div>-->
-			<p dir="rtl" mode="horizontal-tb">
 				黔野主編<lb/>
-			</p>
+		    </p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="1036">
 			<p>
 				新軒渠錄　不凡<lb/>
 			</p>
@@ -56,7 +52,7 @@
 			</p>
 			
 		</div>
-		<div type="article">
+		<div type="article" itemid="1034">
 			<p>
 				廵按御使　（潢虎）<lb/>
 			</p>
@@ -94,7 +90,7 @@
 				陛下」，又道：「勢比逆賢，矯同健卓」，其實又何至於此呢。<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="1035">
 			<p>
 				亞洲內幕<lb/>
 			</p>
@@ -182,19 +178,14 @@
 			</p>
 			
 		</div>
-		<div type="article">
+		<div type="image" itemid="501">
 			<p>				
 					動物的叛變　（八）<lb/>
-			</p>
-			<p>
 					還有考究美麗和文雅………<lb/>
 			</p>
-			</div>
-			<div type="image">	
-			
-			</div>
+		</div>			
 		
-		<div type="article">
+		<div type="article" itemid="47235">
 			<p>
 				愛國志士<lb/>
 			</p>
@@ -362,14 +353,13 @@
 			</p>			
 		
 		</div>
-		<div type="other">
+		<div type="article" itemid="1038">
 			<p dir="rtl" mode="horizontal-tb">
 				袁寒雲先生手寫<lb/>
 				丁卯日記之十<lb/>
 			</p>
-			<!--	see #128		-->
-<!--			<div type="image"> -->
-				<!-->雨濕簾攏對酒幾沉吟正眼波輕掠眉痕淺映<lb/>
+			<p>
+				濕簾攏對酒幾沉吟正眼波輕掠眉痕淺映<lb/>
 				已自昏深但是無言把手相對縱淸斟莫&gaiji;傷<lb/>
 				&gaiji;&gaiji;且共登臨　我欲江頭留滯漸沾泥團絮此<lb/>
 				意難任試明珠還弄雙淚咽空襟念天涯酒醒<lb/>
@@ -378,10 +368,10 @@
 				初五日雲岑愚公師芥塵元美燕翼相繼見過<lb/>
 				邀聖婉&gaiji;竟夕&gaiji;<lb/>
 				初六日雨邀元美燕翼林屋讌集素&gaiji;空歸<lb/>
-				寓爲聖婉書屏三幀卽錄八聲甘州詞<lb/><-->
-			<!--</div>-->
+				寓爲聖婉書屏三幀卽錄八聲甘州詞<lb/>
+			</p>
 		</div>		
-		<div type="advert" dir="rtl" mode="vertical-rl">
+		<div type="advert" itemid="4820">
 			<p dir="rtl" mode="horizontal-tb">
 				暑期之必需品<lb/>
 			</p>
@@ -403,7 +393,7 @@
 				美華汽水公司出品<lb/>
 			</p>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="4821">
 			<p dir="rtl" mode="horizontal-tb">
 				大華舞廳<lb/>
 			</p>
@@ -444,7 +434,7 @@
 				</p>					
 			
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="4822">
 			<p dir="rtl" mode="horizontal-tb">
 				虎標<lb/>
 			</p>
@@ -467,13 +457,13 @@
 		<div type="margin" dir="rtl" mode="horizontal-tb"><p>
 			中華民國二十八年四月三十日　晶報　星期日　第八版<lb/>	
 		</p></div>
-		<div type="other" dir="rtl" mode="horizontal-tb">
-			<!--影城<lb/>-->
-			<p>
-				　廉·老田合.<lb/>
+		<div type="image" itemid="503">			
+			<p dir="rtl" mode="horizontal-tb">
+			     影城<lb/>
+			    　廉·老田合.<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="1053">
 			<p>
 				羅明佑著文<lb/>
 				稱譽陳雲裳<lb/>
@@ -505,7 +495,7 @@
 			</p>
 			
 		</div>
-		<div type="article">			
+		<div type="article" itemid="1054">			
 			<p>
 				男主角無從物色<lb/>
 				文素臣開拍無期<lb/>
@@ -557,7 +547,7 @@
 			</p>
 			
 		</div>
-		<div type="article">
+		<div type="article" itemid="1055">
 			<p>
 				嚴月嫻的一件往事<lb/>
 				與力球選手作弊<lb/>
@@ -622,7 +612,7 @@
 			</p>
 			
 		</div>
-		<div type="article">
+		<div type="article" itemid="47260">
 			<p dir="rtl" mode="horizontal-tb">
 				近事錄<lb/>
 			</p>
@@ -693,29 +683,32 @@
 				</p>
 			
 		</div>
-		<div type="advert">
-			<p dir="rtl" mode="horizontal-tb">
-				常服<lb/>
-				中英菓子塩<lb/>
-				永保健康<lb/>
-			</p>
-			<!--	see #128		-->
-<!--			<div type="image"></div>-->
-			<p>
-				降火消積<lb/>
-				淸血潤腸<lb/>
-				平肝利氣<lb/>
-				開胃提神<lb/>
-				衞生署成藥許<lb/>
-				可證第八一六號<lb/>
-			</p>
-			<p dir="rtl" mode="horizontal-tb">
-				中英大藥房發行<lb/>
-				總公司　上海四馬路<lb/>
-				分發行　霞飛路國泰大戲院對面<lb/>
-			</p>
+		<div type="advert" itemid="4833">
+			<div type="other">
+				<p dir="rtl" mode="horizontal-tb">
+					常服<lb/>
+					中英菓子塩<lb/>
+					永保健康<lb/>
+				</p>
+			</div>
+			<div type="image" itemid="504"/>
+			<div type="other">
+				<p>
+					降火消積<lb/>
+					淸血潤腸<lb/>
+					平肝利氣<lb/>
+					開胃提神<lb/>
+					衞生署成藥許<lb/>
+					可證第八一六號<lb/>
+				</p>
+				<p dir="rtl" mode="horizontal-tb">
+					中英大藥房發行<lb/>
+					總公司　上海四馬路<lb/>
+					分發行　霞飛路國泰大戲院對面<lb/>
+				</p>
+			</div>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="4834">
 			<p dir="rtl" mode="horizontal-tb">
 				中國廣生行出品<lb/>
 			</p>
@@ -733,7 +726,7 @@
 			<!--	see #128		-->
 <!--			<div type="image"></div> -->
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="4835">
 			
 				<p>
 					老協大祥<lb/>
@@ -766,7 +759,7 @@
 				八仙橋小菜場<lb/>
 			</p>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="4836">
 			<p dir="rtl" mode="horizontal-tb">
 				梅邨<lb/>
 				專營<lb/>
@@ -799,7 +792,7 @@
 				</p>
 			
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="4837">
 			<p dir="rtl" mode="horizontal-tb">
 				偉大貢獻<lb/>
 				光大<lb/>
@@ -877,7 +870,7 @@
 		</div>
 	</div>	
 	<div type="margin" dir="rtl" mode="vertical-rl">
-		<div type="advert">
+		<div type="advert" itemid="4838">
 			<p>
 				毛興昌<lb/>
 			</p>
@@ -900,7 +893,7 @@
 				毛興昌啓<lb/>
 			</p>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="4839">
 			<!--	see #128		-->
 <!--			<div type="image"></div> -->
 			<p dir="rtl" mode="horizontal-tb">
