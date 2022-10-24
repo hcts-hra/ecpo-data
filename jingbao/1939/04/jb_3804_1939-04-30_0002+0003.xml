@@ -2,12 +2,14 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3804_1939-04-30_0002to0003" lastedit="2021-08-25" lasteditor="xiejia1995">
+<fold xml:id="jb_3804_1939-04-30_0002to0003" lastedit="2022-10-24" lasteditor="xiejia1995" issueid="29">
 	<div type="page" page="verso" n="2" dir="rtl" mode="vertical-rl">
-	    <div type="margin" dir="rtl" mode="horizontal-tb"><p>
-		    中華民國二十八年四月三十日　晶報　星期日　第二版<lb/>	
-        </p></div>
-		<div type="article">
+	    <div type="margin" dir="rtl" mode="horizontal-tb">
+	    		<p>
+		  		中華民國二十八年四月三十日　晶報　星期日　第二版<lb/>	
+        		</p>
+	    </div>
+		<div type="article" itemid="993">
 			<p>
 				德圖攫取但澤市<lb/>
 				波决力事抗拒<lb/>			
@@ -33,7 +35,7 @@
 			</p>
 			
 		</div>
-	    <div type="article">
+	    <div type="article" itemid="994">
 	    	<p>
 	    		單獨行動猶委過於人<lb/>
 	    		德通知英波廢約<lb/>
@@ -161,7 +163,7 @@
 	    		艘云、<lb/>
 	    	</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="997">
 			<p>
 				鄧尼斯飛安南<lb/>
 				圖創新紀錄<lb/>
@@ -176,7 +178,7 @@
 				安南之飛行紀錄、<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="998">
 			<p>
 				新軍事預算通過<lb/>
 				義無廢協定意<lb/>			
@@ -205,7 +207,7 @@
 				、甚爲重視云、<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="999">
 			<p>
 				法羅談話<lb/>
 				見解一致<lb/>
@@ -223,7 +225,7 @@
 				致、極可欣幸」云<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="996">
 			<p>
 				駐法蘇使表示<lb/>
 				决援助波羅<lb/>
@@ -302,26 +304,26 @@
 			</p>
 			
 		</div>
-		<div type="article">
+		<div type="article" itemid="1000">
 			<p dir="rtl" mode="horizontal-tb">
 				匈總理聘德<lb/>
 			</p>
 			<p>				
-					擬將斯洛伐克邦<lb/>
-					倂入匈版圖<lb/>
-					墨索里尼已回德<lb/>
+				擬將斯洛伐克邦<lb/>
+				倂入匈版圖<lb/>
+				墨索里尼已回德<lb/>
 			</p>
 			<p>
-					（勃拉蒂斯拉伐城廿九日哈瓦斯<lb/>
-					電）匈牙利國內閣總理戴萊基、<lb/>
-					外交部長查基、同往德國聘問、業於本<lb/>
-					日到達柏林、據此消息靈通人士宣稱<lb/>
-					、外間盛傳戴萊基總理此行、攜有建議<lb/>
-					案、主張將斯洛伐克倂入匈國版圖、義<lb/>
-					相墨索里尼聞已贊同此議云、<lb/>
+				（勃拉蒂斯拉伐城廿九日哈瓦斯<lb/>
+				電）匈牙利國內閣總理戴萊基、<lb/>
+				外交部長查基、同往德國聘問、業於本<lb/>
+				日到達柏林、據此消息靈通人士宣稱<lb/>
+				、外間盛傳戴萊基總理此行、攜有建議<lb/>
+				案、主張將斯洛伐克倂入匈國版圖、義<lb/>
+				相墨索里尼聞已贊同此議云、<lb/>
 			</p>			
 		</div>
-		<div type="article">
+		<div type="article" itemid="1001">
 			<p dir="rtl" mode="horizontal-tb">
 				美和平會主席請<lb/>
 				勿援助德義日<lb/>
@@ -348,7 +350,7 @@
 				項與該國政府、』<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="1002">
 			<p>
 				玻璃維亞<lb/>
 				獨裁新猷<lb/>
@@ -376,7 +378,7 @@
 				以命令實行之、<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="1003">
 			<p>
 				印國民會議長<lb/>
 				波士辭職<lb/>
@@ -393,7 +395,7 @@
 				、乃意中事、<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="1004">
 			<p>
 				美艦隊駛過<lb/>
 				巴拿馬運河<lb/>
@@ -410,7 +412,7 @@
 				利福尼亞省云、<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="1005">
 			<p>
 				庫茲湼卓夫任<lb/>
 				蘇海軍委長<lb/>
@@ -424,7 +426,7 @@
 				民海軍委員長、<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="1006">
 			<p>
 				西班牙當局<lb/>
 				封鎖法邊界<lb/>
@@ -438,7 +440,7 @@
 				理由、<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="1007">
 			<p>
 				羅通知美國<lb/>
 				解决戰債<lb/>
@@ -451,90 +453,78 @@
 				將有所提議云、<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="1008">
 			<div>
-			<p>
-				國<lb/>
-			</p>
-			<p>
-				際<lb/>
-			</p>
-			<p>
-				常<lb/>
-			</p>
-			<p>
-				識<lb/>
-			</p>
-			<p>
-				講<lb/>
-			</p>
-			<p>
-				話<lb/>
-			</p>
-			<p>
-				希氏宣佈廢止之兩協定　（渚濱）<lb/>
-			</p>
-			<p>
-				日昨希德勒在衆議院發表<lb/>
-				長篇演說，其要點之一，爲<lb/>
-				廢止英德海軍協定與德波互<lb/>
-				不侵犯協定。英德海軍協定<lb/>
-				，於一九三五年六月十八日<lb/>
-				，在倫敦於兩國政府交換照<lb/>
-				會形式之下，正式成立。代<lb/>
-				表雙方政府者，德方爲特別<lb/>
-				大使里本特洛浦，英方爲繼<lb/>
-				西門爵士任外長之霍爾。該<lb/>
-				協定內容，據英國白皮書所<lb/>
-				發表者，共計七項。其主要點爲允許<lb/>
-				德國之海軍力，得擴充至英國海軍總噸<lb/>
-				數百分之三十五（約四十萬噸）。關於<lb/>
-				潛水艇一項，如遇發生特別情形，德國<lb/>
-				得保有英潛艇總噸數相等之權利，平時<lb/>
-				則不得超過百分之四十五之比率；並規<lb/>
-				定如各國海軍均勢，因他國意外建造軍<lb/>
-				艦，而失其均衡時，德國政府得請求英<lb/>
-				政府，對於此種新局勢，重行加以考慮<lb/>
-				。按英德海軍協定，爲英國袒德態度之<lb/>
-				具體表現，凡塞爾和約本規定德國海軍<lb/>
-				，祗能保有十萬八千噸力量。英政府於<lb/>
-				未得協約國同意之前，遽對德袒護若此<lb/>
-				，然猶未能饜希慾望，而終於片面廢<lb/>
-				止，誠非英政府始料所及也。<lb/>
-			</p>
-			<p>
-				德波互不侵犯協定，先由德外長與波<lb/>
-				蘭駐德公使，於一九三四年一月二十六<lb/>
-				日，在柏林簽定互不侵犯宣言，旋於同<lb/>
-				年二月二十四日，在華沙交換批准文件<lb/>
-				而正式成立。其主旨，據約文所稱，爲<lb/>
-				本凱洛格非戰公約精神，期確保雙方之<lb/>
-				和平關係。該協定內容甚簡，唯一要點<lb/>
-				，不外約定對於任何爭議，雙方决不以<lb/>
-				武力爲救濟手段。定期十年，惟於到期<lb/>
-				前六個月時，不通知廢止者，繼續有效<lb/>
-				。近數年來，非戰公約已被若干國家撕<lb/>
-				毀無餘，而當時據此所締結之互不侵犯<lb/>
-				協定，在今日，由希德勒視之，已不啻<lb/>
-				爲自尋煩惱之束縛，其必欲宣吿廢止，<lb/>
-				固意中事也。<lb/>
-			</p>
+				<p dir="rtl" mode="horizontal-tb">
+				國際常識講話<lb/>
+				</p>
+				<p>
+					希氏宣佈廢止之兩協定　（渚濱）<lb/>
+				</p>
+				<p>
+					日昨希德勒在衆議院發表<lb/>
+					長篇演說，其要點之一，爲<lb/>
+					廢止英德海軍協定與德波互<lb/>
+					不侵犯協定。英德海軍協定<lb/>
+					，於一九三五年六月十八日<lb/>
+					，在倫敦於兩國政府交換照<lb/>
+					會形式之下，正式成立。代<lb/>
+					表雙方政府者，德方爲特別<lb/>
+					大使里本特洛浦，英方爲繼<lb/>
+					西門爵士任外長之霍爾。該<lb/>
+					協定內容，據英國白皮書所<lb/>
+					發表者，共計七項。其主要點爲允許<lb/>
+					德國之海軍力，得擴充至英國海軍總噸<lb/>
+					數百分之三十五（約四十萬噸）。關於<lb/>
+					潛水艇一項，如遇發生特別情形，德國<lb/>
+					得保有英潛艇總噸數相等之權利，平時<lb/>
+					則不得超過百分之四十五之比率；並規<lb/>
+					定如各國海軍均勢，因他國意外建造軍<lb/>
+					艦，而失其均衡時，德國政府得請求英<lb/>
+					政府，對於此種新局勢，重行加以考慮<lb/>
+					。按英德海軍協定，爲英國袒德態度之<lb/>
+					具體表現，凡塞爾和約本規定德國海軍<lb/>
+					，祗能保有十萬八千噸力量。英政府於<lb/>
+					未得協約國同意之前，遽對德袒護若此<lb/>
+					，然猶未能饜希慾望，而終於片面廢<lb/>
+					止，誠非英政府始料所及也。<lb/>
+				</p>
+				<p>
+					德波互不侵犯協定，先由德外長與波<lb/>
+					蘭駐德公使，於一九三四年一月二十六<lb/>
+					日，在柏林簽定互不侵犯宣言，旋於同<lb/>
+					年二月二十四日，在華沙交換批准文件<lb/>
+					而正式成立。其主旨，據約文所稱，爲<lb/>
+					本凱洛格非戰公約精神，期確保雙方之<lb/>
+					和平關係。該協定內容甚簡，唯一要點<lb/>
+					，不外約定對於任何爭議，雙方决不以<lb/>
+					武力爲救濟手段。定期十年，惟於到期<lb/>
+					前六個月時，不通知廢止者，繼續有效<lb/>
+					。近數年來，非戰公約已被若干國家撕<lb/>
+					毀無餘，而當時據此所締結之互不侵犯<lb/>
+					協定，在今日，由希德勒視之，已不啻<lb/>
+					爲自尋煩惱之束縛，其必欲宣吿廢止，<lb/>
+					固意中事也。<lb/>
+				</p>
 			</div>
 		</div>
-		<div type="article">
+		<div type="article" itemid="1009">
 			<p>
-			　  長篇<lb/>
-			　　小說<lb/>
+				長篇<lb/>
+			　　  	小說<lb/>
 			</p>
 			<p>
 				新上海春秋<lb/>
 			</p>
-			<p>（三四四）<lb/>	</p>
-			<p>天笑<lb/>
+			<p>
+				（三四四）<lb/>
+			</p>
+			<p>
+				天笑<lb/>
 			</p>
 			<p>
 				第十八回　姿宴游餐館小排當　窮奢欲博場新巡禮<lb/>
-		    </p>
+		      </p>
 			<p>
 				到了明天，楊賓秋上半天沒有出去，下半天出門時，預備到唐太太那裏去一<lb/>
 				趟。旣已到了上海，知道他們出了那樣的事。在面子上，不能不去慰問遺下。<lb/>
@@ -557,7 +547,7 @@
 	    </div>
 	</div>
 	<div type="margin" dir="rtl" mode="vertical-rl">
-		<div type="advert">
+		<div type="advert" itemid="4810">
 			<p>
 				董惠民醫師<lb/>
 			</p>
@@ -613,7 +603,7 @@
 				</p>
 			
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="4811">
 			
 				<p>
 					上海河南<lb/>
@@ -677,7 +667,7 @@
 				本堂咳藥　確有經驗　請嘗試之　方知不謬<lb/>
 			</p>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="4812">
 			<p>
 				東南醫院<lb/>
 			</p>
@@ -697,10 +687,12 @@
 		</div>
 	</div>
 	<div type="page" page="recto" n="3" dir="rtl" mode="vertical-rl">
-	    <div type="margin" dir="rtl" mode="horizontal-tb"><p>
-		    中華民國二十八年四月三十日　晶報　星期日　第三版<lb/>
-        </p></div>
-		<div type="article">
+	    <div type="margin" dir="rtl" mode="horizontal-tb">
+	    	<p>
+		    中華民國二十八年四月三十日　晶報　星期日　第三版<lb/>        
+	    	</p>
+	    </div>
+		<div type="article" itemid="1010">
 			<p>
 				假借愛國團體名義<lb/>
 				實施敲詐案已大白<lb/>
@@ -740,7 +732,7 @@
 				、馮推事核供、以本案尚須偵查、乃諭被吿等還押改期再訊<lb/>
 			</p>
 		</div>			
-		<div type="article">
+		<div type="article" itemid="1011">
 			<p dir="rtl" mode="horizontal-tb">
 				中國財部<lb/>
 			</p>
@@ -761,7 +753,7 @@
 				</p>
 			
 		</div>
-		<div type="article">
+		<div type="article" itemid="1012">
 			<p>
 				大姑娘的秘密<lb/>
 				被新郎揭穿後聲請離婚<lb/>
@@ -808,7 +800,7 @@
 				、可另行起訴、<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="1013">
 			<p dir="rtl" mode="horizontal-tb">
 				向李故校長<lb/>
 				獻花<lb/>
@@ -834,7 +826,7 @@
 				李里故校長祈禱、<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="1015">
 			<p>
 				塩城籍一婦<lb/>
 				虎日餘生錄<lb/>
@@ -911,7 +903,7 @@
 				日再訊、<lb/>
 			</p>
 	    </div>
-		<div type="article">
+		<div type="article" itemid="1016">
 			<p>
 				花會總筒失事<lb/>
 				毛阿祥等逃逸<lb/>
@@ -945,7 +937,7 @@
 				杏如黃鶴云、<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="1017">
 			<p>
 				一元法幣<lb/>
 				四行儘量收受<lb/>
@@ -963,7 +955,7 @@
 				吿社員行莊、<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="1018">
 			<p>
 				東方旅舍<lb/>
 				昨發生雙服毒案<lb/>
@@ -1000,7 +992,7 @@
 			
 			
 		</div>
-		<div type="article">
+		<div type="article" itemid="1014">
 			<p>
 				繼熊劍東後<lb/>
 				愛國大獄<lb/>		
@@ -1102,7 +1094,7 @@
 				命之危險云、<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="1019">
 			<p>
 				醫生家<lb/>
 				纏訟不休<lb/>
@@ -1130,7 +1122,7 @@
 				期六宣判、<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="1020">
 			<p>
 				震旦舊同學<lb/>
 				補祝馬壽<lb/>
@@ -1162,15 +1154,16 @@
 			</p>
 			
 		</div>
-		<div type="advert">
-			<p dir="ltr" mode="horizontal-tb">
-				TEL. 96684.<lb/>
-			</p>
-			<!--	see #128		-->
-<!--			<div type="image"></div>-->
-			<p>
-				電話九六六八四：九〇八六六號<lb/>
-			</p>
+		<div type="advert" itemid="4813">
+			<div type="other">
+				<p dir="ltr" mode="horizontal-tb">
+					TEL. 96684.<lb/>
+				</p>
+			</div>		
+			<div type="other">
+				<p>
+					電話九六六八四：九〇八六六號<lb/>
+				</p>
 			
 				<p>
 					樂哉<lb/>
@@ -1191,19 +1184,21 @@
 				<p>
 					★楊妹妹倩影★<lb/>
 				</p>
-			<!--	see #128		-->
-<!--			<div type="image"></div> -->
-			<p>
-				歌女社<lb/>
-			</p>
-			<p dir="rtl" mode="horizontal-tb">
-				樂百思<lb/>
-			</p>
-			<p>
-				歌女社<lb/>
-			</p>
-			<!--	see #128		-->
-<!--			<div type="image"></div> -->
+			</div>
+			<div type="image" itemid="495"/>		
+			<div type="other">
+				<p>
+					歌女社<lb/>
+				</p>
+				<p dir="rtl" mode="horizontal-tb">
+					樂百思<lb/>
+				</p>
+				<p>
+					歌女社<lb/>
+				</p>
+			</div>		
+			<div type="image" itemid="496"/>
+			<div type="other">
 			
 				<p>
 					★蔣慧萍倩影★<lb/>
@@ -1231,12 +1226,12 @@
 			<p dir="ltr" mode="horizontal-tb">
 				TEL. 90866.<lb/>
 			</p>
+			</div>
+			
 		</div>		
-		<div type="article">
+		<div type="article" itemid="1021">
 			<p>
-			今雜事祕<lb/>
-			</p>
-			<p>△井波<lb/>
+				今雜事祕　△井波<lb/>
 			</p>
 			<p dir="rtl" mode="horizontal-tb">
 			    （七）<lb/>
