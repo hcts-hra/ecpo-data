@@ -2,30 +2,15 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3803_1939-04-29_0006to0007" lastedit="2021-08-23" lasteditor="ysmlouis">
+<fold xml:id="jb_3803_1939-04-29_0006to0007" lastedit="2022-10-24" lasteditor="xiejia1995" issueid="28">
     <!-- start verso page -->
     <div type="page" page="verso" n="6" mode="vertical-rl" dir="rtl">
          <div type="margin" mode="horizontal-tb" dir="rtl"><p>
               中華民國二十八年四月廿九日　晶報　星期六　第六版<lb/>
          </p></div>
-         <div type="article">
+         <div type="article" itemid="962">
                 <p>
-                       重<lb/>
-                </p>
-                <p>
-                       慶<lb/>
-                </p>
-                <p>
-                       的<lb/>
-                </p>
-                <p>
-                       防<lb/>
-                </p>
-                <p>
-                       空<lb/>
-                </p>
-                <p>
-                       網<lb/>
+                       重慶的防空網<lb/>
                 </p>
                 <p>
                        （允麗）<lb/>
@@ -60,7 +45,7 @@
                        </p>
                 
          </div>
-         <div type="article">
+         <div type="article" itemid="963">
                 <p>
                        故都浴室作鴛池<lb/>
                 </p>
@@ -117,7 +102,7 @@
                        </p>
                 
          </div>
-         <div type="article">
+         <div type="article" itemid="964">
                 <p dir="rtl" mode="horizontal-tb">
                        佹失記<lb/>
                 </p>
@@ -176,7 +161,7 @@
                        </p>
                 
          </div>
-         <div type="article">
+         <div type="article" itemid="965">
                 <p>
                        大報拚命<lb/>
                        （達）<lb/>
@@ -224,7 +209,7 @@
                        </p>
                 
          </div>
-         <div type="article">
+         <div type="article" itemid="968">
                 <p>
                        ▼代郵<lb/>
                 </p>
@@ -233,13 +218,15 @@
                             沙鷗先生：書未<lb/>
                             收到。<lb/>
                        </p>
+         </div>
+         <div type="article" itemid="967">
                        <p>
                             紹基先生：稿請<lb/>
                             縮短。<lb/>
                        </p>
                 
          </div>
-         <div type="article">
+         <div type="article" itemid="966">
                 <p>
                        新游俠傳<lb/>
                 </p>
@@ -271,7 +258,7 @@
                        </p>
                 
          </div>
-         <div type="article">
+         <div type="article" itemid="969">
                 <p>
                        蔣委員長之生平<lb/>
                 </p>
@@ -330,7 +317,7 @@
                        </p>
                 
          </div>  
-         <div type="advert">
+         <div type="advert" itemid="4790">
                 <p>
                        石路二馬路口<lb/>
                 </p>
@@ -415,7 +402,7 @@
                        還洋<lb/>
                 </p>
          </div>
-         <div type="advert">
+         <div type="advert" itemid="4791">
                 <p>
                        福煦路南成都路口<lb/>
                 </p>
@@ -431,7 +418,7 @@
                        精染不褪色綢緞衣料<lb/>
                 </p>
          </div>
-         <div type="advert">
+         <div type="advert" itemid="4792">
                 <p mode="horizontal-tb" dir="rtl">
                        回力球<lb/>
                 </p>
@@ -481,7 +468,7 @@
     </div>
     <!-- start margin between pages -->   
     <div type="margin" mode="vertical-rl" dir="rtl">
-         <div type="advert">
+         <div type="advert" itemid="4794">
                 <p>
                        陳效懷醫師<lb/>
                 </p>
@@ -510,7 +497,7 @@
                        </p>
                 
          </div>
-         <div type="advert">
+         <div type="advert" itemid="4795">
                 <p>
                        西洋女子按摩<lb/>
                 </p>
@@ -526,7 +513,7 @@
                        地址　白克路（黃家沙口）七三八號永樂坊一號房間<lb/>
                 </p>
          </div>
-         <div type="advert">
+         <div type="advert" itemid="4797">
                 <p>
                        西式按摩院<lb/>
                 </p>
@@ -540,7 +527,7 @@
                        （愛文義路口）<lb/>
                 </p>
          </div>
-         <div type="advert">
+         <div type="advert" itemid="4798">
                 <p>
                        按摩浴室<lb/>
                 </p>
@@ -551,7 +538,7 @@
                        寺路西摩路口滄州飯店隔壁滄州別墅卅二號樓上<lb/>
                 </p>
          </div>
-         <div type="advert">
+         <div type="advert" itemid="4801">
                 <p>
                        陽痿<lb/>
                 </p>
@@ -601,7 +588,7 @@
               中華民國二十八年四月廿九日　晶報　星期六　第七版<lb/>
          </p>
          </div>
-         <div type="article">
+         <div type="article" itemid="970">
                 <p>
                        十殿閻王異同說<lb/>
                 </p>
@@ -629,17 +616,18 @@
                        </p>
                 
          </div>
-         <div type="article">
-                <p>
-                       春江花乘<lb/>
-                </p>
-                <p>
-                       （不平凡公子）<lb/>
-                </p>
-                <p>
-                       一日一姬　（六）月華<lb/>
-                </p>
-             
+         <div type="article" itemid="971">
+                <div type="other">
+                     <p>
+                            春江花乘<lb/>
+                     </p>
+                     <p>
+                            （不平凡公子）<lb/>
+                     </p>
+                     <p>
+                            一日一姬　（六）月華<lb/>
+                     </p>
+                  
                        <p>
                             提起抱月春燕樓<lb/>
                             ，又想到月華一對<lb/>
@@ -716,13 +704,14 @@
                             會樂里，還是在堂<lb/>
                             子弄堂過日子。<lb/>
                        </p>
-<!--       see #128         -->
-<!--                <div type="image"/>-->
-                <p mode="horizontal-tb" dir="rtl">
-                       月華妹妹<lb/>
-                </p>
+                </div>
+                <div type="image" itemid="491">
+                     <p mode="horizontal-tb" dir="rtl">
+                            月華妹妹<lb/>
+                     </p>
+                </div>
          </div>
-         <div type="article">
+         <div type="article" itemid="972">
                 <p mode="horizontal-tb" dir="rtl">
                        亦　有　相　同<lb/>
                        （澇湖村庸）<lb/>
@@ -788,7 +777,7 @@
                        </p>
                 
          </div>
-         <div type="article">
+         <div type="article" itemid="976">
                 <p>
                        怎樣使得健康美<lb/>
                 </p>
@@ -903,7 +892,7 @@
                        </p>
                 
          </div>
-         <div type="article">
+         <div type="article" itemid="47258">
                 <p>
                        烏托邦<lb/>
                 </p>
@@ -935,15 +924,9 @@
                        </p>
                 
          </div>
-         <div type="article">
+         <div type="article" itemid="974">
                 <p>
-                       紅<lb/>
-                </p>
-                <p>
-                       粉<lb/>
-                </p>
-                <p>
-                       （書奴）<lb/>
+                       紅粉　（書奴）<lb/>
                 </p>
           
                        <p>
@@ -1038,16 +1021,16 @@
                              鑑焉！<lb/>
                         </p>
          </div>
-                <div type="article">
-                        <p>
-                             □勘誤　昨報沈<lb/>
-                             淇泉聯仿詩鐘體則<lb/>
-                             ，磬誤磐　麋誤<r style="transform: rotate(180deg);">糜</r><!-- character 糜 rotated by 180 degrees --><lb/>
-                             。<lb/>
-                        </p>
-                </div>
+         <div type="article" itemid="47259">
+                 <p>
+                      □勘誤　昨報沈<lb/>
+                      淇泉聯仿詩鐘體則<lb/>
+                      ，磬誤磐　麋誤<r style="transform: rotate(180deg);">糜</r><!-- character 糜 rotated by 180 degrees --><lb/>
+                      。<lb/>
+                 </p>
+         </div>
          
-         <div type="article">
+         <div type="article" itemid="975">
                 <p>
                        臥薪嘗胆<lb/>
                 </p>
@@ -1069,7 +1052,7 @@
                        </p>
                 
          </div>
-         <div type="advert">
+         <div type="advert" itemid="4799">
                 <p>
                        大<lb/>
                 </p>
@@ -1113,7 +1096,7 @@
                        ▼<lb/>
                 </p>
          </div>
-         <div type="advert">
+         <div type="advert" itemid="4800">
                 <p>
                        電話<lb/>
                        八四八〇八<lb/>

@@ -473,13 +473,13 @@
          <div type="margin" mode="horizontal-tb" dir="rtl"><p>
               中華民國二十八年四月廿九日　晶報　星期六　第八版<lb/>
          </p></div>
-         <div type="article" mode="horizontal-tb" dir="rtl">
-                <!--影城<lb/>-->
-                <p>
-                       趙廉•老田合輯<lb/>
+         <div type="other" itemid="492">            
+              <p mode="horizontal-tb" dir="rtl">
+                     影城<lb/>                     
+                     趙廉•老田合輯<lb/>
                 </p>
          </div>
-         <div type="article">
+         <div type="article" itemid="978">
                 <p>
                        關於「中華藝術劇團」<lb/>
                 </p>
@@ -514,7 +514,7 @@
                        </p>
                 
          </div>
-         <div type="article">
+         <div type="article" itemid="979">
                 <p>
                        「雙槍將」觀後<lb/>
                 </p>
@@ -581,7 +581,7 @@
                        </p>
                 
          </div>
-         <div type="article">
+         <div type="article" itemid="977">
                 <p>
                        來時一<lb/>
                        千多種<lb/>
@@ -607,7 +607,7 @@
                        </p>
                 
          </div>
-         <div type="article">
+         <div type="article" itemid="980">
                 <p>
                        姜白谷<lb/>
                        病歿香<lb/>
@@ -648,7 +648,7 @@
                        </p>
                 
          </div>
-         <div type="article">
+         <div type="article" itemid="981">
                 <p>
                        『西宮春怨』<lb/>
                 </p>
@@ -728,7 +728,7 @@
                        </p>
                 
          </div>
-         <div type="advert">
+         <div type="advert" itemid="4802">
                 <p mode="horizontal-tb" dir="rtl">
                        海上別樹一幟服飾專家<lb/>
                 </p>
@@ -767,7 +767,7 @@
                        地址九江路雲南路西<lb/>
                 </p>
          </div>
-         <div type="advert">
+         <div type="advert" itemid="4803">
                 <p>
                        老協大祥<lb/>
                 </p>
@@ -798,7 +798,7 @@
                        八仙橋小菜場<lb/>
                 </p>
          </div>
-         <div type="advert">
+         <div type="advert" itemid="4804">
                 <p mode="horizontal-tb" dir="rtl">
                        梅　邨<lb/>
                        專　營<lb/>
@@ -823,7 +823,7 @@
                        照片一幀<lb/>
                 </p>
          </div>
-         <div type="advert">
+         <div type="advert" itemid="4805">
                 <p mode="horizontal-tb" dir="rtl">
                        偉大貢獻<lb/>
                 </p>
@@ -899,7 +899,7 @@
     </div>
     <!-- start middle of the fold -->
     <div type="margin">
-         <div type="advert">
+         <div type="advert" itemid="4806">
                 <p>
                        毛興昌<lb/>
                 </p>
@@ -920,56 +920,56 @@
                        毛興昌啓<lb/>
                 </p>
          </div>
-         <div type="advert">
-                <!--       see #128         -->
-<!--                <div type="image"/> -->
-                <p mode="horizontal-tb" dir="rtl">
-                       一滴清<lb/>
-                       眼薬水<lb/>
-                </p>
-                <p>
-                       統治<lb/>
-                       目疾<lb/>
-                </p>
-                <!--       see #128         -->
-<!--                <div type="image"/> -->
-                <p>
-                       一滴<lb/>
-                       見功<lb/>
-                </p>
-                <p>
-                       ◇一滴淸眼藥水主治之眼病◇<lb/>
-                </p>
-                <p>
-                       砂眼赤眼　瘙癢多脂<lb/>
-                       羞明畏光　迎風流淚<lb/>
-                       顆粒密生　視力糢糊<lb/>
-                       雲翳外障　眼皮發紅<lb/>
-                </p>
-                <p>
-                       消　毒　完　全<lb/>
-                       功　効　確　實<lb/>
-                       攜　帶　便　利<lb/>
-                       價　値　低　廉<lb/>
-                       （每瓶貳角四）<lb/>
-                </p>
-                <p>
-                       三洋涇橋<lb/>
-                       江西路口<lb/>
-                </p>
-                <p>
-                       新華藥行發行<lb/>
-                </p> 
-                <!--       see #128         -->
-<!--                <div type="image"/> -->
-                <p>
-                       認明<lb/>
-                       商標<lb/>
-                </p>
-                <p mode="horizontal-tb" dir="rtl">
-                       新華大薬行監製<lb/>
-                       上海江西路十號<lb/>
-                </p>
+         <div type="advert" itemid="4807">
+              <div type="image" itemid="493"/>
+              <div type="other">
+                   <p dir="rtl" mode="horizontal-tb">
+                        一滴清<lb/>
+                        眼薬水<lb/>
+                   </p>
+              </div>
+              <div type="other">
+                   <p>
+                        統治<lb/>
+                        目疾<lb/>
+                   </p>
+                   <p>
+                        一滴<lb/>
+                        見功<lb/>
+                   </p>                   
+                   <p>
+                        ◇一滴淸眼藥水主治之眼病◇<lb/>
+                   </p>
+                   <p>
+                        砂眼赤眼　瘙癢多脂<lb/>
+                        羞明畏光　迎風流淚<lb/>
+                        顆粒密生　視力糢糊<lb/>
+                        雲翳外障　眼皮發紅<lb/>
+                   </p>
+                   <p>
+                        消　毒　完　全<lb/>
+                        功　効　確　實<lb/>
+                        攜　帶　便　利<lb/>
+                        價　値　低　廉<lb/>
+                        （每瓶貳角四）<lb/>
+                   </p>
+                   <p>
+                        三洋涇橋<lb/>
+                        江西路口<lb/>
+                   </p>
+                   <p>
+                        新華藥行發行<lb/>
+                   </p>
+                   <p>
+                        認明<lb/>
+                        商標<lb/>
+                   </p>
+                   <p dir="rtl" mode="horizontal-tb">
+                        新華大薬行監製<lb/>
+                        上海江西路十號<lb/>
+                   </p>
+              </div>                          
+              <div type="image" itemid="494"/>
          </div>
     </div>
 </fold>
