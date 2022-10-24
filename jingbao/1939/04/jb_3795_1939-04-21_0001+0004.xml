@@ -23,23 +23,26 @@
             </p> 
         </div>
         <div type="advert" itemid="445">
-            <p>
-                煙中<lb/>
-                鐵軍<lb/>
-                清香<lb/>
-                雋永<lb/>
-            </p>
-            <p mode="horizontal-tb" dir="rtl">
-                認明 <!-- 者? -->  <!-- 牌? --><lb/>
-                永不吃虧<lb/>
-            </p>
-            <!--  see #128       -->
-            <!--<div type="image" itemid="410"/>
-            <div type="image" itemid="411"/>-->
-            <p mode="horizontal-tb" dir="rtl">
-                金字塔香煙<lb/>
-                中國福新煙公司出品<lb/>
-            </p>
+            <div type="other">
+                <p>
+                    煙中<lb/>
+                    鐵軍<lb/>
+                    清香<lb/>
+                    雋永<lb/>
+                </p>
+                <p mode="horizontal-tb" dir="rtl">
+                    認明 <!-- 者? -->  <!-- 牌? --><lb/>
+                    永不吃虧<lb/>
+                </p>
+            </div>
+            <div type="image" itemid="410"/>
+            <div type="image" itemid="411"/>
+            <div type="other">
+             <p mode="horizontal-tb" dir="rtl">
+                 金字塔香煙<lb/>
+                 中國福新煙公司出品<lb/>
+             </p>
+            </div>
         </div>
         <div type="advert" itemid="580" mode="horizontal-tb" dir="rtl"><p>
             海上第一流攝影專家<lb/>
@@ -913,38 +916,38 @@
             </p>
         </div>
         <div type="advert" itemid="591">
-            <p>
-                痰敵<lb/>
-            </p>
-            <p>
-                除痰鎮咳<lb/>
-                平喘止嗆<lb/>
-                順氣祛風<lb/>
-                益肺防癆<lb/>
-            </p>
-            <p mode="horizontal-tb" dir="rtl">
-                片露<lb/>
-            </p>
-            <p>
-                大瓶二元小瓶一元<lb/>
-                每瓶一元五角<lb/>
-            </p>
-            <p mode="horizontal-tb" dir="rtl">
-                上海<lb/>
-            </p>
-            <p>
-                中西大藥房<lb/>
-            </p>
-            <p mode="horizontal-tb" dir="rtl">
-                發行<lb/>
-            </p>
-            <!--  see #128       -->
-<!--            <div type="image" itemid="417"/>-->
-            <p>
-                分片露<lb/>
-            </p>
-            <!--  see #128       -->
-<!--            <div type="image" itemid="418"/>-->
+            <div type="other">
+                <p dir="rtl" mode="vertical-rl">
+                    痰敵<lb/>
+                </p>
+                <p>
+                    分片露<lb/>
+                </p>
+                <p>
+                    除痰鎭咳<lb/>
+                    平喘止嗆<lb/>
+                    順氣祛風<lb/>
+                    益肺防癆<lb/>
+                </p>
+                <p dir="rtl" mode="horizontal-tb">
+                    片露<lb/>
+                </p>
+                <p>
+                    大瓶二元小瓶一元<lb/>
+                    每瓶一元五角<lb/>
+                </p>
+                <p dir="rtl" mode="horizontal-tb">
+                    上海<lb/>
+                </p>
+                <p>
+                    中西大藥房<lb/>
+                </p>
+                <p dir="rtl" mode="horizontal-tb">
+                    發行<lb/>	
+                </p>
+            </div>
+            <div type="image" itemid="417"/>
+            <div type="image" itemid="418"/>
         </div>
         <div type="advert" itemid="458">
                本報具有廿一年的歷史是小型報紙鼻祖銷路普遍全國刊登廣吿最有效力<pb/>

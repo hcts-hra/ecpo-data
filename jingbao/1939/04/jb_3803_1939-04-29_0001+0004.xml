@@ -968,6 +968,7 @@
                   </p>
            </div>
          <div type="advert" itemid="4782">
+                <div type="other">
                 <p>
                        痰敵<lb/>
                 </p>
@@ -993,29 +994,31 @@
                 <p mode="horizontal-tb" dir="rtl">
                        發行<lb/>
                 </p>
-<!--       see #128         -->
-<!--                <div type="image"/>-->
                 <p>
                        分片露<lb/>
                 </p>
-                <!--       see #128         -->
-<!--                <div type="image"/>-->
+               </div>
+           <div type="image" itemid="486"/>
+           <div type="image" itemid="487"/>
          </div>
          <div type="advert" itemid="4783">
-                <p mode="horizontal-tb" dir="rtl">
-                       金字塔香煙<lb/>
-                </p>
+                <div type="other">
+                     <p mode="horizontal-tb" dir="rtl">
+                            金字塔香煙<lb/>
+                     </p>
+                </div>
+                <div type="image" itemid="488"/>
+                <div type="other">
                 <p>
                        煙中<lb/>
                 </p>
-                <!--       see #128         -->
-<!--                <div type="image"/>-->
                 <p>
                        鉄軍<lb/>
                 </p>
                 <p mode="horizontal-tb" dir="rtl">
                        中國福新煙公司出品<lb/>
                 </p>
+                </div>
          </div>
          <div type="margin">
                 本報具有廿一年的歷史是小型報紙鼻祖銷路普遍全國刊登廣吿最有效力<pb/>

@@ -566,26 +566,38 @@
             
         </div>
         <div type="advert" itemid="727">
-            <p> 痰敵<lb/>
-            </p>
-            <!--      see #128      -->
-            <!--    <div type="image" itemid="383"/>-->
-            <p> 分片露<lb/>
-            </p>
-            <p> 除痰鎭咳<lb/> 平喘止嗆<lb/> 順氣祛風<lb/> 益肺防癆<lb/>
-            </p>
-            <p dir="rtl" mode="horizontal-tb"> 片露<lb/>
-            </p>
-            <p> 大瓶二元小瓶一元<lb/> 每瓶一元五角<lb/>
-            </p>
-            <p dir="rtl" mode="horizontal-tb"> 上海<lb/>
-            </p>
-            <p> 中西大藥房<lb/>
-            </p>
-            <p dir="rtl" mode="horizontal-tb"> 發行<lb/>
-            </p>
-            <!--      see #128      -->
-            <!--            <div type="image"itemid="384"/>-->
+            <div type="other">
+                <p dir="rtl" mode="vertical-rl">
+                    痰敵<lb/>
+                </p>
+                <p>
+                    分片露<lb/>
+                </p>
+                <p>
+                    除痰鎭咳<lb/>
+                    平喘止嗆<lb/>
+                    順氣祛風<lb/>
+                    益肺防癆<lb/>
+                </p>
+                <p dir="rtl" mode="horizontal-tb">
+                    片露<lb/>
+                </p>
+                <p>
+                    大瓶二元小瓶一元<lb/>
+                    每瓶一元五角<lb/>
+                </p>
+                <p dir="rtl" mode="horizontal-tb">
+                    上海<lb/>
+                </p>
+                <p>
+                    中西大藥房<lb/>
+                </p>
+                <p dir="rtl" mode="horizontal-tb">
+                    發行<lb/>	
+                </p>
+            </div>
+            <div type="image" itemid="383"/>
+            <div type="image" itemid="384"/>
         </div>
         <div type="advert" itemid="728">
             <p> 雜誌界巨擘：全書銅版紙彩紙精印每册兩角<lb/>

@@ -22,20 +22,23 @@
             </p> 
         </div>
         <div type="advert" itemid="507">
-            <p dir="rtl" mode="horizontal-tb">
-                金字塔香煙<lb/>
-            </p>
-            <p>
-                煙中<lb/>
-            </p>
-            <!--	see #128		-->
-<!--            <div type="image" itemid="364"/> -->
-            <p>
-                鉄軍<lb/>
-            </p>
-            <p dir="rtl" mode="horizontal-tb">
-                中國福新煙公司出品<lb/>
-            </p>
+            <div type="other">
+                <p mode="horizontal-tb" dir="rtl">
+                    金字塔香煙<lb/>
+                </p>
+            </div>
+            <div type="image" itemid="364"/>
+            <div type="other">
+                <p>
+                    煙中<lb/>
+                </p>
+                <p>
+                    鉄軍<lb/>
+                </p>
+                <p mode="horizontal-tb" dir="rtl">
+                    中國福新煙公司出品<lb/>
+                </p>
+            </div>
         </div>
         <div type="advert" dir="rtl" mode="horizontal-tb" itemid="648">
             <p>
@@ -884,38 +887,38 @@
 <!--            <div type="image" itemid="367"/>-->
         </div>
         <div type="advert" itemid="658">
-            <p>
-                痰敵<lb/>
-            </p>
-            <p>
-                除痰镇咳<lb/>
-                平喘止嗆<lb/>
-                順氣祛風<lb/>
-                益肺防癆<lb/>
-            </p>
-            <p mode="horizontal-tb" dir="rtl">
-                片露<lb/>
-            </p>
-            <p>
-                大瓶二元小瓶一元<lb/>
-                每瓶一元五角<lb/>
-            </p>
-            <p mode="horizontal-tb" dir="rtl">
-                上海<lb/>
-            </p>
-            <p>
-                中西大藥房<lb/>
-            </p>
-            <p mode="horizontal-tb" dir="rtl">
-                發行<lb/>
-            </p>
-            <!--	see #128		-->
-<!--            <div type="image" itemid="368"/>-->
-            <p>
-                分片露<lb/>
-            </p>
-            <!--	see #128		-->
-<!--            <div type="image" itemid="369"/>-->
+            <div type="other">
+                <p dir="rtl" mode="vertical-rl">
+                    痰敵<lb/>
+                </p>
+                <p>
+                    分片露<lb/>
+                </p>
+                <p>
+                    除痰鎭咳<lb/>
+                    平喘止嗆<lb/>
+                    順氣祛風<lb/>
+                    益肺防癆<lb/>
+                </p>
+                <p dir="rtl" mode="horizontal-tb">
+                    片露<lb/>
+                </p>
+                <p>
+                    大瓶二元小瓶一元<lb/>
+                    每瓶一元五角<lb/>
+                </p>
+                <p dir="rtl" mode="horizontal-tb">
+                    上海<lb/>
+                </p>
+                <p>
+                    中西大藥房<lb/>
+                </p>
+                <p dir="rtl" mode="horizontal-tb">
+                    發行<lb/>	
+                </p>
+            </div>
+            <div type="image" itemid="368"/>
+            <div type="image" itemid="369"/>
         </div>
         <div type="advert" itemid="520">
             <p>

@@ -2,7 +2,7 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3804_1939-04-30_0001to0004" lastedit="2021-08-24" lasteditor="xiejia1995">
+<fold xml:id="jb_3804_1939-04-30_0001to0004" lastedit="2022-10-24" lasteditor="xiejia1995" issueid="29">
 	<div type="page" page="recto" n="1" dir="rtl" mode="vertical-rl">
         <div type="head" dir="rtl" mode="horizontal-tb">
            <p>
@@ -20,8 +20,8 @@
 				中華民國貳拾捌年四月三十日　星期日　今日兩全張售國幣貳分四厘　本報創刊於民國八年三月三日<lb/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              　今日兩全張售國幣貳分四厘　本報創刊於民國八年三月三日<lb/>
 			</p>
 	    </div>
-		<div type="advert" dir="rtl" mode="horizontal-tb">
-			<p>
+		<div type="advert" itemid="4808">
+			<p dir="rtl" mode="horizontal-tb">
 				摩登照相<lb/>
 				新製精美戲劇服裝<lb/>
 			</p>
@@ -37,7 +37,7 @@
 				電話九三八八四號<lb/>			
 			</p>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="4809">
 			<p dir="rtl" mode="horizontal-tb">
 				天樂園酒樓<lb/>
 			</p>
@@ -54,7 +54,7 @@
 				△電話九四九四七號▽<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="982">
 			<p>
 				華軍反攻之眞價値<lb/>
 				昭示世界不願談和<lb/>
@@ -87,7 +87,7 @@
 			</p>
 			
 		</div>
-		<div type="article">
+		<div type="article" itemid="983">
 			<p>
 				華機在漢中<lb/>
 				擊落兩日機<lb/>			
@@ -124,7 +124,7 @@
 			</p>
 			
 		</div>
-		<div type="article">
+		<div type="article" itemid="984">
 			<p>
 				浙沿海各地<lb/>
 				被日機濫炸<lb/>
@@ -151,7 +151,7 @@
 				十餘間、傷一人、<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="985">
 			<p>
 				犯鶴山日軍<lb/>
 				被華軍擊退<lb/>
@@ -166,7 +166,7 @@
 				、餘日軍旋卽敗竄<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="986">
 			<p>
 				豫省華軍<lb/>
 				向考城推進<lb/>
@@ -184,7 +184,7 @@
 				正向考城挺進中、<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="987">
 			<p>
 				華對進口貨<lb/>
 				將嚴峻統制<lb/>
@@ -214,7 +214,7 @@
 				柴油絲等之輸出云<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="988">
 			<p>
 				對希特勒演說<lb/>
 				美極表憤慨<lb/>
@@ -253,7 +253,7 @@
 				正式答覆、<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="990">
 			<p>
 				對英蘇談話極注意<lb/>
 				日戒懼蘇聯<lb/>
@@ -296,7 +296,7 @@
 				處也、<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="991">
 			<p>
 				重慶改特市<lb/>
 			</p>
@@ -312,7 +312,7 @@
 				成立、<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="992">
 			<p>
 				各處游擊戰均獲大勝<lb/>
 				華軍奪回沭陽<lb/>
@@ -328,7 +328,7 @@
 				淸江浦附近區域之日軍猛攻云、<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="989">
 			<p dir="rtl" mode="horizontal-tb">
 				英輿論界觀察<lb/>
 			</p>
@@ -476,7 +476,7 @@
 		<div type="margin" dir="rtl" mode="horizontal-tb"><p>
 			中華民國二十八年四月三十日　晶報　星期日　第四版<lb/>	
 		</p></div>
-		<div type="article">
+		<div type="article" itemid="1022">
 			<p dir="rtl" mode="horizontal-tb">
 				今日四底比期<lb/>
 			</p>
@@ -528,7 +528,7 @@
 			</p>
 			
 		</div>
-		<div type="article">
+		<div type="article" itemid="1023">
 			<p>
 				定甬線復航後<lb/>
 				天寶開航遇阻<lb/>
@@ -561,7 +561,7 @@
 				線云、<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="1024">
 			<p>
 				向日交涉<lb/>
 			</p>
@@ -586,7 +586,7 @@
 				但未得要領云、<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="1027">
 			<p>
 				棉業取引所<lb/>
 				日人積極籌備中<lb/>
@@ -619,7 +619,7 @@
 				正在興工修建云、<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="1025">
 			<p>
 				勞工界重視<lb/>
 				「五一」紀念<lb/>
@@ -633,7 +633,7 @@
 				增抗戰力量、爭取最後勝利云、<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="1026">
 			<p>
 				寧波市區被炸實錄<lb/>
 				昨晨日機又飛甬偵察<lb/>
@@ -679,7 +679,7 @@
 			</p>
 			
 		</div>
-		<div type="article">
+		<div type="article" itemid="1028">
 			<p>
 				法文報紙記載<lb/>
 				法租界之盛會<lb/>
@@ -717,7 +717,7 @@
 				安南劇、<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="1029">
 			<p>
 				滬慰勞代表<lb/>
 				參加全國慰勞團<lb/>
@@ -735,7 +735,7 @@
 				參加出發云、<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="1030">
 			<p dir="rtl" mode="horizontal-tb">
 				對外貿易<lb/>
 				三月份統計<lb/>
@@ -758,7 +758,7 @@
 				元、<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="1031">
 			<p>
 				閩。浙。贛<lb/>
 				實行聯運通車<lb/>
@@ -808,7 +808,7 @@
 				諸暨爲終點云、<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="1032">
 			<p dir="rtl" mode="horizontal-tb">
 				一來一去<lb/>
 				外交官動態<lb/>
@@ -836,7 +836,7 @@
 				</p>
 			
 		</div>
-		<div type="article">
+		<div type="article" itemid="1033">
 			<p dir="rtl" mode="horizontal-tb">
 				小說<lb/>
 			</p>
@@ -886,7 +886,7 @@
 				</p>
 			
 		</div>
-		<div type="advert" dir="rtl" mode="horizontal-tb"><p>
+		<div type="advert" itemid="4814"><p dir="rtl" mode="horizontal-tb">
 			海上第一流攝影專家<lb/>
 			國泰<lb/>
 			藝術照相館<lb/>
@@ -895,61 +895,65 @@
 			地址南京路石路西<lb/>
 			電話九〇三九三號<lb/>
 		</p></div>
-		<div type="advert" dir="rtl" mode="vertical-rl">
-			<p>
-				痰敵<lb/>
-			</p>
-<!--	see #128		-->
-<!--			<div type="image">-->
-			<!--</div>-->
-			<p>
-				分片露<lb/>
-			</p>
-			<p>
-				除痰鎭咳<lb/>
-				平喘止嗆<lb/>
-				順氣祛風<lb/>
-				益肺防癆<lb/>
-			</p>
-			<p dir="rtl" mode="horizontal-tb">
-				片露<lb/>
-			</p>
-			<p>
-				大瓶二元小瓶一元<lb/>
-				每瓶一元五角<lb/>
-			</p>
-			<p dir="rtl" mode="horizontal-tb">
-				上海<lb/>
-			</p>
-			<p>
-				中西大藥房<lb/>
-			</p>
-			<p dir="rtl" mode="horizontal-tb">
-				發行<lb/>	
-			</p>
-			<!--	see #128		-->
-<!--			<div type="image"></div>-->
+		<div type="advert" itemid="4815">
+			<div type="other">
+				<p dir="rtl" mode="vertical-rl">
+					痰敵<lb/>
+				</p>
+				<p>
+					分片露<lb/>
+				</p>
+				<p>
+					除痰鎭咳<lb/>
+					平喘止嗆<lb/>
+					順氣祛風<lb/>
+					益肺防癆<lb/>
+				</p>
+				<p dir="rtl" mode="horizontal-tb">
+					片露<lb/>
+				</p>
+				<p>
+					大瓶二元小瓶一元<lb/>
+					每瓶一元五角<lb/>
+				</p>
+				<p dir="rtl" mode="horizontal-tb">
+					上海<lb/>
+				</p>
+				<p>
+					中西大藥房<lb/>
+				</p>
+				<p dir="rtl" mode="horizontal-tb">
+					發行<lb/>	
+				</p>
+			</div>
+			<div type="image" itemid="497"/>
+			<div type="image" itemid="498"/>
 		</div>
-		<div type="advert" dir="rtl" mode="vertical-rl">
-			<p dir="rtl" mode="horizontal-tb"> 
-				金字塔香煙<lb/>
-			</p>
-			<p>
-				煙中<lb/>
-				鉄軍<lb/>
-			</p>
-			<!--	see #128		-->
-<!--			<div type="image"></div>-->
-			<p dir="rtl" mode="horizontal-tb"> 
-				中國福新煙公司出品<lb/>
-			</p>
+		<div type="advert" itemid="4816">
+			<div type="other">
+				<p mode="horizontal-tb" dir="rtl">
+					金字塔香煙<lb/>
+				</p>
+			</div>
+			<div type="image" itemid="499"/>
+				<div type="other">
+					<p>
+						煙中<lb/>
+					</p>
+					<p>
+						鉄軍<lb/>
+					</p>
+					<p mode="horizontal-tb" dir="rtl">
+						中國福新煙公司出品<lb/>
+					</p>
+				</div>
 		</div>
 		<div type="margin">
 			本報具有二十年的歷史是小型報紙鼻祖銷路普遍全國刊登廣吿最有效力<pb/>	
 		</div>
 	</div>
 	<div dir="rtl" mode="vertical-rl">
-		<div type="advert">	
+		<div type="advert" itemid="4817">	
 			<p dir="rtl" mode="horizontal-tb">
 				四馬路<lb/>
 				晝錦里口<lb/>
@@ -976,7 +980,7 @@
 				華貴禮堂　租費從廉<lb/>
 			</p>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="4818">
 			<p>
 				申江醫院<lb/>
 				附設戒煙專科<lb/>
@@ -992,7 +996,7 @@
 				電話。八三一三〇<lb/>
 			</p>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="4819">
 			<p>
 				小兒科<lb/>
 				內科<lb/>
