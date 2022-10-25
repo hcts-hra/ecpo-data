@@ -51,7 +51,7 @@
 			</p>
 			
 		</div>
-		<div type="article">
+		<div type="article" itemid="1040">
 			<p>
 				南昌克復消息<lb/>
 				與日軍陸軍報道部<lb/>
@@ -67,16 +67,16 @@
 				道部，並此而不知耶。<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="1041">
 			
 				<p dir="rtl" mode="horizontal-tb">
 					佹失記<lb/>
 					（十）<lb/>
 				</p>
 			
-			<p dir="rtl" mode="horizontal-tb">
-				（兼巢老人沈淇泉太史作）<lb/>
-			</p>
+				<p dir="rtl" mode="horizontal-tb">
+					（兼巢老人沈淇泉太史作）<lb/>
+				</p>
 			
 				<p>
 					甲午北行之先，餘姚邵<lb/>
@@ -129,15 +129,10 @@
 				</p>
 			
 		</div>
-		<div type="article">
+		<div type="article" itemid="1042">
 			<p>
 				老閻<lb/>
 				健驢<lb/>
-			</p>
-			<!--	see #128		-->
-<!--			<div type="image"></div> -->
-			<p dir="rtl" mode="horizontal-tb">
-				法西斯的騙局！<lb/>
 			</p>
 			<p>
 				抗戰軍興後，我<lb/>
@@ -174,7 +169,12 @@
 				俱也。　（N）<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="image" itemid="502">	
+			<p dir="rtl" mode="horizontal-tb">
+				法西斯的騙局！<lb/>
+			</p>
+		</div>
+		<div type="article" itemid="1043">
 			<p>
 				新游俠傳　張恨水<lb/>
 			</p>
@@ -201,7 +201,7 @@
 				幾袋，正在這個時候，平生進來了。<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="1044">
 			<p>
 				蔣委員長之生平<lb/>
 			</p>
@@ -260,7 +260,7 @@
 				</p>
 			
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="4823">
 			<p>
 				石路二馬路口<lb/>
 			</p>
@@ -336,7 +336,7 @@
 				還洋<lb/>
 			</p>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="4824">
 			<p>
 				福煦路南成都路口<lb/>
 				振新洗染廠<lb/>
@@ -350,7 +350,7 @@
 				精染不褪色綢緞衣料<lb/>
 			</p>
 		</div>
-	<div type="advert">
+	<div type="advert" itemid="4825">
 		<div dir="rtl" mode="horizontal-tb">
 			<p>
 				囘力球<lb/>
@@ -419,7 +419,7 @@
 		</div>
 	</div>
 	<div type="margin" dir="rtl" mode="vertical-rl">
-		<div type="advert">
+		<div type="advert" itemid="4826">
 			<p>
 				陳效懷醫師<lb/>
 				△負責根治淋濁　梅毒　下瘡<lb/>
@@ -444,7 +444,7 @@
 				此時間內之者可親臨詢問俾得爲較確切之檢查與解答完全義務不收任何費用<lb/>
 			</p>
 		</div> 
-		<div type="advert">
+		<div type="advert" itemid="4827">
 			<p>
 				西洋女子按摩<lb/>
 			</p>
@@ -460,7 +460,7 @@
 				地址　白克路（黃家沙口）七三八號一號房間<lb/>
 			</p>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="4828">
 			<p>
 				西式按摩院<lb/>
 			</p>
@@ -474,7 +474,7 @@
 				（愛文義路口）<lb/>
 			</p>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="4829">
 			<p>
 				按摩浴室<lb/>
 			</p>
@@ -485,7 +485,7 @@
 				寺路西摩路口滄州飯店隔壁滄州別墅卅二號樓上<lb/>
 			</p>
 		</div>
-		<div type="advert" dir="rtl" mode="vertical-rl">	
+		<div type="advert" itemid="4830">	
 			<p>
 				陽痿<lb/>
 			</p>
@@ -532,16 +532,10 @@
 	    <div type="margin" dir="rtl" mode="horizontal-tb"><p>
 		    中華民國二十八年四月三十日　晶報　星期日　第七版<lb/>	
         </p></div>
-		<div type="article">
+		<div type="article" itemid="1045">
 			
 			<p>
-				詠<lb/>
-				褚<lb/>
-				民<lb/>
-			    誼<lb/>
-				之<lb/>
-				詩<lb/>
-				聯<lb/>
+				詠褚民誼之詩聯<lb/>
 			</p>
 			
 			<p>
@@ -581,7 +575,7 @@
 			</p>
 			
 		</div>
-		<div type="article">
+		<div type="article" itemid="1046">
 			<p>
 				春江花乘　（不平凡公子）<lb/>
 				一日一姬　（七）雙華三媛<lb/>
@@ -675,19 +669,10 @@
 			</p>
 			
 		</div>
-		<div type="article">
-			<div dir="rtl" mode="horizontal-tb">				
-				
-				<p>
-					押<lb/>
-					韻<lb/>
+		<div type="article">			
+				<p dir="rtl" mode="horizontal-tb">
+					押韻（不比）<lb/>
 				</p>
-				
-				<p>
-					（不比）<lb/>
-				</p>
-			</div>
-			<div>
 				<p>
 					同聲相應謂之韻；押者，<lb/>
 					壓也。作古詩者，非押韻不<lb/>
@@ -702,7 +687,7 @@
 				</p>
 				<p>
 					昔西洋杜朋樂（<lb/>
-					Dupanloup）敎主<lb/>
+					<r style="transform: rotate(90deg);">Dupanloup</r>）敎主<lb/>
 					，擅辭令，喜講笑<lb/>
 					話。當時之人，常<lb/>
 					視之爲詼諧家。一<lb/>
@@ -746,9 +731,9 @@
 					國習西語者，都不<lb/>
 					之知，故提及之。<lb/>
 				</p>
-			</div>
+			
 		</div>
-		<div type="article">
+		<div type="article" itemid="47261">
 			<p>
 				烏托邦<lb/>
 			</p>
@@ -778,7 +763,7 @@
 				的服裝一般無二。<lb/>
 			</p>
 		</div>
-		<div type="article">
+		<div type="article" itemid="1050">
 			<p>
 				翁壻合作佳劇<lb/>
 				　（禪翁）<lb/>
@@ -840,7 +825,7 @@
 			</p>
 			
 		</div>
-		<div type="article">
+		<div type="article" itemid="1051">
 			<p dir="rtl" mode="horizontal-tb">
 				東西女人　（明）<lb/>
 			</p>
@@ -871,7 +856,7 @@
 				</p>
 			
 		</div>
-		<div type="article">
+		<div type="article" itemid="1048">
 			<p>
 				怎樣使淂健康美<lb/>
 			</p>
@@ -987,22 +972,16 @@
 				</p>
 			
 		</div>
-		<div type="advert">
-			<div dir="rtl" mode="horizontal-tb">
-				<p>
-					大<lb/>
-				</p>
-				<p>
-					中<lb/>
-				</p>
-				<p>
-					華<lb/>
+		<div type="advert" itemid="4831">
+			
+				<p dir="rtl" mode="horizontal-tb">
+					大中華<lb/>
 				</p>
 				<p>
 					●時裝大衣公司●<lb/>
 				</p>
-			</div>
-			<div>
+			
+			
 				<p>
 					歡迎<lb/>
 					參觀<lb/>
@@ -1025,10 +1004,10 @@
 				<p>
 					地址四馬路廣西路口<lb/>
 				</p>
-			</div>
+			
 		</div>
-		<div type="advert">
-			<div>
+		<div type="advert" itemid="4832">
+			
 				<p>
 					電話<lb/>
 					八四八〇八<lb/>
@@ -1043,8 +1022,8 @@
 					大世界東<lb/>
 					愛多亞路<lb/>
 				</p>	
-			</div>
-			<div>
+			
+			
 				<p dir="rtl" mode="horizontal-tb">
 					價目<lb/>
 				</p>
@@ -1068,14 +1047,14 @@
 					六角<lb/>
 					八角<lb/>
 				</p>
-			</div>
-			<div>
+			
+			
 				<p>
 				今天日戲●多情女盜●<lb/>
 				第廿九集<lb/>
 			</p>
-			</div>
-			<div>
+			
+			
 				<p>
 					今夜<lb/>
 					務請<lb/>
@@ -1111,9 +1090,9 @@
 				<p dir="rtl" mode="horizontal-tb">
 					火燒紅蓮寺<lb/>
 				</p>
-			</div>
+			
 		</div>
-		<div type="article">
+		<div type="article" itemid="1052">
 			<p>
 				尚小雲<lb/>
 				廣收女弟子<lb/>
