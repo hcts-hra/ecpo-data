@@ -566,7 +566,7 @@
 		<div type="margin" dir="rtl" mode="horizontal-tb"><p>
                  中華民國二十八年四月廿三日　晶報　星期日　第七版<lb/>	
 		</p></div>
-		<div type="article">
+		<div type="article" itemid="490">
 			<p>
 				◇孔令侃延攬眞才◇<lb/>
 			</p>
@@ -594,7 +594,7 @@
                           </p>
 			
 		</div>
-		<div type="article">
+		<div type="article" itemid="491">
 			<p>
                          春江花乘<lb/>
 			</p>
@@ -691,8 +691,8 @@
                </p>
 			
 		</div>
-		<div type="image"/>
-		<div type="article">
+		<div type="image" itemid="403"/>
+		<div type="article" itemid="493">
 			<p>
                           新冷眼觀<lb/>
 			</p>
@@ -734,7 +734,7 @@
                </p>
 			
 		</div>
-		<div type="article">
+		<div type="article" itemid="492">
 			<p dir="rtl" mode="horizontal-tb">
                        錦囊佳句<lb/>
 			</p>
@@ -762,7 +762,7 @@
 				  </p>
 			
 		</div>
-		<div type="article">
+		<div type="article" itemid="494">
 			<p>
                          獸性的跳浜<lb/>
 			</p>
@@ -820,7 +820,7 @@
 		              </p>
 			
 		</div>
-		<div type="article">
+		<div type="article" itemid="495">
                   <p>
                          新婚諧詞<lb/>
                   </p>
@@ -859,7 +859,7 @@
                           </p>
                   
             </div>
-		<div type="article">
+		<div type="article" itemid="47262">
                   <p>
                          烏托邦<lb/>
                   </p>
@@ -890,7 +890,7 @@
                           </p>
                   
             </div>
-            <div type="article">
+            <div type="article" itemid="496">
                   <p>
                          怎樣使得健康美<lb/>
                   </p>
@@ -998,9 +998,8 @@
                          </p>
                   
             </div>
-		<div type="advert">
-		     <!--	see #128		-->
-<!--			<div type="image"/>-->
+		<div type="advert" itemid="641">
+		    <div type="other">
 			<p>
                         此間樂！不思蜀！<lb/>
 			</p>
@@ -1016,6 +1015,11 @@
                         場所，如雨後春笋，乘時崛起，冶游<lb/>
                         途徑旣多，舊時書寓娼寮，遂逐漸無<lb/>
                         形消減。而最新穎最摩登之娛樂，厥<lb/>
+			</p>
+		    </div>
+		     <div type="image" itemid="404"/>
+		     <div type="other">
+		          <p>
                         惟跳<lb/>
                         舞，<lb/>
                         按摩<lb/>
@@ -1034,21 +1038,22 @@
                         〇八六六…九六六八四號，謂予不信<lb/>
 			      　<!-- There is a space in this version, and it shows a comma on other day.-->招來一試，方信言之不謬也。<lb/>
 			</p>
+		     </div>
 		</div>
-		<div type="advert">
+		<div type="advert" itemid="642">
                  <p>
-					電話<lb/>
-					八四八〇八<lb/>
-					八五八八九<lb/>
+				電話<lb/>
+				八四八〇八<lb/>
+				八五八八九<lb/>
                  </p>
                  <p mode="horizontal-tb" dir="rtl">
-					榮記<lb/>
-					共舞台<lb/>
+				榮記<lb/>
+				共舞台<lb/>
                  </p>
                  <p>
-					地址<lb/>
-					大世界東<lb/>
-					愛多亞路<lb/>
+				地址<lb/>
+				大世界東<lb/>
+				愛多亞路<lb/>
                  </p>	
                  <p dir="rtl" mode="horizontal-tb">
                               價目<lb/>
