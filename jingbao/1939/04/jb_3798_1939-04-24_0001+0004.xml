@@ -307,51 +307,53 @@
         </div>
 
         <div type="article" itemid="512">
-            <p>
-                西部地中海的爭霸<lb/>
-            </p>
-            <!--	see #128		-->
-<!--            <div type="image"/>-->
-            <p>
+            <div type="other">
+                <p>
+                    西部地中海的爭霸<lb/>
+                </p>
+            </div>
+            <div type="image" itemid="365"/>
+            <div type="other">
+                <p>
 
-                （國際時事地圖之四）<lb/>
-            </p>
-            
-            <p>
-                自從意<lb/>
-                大利在西<lb/>
-                班牙內戰<lb/>
-                之際、佔<lb/>
-                領巴利阿<lb/>
-                利群島中<lb/>
-                最大的一<lb/>
-                個島佐卡<lb/>
-                島之後法<lb/>
-                國與其北<lb/>
-                非殖民地<lb/>
-                ，摩洛哥<lb/>
-                ，阿爾及<lb/>
-                利亞與突<lb/>
-                尼斯之交<lb/>
-                通感受威<lb/>
-                脅同時對<lb/>
-                於英國的<lb/>
-                直布羅陀<lb/>
-                ，馬耳他<lb/>
-                島，蘇彜<lb/>
-                士航線也<lb/>
-                是不利。<lb/>
-                更有一種<lb/>
-                威脅到爲<lb/>
-                意大利在<lb/>
-                馬耳他島<lb/>
-                西北的班<lb/>
-                泰雷利亞<lb/>
-                島上<lb/>
-                軍事要塞<lb/>
-                。<lb/> 
-            </p>
-            
+                    （國際時事地圖之四）<lb/>
+                </p>
+                
+                <p>
+                    自從意<lb/>
+                    大利在西<lb/>
+                    班牙內戰<lb/>
+                    之際、佔<lb/>
+                    領巴利阿<lb/>
+                    利群島中<lb/>
+                    最大的一<lb/>
+                    個島佐卡<lb/>
+                    島之後法<lb/>
+                    國與其北<lb/>
+                    非殖民地<lb/>
+                    ，摩洛哥<lb/>
+                    ，阿爾及<lb/>
+                    利亞與突<lb/>
+                    尼斯之交<lb/>
+                    通感受威<lb/>
+                    脅同時對<lb/>
+                    於英國的<lb/>
+                    直布羅陀<lb/>
+                    ，馬耳他<lb/>
+                    島，蘇彜<lb/>
+                    士航線也<lb/>
+                    是不利。<lb/>
+                    更有一種<lb/>
+                    威脅到爲<lb/>
+                    意大利在<lb/>
+                    馬耳他島<lb/>
+                    西北的班<lb/>
+                    泰雷利亞<lb/>
+                    島上<lb/>
+                    軍事要塞<lb/>
+                    。<lb/> 
+                </p>
+            </div>
         </div>
         <div type="margin">
                 本報忠實報導新聞說人人要說的話文字淺近趣味濃厚是最平民化的刊物<pb/> 
@@ -847,44 +849,41 @@
         </div>
 
         <div type="advert" itemid="657">
-            <p mode="horizontal-tb" dir="rtl">
-                質香味效<lb/>
-            </p>
-            <!--	see #128		-->
-<!--            <div type="image" itemid="366"/>-->
-            <p mode="horizontal-tb" dir="ltr">
-                BIOZYCEN<lb/>
-            </p>
-            <p>
-                上海新亞藥廠製造<lb/>
-                <lb/>
-            </p>
-            <p>
-                寶靑春<lb/>
-            </p>
-            <!--too vague to tell the direction; given that it is numbers on the right, my guess it is left to right-->
-            <p mode="horizontal-tb" dir="ltr">
-                <lb/>
-            </p>
-            
+            <div type="other">
                 <p>
-                    寶靑春爲兵酵母精製，富含<lb/>
-                    惟他命，功能開胃强身，，<lb/>
-                    理，促進新陳代謝，產生新力，質<lb/>
-                    香味效，人一等。<lb/>
+                    質香味效<lb/>   
                 </p>
-            
-            <p mode="horizontal-tb" dir="rtl">
-                質香味效<lb/>
-            </p>
-            <p>
-                含量充足<lb/>
-                芬芳開胃<lb/>
-                鮮美可口<lb/>
-                靈驗偉大<lb/>
-            </p>
-            <!--	see #128		-->
-<!--            <div type="image" itemid="367"/>-->
+            </div>		
+            <div type="image" itemid="366"></div>
+            <div type="other">
+                <p mode="horizontal-tb" dir="ltr">
+                    BIOZTGEN<lb/>
+                </p>
+                <p>
+                    上海新亞藥廠製造<lb/>
+                    藥房均售<lb/>
+                    寶青春<lb/>
+                </p>
+                <p mode="horizontal-tb" dir="ltr">
+                    　3L<lb/>
+                </p>
+                <p>
+                    寶青春爲真正譽滿乾燥酵母精製．富含各<lb/>
+                    種維他命．功能開胃强身．治療脚氣．整<lb/>
+                    理胃腸．促進新陳代謝．舉止新活力．質<lb/>
+                    香、味、效．無不超人一等．<lb/>
+                </p>
+                <p mode="horizontal-tb" dir="rtl">
+                    質香味效<lb/>
+                </p>
+                <p>
+                    含量充足<lb/>
+                    芬芳開胃<lb/>
+                    鮮美可口<lb/>
+                    靈驗偉大<lb/>
+                </p>
+            </div>
+            <div type="image" itemid="367"></div>
         </div>
         <div type="advert" itemid="658">
             <div type="other">

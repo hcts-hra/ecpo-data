@@ -1134,41 +1134,43 @@
         </div>
 
         <div type="advert" itemid="587">
-            <!--  see #128       -->
-<!--            <div type="image" itemid="414"/>-->
-            <p mode="horizontal-tb" dir="rtl">
-                本品特効<lb/>
-            </p>
-            <p>
-                調經<lb/>
-                活血<lb/>
-                溫宮<lb/>
-                催孕<lb/>
-            </p>
-            <p>
-                曉霞茜<lb/>
-            </p>
-            <p mode="horizontal-tb" dir="rtl">
-                當歸兒<lb/>
-            </p>
-            <!--  see #128       -->
-<!--            <div type="image" itemid="415"/> -->
-            <p>
-                當歸爲婦人<lb/>
-                科聖藥，早<lb/>
-                經國醫界所<lb/>
-                推重，今更<lb/>
-                應用科學方<lb/>
-                法煉製，功<lb/>
-                効倍增，治<lb/>
-                月經不調，<lb/>
-                經痛經閉經<lb/>
-                稀宮冷，久<lb/>
-                不生育，均<lb/>
-                有特効。<lb/>
-                新亞藥廠製造<lb/>
-                藥房均售<lb/>
-            </p>
+            <div type="image" itemid="414"/>
+            <div type="other">
+                <p mode="horizontal-tb" dir="rtl">
+                    本品特効<lb/>
+                </p>
+                <p>
+                    調經<lb/>
+                    活血<lb/>
+                    溫宮<lb/>
+                    催孕<lb/>
+                </p>
+                <p>
+                    曉霞茜<lb/>
+                </p>
+                <p mode="horizontal-tb" dir="rtl">
+                    當歸兒<lb/>
+                </p>
+            </div>
+            <div type="image" itemid="415"/> 
+            <div type="other">
+                <p>
+                    當歸爲婦人<lb/>
+                    科聖藥，早<lb/>
+                    經國醫界所<lb/>
+                    推重，今更<lb/>
+                    應用科學方<lb/>
+                    法煉製，功<lb/>
+                    効倍增，治<lb/>
+                    月經不調，<lb/>
+                    經痛經閉經<lb/>
+                    稀宮冷，久<lb/>
+                    不生育，均<lb/>
+                    有特効。<lb/>
+                    新亞藥廠製造<lb/>
+                    藥房均售<lb/>
+                </p>
+            </div>
         </div>
 
         <div type="advert" itemid="588">

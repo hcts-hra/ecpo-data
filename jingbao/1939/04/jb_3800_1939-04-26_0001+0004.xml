@@ -538,31 +538,45 @@
             
         </div>
         <div type="advert" itemid="726">
-            <p mode="horizontal-tb" dir="rtl"> 質香味效<lb/>
-            </p>
-<!--     see #128       -->
-            <!--            <div type="image" itemid="381"/>-->
-            <p dir="ltr" mode="horizontal-tb"> BIOZYGEN<lb/>
-            </p>
-            <p> 上海新亞藥廠製造<lb/> 藥房均售<lb/>
-            </p>
-            <p> 寶靑春<lb/>
-            </p>
-            <!--too vague to tell the direction; given that it is numbers on the right, my guess it is left to right-->
-            <p dir="rtl" mode="horizontal-tb">
-                ，<lb/>
-            </p>
-            <p> 寶靑春爲眞正酵母精製，富含各<lb/>
-                種維他命，功能開胃强，治療腳氣，<lb/>
-                理胃腸，促進新陳代謝，出新活力，質<lb/> 香味效，無不越人一等。<lb/>
-            </p>
-          
-                <p dir="rtl" mode="horizontal-tb"> 質香味效<lb/>
+            <div type="other">   
+                <p>
+                    質香味效<lb/>
                 </p>
-                <p> 含量充足<lb/> 芬芳開胃<lb/> 鮮美可口<lb/> 靈驗偉大<lb/>
+            </div>
+            <div type="image" itemid="381"/>
+            <div type="other">  
+                <p dir="ltr" mode="horizontal-tb">
+                    BIOZYGEN<lb/>
                 </p>
-<!--      see #128      -->
-            <!--                <div type="image" itemid="382"/>-->
+                <p>
+                    上海新亞藥廠製造<lb/>
+                </p>
+                <p>
+                    藥房均售<lb/>
+                </p>
+                <p>
+                    寶青春<lb/>
+                </p>
+                <p dir="ltr" mode="horizontal-tb">
+                    2L<lb/>
+                </p>
+                <p>
+                    寶青春爲眞正譽滿乾燥酵母精製。富含各<lb/>
+                    種惟他命。功能開胃强身。治療脚氣。整<lb/>
+                    理胃腸。促進新陳代謝。產生新活力。質<lb/>
+                    香味效。無不超人一等。<lb/>
+                </p>
+                <p dir="rtl" mode="horizontal-tb">
+                    質香味效<lb/>
+                </p>
+                <p>
+                    含量充足<lb/>
+                    芬芳開胃<lb/>
+                    鮮美可口<lb/>
+                    靈騐偉大<lb/>
+                </p>
+            </div>
+            <div type="image" itemid="382"/>
             
         </div>
         <div type="advert" itemid="727">

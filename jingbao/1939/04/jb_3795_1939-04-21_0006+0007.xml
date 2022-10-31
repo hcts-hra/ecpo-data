@@ -404,19 +404,20 @@
             </p>
         </div>
         <div type="advert" itemid="598">
-            <p mode="horizontal-tb" dir="rtl">
-                砒製梅毒特效藥<lb/>
-                新惜花散<lb/>
-            </p>
-            <p mode="horizontal-tb" dir="ltr">
-                NEO-SYPHARSAN<lb/>
-            </p>
-            <p mode="horizontal-tb" dir="rtl">
-                製造者‥楊氏化學治療研究所<lb/>
-                總經理‥信誼化學製藥廠<lb/>
-            </p>
-            <!-- see #128 -->
-<!--            <div type="image" itemid="423"/>-->
+            <div type="other">
+                <p mode="horizontal-tb" dir="rtl">
+                    砒製梅毒特效藥<lb/>
+                    新惜花散<lb/>
+                </p>
+                <p mode="horizontal-tb" dir="ltr">
+                    NEO-SYPHARSAN<lb/>
+                </p>
+                <p mode="horizontal-tb" dir="rtl">
+                    製造者‥楊氏化學治療研究所<lb/>
+                    總經理‥信誼化學製藥廠<lb/>
+                </p>
+            </div>
+            <div type="image" itemid="423"/>
         </div>
         <div type="advert" itemid="599">
             <p mode="horizontal-tb" dir="rtl">
@@ -492,26 +493,26 @@
             </p>
         </div>
         <div type="advert" itemid="601">
-            <!-- see #128 -->
-<!--            <div type="image" itemid="424"/>-->
-            <p>
-                頑瘡濕癢<lb/>
-            </p>
-            <p mode="horizontal-tb" dir="rtl">
-                美國製<lb/>
-            </p>
-            <p>
-                多獲治<lb/>
-            </p>
-            <p>
-                各大藥房寄售<lb/>
-            </p>
-            <!-- see #128 -->
-<!--            <div type="image" itemid="426"/>-->
-            <p>
-                每瓶<lb/>
-                五角<lb/>
-            </p>
+            <div type="image" itemid="424"/>
+            <div type="other">
+              <p>
+                  頑瘡濕癢<lb/>
+              </p>
+              <p mode="horizontal-tb" dir="rtl">
+                  美國製<lb/>
+              </p>
+              <p>
+                  多獲治<lb/>
+              </p>
+              <p>
+                  各大藥房寄售<lb/>
+              </p>
+                <p>
+                    每瓶<lb/>
+                    五角<lb/>
+                </p>
+            </div>
+            <div type="image" itemid="426"/>    
         </div>
         <div type="advert" itemid="602">
             <p>
@@ -559,16 +560,17 @@
                 </p>
             
         </div>
-        <div type="article" itemid="338">
-            <p>
-                春江花乘<lb/>
-            </p>
-            <p>
-                （不平凡公子）<lb/>
-            </p>
-            <p>
-                一日一姬　（一）筱雙珠老九<lb/>
-            </p>
+        <div type="article" itemid="338">            
+            <div type="other">
+                <p>
+                    春江花乘<lb/>
+                </p>
+                <p>
+                    （不平凡公子）<lb/>
+                </p>
+                <p>
+                    一日一姬　（一）筱雙珠老九<lb/>
+                </p>
             
                 <p>
                     「李桂芳」，是<lb/>
@@ -589,10 +591,9 @@
                     年的歷史，人才輩<lb/>
                     出，可以算得起是<lb/>
                 </p>
-            
-            <!-- see #128 -->
-<!--            <div type="image" itemid="427"/> -->
-            
+            </div>
+            <div type="image" itemid="427"/>
+            <div>
                 <p>
                     倡門世家，六七年<lb/>
                     前，「小雙珠」家<lb/>
@@ -681,6 +682,7 @@
                     此，我不禁爲美人<lb/>
                     惜也。<lb/>
                 </p>            
+            </div>
         </div>
         <div type="article" itemid="340">
             <p>
@@ -738,15 +740,16 @@
             
         </div>
         <div type="article" itemid="339">
-            <p>
-                怎樣使得健康美<lb/>
-            </p>
-            <p>
-                （芸芸）<lb/>
-            </p>
-            <p>
-                第一章　姿勢教育<lb/>
-            </p>
+            <div type="other">
+                 <p>
+                     怎樣使得健康美<lb/>
+                 </p>
+                 <p>
+                     （芸芸）<lb/>
+                 </p>
+                 <p>
+                     第一章　姿勢教育<lb/>
+                 </p>
             
                 <p>
                     我們的直 <!-- ⿺𠃊𥃭 --> 立姿勢<lb/>
@@ -861,11 +864,12 @@
                     正的姿勢，他們的<lb/>
                     能率就可增高。<lb/>
                 </p>
-            <!-- see #128 -->
-<!--            <div type="image itemid="428""/>-->
-            <p mode="horizontal-tb" dir="ltr">
-                天眞的愛兒<lb/>
-            </p>
+            </div>
+            <div type="image" itemid="428">
+              <p mode="horizontal-tb" dir="ltr">
+                  天眞的愛兒<lb/>
+              </p>
+            </div>
         </div>
         <div type="article" itemid="341">
             <p>

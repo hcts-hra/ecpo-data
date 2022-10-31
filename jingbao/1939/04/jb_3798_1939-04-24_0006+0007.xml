@@ -799,19 +799,20 @@
             
         </div> 
         <div type="article" itemid="571">
-            <p>
-                怎樣使得健康美<lb/>
-            </p>
-            <p mode="horizontal-tb" dir="ltr">
-                （四）<lb/>
-            </p>
-            <p>
-                （芸芸）<lb/>
-            </p>
-            <p>
-                第二章　直立姿勢<lb/>
-            </p>
-            
+            <div type="other">
+                 <p>
+                     怎樣使得健康美<lb/>
+                 </p>
+                 <p mode="horizontal-tb" dir="ltr">
+                     （四）<lb/>
+                 </p>
+                 <p>
+                     （芸芸）<lb/>
+                 </p>
+                 <p>
+                     第二章　直立姿勢<lb/>
+                 </p>
+                 
                 <p>
                     人類的直立姿勢<lb/>
                     給人類以極多利益<lb/>
@@ -918,12 +919,12 @@
                     。於是食物才消化<lb/>
                     下來。<lb/>
                 </p>
-            
-            <p mode="horizontal-tb" dir="rtl">
-                （脊柱側灣症）<lb/>
-            </p>
-            <!--	see #128		-->
-<!--            <div type="image" itemid="373"/>-->
+            </div>
+            <div type="image" itemid="373">
+                 <p mode="horizontal-tb" dir="rtl">
+                     （脊柱側灣症）<lb/>
+                 </p>
+            </div>
         </div>
         <div type="article" itemid="572">
             <p>
@@ -1033,20 +1034,22 @@
             </p>
         </div> 
         <div type="advert" itemid="670">
-            <p>
-                此間樂！不思蜀！　一道<lb/>
-            </p>
-            <p>
-                上海一隅，地處海濱，在未闢商埠以<lb/>
-                前，荒涼一如內地。自華洋互市迄今<lb/>
-                ，外人開闢租界，積極整理，不遺餘<lb/>
-                力，市况便日趨繁榮。於是各種娛樂<lb/>
-                場所，如雨後春笋，乘時崛起，冾游<lb/>
-                途徑旣多，舊時書寓娼寮，遂逐漸無<lb/>
-                形消減。而最新穎最摩登之娛樂，厥<lb/>
-            </p>
-<!--     see #128       -->
-<!--            <div type="image" itemid="374"/>-->
+            <div type="other">
+                <p>
+                    此間樂！不思蜀！　一道<lb/>
+                </p>
+                <p>
+                    上海一隅，地處海濱，在未闢商埠以<lb/>
+                    前，荒涼一如內地。自華洋互市迄今<lb/>
+                    ，外人開闢租界，積極整理，不遺餘<lb/>
+                    力，市况便日趨繁榮。於是各種娛樂<lb/>
+                    場所，如雨後春笋，乘時崛起，冾游<lb/>
+                    途徑旣多，舊時書寓娼寮，遂逐漸無<lb/>
+                    形消減。而最新穎最摩登之娛樂，厥<lb/>
+                </p>
+            </div>
+            <div type="image" itemid="374"/>
+            <div type="other">
             <p>
                 惟跳<lb/>
                 舞，<lb/>
@@ -1066,6 +1069,7 @@
                 〇八六六…九六六八四號，謂予不信<lb/>
                 ，招來一試，方信言之不謬也。<lb/>
             </p>
+            </div>
         </div> 
         <div type="advert" itemid="672">
             <p>

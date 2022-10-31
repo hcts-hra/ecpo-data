@@ -850,26 +850,24 @@
     	</div>
 	    <div type="advert" itemid="627">
 	        <!-- The same advertisement on 1939.04.25_P4 is referenced. -->
-	        <p mode="horizontal-tb" dir="rtl">
-	            胃鑰<lb/>
-	        </p>
-	        <p>
-	            分片<lb/>
-	            <lb/>
-	        </p>
-	        <p mode="horizontal-tb" dir="rtl">
-	            增進消化能力<lb/>
-	            主治肝胃氣痛<lb/>
-	            抑止吞酸嘔吐<lb/>
-	        </p>
-	        <!-- see #128 -->
-<!--	        <div type="image"/>-->
-<!--	        <div type="image"/>-->
-	        <p mode="horizontal-tb" dir="rtl">
-	            上海中西大薬房發行<lb/>
-	        </p>
-	        <!-- see #128 -->
-<!--	        <div type="image"/>-->
+	    	<div type="other">
+			<p mode="horizontal-tb" dir="rtl">
+			    胃鑰<lb/>
+			</p>
+			<p>
+			    分片<lb/>
+			    <lb/>
+			</p>
+			<p mode="horizontal-tb" dir="rtl">
+			    增進消化能力<lb/>
+			    主治肝胃氣痛<lb/>
+			    抑止吞酸嘔吐<lb/>
+			</p>	        
+			<p mode="horizontal-tb" dir="rtl">
+			    上海中西大薬房發行<lb/>
+			</p>
+	    	</div>
+	    	<div type="image" itemid="399"/>
 	    </div>
 		<div type="margin">
 		     本報具有廿一年的歷史是小型報紙鼻祖銷路普遍全國刊登廣吿最有效力<pb/>

@@ -709,22 +709,24 @@
 			</div>
 		</div>
 		<div type="advert" itemid="4834">
-			<p dir="rtl" mode="horizontal-tb">
-				中國廣生行出品<lb/>
-			</p>
-			<!--	see #128		-->
-<!--			<div type="image"></div> -->
-			<p dir="rtl" mode="horizontal-tb">
-				雙妹牌<lb/>
-				生髮油<lb/>
-				千日香<lb/>
-			</p>
-			<p>
-				送禮自用<lb/>
-				并皆曼妙<lb/>
-			</p>
-			<!--	see #128		-->
-<!--			<div type="image"></div> -->
+			<div type="other">
+				<p dir="rtl" mode="horizontal-tb">
+					中國廣生行出品<lb/>
+				</p>
+			</div>
+			<div type="image" itemid="505"></div>
+			<div type="other">
+				<p dir="rtl" mode="horizontal-tb">
+					雙妹牌<lb/>
+					生髮油<lb/>
+					千日香<lb/>
+				</p>
+				<p>
+					送禮自用<lb/>
+					并皆曼妙<lb/>
+				</p>
+				</div>
+			<div type="image" itemid="506"></div>
 		</div>
 		<div type="advert" itemid="4835">
 			
@@ -894,15 +896,12 @@
 			</p>
 		</div>
 		<div type="advert" itemid="4839">
-			<!--	see #128		-->
-<!--			<div type="image"></div> -->
-			<p dir="rtl" mode="horizontal-tb">
-				一滴淸<lb/>
-				眼薬水<lb/>
-			</p>
-			<!--	see #128		-->
-<!--			<div type="image"></div> -->
-			
+			<div type="image" itemid="507"></div>
+			<div type="other">
+				<p dir="rtl" mode="horizontal-tb">
+					一滴淸<lb/>
+					眼薬水<lb/>
+				</p>
 				<p>
 					統治<lb/>
 					目疾<lb/>
@@ -915,34 +914,34 @@
 					⬨一滴淸眼藥水主治之眼病⬨<lb/>
 				</p>
 				
-					<p>
-						砂眼赤眼<lb/>
-						羞明畏光<lb/>
-						顆粒密生<lb/>
-						雲翳外障<lb/>
-					</p>
-					<p>
-						瘙癢多脂<lb/>
-						迎風流淚<lb/>
-						視力模糊<lb/>
-						眼皮發紅<lb/>
-					</p>
-					<p>
-						消毒完全<lb/>
-						功効確實<lb/>
-						攜帶便利<lb/>
-						價値低廉<lb/>
-						（每瓶貳角四）<lb/>
-					</p>
-					<p>
-						三洋涇橋<lb/>
-						江西路口<lb/>
-					</p>
-					<p>
-						新華藥行發行<lb/>
-					</p>
-			<!--	see #128		-->
-<!--				<div type="image"></div> -->
+				<p>
+					砂眼赤眼<lb/>
+					羞明畏光<lb/>
+					顆粒密生<lb/>
+					雲翳外障<lb/>
+				</p>
+				<p>
+					瘙癢多脂<lb/>
+					迎風流淚<lb/>
+					視力模糊<lb/>
+					眼皮發紅<lb/>
+				</p>
+				<p>
+					消毒完全<lb/>
+					功効確實<lb/>
+					攜帶便利<lb/>
+					價値低廉<lb/>
+					（每瓶貳角四）<lb/>
+				</p>
+				<p>
+					三洋涇橋<lb/>
+					江西路口<lb/>
+				</p>
+				<p>
+					新華藥行發行<lb/>
+				</p>
+		
+			
 				<p>
 					認明<lb/>
 					商標<lb/>
@@ -951,6 +950,8 @@
 					新華大藥行監製<lb/>
 					上海江西路十號<lb/>
 				</p>
+			</div>
+			<div type="image" itemid="508"></div> 
 			
 		</div>
 	</div>

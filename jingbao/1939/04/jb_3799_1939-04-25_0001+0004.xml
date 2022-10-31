@@ -909,69 +909,62 @@
              
         </div>
         <div type="advert" itemid="694">
-             <p>
-                   質<lb/>
-                   香<lb/>
-                   味<lb/>
-                   效<lb/>
-             </p>
-              <!--     see #128        -->
-<!--             <div type="image"/>-->
-             <p mode="horizontal-tb" dir="ltr">
-                  BIOZTCEN<lb/>
-             </p>
-             <p>
-                   上海新亞藥廠製造<lb/>
-             </p>
-             <p>
-                   藥房均售<lb/>
-             </p>
-             <p>
-                   寶青春<lb/>
-             </p>
-             <!--too vague to tell the direction; given that there is "2L" on the right, it should be read from left to right.-->
-             <p mode="horizontal-tb" dir="ltr">
-                   2L<lb/>
-             </p>
-             <p>
-                   寶青春爲真正譽滿乾燥酵母精製．富含各<lb/>
-                   種維他命．功能開胃强身．治療脚氣．整<lb/>
-                   理胃腸．促進新陳代謝．舉止新活力．質<lb/>
-                   香、味、效．無不超人一等．<lb/>
-             </p>
-             <p mode="horizontal-tb" dir="rtl">
-                   質香味效<lb/>
-             </p>
-             <p>
-                   含量充足<lb/>
-                   芬芳開胃<lb/>
-                   鮮美可口<lb/>
-                   靈騐偉大<lb/>
-             </p>
-              <!--     see #128        -->
-<!--             <div type="image"/>-->
+               <div type="other">
+				<p>
+    				質香味效<lb/>   
+				</p>
+			</div>		
+    		     <div type="image" itemid="439"></div>
+    	     	<div type="other">
+				<p mode="horizontal-tb" dir="ltr">
+					BIOZTGEN<lb/>
+				</p>
+				<p>
+					上海新亞藥廠製造<lb/>
+					藥房均售<lb/>
+					寶青春<lb/>
+				</p>
+				<p mode="horizontal-tb" dir="ltr">
+					　3L<lb/>
+				</p>
+				<p>
+					寶青春爲真正譽滿乾燥酵母精製．富含各<lb/>
+					種維他命．功能開胃强身．治療脚氣．整<lb/>
+					理胃腸．促進新陳代謝．舉止新活力．質<lb/>
+					香、味、效．無不超人一等．<lb/>
+				</p>
+				<p mode="horizontal-tb" dir="rtl">
+					質香味效<lb/>
+				</p>
+				<p>
+					含量充足<lb/>
+					芬芳開胃<lb/>
+					鮮美可口<lb/>
+					靈驗偉大<lb/>
+    	               </p>
+		     </div>
+    	          <div type="image" itemid="440"></div>
         </div>
         <div type="advert" itemid="695">
-             <p mode="horizontal-tb" dir="rtl">
-                 胃鑰<lb/>
-             </p>
-             <p>
-                 分片<lb/>
-                 <lb/>
-             </p>
-             <p mode="horizontal-tb" dir="rtl">
-                  增進消化能力<lb/>
-                  主治肝胃氣痛<lb/>
-                  抑止吞酸嘔吐<lb/>
-             </p>
-              <!--     see #128        -->
-            <!-- <div type="image"/>
-             <div type="image"/>-->
-             <p mode="horizontal-tb" dir="rtl">
-                  上海中西大薬房發行<lb/>
-            </p>
-              <!--     see #128        -->
-<!--            <div type="image"/>-->
+              <div type="other">
+                    <p mode="horizontal-tb" dir="rtl">
+                          胃鑰<lb/>
+                    </p>
+                    <p>
+                          分片<lb/>
+                          <lb/>
+                    </p>
+                    <p mode="horizontal-tb" dir="rtl">
+                          增進消化能力<lb/>
+                          主治肝胃氣痛<lb/>
+                          抑止吞酸嘔吐<lb/>
+                    </p>	        
+                    <p mode="horizontal-tb" dir="rtl">
+                          上海中西大薬房發行<lb/>
+                    </p>
+              </div>
+              <div type="image" itemid="441"/>
+              <div type="image" itemid="442"/>
         </div>
         <div type="margin">
                本報具有廿一年的歷史是小型報紙鼻祖銷路普遍全國刊登廣吿最有效力<pb/>
