@@ -603,40 +603,42 @@
                   </p>
            </div>
            <div type="article" itemid="1107">
-                  <p>
-                         樓上春風咲〻聲<lb/>
-                         <!-- 「春」 is written as 「𣊨」(its variant).  -->
-                         <!-- 「風」 is written as 「凮」(its variant).  -->
-                         <!-- 「〻」(Uto303B) is a symbol representing the repeat of the former character「咲」. -->
-                  </p>
-                  <p dir="rtl" mode="horizontal-tb">
-                         （無諍）<lb/>
-                  </p>
-                  <p>
-                         南花北植、初唯津與平、而津之花事、實爲平之先河、故能在津馳譽楊聲<lb/>
-                         者、多爲上駟之材、沈笑笑老三、亦是地之矯矯者、嗣倦遊來滬、名亦藉藉<lb/>
-                         或謂三曾媵許崇智將軍、而三不承、言曩旅粵、僅與<lb/>
-                         將軍周旋尊爼間<!-- There is a half space. -->未嘗涉及嫁娶、有悉底蘊者、則云<lb/>
-                         將軍金屋、固曾一度藏是姝也、將軍<lb/>
-                         橐𮧨<!-- The character should be written like this: ⿰革健. -->紛忙、遂賦別鵠耳、三在滬友一<lb/>
-                         律師、裘馬翩翩、過從其密、當去載<lb/>
-                         三初來滬、滬例素非所稔、得律師指<lb/>
-                         導、始大展其<lb/>
-                         艷猷、椒花頌<lb/>
-                         歲、律師往行<lb/>
-                         開果盤禮、得<lb/>
-                         博利市、三之<lb/>
-                         喜可知矣、幽<lb/>
-                         燕地氣高亢、三居旣久、乍南歸、不服水土、乃消瘦、面黃如蠟、調攝經時、<lb/>
-                         才復元狀、肌晳膚潤、明媚炤人、三在津時、寒雲公子極稱賞之、偶病、公<lb/>
-                         子延醫市藥、榻際鼎旁、十分體貼、三心大慰、疴亦旋瘥、每對人云、公子<lb/>
-                         爲二天、感不去懷、近聞公子有南來訊、輒雀躍不巳、<lb/>
-                  </p>
-                  <!--  see #128       -->
-<!--                  <div type="image" itemid="530"/>-->
-                  <p>
-                         ◘沈笑笑老三◘<lb/>
-                  </p>
+                  <div type="other">
+                      <p>
+                             樓上春風咲〻聲<lb/>
+                             <!-- 「春」 is written as 「𣊨」(its variant).  -->
+                             <!-- 「風」 is written as 「凮」(its variant).  -->
+                             <!-- 「〻」(Uto303B) is a symbol representing the repeat of the former character「咲」. -->
+                      </p>
+                      <p dir="rtl" mode="horizontal-tb">
+                             （無諍）<lb/>
+                      </p>
+                      <p>
+                             南花北植、初唯津與平、而津之花事、實爲平之先河、故能在津馳譽楊聲<lb/>
+                             者、多爲上駟之材、沈笑笑老三、亦是地之矯矯者、嗣倦遊來滬、名亦藉藉<lb/>
+                             或謂三曾媵許崇智將軍、而三不承、言曩旅粵、僅與<lb/>
+                             將軍周旋尊爼間<!-- There is a half space. -->未嘗涉及嫁娶、有悉底蘊者、則云<lb/>
+                             將軍金屋、固曾一度藏是姝也、將軍<lb/>
+                             橐𮧨<!-- The character should be written like this: ⿰革健. -->紛忙、遂賦別鵠耳、三在滬友一<lb/>
+                             律師、裘馬翩翩、過從其密、當去載<lb/>
+                             三初來滬、滬例素非所稔、得律師指<lb/>
+                             導、始大展其<lb/>
+                             艷猷、椒花頌<lb/>
+                             歲、律師往行<lb/>
+                             開果盤禮、得<lb/>
+                             博利市、三之<lb/>
+                             喜可知矣、幽<lb/>
+                             燕地氣高亢、三居旣久、乍南歸、不服水土、乃消瘦、面黃如蠟、調攝經時、<lb/>
+                             才復元狀、肌晳膚潤、明媚炤人、三在津時、寒雲公子極稱賞之、偶病、公<lb/>
+                             子延醫市藥、榻際鼎旁、十分體貼、三心大慰、疴亦旋瘥、每對人云、公子<lb/>
+                             爲二天、感不去懷、近聞公子有南來訊、輒雀躍不巳、<lb/>
+                     </p>
+                  </div>
+                  <div type="image" itemid="530">
+                     <p>
+                            ◘沈笑笑老三◘<lb/>
+                     </p>
+                  </div>
            </div>
            <div type="margin" dir="rtl" mode="vertical-rl">
                   各稿版權均歸本社所有禁止轉載翻印譒譯<pb/>

@@ -2,14 +2,14 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3802_1939-04-28_0002to0003" lastedit="2021-08-12" lasteditor="xiejia1995">
+<fold xml:id="jb_3802_1939-04-28_0002to0003" lastedit="2022-10-15" lasteditor="xiejia1995" issueid="27">
     <div type="page" page="verso" n="2" mode="vertical-rl" dir="rtl">
         <div type="other">
             <div type="margin" mode="horizontal-tb" dir="rtl"><p> 
                 中華民國二十八年四月廿八日　晶報　星期五　第二版<lb/>     
             </p></div>
         </div>
-        <div type="article">
+        <div type="article" itemid="839">
             <p mode="horizontal-tb" dir="rtl">
                 英致牒蘇聯政府<lb/>
             </p>
@@ -39,7 +39,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="840">
             <p>
                 英首相提請下議院<lb/>
                 速通過徵兵法案<lb/>
@@ -134,7 +134,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="841">
             <p>
                 德飛行家<lb/>
                 創最速紀錄<lb/>
@@ -155,7 +155,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="842">
             <p>
                 比增强國防<lb/>
                 政府有特權<lb/>
@@ -175,7 +175,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="844">
             <p>
                 希特勒今演說<lb/>
                 答覆羅斯福<lb/>
@@ -193,7 +193,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="845">
             <p mode="horizontal-tb" dir="rtl">
                 日本煤礦爆炸<lb/>
                 千人埋入土中<lb/>
@@ -213,7 +213,7 @@
                 、盡在不可知之數、<lb/>
             </p>
         </div>
-        <div type="article">
+        <div type="article" itemid="843">
             <p>
                 英實施徵兵制<lb/>
                 各國之觀感<lb/>
@@ -343,7 +343,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="846">
             <p>
                 對但澤問題<lb/>
                 波蘭態度堅决<lb/>
@@ -362,7 +362,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="847">
             <p>
                 日臨時閣議<lb/>
                 商對外方針<lb/>
@@ -383,7 +383,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="848">
             <p mode="horizontal-tb" dir="rtl">
                 羅斯福準備<lb/>
                 再呼籲和平<lb/>
@@ -404,7 +404,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="849">
             <p>
                 地中海各港<lb/>
                 英德軍艦調動<lb/>
@@ -438,7 +438,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="850">
             <p>
                 羅王訪英法<lb/>
                 會談經過良好<lb/>
@@ -470,7 +470,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="851">
             <p>
                 英王<lb/>
                 巡幸加拿大<lb/>
@@ -486,7 +486,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="852">
             <p>
                 長篇<lb/>
                 小說<lb/>
@@ -522,25 +522,27 @@
                 </p>
             
         </div>
-        <div type="advert">
-            <p mode="horizontal-tb" dir="rtl">
-                質香味效<lb/>
-            </p>
-<!--    see #128        -->
-<!--            <div type="image"/>-->
-            <p mode="horizontal-tb" dir="ltr">
-                BIOZYCEN<lb/>
-            </p>
-            <p>
-                上海新亞藥廠製造<lb/>
-                藥房均售<lb/>
-            </p>
-            <p>
-                寶靑春<lb/>
-            </p>
-            <p mode="horizontal-tb" dir="ltr">
-                天里21<lb/>
-            </p>
+        <div type="advert" itemid="783">
+            <div type="other">
+                <p mode="horizontal-tb" dir="rtl">
+                    質香味效<lb/>
+                </p>
+            </div>
+            <div type="image" itemid="468"/>
+            <div type="other">
+                <p mode="horizontal-tb" dir="ltr">
+                    BIOZYCEN<lb/>
+                </p>
+                <p>
+                    上海新亞藥廠製造<lb/>
+                    藥房均售<lb/>
+                </p>
+                <p>
+                    寶靑春<lb/>
+                </p>
+                <p mode="horizontal-tb" dir="ltr">
+                    天里21<lb/>
+                </p>
            
                 <p>
                     寶靑春爲眞正麥酒乾燥酵母精製。富含各<lb/>
@@ -558,8 +560,8 @@
                 鮮美可口<lb/>
                 靈驗偉大<lb/>
             </p>
-<!--    see #128        -->
-<!--            <div type="image"/>-->
+            </div>
+            <div type="image" itemid="470"/>
         </div>
         <div type="margin">            
                 廣吿刊例：　報名旁　每日每方二十元　長行計七寸高　每日每行一元八角　短行計三寸半高　每日每行九角　中縫計三寸半高二寸濶　每日每格八元<pb/>
@@ -567,7 +569,7 @@
     </div>
     <!--start middle of the fold-->
     <div type="margin">
-        <div type="advert">
+        <div type="advert" itemid="784">
             <p>
                 董惠民醫師<lb/>
             </p>
@@ -623,7 +625,7 @@
                 特備長短波電療機　最高倍顯微鏡　橫痃消散機　尿道檢查鏡　義務助治愈後可向衞生局檢驗斷根<lb/>
             </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="785">
             <p>
                 上海河南<lb/>
                 路四馬路<lb/>
@@ -683,7 +685,7 @@
                 本堂咳藥　確有經驗　請嘗試之　方知不謬<lb/>
             </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="786">
             <p>
                 東南醫院<lb/>
             </p>
@@ -705,7 +707,7 @@
                 中華民國二十八年四月廿八日　晶報　星期五　第三版<lb/>
             </p></div>
         </div>
-        <div type="article">
+        <div type="article" itemid="853">
             <p mode="horizontal-tb" dir="rtl">
                 經營日貨發財<lb/>
             </p>
@@ -812,7 +814,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="854">
             <p>
                 騙款還騙款<lb/>
                 日洋行掮客專騙絲商<lb/>
@@ -869,7 +871,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="855">
             <p>
                 投彈與投函<lb/>
                 警吿老協大祥<lb/>
@@ -891,7 +893,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="857">
             <p>
                 慶餘里三千房客<lb/>
                 昨緊急集議<lb/>
@@ -922,7 +924,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="856">
             <p>
                 浦東<lb/>
                 遊擊隊大團結<lb/>
@@ -946,7 +948,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="859">
             <p>
                 內部糾紛不已<lb/>
                 佛教醫院月底停辦<lb/>
@@ -978,7 +980,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="860">
             <p>
                 齊藤屍灰<lb/>
                 已送抵國土<lb/>
@@ -998,7 +1000,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="858">
             <p>
                 金融網<lb/>
                 分佈內地<lb/>
@@ -1019,7 +1021,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="861">
             <p mode="horizontal-tb" dir="rtl">
                 買辦之子<lb/>
                 童本厚始亂終棄<lb/>
@@ -1049,7 +1051,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="862">
             <p>
                 海關發表第一季<lb/>
                 全國對外貿易<lb/>
@@ -1071,7 +1073,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="863">
             <p>
                 少女范月英<lb/>
                 供述被勾引經過<lb/>
@@ -1170,7 +1172,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="864">
             <p>
                 盜犯<lb/>
                 當庭矢口否認<lb/>
@@ -1191,7 +1193,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="865">
             <p>
                 滬西大火<lb/>
                 跌傷婦女一名<lb/>
@@ -1211,7 +1213,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="866">
             <p>
                 一販土機關<lb/>
                 昨被捕房破獲<lb/>
@@ -1237,7 +1239,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="867">
             <p>
                 今雜事秘<lb/>
             </p>
@@ -1271,41 +1273,43 @@
                 </p>
             
         </div>
-        <div type="advert">
-            <p mode="horizontal-tb" dir="rtl">
-                電話九六六八四<lb/>
-                人材完備<lb/>
-                服務認眞<lb/>
-            </p>
-            <p mode="horizontal-tb" dir="ltr">
-                TEL.96684<lb/>
-            </p>
-            
-            <!--    see #128        -->
-<!--            <div type="image"/>-->
-            <p>
-                王素貞倩影<lb/>
-            </p>
-            <p>
-                樂百思<lb/>
-            </p>
-            <p mode="horizontal-tb" dir="rtl">
-                歌女社<lb/>
-            </p>
-            <p>
-                筱譚英倩影<lb/>
-            </p>
-            
-            <!--    see #128        -->
-<!--            <div type="image"/>-->
-            <p mode="horizontal-tb" dir="ltr">
-                TEL.90866<lb/>
-            </p>
-            <p mode="horizontal-tb" dir="rtl">
-                電話傳喚<lb/>
-                準時蒞臨<lb/>
-                電話九〇八六六<lb/>
-            </p>
+        <div type="advert" itemid="787">
+            <div type="other">
+                <p mode="horizontal-tb" dir="rtl">
+                    電話九六六八四<lb/>
+                    人材完備<lb/>
+                    服務認眞<lb/>
+                </p>
+                <p mode="horizontal-tb" dir="ltr">
+                    TEL.96684<lb/>
+                </p>
+            </div>
+            <div type="image" itemid="471"/>
+            <div type="other">
+                <p>
+                    王素貞倩影<lb/>
+                </p>
+                <p>
+                    樂百思<lb/>
+                </p>
+                <p mode="horizontal-tb" dir="rtl">
+                    歌女社<lb/>
+                </p>
+                <p>
+                    筱譚英倩影<lb/>
+                </p>
+            </div>
+            <div type="image" itemid="472"/>
+            <div type="other">
+                 <p mode="horizontal-tb" dir="ltr">
+                     TEL.90866<lb/>
+                 </p>
+                 <p mode="horizontal-tb" dir="rtl">
+                     電話傳喚<lb/>
+                     準時蒞臨<lb/>
+                     電話九〇八六六<lb/>
+                 </p>
+            </div>
         </div>
         <div type="margin">            
                 定報價目：　本埠　每月五角　三個月一元四角　外埠　每月六角　三月一元七角　半年三元二角　全年六元　郵費在內　國外加倍報資先惠<pb/>

@@ -2,13 +2,15 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3795_1939-04-21_0006to0007" lastedit="2021-07-07" lasteditor="ysmlouis">
+<fold xml:id="jb_3795_1939-04-21_0006to0007" lastedit="2022-09-13" lasteditor="xiejia1995" issueid="20">
     <!-- start verso page   -->
     <div type="page" page="verso" n="6" mode="vertical-rl" dir="rtl">
-        <div type="margin" mode="horizontal-tb" dir="rtl"><p>
+        <div type="margin" mode="horizontal-tb" dir="rtl">
+            <p>
                 中華民國二十八年四月廿一日　晶報　星期五　第六版<lb/>
-        </p></div>
-        <div type="article">
+            </p>
+        </div>
+        <div type="article" itemid="329">
             <p>
                 胡毓坤與富雙英<lb/>
             </p>
@@ -37,7 +39,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="330">
             <p>
                 唐納楚材晉用記<lb/>
             </p>
@@ -82,10 +84,9 @@
                     𦒉𦒉影人，而翩翩<lb/>
                     記室，此消息知者<lb/>
                     未多也，因記之。<lb/>
-                </p>
-            
+                </p>            
         </div>
-        <div type="article">
+        <div type="article" itemid="331">
             <p>
                 同治<lb/>
                 銅錢<lb/>
@@ -129,7 +130,8 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="333">
+            <div>
             <p>
                 蔣委員長之生平<lb/>
             </p>
@@ -145,13 +147,15 @@
                     蔣氏每日親筆日記，撰爲是篇，其全文自今日起，在本報陸續發表。<lb/>
                    （編者誌）<lb/>
                  </p>
+
+            </div>
             
-            <p mode="horizontal-tb" dir="rtl">
-                蔣委員長五十歲時之英姿<lb/>
-            </p>
-<!-- see #128 -->
-<!--            <div type="image"/> -->
-            
+            <div type="image" itemid="421">
+                <p mode="horizontal-tb" dir="rtl">
+                    蔣委員長五十歲時之英姿<lb/>
+                </p>
+            </div>
+            <div>
                 <p>
                     公名中正，字介<lb/>
                     石，原名周泰，字<lb/>
@@ -210,8 +214,11 @@
                     民國紀元前二十四年，淸光緒十四年<lb/>
                     戊子，（西曆一八八八）公二歲。<lb/>
                 </p>
-            <!-- see #128 -->
-            <!--<div type="image">-->
+            </div>
+            <div type="image" itemid="422">
+                <p mode="horizontal-tb" dir="rtl">
+                    蔣委員長墨寶之一<lb/>
+                </p>
                 <!-- 改革教育　開發經濟<lb/>
                      調濟勞資　統制工商<lb/>
                      平均地權　扶助耕農<lb/>
@@ -219,17 +226,14 @@
                      恢復領土　爭回主權<lb/>
                      實行主義　完成革命<lb/>
                      中正<lb/> -->
-            <!--</div>-->
-            <p mode="horizontal-tb" dir="rtl">
-                蔣委員長墨寶之一<lb/>
-            </p>
-        </div>
-        <div type="article">
+            </div>
+        </div>               
+
+        <div type="article" itemid="332">       
             <p>
                 晶報三度小休記<lb/>
                （一讀者）<lb/>
-            </p>
-            
+            </p>            
                 <p>
                     晶報創刊於民國<lb/>
                     八年三月三日，開<lb/>
@@ -253,10 +257,9 @@
                     而後，永不休刊，<lb/>
                     日月無極，晶報亦<lb/>
                     無極，是爲祝。<lb/>
-                </p>
-            
+                </p>            
         </div>
-        <div type="article">
+        <div type="article" itemid="334">
             <p mode="horizontal-tb" dir="rtl">
                 佹失記<lb/>
             </p>
@@ -288,7 +291,8 @@
                 </p>
             
         </div>
-        <div type="article">
+
+        <div type="article" itemid="335">
             <p>
                 江一平拳術<lb/>
                （妙人）<lb/>
@@ -331,7 +335,8 @@
                 </p>
             
         </div>
-        <div type="article">
+
+        <div type="article" itemid="336">
             <p>
                 新游俠傳<lb/>
             </p>
@@ -366,7 +371,7 @@
                 </p>
             
         </div>
-        <div type="advert">
+        <div type="advert" itemid="596">
             <p mode="horizontal-tb" dir="rtl">
                 西洋<lb/>
             </p>
@@ -384,7 +389,7 @@
                 路一四一弄六號一樓時間上午十時至下午十時<lb/>
             </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="597">
             <p>
                 西洋女子按摩<lb/>
             </p>
@@ -398,22 +403,23 @@
                 地址　白克路（黃家沙口）七三八號一號房間<lb/>
             </p>
         </div>
-        <div type="advert">
-            <p mode="horizontal-tb" dir="rtl">
-                砒製梅毒特效藥<lb/>
-                新惜花散<lb/>
-            </p>
-            <p mode="horizontal-tb" dir="ltr">
-                NEO-SYPHARSAN<lb/>
-            </p>
-            <p mode="horizontal-tb" dir="rtl">
-                製造者‥楊氏化學治療研究所<lb/>
-                總經理‥信誼化學製藥廠<lb/>
-            </p>
-            <!-- see #128 -->
-<!--            <div type="image"/>-->
+        <div type="advert" itemid="598">
+            <div type="other">
+                <p mode="horizontal-tb" dir="rtl">
+                    砒製梅毒特效藥<lb/>
+                    新惜花散<lb/>
+                </p>
+                <p mode="horizontal-tb" dir="ltr">
+                    NEO-SYPHARSAN<lb/>
+                </p>
+                <p mode="horizontal-tb" dir="rtl">
+                    製造者‥楊氏化學治療研究所<lb/>
+                    總經理‥信誼化學製藥廠<lb/>
+                </p>
+            </div>
+            <div type="image" itemid="423"/>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="599">
             <p mode="horizontal-tb" dir="rtl">
                   救一死<lb/>
             </p>
@@ -472,7 +478,7 @@
     </div>
     <!-- start margin between pages   -->   
     <div type="margin" mode="vertical-rl" dir="rtl">
-        <div type="advert">
+        <div type="advert" itemid="600">
             <p>
                    東南醫院<lb/>
             </p>
@@ -486,29 +492,29 @@
                    院址法租界薩坡賽路二九九號電話八〇六〇八號<lb/>
             </p>
         </div>
-        <div type="advert">
-            <!-- see #128 -->
-<!--            <div type="image"/>-->
-            <p>
-                頑瘡濕癢<lb/>
-            </p>
-            <p mode="horizontal-tb" dir="rtl">
-                美國製<lb/>
-            </p>
-            <p>
-                多獲治<lb/>
-            </p>
-            <p>
-                各大藥房寄售<lb/>
-            </p>
-            <!-- see #128 -->
-<!--            <div type="image"/>-->
-            <p>
-                每瓶<lb/>
-                五角<lb/>
-            </p>
+        <div type="advert" itemid="601">
+            <div type="image" itemid="424"/>
+            <div type="other">
+              <p>
+                  頑瘡濕癢<lb/>
+              </p>
+              <p mode="horizontal-tb" dir="rtl">
+                  美國製<lb/>
+              </p>
+              <p>
+                  多獲治<lb/>
+              </p>
+              <p>
+                  各大藥房寄售<lb/>
+              </p>
+                <p>
+                    每瓶<lb/>
+                    五角<lb/>
+                </p>
+            </div>
+            <div type="image" itemid="426"/>    
         </div>
-        <div type="advert">
+        <div type="advert" itemid="602">
             <p>
                  申江醫院<lb/>
             </p>
@@ -528,7 +534,7 @@
         <div type="margin" mode="horizontal-tb" dir="rtl"><p>
             中華民國二十八年四月廿一日　晶報　星期五　第七版<lb/>
         </p></div>
-        <div type="article">
+        <div type="article" itemid="337">
             <p>
                 記馮心支被襲事<lb/>
             </p>
@@ -554,16 +560,17 @@
                 </p>
             
         </div>
-        <div type="article">
-            <p>
-                春江花乘<lb/>
-            </p>
-            <p>
-                （不平凡公子）<lb/>
-            </p>
-            <p>
-                一日一姬　（一）筱雙珠老九<lb/>
-            </p>
+        <div type="article" itemid="338">            
+            <div type="other">
+                <p>
+                    春江花乘<lb/>
+                </p>
+                <p>
+                    （不平凡公子）<lb/>
+                </p>
+                <p>
+                    一日一姬　（一）筱雙珠老九<lb/>
+                </p>
             
                 <p>
                     「李桂芳」，是<lb/>
@@ -584,10 +591,9 @@
                     年的歷史，人才輩<lb/>
                     出，可以算得起是<lb/>
                 </p>
-            
-            <!-- see #128 -->
-<!--            <div type="image"/> -->
-            
+            </div>
+            <div type="image" itemid="427"/>
+            <div>
                 <p>
                     倡門世家，六七年<lb/>
                     前，「小雙珠」家<lb/>
@@ -675,10 +681,10 @@
                     九之才貌，一至於<lb/>
                     此，我不禁爲美人<lb/>
                     惜也。<lb/>
-                </p>
-            
+                </p>            
+            </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="340">
             <p>
                 三國產片售座比較<lb/>
                 並略談木蘭從軍的交涉<lb/>
@@ -733,16 +739,17 @@
                 </p>
             
         </div>
-        <div type="article">
-            <p>
-                怎樣使得健康美<lb/>
-            </p>
-            <p>
-                （芸芸）<lb/>
-            </p>
-            <p>
-                第一章　姿勢教育<lb/>
-            </p>
+        <div type="article" itemid="339">
+            <div type="other">
+                 <p>
+                     怎樣使得健康美<lb/>
+                 </p>
+                 <p>
+                     （芸芸）<lb/>
+                 </p>
+                 <p>
+                     第一章　姿勢教育<lb/>
+                 </p>
             
                 <p>
                     我們的直 <!-- ⿺𠃊𥃭 --> 立姿勢<lb/>
@@ -857,13 +864,14 @@
                     正的姿勢，他們的<lb/>
                     能率就可增高。<lb/>
                 </p>
-            <!-- see #128 -->
-<!--            <div type="image"/>-->
-            <p mode="horizontal-tb" dir="ltr">
-                天眞的愛兒<lb/>
-            </p>
+            </div>
+            <div type="image" itemid="428">
+              <p mode="horizontal-tb" dir="ltr">
+                  天眞的愛兒<lb/>
+              </p>
+            </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="341">
             <p>
                 　 <!-- There is a space on the newspaper. The character should be 烏. --> 托邦<lb/>
             </p>
@@ -896,7 +904,7 @@
                 </p>
             
         </div>
-        <div type="advert">
+        <div type="advert" itemid="603">
             <p>
                 電話<lb/>
                 八四八〇八<lb/>
@@ -979,7 +987,7 @@
                 火燒紅蓮寺<lb/>
             </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="604">
             <p>
                 光華眼科醫院<lb/>
                 張錫祺醫師<lb/>
@@ -1016,7 +1024,7 @@
                 ●電話　八四七〇四●<lb/>
             </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="605">
             <p mode="horizontal-tb" dir="rtl">
                 囘力球<lb/>
                 今晚七時起賽<lb/>

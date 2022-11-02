@@ -12,7 +12,7 @@
             </p>
             <p mode="horizontal-tb" dir="ltr">
                 The Crystal<lb/>
-                發行人　A. L. Teodoro<lb/>
+                發行人 A. L. Teodoro<lb/>
             </p>
             <p>
                 館址漢口路二九九號　電話九三四二八<lb/>
@@ -23,26 +23,23 @@
             </p> 
         </div>
         <div type="advert" itemid="445">
-            <div type="other">
-                <p>
-                    煙中<lb/>
-                    鐵軍<lb/>
-                    清香<lb/>
-                    雋永<lb/>
-                </p>
-                <p mode="horizontal-tb" dir="rtl">
-                    認明 <!-- 者? -->  <!-- 牌? --><lb/>
-                    永不吃虧<lb/>
-                </p>
-            </div>
-            <div type="image" itemid="410"/>
-            <div type="image" itemid="411"/>
-            <div type="other">
-             <p mode="horizontal-tb" dir="rtl">
-                 金字塔香煙<lb/>
-                 中國福新煙公司出品<lb/>
-             </p>
-            </div>
+            <p>
+                煙中<lb/>
+                鐵軍<lb/>
+                清香<lb/>
+                雋永<lb/>
+            </p>
+            <p mode="horizontal-tb" dir="rtl">
+                認明 <!-- 者? -->  <!-- 牌? --><lb/>
+                永不吃虧<lb/>
+            </p>
+            <!--  see #128       -->
+            <!--<div type="image" itemid="410"/>
+            <div type="image" itemid="411"/>-->
+            <p mode="horizontal-tb" dir="rtl">
+                金字塔香煙<lb/>
+                中國福新煙公司出品<lb/>
+            </p>
         </div>
         <div type="advert" itemid="580" mode="horizontal-tb" dir="rtl"><p>
             海上第一流攝影專家<lb/>
@@ -104,62 +101,61 @@
             
         </div>
         <div type="article" itemid="274">
-            <div type="other">
-              <p>
-                  國際時事<lb/>
-                  地圖<lb/>
-              </p>
-              <p>
-                  粵<lb/>
-              </p>
-              
-                  <p>
-                      在閱讀國際新聞<lb/>
-                      的時候、有時因地<lb/>
-                      名的生疏、失去了<lb/>
-                      一部分的興趣、有<lb/>
-                      時因不明瞭所發生<lb/>
-                      的問題的地理環境<lb/>
-                      ，感到索然無味、<lb/>
-                      而對於現在的國際<lb/>
-                      形勢缺乏比較澈底<lb/>
-                      的認識、因此國際<lb/>
-                      時事地圖成爲不可<lb/>
-                      或少的東西、<lb/>
-                  </p>
-                  <p>
-                      所謂國際時事地<lb/>
-                      圖、並不是跟學校<lb/>
-                      所用的地圖相同而<lb/>
-                      是集合與問題有關<lb/>
-                      的地圖、譬似、美<lb/>
-                      國關島設防的問題<lb/>
-                      發生後、那末要把<lb/>
-                      檀香山菲列賓甚至<lb/>
-                      日本香港新嘉坡等<lb/>
-                      地都畫在一起、這<lb/>
-                      樣纔能表示進攻與<lb/>
-                      防禦的路線而指出<lb/>
-                      關島設防的重要性<lb/>
-                      同時關於在報章上<lb/>
-                      常能見到的、像烏<lb/>
-                      克蘭與少數民族等<lb/>
-                      問題、也有簡單的<lb/>
-                      地圖、作爲研究時<lb/>
-                      事之助、然而祗靠<lb/>
-                      地圖有時不能全部<lb/>
-                      表示、那末不得不<lb/>
-                      輔以簡單的說明、<lb/>
-                      這種說明當力求明<lb/>
-                      白易曉而避免專門<lb/>
-                      化、總之國際時事<lb/>
-                      地圖的目的是求增<lb/>
-                      加讀者對於國際時<lb/>
-                      事的興味與輔助國<lb/>
-                      際時事的研究、<lb/>
-                  </p>
-            </div>
-            <div type="image" itemid="412"/>
+            <p>
+                國際時事<lb/>
+                地圖<lb/>
+            </p>
+            <p>
+                粵<lb/>
+            </p>
+            
+                <p>
+                    在閱讀國際新聞<lb/>
+                    的時候、有時因地<lb/>
+                    名的生疏、失去了<lb/>
+                    一部分的興趣、有<lb/>
+                    時因不明瞭所發生<lb/>
+                    的問題的地理環境<lb/>
+                    ，感到索然無味、<lb/>
+                    而對於現在的國際<lb/>
+                    形勢缺乏比較澈底<lb/>
+                    的認識、因此國際<lb/>
+                    時事地圖成爲不可<lb/>
+                    或少的東西、<lb/>
+                </p>
+                <p>
+                    所謂國際時事地<lb/>
+                    圖、並不是跟學校<lb/>
+                    所用的地圖相同而<lb/>
+                    是集合與問題有關<lb/>
+                    的地圖、譬似、美<lb/>
+                    國關島設防的問題<lb/>
+                    發生後、那末要把<lb/>
+                    檀香山菲列賓甚至<lb/>
+                    日本香港新嘉坡等<lb/>
+                    地都畫在一起、這<lb/>
+                    樣纔能表示進攻與<lb/>
+                    防禦的路線而指出<lb/>
+                    關島設防的重要性<lb/>
+                    同時關於在報章上<lb/>
+                    常能見到的、像烏<lb/>
+                    克蘭與少數民族等<lb/>
+                    問題、也有簡單的<lb/>
+                    地圖、作爲研究時<lb/>
+                    事之助、然而祗靠<lb/>
+                    地圖有時不能全部<lb/>
+                    表示、那末不得不<lb/>
+                    輔以簡單的說明、<lb/>
+                    這種說明當力求明<lb/>
+                    白易曉而避免專門<lb/>
+                    化、總之國際時事<lb/>
+                    地圖的目的是求增<lb/>
+                    加讀者對於國際時<lb/>
+                    事的興味與輔助國<lb/>
+                    際時事的研究、<lb/>
+                </p>
+            <!--  see #128       -->
+<!--            <div type="image" itemid="412"/>-->
         </div>
         <div type="article" itemid="275">
             <p>
@@ -875,71 +871,80 @@
             </p>
         </div>
         <div type="advert" itemid="460">
-            <div type="image" itemid="416"/>
-            <div type="other">
-                <p mode="horizontal-tb" dir="rtl">
-                    商標<lb/>
-                </p>
-                <p>
-                    大喜<lb/>
-                </p>           
-                <p mode="horizontal-tb" dir="rtl">
-                    大喜<lb/>
-                </p>
-                <p>
-                    套鞋<lb/>
-                </p>              
-                <p mode="horizontal-tb" dir="rtl">
-                    回力<lb/>
-                    商標<lb/>
-                </p>
-               
-                <p mode="horizontal-tb" dir="rtl">
-                    籃球鞋<lb/>
-                </p>
-             
-                <p mode="horizontal-tb" dir="ltr">
-                    萬里鞋<lb/>
-                </p>
-                
-                <p mode="horizontal-tb" dir="rtl">
-                    上海正泰信記橡膠廠出品<lb/>
-                </p>
-            </div>         
+            <p>
+                商<lb/>
+            </p>
+            <p>
+                大喜<lb/>
+            </p>
+            <p>
+                標<lb/>
+            </p>
+            <!--  see #128       -->
+<!--            <div type="image" itemid="416"/>-->
+            <p mode="horizontal-tb" dir="rtl">
+                大喜<lb/>
+            </p>
+            <p>
+                套鞋<lb/>
+            </p>
+            <!--  see #128       -->
+<!--            <div type="image"/>-->
+            <p>
+                回<lb/>
+                力<lb/>
+                商<lb/>
+                標<lb/>
+            </p>
+            <!--  see #128       -->
+<!--            <div type="image"/>-->
+            <p mode="horizontal-tb" dir="rtl">
+                籃球鞋<lb/>
+            </p>
+            <!--  see #128       -->
+<!--            <div type="image"/>-->
+            <p mode="horizontal-tb" dir="ltr">
+                萬里鞋<lb/>
+            </p>
+            <!--  see #128       -->
+<!--            <div type="image"/>-->
+            <p mode="horizontal-tb" dir="rtl">
+                上海正泰信記橡膠廠出品<lb/>
+            </p>
         </div>
         <div type="advert" itemid="591">
-            <div type="other">
-                <p dir="rtl" mode="vertical-rl">
-                    痰敵<lb/>
-                </p>
-                <p>
-                    分片露<lb/>
-                </p>
-                <p>
-                    除痰鎭咳<lb/>
-                    平喘止嗆<lb/>
-                    順氣祛風<lb/>
-                    益肺防癆<lb/>
-                </p>
-                <p dir="rtl" mode="horizontal-tb">
-                    片露<lb/>
-                </p>
-                <p>
-                    大瓶二元小瓶一元<lb/>
-                    每瓶一元五角<lb/>
-                </p>
-                <p dir="rtl" mode="horizontal-tb">
-                    上海<lb/>
-                </p>
-                <p>
-                    中西大藥房<lb/>
-                </p>
-                <p dir="rtl" mode="horizontal-tb">
-                    發行<lb/>	
-                </p>
-            </div>
-            <div type="image" itemid="417"/>
-            <div type="image" itemid="418"/>
+            <p>
+                痰敵<lb/>
+            </p>
+            <p>
+                除痰鎮咳<lb/>
+                平喘止嗆<lb/>
+                順氣祛風<lb/>
+                益肺防癆<lb/>
+            </p>
+            <p mode="horizontal-tb" dir="rtl">
+                片露<lb/>
+            </p>
+            <p>
+                大瓶二元小瓶一元<lb/>
+                每瓶一元五角<lb/>
+            </p>
+            <p mode="horizontal-tb" dir="rtl">
+                上海<lb/>
+            </p>
+            <p>
+                中西大藥房<lb/>
+            </p>
+            <p mode="horizontal-tb" dir="rtl">
+                發行<lb/>
+            </p>
+            <!--  see #128       -->
+<!--            <div type="image" itemid="417"/>-->
+            <p>
+                分片露<lb/>
+            </p>
+            <!--  see #128       -->
+<!--            <div type="image" itemid="418"/>-->
         </div>
         <div type="advert" itemid="458">
                本報具有廿一年的歷史是小型報紙鼻祖銷路普遍全國刊登廣吿最有效力<pb/>

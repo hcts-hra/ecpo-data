@@ -11,7 +11,7 @@
 			</p>
 		    <p mode="horizontal-tb" dir="ltr">
 				The Crystal<lb/>
-				發行人　A. L. Teodoro<lb/>
+				發行人 A. L. Teodoro<lb/>
 			</p>
 			<p>
 				館址漢口路二九九號　電話九三四二八<lb/>
@@ -269,7 +269,7 @@
 				天爲內部禮俗司長<lb/>
 			</p>
 		</div>
-		<div type="article" itemid="431">
+		<div type="article">
 			<p mode="horizontal-tb" dir="rtl">
 				重慶街頭乞丐<lb/>
 				集中工作營<lb/>
@@ -850,24 +850,26 @@
     	</div>
 	    <div type="advert" itemid="627">
 	        <!-- The same advertisement on 1939.04.25_P4 is referenced. -->
-	    	<div type="other">
-			<p mode="horizontal-tb" dir="rtl">
-			    胃鑰<lb/>
-			</p>
-			<p>
-			    分片<lb/>
-			    <lb/>
-			</p>
-			<p mode="horizontal-tb" dir="rtl">
-			    增進消化能力<lb/>
-			    主治肝胃氣痛<lb/>
-			    抑止吞酸嘔吐<lb/>
-			</p>	        
-			<p mode="horizontal-tb" dir="rtl">
-			    上海中西大薬房發行<lb/>
-			</p>
-	    	</div>
-	    	<div type="image" itemid="399"/>
+	        <p mode="horizontal-tb" dir="rtl">
+	            胃鑰<lb/>
+	        </p>
+	        <p>
+	            分片<lb/>
+	            <lb/>
+	        </p>
+	        <p mode="horizontal-tb" dir="rtl">
+	            增進消化能力<lb/>
+	            主治肝胃氣痛<lb/>
+	            抑止吞酸嘔吐<lb/>
+	        </p>
+	        <!-- see #128 -->
+<!--	        <div type="image"/>-->
+<!--	        <div type="image"/>-->
+	        <p mode="horizontal-tb" dir="rtl">
+	            上海中西大薬房發行<lb/>
+	        </p>
+	        <!-- see #128 -->
+<!--	        <div type="image"/>-->
 	    </div>
 		<div type="margin">
 		     本報具有廿一年的歷史是小型報紙鼻祖銷路普遍全國刊登廣吿最有效力<pb/>

@@ -2,14 +2,18 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3795_1939-04-21_0002to0003" lastedit="2021-11-04" lasteditor="ysmlouis">
+
+<fold xml:id="jb_3795_1939-04-21_0002to0003" lastedit="2021-11-04" lasteditor="ysmlouis" issueid="20">
     <!-- start verso page -->
     <div type="page" page="verso" n="2" mode="vertical-rl" dir="rtl">
-        <div type="margin" mode="horizontal-tb" dir="rtl"><p> 
+        <div type="margin" mode="horizontal-tb" dir="rtl">
+			<p> 
                 中華民國二十八年四月廿一日　晶報　星期五　第二版<lb/>     
-        </p></div>
-        <div type="article">
+			</p>
+		</div>
+        <div type="article" itemid="286">
             <p>
+
                 英法通知蘇聯<lb/>
                 締結三强協定<lb/>
                 蘇召各使回國傳將有新動作<lb/>
@@ -35,7 +39,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="287">
             <p>
                 墨索里尼昨發表演說<lb/>
                 猶侈言和平正義<lb/>
@@ -64,7 +68,8 @@
                 </p>
             
         </div>
-        <div type="article">
+
+        <div type="article" itemid="288">
             <p>
                 英設軍需部<lb/>
             </p>
@@ -81,7 +86,8 @@
                 </p>
             
         </div>
-        <div type="article">
+
+        <div type="article" itemid="289">
             <p>
                 汪未離河內<lb/>
             </p>
@@ -98,7 +104,8 @@
                 </p>
             
         </div>
-        <div type="article">
+
+        <div type="article" itemid="290">
             <p>
                 國共無磨擦<lb/>
             </p>
@@ -116,7 +123,8 @@
                 </p>
             
         </div>
-        <div type="article">
+
+        <div type="article" itemid="291">
             <p>
                 中航機<lb/>
                 試飛仰光<lb/>
@@ -137,7 +145,8 @@
                 </p>
             
         </div>
-        <div type="article">
+
+        <div type="article" itemid="292">
             <p>
                 德機越比境<lb/>
                 被迫降落<lb/>
@@ -154,7 +163,8 @@
                 </p>
             
         </div>
-        <div type="article">
+
+        <div type="article" itemid="293">
             <p>
                 德祝壽盛典<lb/>
                 軍事大檢閱<lb/>
@@ -181,7 +191,8 @@
                 </p>
             
         </div>
-        <div type="article">
+
+        <div type="article" itemid="294">
             <p>
                 美任命西使<lb/>
             </p>
@@ -196,7 +207,8 @@
                 </p>
             
         </div>
-        <div type="article">
+
+        <div type="article" itemid="295">
             <p>
                 華政府撥款千萬元<lb/>
                 發展西部生產<lb/>
@@ -223,7 +235,8 @@
                 </p>
             
         </div>
-        <div type="article">
+
+        <div type="article" itemid="296">
             <p>
                 美參院通過<lb/>
                 文生海軍案<lb/>
@@ -245,7 +258,8 @@
                 </p>
             
         </div>
-        <div type="article">
+
+        <div type="article" itemid="297">
             <p>
                 對美總統建議<lb/>
                 孔極盼成功<lb/>
@@ -267,7 +281,9 @@
                 </p>
             
         </div>
-        <div type="article">
+
+
+        <div type="article" itemid="298">
             <p mode="horizontal-tb" dir="rtl">
                 蔣寄世展會之至寶<lb/>
                 白玉神龕無恙<lb/>
@@ -290,7 +306,8 @@
                 </p>
             
         </div>
-        <div type="article">
+
+        <div type="article" itemid="299">
             <p>
                 長篇<lb/>
                 小說<lb/>
@@ -338,7 +355,8 @@
                 </p>
             
         </div>
-        <div type="advert">
+
+        <div type="advert" itemid="581">            
             <p mode="horizontal-tb" dir="rtl">
                 海上別樹一幟服飾專家<lb/>
             </p>
@@ -382,7 +400,8 @@
                 地址九江路雲南路西<lb/>
             </p>
         </div>
-        <div type="advert">
+
+        <div type="advert" itemid="582">
             <p>
                 老協大祥<lb/>
             </p>
@@ -413,29 +432,35 @@
                 八仙橋小菜場<lb/>
             </p>
         </div>
-        <div type="advert">
-            <p mode="horizontal-tb" dir="rtl">
-                常服<lb/>
-                中英菓子𥂁<lb/>
-                永保健康<lb/>
-            </p>
-            <!--  see #128       -->
-<!--            <div type="image"/> -->
-            <p>
-                降火消積<lb/>
-                淸血潤腸<lb/>
-                平肝利氣<lb/>
-                開胃提神<lb/>
-                衞生署成藥許<lb/>
-                可證第八一六號<lb/>
-            </p>
-            <p mode="horizontal-tb" dir="rtl">
-                中英大藥房發行<lb/>
-                總公司　上　海　四　馬　路<lb/>
-                分發行　霞飛路國泰大戲院對面<lb/>
-            </p>
+
+        <div type="advert" itemid="583">
+            <div type="other">
+                 <p mode="horizontal-tb" dir="rtl">
+                     常服<lb/>
+                     中英菓子𥂁<lb/>
+                     永保健康<lb/>
+                 </p>
+            </div>
+            <div type="image" itemid="413"/> 
+            <div type="other">
+                <p>
+     
+                     降火消積<lb/>
+                     淸血潤腸<lb/>
+                     平肝利氣<lb/>
+                     開胃提神<lb/>
+                     衞生署成藥許<lb/>
+                     可證第八一六號<lb/>
+                 </p>
+                 <p mode="horizontal-tb" dir="rtl">
+                     中英大藥房發行<lb/>
+                     總公司　上　海　四　馬　路<lb/>
+                     分發行　霞飛路國泰大戲院對面<lb/>
+                 </p>
+            </div>
         </div>
-        <div type="advert">
+
+        <div type="advert" itemid="449">           
             <p mode="horizontal-tb" dir="rtl">
                 振新<lb/>
                 洗染廠<lb/>
@@ -486,7 +511,7 @@
     </div>
     <!-- start middle of the fold -->
     <div type="margin" mode="vertical-rl" dir="rtl">
-        <div type="advert">
+        <div type="advert" itemid="584">           
             <p mode="horizontal-tb" dir="rtl">
                 梅邨<lb/>
             </p>
@@ -516,7 +541,8 @@
                     壁<lb/>
             </p>
         </div>
-        <div type="advert">
+
+        <div type="advert" itemid="585">
             <p>
                 小兒科<lb/>
                 內　科<lb/>
@@ -537,7 +563,8 @@
                 ▲電話八一〇四二號<lb/>
             </p>
         </div>
-        <div type="advert">
+
+        <div type="advert" itemid="586">
             <p>
                 陳效懷醫師<lb/>
             </p>
@@ -565,10 +592,12 @@
     </div>
     <!-- start recto page -->
     <div page="recto" n="3" mode="vertical-rl" dir="rtl">
-        <div type="margin" mode="horizontal-tb" dir="rtl"><p>
+        <div type="margin" mode="horizontal-tb" dir="rtl">
+			<p>
                 中華民國二十八年四月廿一日　晶報　星期五　第三版<lb/>
-        </p></div>
-        <div type="article">
+			</p>
+		</div>
+        <div type="article" itemid="300">
             <p mode="horizontal-tb" dir="rtl">
                 滬西血案<lb/>
             </p>
@@ -597,7 +626,8 @@
                 </p>
             
         </div>
-        <div type="article">
+
+        <div type="article" itemid="301">
             <p>
                 秦潤卿<lb/>
                 有子不肖<lb/>
@@ -651,7 +681,8 @@
                 </p>
             
         </div>
-        <div type="article">
+
+        <div type="article" itemid="304">
             <p>
                 游春之罪惡<lb/>
                 誘姦孤寡弟媳婦<lb/>
@@ -677,7 +708,8 @@
                 </p>
             
         </div>
-        <div type="article">
+
+        <div type="article" itemid="302">
             <p>
                 潘承坰<lb/>
                 昨被擲糞<lb/>
@@ -705,7 +737,8 @@
                 </p>
             
         </div>
-        <div type="article">
+
+        <div type="article" itemid="303">
             <p>
                 難民挺而走險<lb/>
                 傷愈後昨解法院<lb/>
@@ -784,7 +817,8 @@
                 </p>
             
         </div>
-        <div type="article">
+
+        <div type="article" itemid="305">
             <p>
                 煙兌號經理侵占<lb/>
                 供稱已輸完<lb/>
@@ -823,10 +857,10 @@
                     、姜推事核詞、諭<lb/>
                     知本案改期一星期<lb/>
                     再訊、<lb/>
-                </p>
-            
+                </p>            
         </div>
-        <div type="article">
+
+        <div type="article" itemid="306">
             <p mode="horizontal-tb" dir="rtl">
                 影星黎莉莉舊居<lb/>
                 發生逼遷糾紛<lb/>
@@ -869,7 +903,8 @@
                 </p>
             
         </div>
-        <div type="article">
+
+        <div type="article" itemid="307">
             <p>
                 慶餘里客房<lb/>
                 被逼遷移<lb/>
@@ -912,7 +947,8 @@
                 </p>
             
         </div>
-        <div type="article">
+
+        <div type="article" itemid="308">           
             <p mode="horizontal-tb" dir="rtl">
                 拘獲竊賊十一名<lb/>
                 專竊機器馬達<lb/>
@@ -948,7 +984,8 @@
                 </p>
             
         </div>
-        <div type="article">
+
+        <div type="article" itemid="309">
             <p>
                 火警兩起<lb/>
             </p>
@@ -986,7 +1023,8 @@
                 </p>
             
         </div>
-        <div type="article">
+
+        <div type="article" itemid="310">
             <p>
                 經濟簡訊<lb/>
             </p>
@@ -1059,12 +1097,13 @@
                 </p>
             
         </div>
-        <div type="article">
+
+        <div type="article" itemid="311">
             <p>
                 今雜事祕<lb/>
             </p>
             <p>
-              　△早熟<lb/>
+                △早熟<lb/>
             </p>
             <p mode="horizontal-tb" dir="rtl">
                 （十四）<lb/>
@@ -1093,44 +1132,48 @@
                 </p>
             
         </div>
-        <div type="advert">
-            <!--  see #128       -->
-<!--            <div type="image"/>-->
-            <p mode="horizontal-tb" dir="rtl">
-                本品特効<lb/>
-            </p>
-            <p>
-                調經<lb/>
-                活血<lb/>
-                溫宮<lb/>
-                催孕<lb/>
-            </p>
-            <p>
-                曉霞茜<lb/>
-            </p>
-            <p mode="horizontal-tb" dir="rtl">
-                當歸兒<lb/>
-            </p>
-            <!--  see #128       -->
-<!--            <div type="image"/> -->
-            <p>
-                當歸爲婦人<lb/>
-                科聖藥，早<lb/>
-                經國醫界所<lb/>
-                推重，今更<lb/>
-                應用科學方<lb/>
-                法煉製，功<lb/>
-                効倍增，治<lb/>
-                月經不調，<lb/>
-                經痛經閉經<lb/>
-                稀宮冷，久<lb/>
-                不生育，均<lb/>
-                有特効。<lb/>
-                新亞藥廠製造<lb/>
-                藥房均售<lb/>
-            </p>
+
+        <div type="advert" itemid="587">
+            <div type="image" itemid="414"/>
+            <div type="other">
+                <p mode="horizontal-tb" dir="rtl">
+                    本品特効<lb/>
+                </p>
+                <p>
+                    調經<lb/>
+                    活血<lb/>
+                    溫宮<lb/>
+                    催孕<lb/>
+                </p>
+                <p>
+                    曉霞茜<lb/>
+                </p>
+                <p mode="horizontal-tb" dir="rtl">
+                    當歸兒<lb/>
+                </p>
+            </div>
+            <div type="image" itemid="415"/> 
+            <div type="other">
+                <p>
+                    當歸爲婦人<lb/>
+                    科聖藥，早<lb/>
+                    經國醫界所<lb/>
+                    推重，今更<lb/>
+                    應用科學方<lb/>
+                    法煉製，功<lb/>
+                    効倍增，治<lb/>
+                    月經不調，<lb/>
+                    經痛經閉經<lb/>
+                    稀宮冷，久<lb/>
+                    不生育，均<lb/>
+                    有特効。<lb/>
+                    新亞藥廠製造<lb/>
+                    藥房均售<lb/>
+                </p>
+            </div>
         </div>
-        <div type="advert">
+
+        <div type="advert" itemid="588">
             <p mode="horizontal-tb" dir="rtl">
                 大華舞廳<lb/>
             </p>
@@ -1167,7 +1210,9 @@
                 電話八一三八一號<lb/>
             </p>
         </div>
-        <div type="advert">
+
+
+        <div type="advert" itemid="589">
             <p mode="horizontal-tb" dir="rtl">
                 虎標<lb/>
             </p>

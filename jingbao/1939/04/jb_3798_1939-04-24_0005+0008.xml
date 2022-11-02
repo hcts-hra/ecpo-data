@@ -2,7 +2,7 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3798_1939-04-24_0005to0008" lastedit="2021-07-20" lasteditor="xiejia1995">
+<fold xml:id="jb_3798_1939-04-24_0005to0008" lastedit="2022-09-21" lasteditor="xiejia1995" issueid="23">
     <!-- start recto page   -->
     <div type="page" page="recto" n="5" mode="vertical-rl" dir="rtl">
         <div type="other">
@@ -10,58 +10,56 @@
                 中華民國二十八年四月廿四日　晶報　星期一　第五版<lb/>
             </p></div>
         </div>
-        <div type="article">
+        <div type="image" itemid="370">
             <p dir="rtl" mode="horizontal-tb">
                 文化營<lb/>
             </p>
-            <!--	see #128		-->
-<!--            <div type="image"/>-->
             <p dir="rtl" mode="horizontal-tb">
                 黔野主編<lb/>
             </p>
         </div>
-        <div type="article">
+        <div type="article" itemid="553">
             <p>
                 談文字獄　潢虎<lb/>
             </p>
-                <p>
-                    我們一想到文字獄，便以爲是忠臣志士，睠懷故國，發之詩文，或是剛正不<lb/>
-                    阿，力持正議，以致觸犯忌諱。不道試一尋究，其中忠臣志士固屬不少，無心觸<lb/>
-                    犯的更多，而還有許多倒是「拍馬」不巧拍出來的。<lb/>
-                </p>
-                <p>
-                    明太祖時有人作謝表，里面有一句『作則重憲』，太祖道『則』音近賊，便<lb/>
-                    把他殺掉，又有人作謝表，里面有一句，『光溢綸扉』，太祖道『扉』音近匪，<lb/>
-                    也殺掉。太祖自己作和尚，所以僧字犯忌諱，有人作賀表，內有一句『睿性生知<lb/>
-                    』，道生字近僧也殺掉。像這幾句話原是極恭維皇帝的，可寃寃枉枉地遭了殺身<lb/>
-                    之禍。<lb/>
-                </p>
-                <p>
-                    淸朝的文字獄，像莊史獄，原屬別有用意，爲一網打盡之計，就是並無忌諱<lb/>
-                    ，也不免於遭殃的。現在商務印書館所影印的莊史殘冊，里面稱淸室爲聖淸，還<lb/>
-                    有恭維淸朝的話，只是多夷，虜，建州之名，也並沒有什麼了不得的毀詆。<lb/>
-                </p>
-                <p>
-                    雍正時，有人作了一篇文章祝頌皇帝，他知道雍正帝排行老四，據他看來，一<lb/>
-                    定還有大太子以至三太子，他們讓位給四太子的，所以里面說雍正卽帝位時，讓<lb/>
-                    再讓三，强而後可。這種話原是說雍正帝無利天下之心，是很恭維他的，不料龍<lb/>
-                    心大怒，送掉性命。乾隆時有個教書先生做了一個夢，夢見太陽落下來，被他托<lb/>
-                    住，醒來很得意，便作了一篇記，趁『聖駕』南巡的當兒呈上去，希望『肩担日<lb/>
-                    月，』做個應夢賢臣，不料乾隆帝不喜那一套，說他妖言惑衆，把來殺掉。<lb/>
-                </p>
-                <p>
-                    頂好笑的，有一個秀才愛上了他的表妹，他的舅舅嫌他窮，不答應，他一急就<lb/>
-                    吿下了御狀，要乾隆帝替他出尖，把表妹斷給他。呈子上還說要是成功，他願殺<lb/>
-                    身以報。這一個單戀的癡秀才終於也送了性命。<lb/>
-                </p>
-                <p>
-                    這班因獻媚而得罪的可憐蟲大抵是酸秀才，窮敎讀，想功名，想財貨，想老婆<lb/>
-                    想昏了心，如今，見之，但覺可笑，和可憐。而當時皇帝竟會板起了臉，忍住了<lb/>
-                    笑，一本正經的當他兇犯，何其異哉。<lb/>
-                </p>
+            <p>
+                我們一想到文字獄，便以爲是忠臣志士，睠懷故國，發之詩文，或是剛正不<lb/>
+                阿，力持正議，以致觸犯忌諱。不道試一尋究，其中忠臣志士固屬不少，無心觸<lb/>
+                犯的更多，而還有許多倒是「拍馬」不巧拍出來的。<lb/>
+            </p>
+            <p>
+                明太祖時有人作謝表，里面有一句『作則重憲』，太祖道『則』音近賊，便<lb/>
+                把他殺掉，又有人作謝表，里面有一句，『光溢綸扉』，太祖道『扉』音近匪，<lb/>
+                也殺掉。太祖自己作和尚，所以僧字犯忌諱，有人作賀表，內有一句『睿性生知<lb/>
+                』，道生字近僧也殺掉。像這幾句話原是極恭維皇帝的，可寃寃枉枉地遭了殺身<lb/>
+                之禍。<lb/>
+            </p>
+            <p>
+                淸朝的文字獄，像莊史獄，原屬別有用意，爲一網打盡之計，就是並無忌諱<lb/>
+                ，也不免於遭殃的。現在商務印書館所影印的莊史殘冊，里面稱淸室爲聖淸，還<lb/>
+                有恭維淸朝的話，只是多夷，虜，建州之名，也並沒有什麼了不得的毀詆。<lb/>
+            </p>
+            <p>
+                雍正時，有人作了一篇文章祝頌皇帝，他知道雍正帝排行老四，據他看來，一<lb/>
+                定還有大太子以至三太子，他們讓位給四太子的，所以里面說雍正卽帝位時，讓<lb/>
+                再讓三，强而後可。這種話原是說雍正帝無利天下之心，是很恭維他的，不料龍<lb/>
+                心大怒，送掉性命。乾隆時有個教書先生做了一個夢，夢見太陽落下來，被他托<lb/>
+                住，醒來很得意，便作了一篇記，趁『聖駕』南巡的當兒呈上去，希望『肩担日<lb/>
+                月，』做個應夢賢臣，不料乾隆帝不喜那一套，說他妖言惑衆，把來殺掉。<lb/>
+            </p>
+            <p>
+                頂好笑的，有一個秀才愛上了他的表妹，他的舅舅嫌他窮，不答應，他一急就<lb/>
+                吿下了御狀，要乾隆帝替他出尖，把表妹斷給他。呈子上還說要是成功，他願殺<lb/>
+                身以報。這一個單戀的癡秀才終於也送了性命。<lb/>
+            </p>
+            <p>
+                這班因獻媚而得罪的可憐蟲大抵是酸秀才，窮敎讀，想功名，想財貨，想老婆<lb/>
+                想昏了心，如今，見之，但覺可笑，和可憐。而當時皇帝竟會板起了臉，忍住了<lb/>
+                笑，一本正經的當他兇犯，何其異哉。<lb/>
+            </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="554">
             <p>亞洲內幕<lb/></p>
             <p>約翰耿脫著<lb/>
                 亦 朋　譯<lb/></p>
@@ -138,7 +136,8 @@
                 </p>
             
         </div>
-        <div type="article">
+
+        <div type="article" itemid="555">
             <p>
                 詩經話繹　如鐿<lb/>
                 四　靜女　（邶風）<lb/>
@@ -185,41 +184,37 @@
                 ，美人之貽。<lb/>
             </p>
         </div>
-        <div type="article">
+        <div type="image" itemid="371">
             <p>
                 動物的叛變　（二）<lb/>
                 最聰明的深思熟慮⋯⋯⋯<lb/>
             </p>
-            <!--	see #128		-->
-<!--            <div type="image"/>-->
         </div>
-        <div type="article">
+        <div type="article" itemid="558">
             <p mode="horizontal-tb" dir="rtl">
                 袁寒雲先生手寫<lb/>
                 丁卯日記之四<lb/>
             </p>
-            <!--	see #128		-->
-<!--            <div type="image">-->
-                <!-- 
+            <p>
                     初十日得世傑書畣之偕六良朝發之濟南<lb/>
                     睂雲送別驛亭車中譔賣𠌶聲寄畣槑<lb/>
-                    <正體字版本：“睂”爲“眉”；“𠌶”爲“花”>
+                    <!--正體字版本：“睂”爲“眉”；“𠌶”爲“花”-->
                     眞卽用其均辭曰𦱤㪅放旾殘教夢無端東<lb/>
-                    <正體字版本:“均”通“韵”；“𦱤㪅”爲“莫更”；“旾”爲“春”>
+                    <!--正體字版本:“均”通“韵”；“𦱤㪅”爲“莫更”；“旾”爲“春”-->
                     風已自滿江干𠊳是相思深幾許可奈天寒<lb/>
-                    <正體字版本：“𠊳”爲“便”>          
-               底事問悲歡門外關山嗁塵咽袂去㽞難<lb/>
-                    <正體字版本：“嗁”爲“啼”；“㽞”爲“留”>
+                    <!--正體字版本：“𠊳”爲“便”-->          
+                    底事問悲歡門外關山嗁塵咽袂去㽞難<lb/>
+                    <!--正體字版本：“嗁”爲“啼”；“㽞”爲“留”-->
                     𠌶妬𠌶愁都未了隔住紅闌夕到濟信宿金<lb/>
                     水旅館寄睂雲書<lb/>                
                     十一日禮門伯華來訪偕六良邀之賣醉市<lb/>
                     樓竝召金鈴同飲旋過禮門家夜䛡<lb/>
-                    <正體字版本：“竝”爲“並”；“䛡”爲“話”>
+                    <!--正體字版本：“竝”爲“並”；“䛡”爲“話”-->
                     十二日伯華邀飲晤董睂林睂林集語屬爲<lb/>
-                -->
-            <!--</div>-->
-        </div>                  
-        <div type="article">
+
+        </p>    
+        </div>
+        <div type="article" itemid="556">
             <p>
                 愛國志士<lb/>
                 賽珍珠女士作<lb/>
@@ -309,7 +304,8 @@
                 </p>
             
         </div>
-        <div type="article">
+
+        <div type="article" itemid="557">
             <p>
             每日國際政治測驗<lb/>
             </p>
@@ -334,7 +330,7 @@
             （昨日答案：五，三，）<lb/></p>
             
         </div>
-        <div type="advert">
+        <div type="advert" itemid="660">
             <p mode="horizontal-tb" dir="rtl">
                 暑期之必需品<lb/>
             </p>
@@ -356,7 +352,7 @@
                 美華汽水公司出品<lb/>
             </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="661">
             <p mode="horizontal-tb" dir="rtl">
                 大華舞廳<lb/>
             </p>
@@ -389,7 +385,7 @@
                 電話八一三八一號<lb/>
             </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="662">
             <p mode="horizontal-tb" dir="rtl">
                 虎標<lb/>
             </p>
@@ -411,14 +407,18 @@
  
     <!-- start verson page -->
     <div type="page" page="verso" n="8" dir="rtl" mode="vertical-rl">
-        <div type="margin" mode="horizontal-tb" dir="rtl"><p>
-            中華民國二十八年四月廿四日　晶報　星期一　第八版<lb/>
-        </p></div>
-        <div type="article" mode="horizontal-tb" dir="rtl"><p>
-            影城<lb/>
-            趙廉田豐合輯<lb/>
-        </p></div>
-        <div type="article">
+        <div type="margin" mode="horizontal-tb" dir="rtl">
+            <p>
+                中華民國二十八年四月廿四日　晶報　星期一　第八版<lb/>
+            </p>
+        </div>
+        <div type="image" mode="horizontal-tb" dir="rtl" itemid="452">
+            <!--影城<lb/>-->
+            <p>
+              趙廉田豐合輯<lb/>
+            </p>
+        </div>
+        <div type="article" itemid="577">
             <p>
                 滬光‧金門‧平安之外<lb/>
                 上海究有多少新戯院出現<lb/>
@@ -504,7 +504,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="578">
             <p>
                 「化身姑娘」連拍兩集<lb/>
             </p>
@@ -528,7 +528,7 @@
                 <p>（英子）<lb/></p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="576">
             <p>
                 袁美雲吼了<lb/>
             </p>
@@ -548,7 +548,7 @@
                 <p> （末將）<lb/></p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="579">
             <p>
                 陳綺霞比前漂亮<lb/>
                 陳玉梅胖了瘦<lb/>
@@ -582,7 +582,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="580">
             <p>
                 陳雲裳打算在上海久住<lb/>
                 香港方面無法拍攝國語片<lb/>
@@ -621,25 +621,30 @@
                 </p>
             
         </div>
-        <div type="advert">
-            <p mode="horizontal-tb" dir="rtl">
-                中國廣生行出品<lb/>
-            </p>
-            <!--	see #128		-->
-<!--            <div type="image"/>-->
-            <p mode="horizontal-tb" dir="rtl">
-                雙妹牌<lb/>
-                生髮油<lb/>
-                千日香<lb/>
-            </p>
-            <!--	see #128		-->
-<!--            <div type="image"/>-->
-            <p>
-                送禮自用<lb/>
-                并皆曼妙<lb/>
-            </p>
+        <div type="advert" itemid="675">
+            <div mode="horizontal-tb" dir="rtl">
+                <p>
+                    中國廣生行出品<lb/>
+                </p>
+            </div>
+            <div type="image" itemid="375"></div>
+            <div mode="horizontal-tb" dir="rtl">
+                <p>
+                  雙妹牌<lb/>
+                  生髮油<lb/>
+                  千日香<lb/>
+                </p>
+            </div>
+            <div type="image" itemid="376"></div>
+            <div type="other">
+                <p>
+                   送禮自用<lb/>
+                   并皆曼妙<lb/>
+                </p>   
+            </div>
         </div>
-        <div type="advert"><p>
+        <div type="advert" itemid="673">
+        <p>
             中西按摩院<lb/>
             本院聘有中西美貌<lb/>
             女子精按摩術服務<lb/>
@@ -647,14 +652,15 @@
             上午十二時至下午八時　地址卡德路八號大廈四號房間<lb/>
             （愛文義路口）<lb/>
         </p></div>
-        <div type="advert"><p>
+        <div type="advert" itemid="674">
+        <p>
             中西按摩術<lb/>
             本院向來聘請高尚中西<lb/>
             美女精於按摩有特殊奇<lb/>
             術及修指甲歡迎中西嘉<lb/>
             賓　（地址）卡德路四十一弄七十二號樓上九號房間<lb/>
         </p></div>
-        <div type="advert">
+        <div type="advert" itemid="536">
             <p mode="horizontal-tb" dir="rtl">
                 天樂園酒樓<lb/>
             </p>
@@ -667,7 +673,7 @@
                 △電話九四九四七號▽<lb/>
             </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="676">
             <p>
             沈淇泉太史潤格<lb/>
             </p>
@@ -803,7 +809,7 @@
     </div>
     <!--start middle of the fold-->
     <div type="margin">
-        <div type="advert">
+        <div type="advert" itemid="677">
             <p>
                 毛興昌<lb/>
             </p>
@@ -824,52 +830,50 @@
                 毛興昌啓<lb/>
             </p>
         </div>
-        <div type="advert">
-            <!--	see #128		-->
-<!--            <div type="image"/>-->
-            <p mode="horizontal-tb" dir="rtl">
-                一滴淸<lb/>
-                眼薬水<lb/>
-            </p>
-            <!--	see #128		-->
-<!--            <div type="image"/>-->
-            <p>
-                統治<lb/>
-                目疾<lb/>
-                一滴<lb/>
-                見效<lb/>
-            </p>
-            <p>
-                ◇一滴淸眼藥水主治之眼病◇<lb/>
-                砂眼赤眼<lb/>
-                羞明畏光<lb/>
-                顆粒密生<lb/>
-                雲翳外障<lb/>
-                瘙癢多脂<lb/>
-                迎風流淚<lb/>
-                視力模糊<lb/>
-                眼皮發紅<lb/>
-            </p>
-            <p>
-                消毒完全<lb/>
-                功効確實<lb/>
-                攜帶便利<lb/>
-                價値低廉<lb/>
-                （每瓶貳角四）<lb/>
-            </p>
-            <p>
-                三洋涇橋<lb/>
-                江西路口<lb/>
-            </p>
-            <p>
-            新華藥行發行<lb/>
-            </p>
-            <!--	see #128		-->
-<!--            <div type="image"/>-->
-            <p mode="horizontal-tb" dir="rtl">
-                新華大藥行監製<lb/>
-                上海江西路十號<lb/>
-            </p>
+        <div type="advert" itemid="678">
+            <div type="image" itemid="377"/>
+            <div type="other">
+              <p mode="horizontal-tb" dir="rtl">
+                 一滴淸<lb/>
+                 眼薬水<lb/>
+              </p>           
+             <p>
+                 統治<lb/>
+                 目疾<lb/>
+                 一滴<lb/>
+                 見效<lb/>
+             </p>
+             <p>
+                 ◇一滴淸眼藥水主治之眼病◇<lb/>
+                 砂眼赤眼<lb/>
+                 羞明畏光<lb/>
+                 顆粒密生<lb/>
+                 雲翳外障<lb/>
+                 瘙癢多脂<lb/>
+                 迎風流淚<lb/>
+                 視力模糊<lb/>
+                 眼皮發紅<lb/>
+             </p>
+             <p>
+                 消毒完全<lb/>
+                 功効確實<lb/>
+                 攜帶便利<lb/>
+                 價値低廉<lb/>
+                 （每瓶貳角四）<lb/>
+             </p>
+             <p>
+                 三洋涇橋<lb/>
+                 江西路口<lb/>
+             </p>
+             <p>
+                新華藥行發行<lb/>
+             </p>
+                <p mode="horizontal-tb" dir="rtl">
+                    新華大藥行監製<lb/>
+                    上海江西路十號<lb/>
+                </p>
+            </div>
+            <div type="image" itemid="378"/>            
         </div>
     </div>
 </fold>

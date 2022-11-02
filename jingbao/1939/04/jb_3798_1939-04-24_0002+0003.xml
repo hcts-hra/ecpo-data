@@ -2,15 +2,15 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3798_1939-04-24_0002to0003" lastedit="2021-07-14" lasteditor="xiejia1995">
+<fold xml:id="jb_3798_1939-04-24_0002to0003" lastedit="2022-09-21" lasteditor="xiejia1995" issueid="23">
     <div type="page" page="verso" n="2" mode="vertical-rl" dir="rtl">
-        <div type="other">
-            <div type="margin" mode="horizontal-tb" dir="rtl"><p> 
+        <div type="margin" mode="horizontal-tb" dir="rtl">
+            <p> 
                 中華民國二十八年四月廿四日　晶報　星期一　第二版<lb/>     
-            </p></div>
+            </p>
         </div>
-        <div type="article">
-            <p>
+        <div type="article" itemid="513">
+           <p>
                 英法圖與蘇聯<lb/>
                 成立三國同盟<lb/>
                 放棄一般性集體安全計劃<lb/>
@@ -45,7 +45,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="514">
             <p mode="horizontal-tb" dir="rtl">
                 德國計劃<lb/>
             </p>
@@ -72,8 +72,8 @@
                 </p>
             
         </div>
-        <div type="article">
-            <p>
+        <div type="article" itemid="515">
+           <p>
                 義南談話<lb/>
                 義人甚滿意<lb/>
             </p>
@@ -94,8 +94,8 @@
                 以見之、<lb/>
             </p>
         </div>
-        <div type="article">
-            <p>
+        <div type="article" itemid="516">
+           <p>
                 蘇聯海軍<lb/>
                 春季演習<lb/>
             </p>
@@ -112,8 +112,8 @@
                 謀總長茄勒等、<lb/>
             </p>
         </div>
-        <div type="article">
-            <p>
+        <div type="article" itemid="517">
+           <p>
                 范朋克結婚<lb/>
                 父任嬪相<lb/>
             </p>
@@ -126,8 +126,8 @@
                 、充男嬪相云、<lb/>
             </p>
         </div>
-        <div type="article">
-            <p>
+        <div type="article" itemid="518">
+           <p>
                 波蘭動員<lb/>
                 每日用費四萬鎊<lb/>
             </p>
@@ -156,8 +156,8 @@
                 四月廿四日、<lb/>
             </p>
         </div>
-        <div type="article">
-            <p>
+        <div type="article" itemid="519">
+           <p>
                 西國寶運瑞士<lb/>
                 文藝珍品世所罕見<lb/>
             </p>
@@ -173,37 +173,37 @@
                 泰西文化之結晶也、<lb/>
             </p>
         </div>
-        <div type="article">
+        <div type="article" itemid="520">
             <p mode="horizontal-tb" dir="rtl">
                 美已實行徵收<lb/>
                 德貨懲罰稅<lb/>
             </p>
             
-                <p>
-                    （華盛頓<lb/>
-                    廿三日<lb/>
-                    美聯電）<lb/>
-                    美國對進<lb/>
-                    口德貨所<lb/>
-                    徵收之「<lb/>
-                    懲罰稅」、已於昨<lb/>
-                    晚開始實行、設徵<lb/>
-                    此種稅則之目的、<lb/>
-                    乃在懲罰德國、違<lb/>
-                    反美貨及在歐洲之<lb/>
-                    侵略、此制實行之<lb/>
-                    後、預料可使德國<lb/>
-                    對美出口、完全陷<lb/>
-                    於停頓狀態、在過<lb/>
-                    去兩週內、曾有大<lb/>
-                    批德貨、運往美國<lb/>
-                    、企圖避免此種稅<lb/>
-                    之徵收云、<lb/>
-                </p>
+            <p>
+                （華盛頓<lb/>
+                廿三日<lb/>
+                美聯電）<lb/>
+                美國對進<lb/>
+                口德貨所<lb/>
+                徵收之「<lb/>
+                懲罰稅」、已於昨<lb/>
+                晚開始實行、設徵<lb/>
+                此種稅則之目的、<lb/>
+                乃在懲罰德國、違<lb/>
+                反美貨及在歐洲之<lb/>
+                侵略、此制實行之<lb/>
+                後、預料可使德國<lb/>
+                對美出口、完全陷<lb/>
+                於停頓狀態、在過<lb/>
+                去兩週內、曾有大<lb/>
+                批德貨、運往美國<lb/>
+                、企圖避免此種稅<lb/>
+                之徵收云、<lb/>
+            </p>
             
         </div>
-        <div type="article">
-            <p>
+        <div type="article" itemid="521">
+           <p>
                 蘇聯創制<lb/>
                 新式飛機<lb/>
             </p>
@@ -223,7 +223,7 @@
                 哩、<lb/>
             </p>
         </div>
-        <div type="article">
+        <div type="article" itemid="522">
             <p>            
                 長篇<lb/>
                 小說<lb/>
@@ -259,7 +259,7 @@
             </p>
                
         </div>
-        <div type="advert">
+        <div type="advert" itemid="650">
             <p>
                 福煦路南成都路口<lb/>
                 振新洗染廠<lb/>
@@ -273,7 +273,7 @@
                 精染不褪色綢緞衣料<lb/>
             </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="652">
             <p mode="horizontal-tb" dir="rtl">
                 梅邨<lb/>
             </p>
@@ -308,7 +308,7 @@
                 </p>
             
         </div>
-        <div type="advert">
+        <div type="advert" itemid="653">
            <p>
                石路二馬路口<lb/>
            </p>
@@ -386,7 +386,7 @@
     </div>
     <!--start middle of the fold-->
     <div type="margin">
-        <div type="advert">
+        <div type="advert" itemid="512">
             <p>
                 都會<lb/>
             </p>
@@ -456,7 +456,7 @@
                 電話：九七〇五二<lb/>
             </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="654">
             <p mode="horizontal-tb" dir="rtl">
                 好美塢樂園<lb/>
             </p>
@@ -492,8 +492,8 @@
                 中華民國二十八年四月廿四日　晶報　星期一　第三版<lb/>
             </p></div>
         </div>
-        <div type="article">
-            <p>
+        <div type="article" itemid="523">
+           <p>
                 虹口不安寧<lb/>
                 鉅竊案迭出不已<lb/>
                 日警署全體出動偵查<lb/>
@@ -506,9 +506,8 @@
                 一〇一四號內、日方乃於二十二日、會同捕房在該號內、拘<lb/>
                 獲余洪章、陳再友、據日文報稱、所獲之邱等、且有參加放<lb/>
                 火嫌疑云、<lb/>
-            </p>
-        </div>      
-        <div type="article">
+            </p>          
+        
             <p>
                 犯案<lb/>
                 八起<lb/>
@@ -539,8 +538,8 @@
                 查、改期明日再訊、<lb/>
             </p>
         </div>
-        <div type="article">
-            <p>
+        <div type="article" itemid="524">
+           <p>
                 染缸<lb/>
                 豈能充臥床<lb/>
                 學徒灼傷甚重<lb/>
@@ -562,8 +561,8 @@
                 及皮肉、傷勢極重<lb/>
             </p>
         </div>
-        <div type="article">
-            <p>
+        <div type="article" itemid="525">
+           <p>
                 輪船公司未開成<lb/>
                 不允發還保證金<lb/>
                 交涉無效報捕緝獲雙方和解<lb/>
@@ -595,7 +594,7 @@
                 少亭等均無罪、<lb/>
             </p>
         </div>
-        <div type="article">
+        <div type="article" itemid="526">
             <p mode="horizontal-tb" dir="rtl">
                 白米<lb/>
             </p>
@@ -611,26 +610,21 @@
                 元、亦均無榮辱、<lb/>
             </p>
         </div>
-        <div type="article">
-            
+        <div type="article" itemid="527">            
             <p>
                 一百四十九代表之<lb/>
                 血淚文<lb/>
                 籲請堵塞黃河決口<lb/>
-            </p>
-            
-            
+            </p>         
             <p>
                 本市中外各慈善團體、昨准豫魯及蘇<lb/>
                 北皖北黃災堵口請願代表張韜等一百四<lb/>
                 十九人電、<lb/>
             </p>
-            
             <p>
                 略稱<lb/>
-            </p>
-            
-               <p>
+            </p>            
+            <p>
                 客秋黃水爲災、禍及數省、沉<lb/>
                 淪千里、死亡損失、慘重難言<lb/>
                 、天禍羣生、欲哭無淚、因戰<lb/>
@@ -652,8 +646,8 @@
             </p>
             
         </div>
-        <div type="article">
-            <p>
+        <div type="article" itemid="529">
+           <p>
                 風流的廠主夫人<lb/>
                 兩次與人通姦◇兩度立悔過書<lb/>
                 終被科刑然不願離婚<lb/>
@@ -738,15 +732,16 @@
                 過、論後日宣判、<lb/>               
             </p>
         </div>
-        <div type="article">
-            <p>今雜事祕<lb/></p>
+        <div type="article" itemid="528">
+            <p> 今雜事祕<lb/>
+            </p>
             <p>
                 △井波<lb/>
             </p>
             <p dir="rtl" mode="horizontal-tb">
-                　（二）<lb/>
+                （二）<lb/>
             </p>
-            <p>　
+            <p>
                 捉刀人譔<lb/>
             </p>
             <p>            
@@ -774,8 +769,8 @@
                 勝淋漓，鍋亦毀。禍作，二人瞠目。<lb/>
             </p>
         </div>
-        <div type="article">
-            <p>
+        <div type="article" itemid="530">
+           <p>
                 佛教團體發起<lb/>
                 大白傘蓋法會<lb/>
                 昨開聯席會議<lb/>
@@ -798,8 +793,8 @@
                 寺、等暫墊、<lb/>
             </p>
         </div>
-        <div type="article">
-            <p>
+        <div type="article" itemid="531">
+           <p>
                 星期日<lb/>
                 現金穩定<lb/>
             </p>
@@ -816,7 +811,7 @@
                 同行掛二百〇八元<lb/>
             </p>
         </div>
-        <div type="article">
+        <div type="article" itemid="532">
             <p mode="horizontal-tb" dir="rtl">
                 發槍不發彈<lb/>
                 日方的滑稽巴戲<lb/>
@@ -838,7 +833,7 @@
                 名無實之軍器云、<lb/>
             </p>
         </div>
-        <div type="article">
+        <div type="article" itemid="533">
             <p>
                 ◇火警◇<lb/>
             </p>
@@ -864,7 +859,7 @@
                 始吿撲滅、<lb/>
             </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="514">
             <p>
                 雜誌界巨擘：全書銅版紙彩紙精印每冊兩角<lb/>
             </p>
@@ -886,7 +881,7 @@
                 特輯<lb/>
             </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="515">
             <p>
                 女人特輯<lb/>
                 敬獻於上海的女人<lb/>
@@ -911,7 +906,7 @@
                 痛快<lb/>
             </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="655">
             <p>
                 老協大祥<lb/>
             </p>
@@ -942,7 +937,7 @@
                 八仙橋小菜場<lb/>
             </p>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="656">
             <p mode="horizontal-tb" dir="rtl">
                 四馬路<lb/>
                 晝錦里口<lb/>

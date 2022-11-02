@@ -2,7 +2,7 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3802_1939-04-28_0001to0004" lastedit="2022-10-12" lasteditor="xiejia1995" issueid="27">
+<fold xml:id="jb_3802_1939-04-28_0001to0004" lastedit="2021-08-26" lasteditor="xiejia1995">
     <!-- start recto page   -->
     <div type="page" page="recto" n="1" mode="vertical-rl" dir="rtl">
         <div type="head" dir="rtl" mode="horizontal-tb">
@@ -11,7 +11,7 @@
             </p>
             <p dir="ltr" mode="horizontal-tb">
                 The Crystal<lb/>
-                發行人　A. L. Teodoro<lb/>
+                發行人 A. L. Teodoro<lb/>
             </p>
             <p>
                 館址漢口路二九九號　電話九三四二八<lb/>
@@ -21,7 +21,7 @@
                 中華民國貳拾捌年四月廿八日　星期五　今日兩全張售國幣貳分四厘　本報創刊於民國八年三月三日<lb/>
             </p> 
         </div>
-        <div type="advert" itemid="781">
+        <div type="advert">
             <p>
                 眼科<lb/>
                 專家<lb/>
@@ -52,7 +52,7 @@
                 永安•新新•大新三公司代售<lb/>
             </p>
         </div>
-        <div type="advert" itemid="782">
+        <div type="advert">
             <p mode="horizontal-tb" dir="rtl">
                 天樂園酒樓<lb/>
             </p>
@@ -65,7 +65,7 @@
                 △電話九四九四七號▽<lb/>
             </p>
         </div>
-        <div type="article" itemid="824">
+        <div type="article">
             <p>
                 華軍在湘鄂贛大反攻<lb/>
                 日軍向南昌北潰退<lb/>
@@ -106,7 +106,7 @@
                 </p>
             
         </div>
-        <div type="article" itemid="825">
+        <div type="article">
             <p>
                 日軍由各處增援<lb/>
                 西江情勢緊<lb/>
@@ -178,7 +178,7 @@
                 </p>
             
         </div>
-        <div type="article" itemid="826">
+        <div type="article">
             <p>
                 彭東園槍斃<lb/>
             </p>
@@ -194,7 +194,7 @@
                 </p>
             
         </div>
-        <div type="article" itemid="827">
+        <div type="article">
             <p>
                 華軍逼近<lb/>
                 靖安城郊<lb/>
@@ -216,7 +216,7 @@
                 </p>
             
         </div>
-        <div type="article" itemid="828">
+        <div type="article">
             <p>
                 晉南日軍<lb/>
                 遭受重創<lb/>
@@ -234,7 +234,7 @@
                 </p>
             
         </div>
-        <div type="article" itemid="829">
+        <div type="article">
             <p>
                 蘇日漁業<lb/>
                 成立協定<lb/>
@@ -256,7 +256,7 @@
                 </p>
             
         </div>
-        <div type="article" itemid="830">
+        <div type="article">
             <p>
                 華軍渡黃河北進<lb/>
                 日方亦承認將反攻山東<lb/>
@@ -279,7 +279,7 @@
                 </p>
             
         </div>
-        <div type="article" itemid="831">
+        <div type="article">
             <p mode="horizontal-tb" dir="rtl">
                 豫東埋營集<lb/>
             </p>
@@ -317,7 +317,7 @@
                 </p>
             
         </div>
-        <div type="article" itemid="832">
+        <div type="article">
             <p>
                 華北進行<lb/>
                 反英運動<lb/>
@@ -347,7 +347,7 @@
                 </p>
             
         </div>
-        <div type="article" itemid="833">
+        <div type="article">
             <p mode="horizontal-tb" dir="rtl">
                 吉星文無恙<lb/>
             </p>
@@ -367,7 +367,7 @@
                 </p>
             
         </div>
-        <div type="article" itemid="834">
+        <div type="article">
             <p mode="horizontal-tb" dir="rtl">
                 抗戰以來<lb/>
             </p>
@@ -387,7 +387,7 @@
                     多、所捐之欵佔數亦最鉅、<lb/>       
                 </p>
         </div>       
-            <div type="article" itemid="835">
+            <div type="article">
                 <p>
                     中航擬開辦<lb/>
                     渝康航郵<lb/>
@@ -405,7 +405,7 @@
                 
             </div>
       
-        <div type="article" itemid="836">
+        <div type="article">
             <p>
                 華北法幣<lb/>
                 繼續高漲<lb/>
@@ -426,7 +426,7 @@
                 </p>
             
         </div>
-        <div type="article" itemid="837">
+        <div type="article">
             <p>
                 美郵船公司<lb/>
                 增造大郵船<lb/>
@@ -455,7 +455,7 @@
                 </p>
             
         </div>
-        <div type="article" itemid="838">
+        <div type="article">
             <p>
                 中國女飛行家<lb/>
                 李霞卿上銀幕<lb/>
@@ -472,7 +472,7 @@
                 </p>
             
         </div>
-        <div type="article" itemid="47254">
+        <div type="other">
             <p>
                 本報特闢<lb/>
                 國際常識講話<lb/>
@@ -499,17 +499,18 @@
             <div type="margin" mode="horizontal-tb" dir="rtl"><p>
                 中華民國二十八年四月廿八日　晶報　星期五　第四版<lb/>
             </p></div>
-        <div type="article" itemid="868">
+        <div type="article">
             <p>
                 各國在華航業<lb/>
                 日多方阻撓<lb/>
                 挪威商輪又被扣留<lb/>
                 領海風波一波未平一波又起<lb/>
             </p>
+<!-- TODO(DP): @xiejia please adjust mode and dir for the following paragraph use <r> if that is what the encoder tried to convey          -->
                 <p>
                     日艦任意檢查扣留各國商輪、阻撓各國在華航業後、被扣<lb/>
                     之葡商棠貝等十艘、迄今未釋放、今又有太平輪船公司代理<lb/>
-                    之挪威輪號、<r style="transform: rotate(90deg);">（PROMISE）</r>於本月二十日、由滬<lb/>
+                    之挪威輪號、（PROMISE）於本月二十日、由滬<lb/>
                     裝麵粉雜貨福州、公司方面迄今未得船主之福州電報、今<lb/>
                     始證實該輪、在滬閔途中、已爲日扣留、公司方面决俟<lb/>
                     該輪被扣完全證實後、卽報吿挪威駐總領向日交涉、<lb/>
@@ -524,7 +525,7 @@
                 </p>
             
         </div>
-        <div type="article" itemid="869">
+        <div type="article">
             <p mode="horizontal-tb" dir="rtl">
                 法大使<lb/>
                 昨參觀南市難民區<lb/>
@@ -571,7 +572,7 @@
                 </p>
             
         </div>
-        <div type="article" itemid="870">
+        <div type="article">
             <p>
                 懸旗問題<lb/>
                 在交涉中<lb/>
@@ -593,7 +594,7 @@
                 </p>
             
         </div>
-        <div type="article" itemid="871">
+        <div type="article">
             <p mode="horizontal-tb" dir="rtl">
                 五月一日起<lb/>
                 租界不復聞鞭砲聲<lb/>
@@ -621,7 +622,7 @@
                 </p>
             
         </div>
-        <div type="article" itemid="872">
+        <div type="article">
             <p mode="horizontal-tb" dir="rtl">
                 恩德輪<lb/>
             </p>
@@ -708,7 +709,7 @@
                 </p>
             
         </div>
-        <div type="article" itemid="873">
+        <div type="article">
             <p mode="horizontal-tb" dir="rtl">
                 船戶血<lb/>
             </p>
@@ -729,7 +730,7 @@
                 </p>
             
         </div>
-        <div type="article" itemid="874">
+        <div type="article">
             <p>
                 銀行界的新趨向<lb/>
                 以前種種病癥一掃而淸<lb/>
@@ -787,7 +788,7 @@
                 </p>
             
         </div>
-        <div type="article" itemid="875">
+        <div type="article">
             <p>
                 漢口不能居<lb/>
                 臚舉事實七點<lb/>
@@ -886,7 +887,7 @@
                 </p>
             
         </div>
-        <div type="article" itemid="876">
+        <div type="article">
             <p>
                 今晚法租界舉行<lb/>
                 盛大燈彩遊行<lb/>
@@ -936,7 +937,7 @@
                 </p>
             
         </div>
-        <div type="article" itemid="877">
+        <div type="article">
             <p mode="horizontal-tb" dir="rtl">
                 小說<lb/>
             </p>
@@ -1000,18 +1001,16 @@
                 </p>
             
         </div>
-        <div type="advert" itemid="788">
-            <p mode="horizontal-tb" dir="rtl">
-                  海上第一流攝影專家<lb/>
-                  國泰<lb/>
-                  藝術照相館<lb/>
-                  定價經濟化照相貴族化<lb/>
-                  際此春光攝影良機<lb/>
-                  地址南京路石路西<lb/>
-                  電話九〇三九三號<lb/>
-            </p>
-        </div>
-        <div type="advert" itemid="789">
+        <div type="advert" mode="horizontal-tb" dir="rtl"><p>
+            海上第一流攝影專家<lb/>
+            國泰<lb/>
+            藝術照相館<lb/>
+            定價經濟化照相貴族化<lb/>
+            際此春光攝影良機<lb/>
+            地址南京路石路西<lb/>
+            電話九〇三九三號<lb/>
+        </p></div>
+        <div type="advert">
             <p>
                 雜誌界巨擘：全書銅版紙彩紙精印每冊兩角<lb/>
             </p>
@@ -1033,7 +1032,7 @@
                 內容包羅萬象無奇勿有：噱頭十足趣味化刊物的頂兒兒<lb/>
             </p>
         </div>
-        <div type="advert" itemid="790">
+        <div type="other">
             <p>
                 西興詩謎社第<lb/>
             </p>
@@ -1058,7 +1057,7 @@
                 四〇一號卽當寄奉<lb/>
             </p>
         </div>
-        <div type="article" itemid="878">
+        <div type="article">
             <p>
                 遷川工廠次第開工<lb/>
                 數達一百五十餘家<lb/>
@@ -1094,7 +1093,7 @@
                 </p>
             
         </div>
-        <div type="article" itemid="879">
+        <div type="article">
             <p>
                 五月一日<lb/>
                 德國國慶日<lb/>
@@ -1118,7 +1117,7 @@
     </div>
    <!-- start middle of the fold -->
     <div type="margin">
-        <div type="advert" itemid="791">
+        <div type="advert">
             <p mode="horizontal-tb" dir="rtl">
                 四馬路<lb/>
                 晝錦里口<lb/>
@@ -1145,7 +1144,7 @@
                 華貴禮堂　租費從廉<lb/>
             </p>
         </div>
-        <div type="advert" itemid="792"><p>
+        <div type="advert"><p>
             申江醫院<lb/>
             附設戒煙專科<lb/>
             戒法新穎。毫無痛苦。住院走戒。均聽其便。<lb/>
@@ -1153,7 +1152,7 @@
             院址。法租界霞飛路口馬浪路。<lb/>
             電話。八三一三〇。<lb/>
         </p></div>
-        <div type="advert" itemid="793">
+        <div type="advert">
             <p>
                 小兒科<lb/>
                 內科<lb/>

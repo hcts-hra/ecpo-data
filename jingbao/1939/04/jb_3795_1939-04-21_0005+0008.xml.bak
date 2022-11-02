@@ -229,7 +229,7 @@
                 大地作者　賽珍珠女士<lb/>
             </p>
         </div>
-        <div type="article" itemid="326">
+        <div type="article">
             <p>
                 每日國際政治測驗<lb/>
             </p>
@@ -468,19 +468,19 @@
             <p>
                 丁卯日記<lb/>
                 正月初一日晨率兒孫祀　祖寄鳳珠曰江樓<lb/>
-                共遣蕭蕭 <!-- In the writing, he used two dots to represent the repeated character 蕭 --> 雨回𩠐歬宵已隔年我自關山向凬<lb/>
-                <!--𩠐 正體爲 首；歬 正體爲 前；凬 正體爲風-->
+                共遣蕭蕭 <!-\- In the writing, he used two dots to represent the repeated character 蕭 -\-> 雨回𩠐歬宵已隔年我自關山向凬<lb/>
+                <!-\-𩠐 正體爲 首；歬 正體爲 前；凬 正體爲風-\->
                 雪何堪顰笑記當筵<lb/>
                 初二日地山師過譚致桐𣶒書<lb/>
-                <!--𣶒 正體爲 淵-->
+                <!-\-𣶒 正體爲 淵-\->
                 初三日撰尊畔小語寄芥塵致愚公師雲<lb/>
                 岑書<lb/>
                 初亖日𧩿𠄡綵結同心寄鳳珠海上𤔲曰天涯旾<lb/>
-                <!--亖 正體爲 四；𧩿 正體爲 譔；𠄡 正體爲 五；𤔲 正體爲 辭; 旾 正體爲 春-->
+                <!-\-亖 正體爲 四；𧩿 正體爲 譔；𠄡 正體爲 五；𤔲 正體爲 辭; 旾 正體爲 春-\->
                 遠夢底𠌶遲歸車催破征魂歡醉都如昨揮<lb/>
-                <!--𠌶 正體爲 花-->
+                <!-\-𠌶 正體爲 花-\->
                 絃管𢕄語試記停尊幾回攜手憐嚬笑飜愁絕<lb/>
-                <!--絃 正體爲 弦；𢕄 正體爲 微；嚬 正體爲 顰；飜 正體爲 翻-->
+                <!-\-絃 正體爲 弦；𢕄 正體爲 微；嚬 正體爲 顰；飜 正體爲 翻-\->
             </p>
 
         </div>                  
@@ -493,7 +493,6 @@
         <div type="margin" mode="horizontal-tb" dir="rtl"><p>
             中華民國二十八年四月廿一日　晶報　星期五　第八版<lb/>
         </p>
-        </div> 
         <div type="image" itemid="429">            
             <p>
                 影<lb/>
@@ -739,24 +738,22 @@
                 寺路西摩路口滄州飯店隔壁滄州別墅卅二號樓上<lb/>
             </p>
         </div>
-        <div type="advert" itemid="474">            
-            <div type="image" itemid="433"/> 
-            <div type="other">
-                <p mode="horizontal-tb" dir="rtl">
-                    雙妹牌<lb/>
-                    生髮油<lb/>
-                </p>
-            </div>
-            <div type="image" itemid="434"/>
-            <div type="other">
-               <p>
-                   用生髮油<lb/>
-                   自覺頭上<lb/>
-                   光澤𠁊滑<lb/>
-                   馨香撲鼻<lb/>
-                   中國廣生行出品<lb/>
-               </p>
-            </div>
+        <div type="advert" itemid="474">
+            <!--  see #128       -->
+<!--            <div type="image" itemid="433"/>-->
+            <p mode="horizontal-tb" dir="rtl">
+                雙妹牌<lb/>
+                生髮油<lb/>
+            </p>
+            <!--  see #128       -->
+<!--            <div type="image" itemid="434"/>-->
+            <p>
+                用生髮油<lb/>
+                自覺頭上<lb/>
+                光澤𠁊滑<lb/>
+                馨香撲鼻<lb/>
+                中國廣生行出品<lb/>
+            </p>
         </div>
         <div type="advert" itemid="609">
             <p mode="horizontal-tb" dir="rtl">
@@ -959,54 +956,53 @@
             </p>
         </div>
         <div type="advert" itemid="613">
-            <div type="image" itemid="435"/> 
-            <div type="other">
-                <p mode="horizontal-tb" dir="rtl">
-                    一滴清<lb/>
-                    眼薬水<lb/>
-                </p>
-            </div>
-            
-            <div type="other">
-                <p>
-                    統治<lb/>
-                    目疾<lb/>
-                    一滴<lb/>
-                    見功<lb/>
-                </p>
-                <p>
-                    ◇一滴淸眼藥水主治之眼病◇<lb/>
-                </p>
-                <p>
-                    砂眼赤眼　瘙癢多脂<lb/>
-                    羞明畏光　迎風流淚<lb/>
-                    顆粒密生　視力糢糊<lb/>
-                    雲翳外障　眼皮發紅<lb/>
-                </p>
-                <p>
-                    消毒完全<lb/>
-                    功効確實<lb/>
-                    攜帶便利<lb/>
-                    價值低廉<lb/>
-                    （每瓶貳角四）<lb/>
-                </p>
-                <p>
-                    三洋涇橋<lb/>
-                    江西路口<lb/>
-                </p>
-                <p>
-                    新華藥行發行<lb/>
-                </p> 
-                <p>
-                    認明<lb/>
-                    商標<lb/>
-                </p>            
-                <p mode="horizontal-tb" dir="rtl">
-                    新華大藥行監製<lb/>
-                    上海江西路十號<lb/>
-                </p>
-            </div>
-            <div type="image" itemid="436"/>   
+            <!--  see #128       -->
+<!--            <div type="image" itemid="435"/> -->
+            <p mode="horizontal-tb" dir="rtl">
+                一滴清<lb/>
+                眼薬水<lb/>
+            </p>
+            <!--  see #128       -->
+<!--            <div type="image"/> -->
+            <p>
+                統治<lb/>
+                目疾<lb/>
+                一滴<lb/>
+                見功<lb/>
+            </p>
+            <p>
+                ◇一滴淸眼藥水主治之眼病◇<lb/>
+            </p>
+            <p>
+                砂眼赤眼　瘙癢多脂<lb/>
+                羞明畏光　迎風流淚<lb/>
+                顆粒密生　視力糢糊<lb/>
+                雲翳外障　眼皮發紅<lb/>
+            </p>
+            <p>
+                消毒完全<lb/>
+                功効確實<lb/>
+                攜帶便利<lb/>
+                價值低廉<lb/>
+                （每瓶貳角四）<lb/>
+            </p>
+            <p>
+                三洋涇橋<lb/>
+                江西路口<lb/>
+            </p>
+            <p>
+                新華藥行發行<lb/>
+            </p> 
+            <!--  see #128       -->
+<!--            <div type="image" itemid="436"/> -->
+            <p>
+                認明<lb/>
+                商標<lb/>
+            </p>
+            <p mode="horizontal-tb" dir="rtl">
+                新華大藥行監製<lb/>
+                上海江西路十號<lb/>
+            </p>
         </div>
     </div>
 </fold>

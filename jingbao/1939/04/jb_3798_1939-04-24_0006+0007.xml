@@ -2,38 +2,36 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3798_1939-04-24_0006to0007" lasteditor="xiejia1995" lastedit="2021-07-21">
+<fold xml:id="jb_3798_1939-04-24_0006to0007" lastedit="2022-09-15" lasteditor="xiejia1995" issueid="23">
     <!-- … start recto page   -->
     <div type="page" page="recto" n="6" mode="vertical-rl" dir="rtl">
-        <div type="margin">
-            <div type="other" mode="horizontal-tb" dir="rtl"><p>
+        <div type="margin" mode="horizontal-tb" dir="rtl">
+            <p>
                 中華民國二十八年四月廿四日　晶報　星期一　第六版<lb/>
-            </p></div>
-        </div>                
-        <div type="article">
+            </p>            
+        </div> 
+        <div type="article" itemid="559">
             <p>
                 天文臺重金延記者　（一得自香港寄）<lb/>
-            </p>
-            
-                <p>
-                    每星期發行兩次之香港天文臺小型報，爲六不將軍陳向元所主辦，本晶介紹<lb/>
-                    屢矣，陳與白崇禧將軍保定軍官同學，曾招至廣西，倚畀甚殷，而陳野鶴行雲，<lb/>
-                    不喜戎馬，轉親筆硯，居港創天文臺，以評論見長，捲筒機印刷，銷行甚多，今<lb/>
-                    刊啓事，月奉國幣五百元，延聘編輯一人，但附有條件十則，似於陳將軍之外，<lb/>
-                    難覓替人，兹錄其條件，爲海內同文吿：『本報因社長陳孝威先生多病，以萬分<lb/>
-                    誠意，延聘具有左列條件之編輯一名：（一）絕對信仰『國家民族高於一切者』<lb/>
-                    。（二）有習苦耐勞之優越品性者。（三）有高深之軍事學識者。（四）有實戰<lb/>
-                    經驗者。（五）能判斷三個月後之戰場態勢與國際形勢之特殊天才者。（六）熟<lb/>
-                    悉古今中外戰史者。（七）熟悉中外兵要地理者。（八）有中國舊文學修養者。<lb/>
-                    （九）有新聞藝術與學術者。（十）有國際外交政治財政經濟水準以上常識者。<lb/>
-                    凡自信具有右列十條件之學者專家，且願應本報之竭誠聘請賜予合作者，請書明<lb/>
-                    ：姓名，籍貫學歷，幷其最近著作，寄交本社，選定合格後，近者則親自造府延<lb/>
-                    訪，不敢有勞大駕枉臨，遠者，則另行具函聘請，不合格者，著作品奉還，履歷<lb/>
-                    存。<lb/>
-                </p>
-            
-        </div>
-        <div type="article">
+            </p>            
+            <p>
+                每星期發行兩次之香港天文臺小型報，爲六不將軍陳向元所主辦，本晶介紹<lb/>
+                屢矣，陳與白崇禧將軍保定軍官同學，曾招至廣西，倚畀甚殷，而陳野鶴行雲，<lb/>
+                不喜戎馬，轉親筆硯，居港創天文臺，以評論見長，捲筒機印刷，銷行甚多，今<lb/>
+                刊啓事，月奉國幣五百元，延聘編輯一人，但附有條件十則，似於陳將軍之外，<lb/>
+                難覓替人，兹錄其條件，爲海內同文吿：『本報因社長陳孝威先生多病，以萬分<lb/>
+                誠意，延聘具有左列條件之編輯一名：（一）絕對信仰『國家民族高於一切者』<lb/>
+                。（二）有習苦耐勞之優越品性者。（三）有高深之軍事學識者。（四）有實戰<lb/>
+                經驗者。（五）能判斷三個月後之戰場態勢與國際形勢之特殊天才者。（六）熟<lb/>
+                悉古今中外戰史者。（七）熟悉中外兵要地理者。（八）有中國舊文學修養者。<lb/>
+                （九）有新聞藝術與學術者。（十）有國際外交政治財政經濟水準以上常識者。<lb/>
+                凡自信具有右列十條件之學者專家，且願應本報之竭誠聘請賜予合作者，請書明<lb/>
+                ：姓名，籍貫學歷，幷其最近著作，寄交本社，選定合格後，近者則親自造府延<lb/>
+                訪，不敢有勞大駕枉臨，遠者，則另行具函聘請，不合格者，著作品奉還，履歷<lb/>
+                存。<lb/>
+            </p>            
+        </div> 
+        <div type="article" itemid="560">
             <p>
                 吳瞿安醉後狂言　（允麗）<lb/>
             </p>
@@ -109,8 +107,8 @@
                     。<lb/>
                 </p>
             
-        </div>
-        <div type="article">
+        </div> 
+        <div type="article" itemid="561">
             <p>
                 太平洋中的黃金　（達）<lb/>
             </p>
@@ -172,8 +170,8 @@
                     翁自命了。（T）<lb/>
                 </p>
             
-        </div>
-        <div type="article">
+        </div> 
+        <div type="article" itemid="562">
             <p>
                 重慶三報<lb/>
                 （守恆）<lb/>
@@ -194,8 +192,8 @@
                     。<lb/>
                 </p>
             
-        </div>
-        <div type="article">
+        </div> 
+        <div type="article" itemid="563">
             <p>
                 蔣委員長之生平<lb/>
             </p>
@@ -260,7 +258,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="564">
             <p mode="horizontal-tb" dir="rtl">
                 佹失記<lb/>
                 （兼巢老人沈淇泉太史作）<lb/>
@@ -312,8 +310,8 @@
                     門，至交卷處。<lb/>
                 </p>
             
-        </div>
-        <div type="article">
+        </div> 
+        <div type="article" itemid="565">
             <p>
                 梨園消息話春明　（禪翁）<lb/>
             </p>
@@ -366,8 +364,8 @@
                     。　　（未完）<lb/>
                 </p>
             
-        </div>
-        <div type="article">
+        </div> 
+        <div type="article" itemid="566">
             <p>
                 新游俠傳　張恨水<lb/>
             </p>
@@ -397,7 +395,7 @@
                 </p>
             
         </div>
-        <div type="advert">
+        <div type="advert" itemid="663">
             <p mode="horizontal-tb" dir="rtl">
                 西洋<lb/>
             </p>
@@ -414,8 +412,8 @@
                 洛麗泰小姐綺年玉貌精按摩術歡迎華賓光臨地址西摩<lb/>
                 路一四一弄六號一樓時間上午十時至下午十時<lb/>
             </p>
-        </div>
-        <div type="advert">
+        </div> 
+        <div type="advert" itemid="664">
             <p>
                 西洋女子按摩<lb/>
             </p>
@@ -429,20 +427,25 @@
                 地址　白克路（黃家沙口）七三八號一號房間<lb/>
             </p>
         </div>
-        <div type="advert">
-            <p mode="horizontal-tb" dir="rtl">
-                砒製梅毒特效藥<lb/>
-                新惜花散<lb/>
-            </p>
-            <p mode="horizontal-tb" dir="ltr">
-                NEO-SYPHARSAN<lb/>
-            </p>
-            <p mode="horizontal-tb" dir="rtl">
-                製造者：楊氏化學治療研究所<lb/>
-                總經理：信誼化學製藥廠<lb/>
-            </p>
+        <div type="advert" itemid="665">
+            <div type="other">
+                <p mode="horizontal-tb" dir="rtl">
+                  砒製梅毒特效藥<lb/>
+                  新惜花散<lb/>
+                </p>
+            </div>
+            <div type="image" itemid="375"></div>
+            <div type="other">
+                <p mode="horizontal-tb" dir="ltr">
+                    NEO-SYPHARSAN<lb/>
+                </p>
+                <p mode="horizontal-tb" dir="rtl">
+                    製造者：楊氏化學治療研究所<lb/>
+                    總經理：信誼化學製藥廠<lb/>
+                </p>
+            </div>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="666">
             <p mode="horizontal-tb" dir="rtl">
                 救一死<lb/>
             </p>
@@ -500,7 +503,7 @@
     </div>
     <!-- … start margin between pages   -->   
     <div type="margin" mode="vertical-rl" dir="rtl">
-        <div type="advert">
+        <div type="advert" itemid="667">
             <p>
                 東南醫院<lb/>
             </p>
@@ -513,8 +516,8 @@
                 本院設有病室環境幽靜空氣淸新適於療養<lb/>
                 院址法租界薩坡賽路二九九號電話八〇六〇八號<lb/>
             </p>
-        </div>
-        <div type="advert">
+        </div> 
+        <div type="advert" itemid="668">
             <p>
                 董惠民醫師<lb/>
             </p>
@@ -569,8 +572,8 @@
             <p>
                 特備長短波電療機最高倍顯微鏡橫痃消散機尿道檢查鏡義務助治愈後可向衞生局檢驗斷根<lb/>
             </p>
-        </div>
-        <div type="advert">
+        </div> 
+        <div type="advert" itemid="669">
             <p>
                 上海河南<lb/>
                 路四馬路<lb/>
@@ -634,11 +637,11 @@
     <!-- … start verso page   -->
     <div type="page" page="verso" n="7" mode="vertical-rl" dir="rtl">
         <div type="margin" mode="horizontal-tb" dir="rtl">
-        <p>
-            中華民國二十八年四月廿四日　晶報　星期一　第七版<lb/>
-        </p>
-        </div>
-        <div type="article">
+            <p>
+                中華民國二十八年四月廿四日　晶報　星期一　第七版<lb/>
+            </p>
+        </div> 
+        <div type="article" itemid="567">
             <p>
                 中山公園銅像之滄桑　（雲裳自北平寄）<lb/>
             </p>
@@ -654,8 +657,8 @@
                     不可復覩矣，斯亦名園之一小滄桑也。<lb/>
                 </p>
             
-        </div>
-        <div type="article">
+        </div> 
+        <div type="article" itemid="569">
             <p>
                 佛語問答　（陽仁）<lb/>
             </p>
@@ -687,8 +690,8 @@
                     語，其短簡有過於如此者乎？<lb/>
                 </p>
             
-        </div>
-        <div type="article">
+        </div> 
+        <div type="article" itemid="568">
             <p>
                 春江花乘　（不平凡公子）<lb/>
                 一日一姬　（三）美娟老八<lb/>
@@ -759,8 +762,8 @@
                     的做生意了。<lb/>
                 </p>
             
-        </div>
-        <div type="article">
+        </div> 
+        <div type="article" itemid="570">
             <p>
                 嚮導社盛行香港<lb/>
                 （一得自港寄）<lb/>
@@ -794,21 +797,22 @@
                     有此人肉市場耳！<lb/>
                 </p>
             
-        </div>
-        <div type="article">
-            <p>
-                怎樣使得健康美<lb/>
-            </p>
-            <p mode="horizontal-tb" dir="ltr">
-                （四）<lb/>
-            </p>
-            <p>
-                （芸芸）<lb/>
-            </p>
-            <p>
-                第二章　直立姿勢<lb/>
-            </p>
-            
+        </div> 
+        <div type="article" itemid="571">
+            <div type="other">
+                 <p>
+                     怎樣使得健康美<lb/>
+                 </p>
+                 <p mode="horizontal-tb" dir="ltr">
+                     （四）<lb/>
+                 </p>
+                 <p>
+                     （芸芸）<lb/>
+                 </p>
+                 <p>
+                     第二章　直立姿勢<lb/>
+                 </p>
+                 
                 <p>
                     人類的直立姿勢<lb/>
                     給人類以極多利益<lb/>
@@ -915,14 +919,14 @@
                     。於是食物才消化<lb/>
                     下來。<lb/>
                 </p>
-            
-            <p mode="horizontal-tb" dir="rtl">
-                （脊柱側灣症）<lb/>
-            </p>
-            <!--	see #128		-->
-<!--            <div type="image"/>-->
+            </div>
+            <div type="image" itemid="373">
+                 <p mode="horizontal-tb" dir="rtl">
+                     （脊柱側灣症）<lb/>
+                 </p>
+            </div>
         </div>
-        <div type="article">
+        <div type="article" itemid="572">
             <p>
                 北平梨園人物之小變遷<lb/>
                 （鴻自北平寄）<lb/>
@@ -953,8 +957,8 @@
                     環套一場云。<lb/>
                 </p>
             
-        </div>
-        <div type="article">
+        </div> 
+        <div type="article" itemid="573">
             <p>
                 舌戰<lb/>
             </p>
@@ -980,8 +984,8 @@
                     過雨。<lb/>
                 </p>
             
-        </div>
-        <div type="article">
+        </div> 
+        <div type="article" itemid="574">
             <p>
                 烏托邦<lb/>
             </p>
@@ -1008,8 +1012,8 @@
                 死了，靈魂作用，幻出這種境界來呢？還是我在這裏做<lb/>
                 一場春夢呢？<lb/>
             </p>
-        </div>
-        <div type="article">
+        </div> 
+        <div type="article" itemid="575">
             <p>
                 名人<lb/>
             </p>
@@ -1028,22 +1032,24 @@
             <p>
                 詩選<lb/>
             </p>
-        </div>
-        <div type="advert">
-            <p>
-                此間樂！不思蜀！　一道<lb/>
-            </p>
-            <p>
-                上海一隅，地處海濱，在未闢商埠以<lb/>
-                前，荒涼一如內地。自華洋互市迄今<lb/>
-                ，外人開闢租界，積極整理，不遺餘<lb/>
-                力，市况便日趨繁榮。於是各種娛樂<lb/>
-                場所，如雨後春笋，乘時崛起，冾游<lb/>
-                途徑旣多，舊時書寓娼寮，遂逐漸無<lb/>
-                形消減。而最新穎最摩登之娛樂，厥<lb/>
-            </p>
-<!--     see #128       -->
-<!--            <div type="image"/>-->
+        </div> 
+        <div type="advert" itemid="670">
+            <div type="other">
+                <p>
+                    此間樂！不思蜀！　一道<lb/>
+                </p>
+                <p>
+                    上海一隅，地處海濱，在未闢商埠以<lb/>
+                    前，荒涼一如內地。自華洋互市迄今<lb/>
+                    ，外人開闢租界，積極整理，不遺餘<lb/>
+                    力，市况便日趨繁榮。於是各種娛樂<lb/>
+                    場所，如雨後春笋，乘時崛起，冾游<lb/>
+                    途徑旣多，舊時書寓娼寮，遂逐漸無<lb/>
+                    形消減。而最新穎最摩登之娛樂，厥<lb/>
+                </p>
+            </div>
+            <div type="image" itemid="374"/>
+            <div type="other">
             <p>
                 惟跳<lb/>
                 舞，<lb/>
@@ -1063,8 +1069,9 @@
                 〇八六六…九六六八四號，謂予不信<lb/>
                 ，招來一試，方信言之不謬也。<lb/>
             </p>
-        </div>
-        <div type="advert">
+            </div>
+        </div> 
+        <div type="advert" itemid="672">
             <p>
                 電話<lb/>
                 八四八〇八<lb/>

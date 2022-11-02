@@ -2,36 +2,48 @@
 <!DOCTYPE ecpo [
     <!ENTITY gaiji "&#xe111;">
 ]>
-<fold xml:id="jb_3800_1939-04-26_0001to0004" lasteditor="xiejia1995" lastedit="2021-07-27">
+<fold xml:id="jb_3800_1939-04-26_0001to0004" lasteditor="xiejia1995" lastedit="2022-10-10" issueid="25">
     <!-- start recto page  -->
     <div type="page" page="recto" n="1" dir="rtl" mode="vertical-rl">
         <div type="head" dir="rtl" mode="horizontal-tb">
-            <p>晶報<lb/>
+            <p>
+                晶報<lb/>
             </p>
-            <p dir="ltr" mode="horizontal-tb"> The　Crystal<lb/> 發行人　A. L.　Teodoro<lb/>
+            <p dir="ltr" mode="horizontal-tb"> 
+                The　Crystal<lb/> 
+                發行人　A. L.　Teodoro<lb/>
             </p>
-            <p> 館址漢口路二九九號　電話九三四二八<lb/> 中華郵政特准掛號立券按照總包優益寄送之報紙<lb/>
-                ◀公共租界工部局登記證Ｃ字廿四號▶<lb/> ◀第三千八百號▶<lb/>
+            <p> 館址漢口路二九九號　電話九三四二八<lb/> 
+                中華郵政特准掛號立券按照總包優益寄送之報紙<lb/>
+                ◀公共租界工部局登記證Ｃ字廿四號▶<lb/> 
+                ◀第三千八百號▶<lb/>
                 中華民國貳拾捌年四月廿六日　星期三　今日兩全張售國幣貳分四厘　本報創刊於民國八年三月三日<lb/>
             </p>
         </div>
-        <div type="advert">
-            <p dir="rtl" mode="horizontal-tb"> 金字塔香煙<lb/>
-            </p>
-            <p> 煙中<lb/>
-            </p>
-            <!--  see #128  -->
-<!--            <div type="image"/>-->
-            <p> 鉄軍<lb/>
-            </p>
-            <p dir="rtl" mode="horizontal-tb"> 中國福新煙公司出品<lb/>
+        <div type="advert" itemid="541">
+            <div type="image" itemid="379"/>
+            <div type="other">
+                <p dir="rtl" mode="horizontal-tb"> 金字塔香煙<lb/>
+                </p>
+                <p> 煙中<lb/>
+                </p> 
+                <p> 鉄軍<lb/>
+                </p>
+                <p dir="rtl" mode="horizontal-tb"> 中國福新煙公司出品<lb/>
+                </p>
+            </div>
+        </div>
+        <div type="advert" itemid="714">
+            <p dir="rtl" mode="horizontal-tb" > 
+                海上第一流攝影專家<lb/>
+                國泰藝術照相館<lb/> 
+                定價經濟化照相貴族化<lb/> 
+                際此春光攝影良機<lb/> 
+                地址南京路石路西<lb/>
+                電話九〇三九三號<lb/>
             </p>
         </div>
-        <div type="advert" dir="rtl" mode="horizontal-tb"><p> 海上第一流攝影專家<lb/>
-            國泰藝術照相館<lb/> 定價經濟化照相貴族化<lb/> 際此春光攝影良機<lb/> 地址南京路石路西<lb/>
-            電話九〇三九三號<lb/>
-        </p></div>
-        <div type="article">
+        <div type="article" itemid="661">
             <p> 
                 粵漢路新街站收復<lb/> 
                 華軍兩路夾攻廣州<lb/> 
@@ -57,7 +69,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="662">
             
                 <p> 
                     前鋒迫近南昌<lb/> 
@@ -115,11 +127,13 @@
                     克復新村墟、續向<lb/> 蓮塘挺進、一路攻<lb/> 佔崗上街、各路戰<lb/> 況、異常激烈、<lb/>
                 </p>
         </div>
-            <div type="article">
-                <p dir="rtl" mode="horizontal-tb"> 柏林羅馬軸心⋯⋯國際時事地圖之六<lb/>
-                </p>
-                <!--  see #128  -->
-<!--                <div type="image"/>-->
+            <div type="article" itemid="663">
+                <div type="image" itemid="380"/>
+                <div type="other">
+                 <p dir="rtl" mode="horizontal-tb"> 
+                     柏林羅馬軸心⋯⋯國際時事地圖之六<lb/>
+                 </p>
+
                 
                     <p> 現在歐洲地圖上<lb/> 德義兩國佔顯著重<lb/> 要之地位。自德國<lb/> 兼併奧大利後柏林<lb/>
                         與羅馬相連成一北<lb/> 起波羅的海南至地<lb/> 中海的直線。這兩<lb/> 個法西斯國家於是<lb/>
@@ -138,44 +152,108 @@
                         的土地。於一九三八年三月向立陶宛提出最後覺書要求開放米美爾。至於凡爾賽<lb/>
                         會議允許自治之波蘭烏克蘭，雖經烏克蘭向政府提出要求自治，但至今尚未實現<lb/>
                     </p>
-                
+                </div>
             </div>
-            <div type="article">
-                <p> 中政府已擬定方案<lb/> 增强抗戰經濟力<lb/> 各地銀行皆受中央統制<lb/> 打銷日人破壞法幣行動<lb/>
+            <div type="article" itemid="660">
+                <p> 中政府已擬定方案<lb/> 
+                    增强抗戰經濟力<lb/> 
+                    各地銀行皆受中央統制<lb/> 
+                    打銷日人破壞法幣行動<lb/>
                 </p>
-                <p> （重慶廿四日美<lb/> 聯電）中國政府、<lb/> 爲圖增强抗戰之經<lb/> 濟力量、打銷日人<lb/>
-                    在華北破壞法幣之<lb/> 種種行動、及防止<lb/> 日本工業家吸收淪<lb/> 陷區中之原料計、<lb/>
-                    現擬定數種應付方<lb/> 策、其中一種爲授<lb/> 權各省各地銀行（<lb/> 尤其鄰近戰區中之<lb/>
-                    銀行）以增發紙幣<lb/> 權同時爲免日人沒<lb/> 收法幣計、各銀行<lb/> 有隨時撤囘法幣之<lb/>
-                    權、蓋法幣或地方<lb/> 銀行紙幣查被日人<lb/> 沒收之後、卽能易<lb/> 取外匯、而危及法<lb/>
-                    幣在外匯上之地位<lb/> 也、同時各省<lb/>
+                <p> （重慶廿四日美<lb/> 
+                    聯電）中國政府、<lb/> 
+                    爲圖增强抗戰之經<lb/> 
+                    濟力量、打銷日人<lb/>
+                    在華北破壞法幣之<lb/> 
+                    種種行動、及防止<lb/> 
+                    日本工業家吸收淪<lb/> 
+                    陷區中之原料計、<lb/>
+                    現擬定數種應付方<lb/> 
+                    策、其中一種爲授<lb/> 
+                    權各省各地銀行（<lb/> 
+                    尤其鄰近戰區中之<lb/>
+                    銀行）以增發紙幣<lb/> 
+                    權同時爲免日人沒<lb/> 
+                    收法幣計、各銀行<lb/> 
+                    有隨時撤囘法幣之<lb/>
+                    權、蓋法幣或地方<lb/> 
+                    銀行紙幣查被日人<lb/> 
+                    沒收之後、卽能易<lb/> 
+                    取外匯、而危及法<lb/>
+                    幣在外匯上之地位<lb/> 
+                    也、同時各省<lb/>
                 </p>
-                <p> 地方銀行<lb/>
+                <p> 
+                    地方銀行<lb/>
                 </p>
-                <p> 更應調查當地之<lb/> 經濟資源報吿政府<lb/> 、經核准後、則由<lb/> 政府人民銀行家合<lb/>
-                    力投資開發、並由<lb/> 中中交農四行負責<lb/> 、作工業礦業上之<lb/> 長期短放欵、同時<lb/>
-                    四行又負輸出貿易<lb/> 委員會、及農村放<lb/> 欵部之主要責任、<lb/> 舉凡可供出口之農<lb/>
-                    礦物產、悉予以收<lb/> 買、各銀行自建貨<lb/> 庫、躉購之貸、可<lb/> 由中央信託擔保、<lb/>
-                    從事物產轉運之人<lb/> 員、可免軍役、交<lb/> 通工具缺乏時、各<lb/> 銀行更可商請當地<lb/>
-                    軍事當局、予以便<lb/> 利、以便軍事力量<lb/> 與經濟力量、打成<lb/> 一片、關於調劑、<lb/>
+                <p> 更應調查當地之<lb/> 
+                    經濟資源報吿政府<lb/>
+                    、經核准後、則由<lb/>
+                    政府人民銀行家合<lb/>
+                    力投資開發、並由<lb/>
+                    中中交農四行負責<lb/> 
+                    、作工業礦業上之<lb/> 
+                    長期短放欵、同時<lb/>
+                    四行又負輸出貿易<lb/>
+                    委員會、及農村放<lb/>
+                    欵部之主要責任、<lb/> 
+                    舉凡可供出口之農<lb/>
+                    礦物產、悉予以收<lb/>                    
+                    買、各銀行自建貨<lb/> 
+                    庫、躉購之貸、可<lb/> 
+                    由中央信託擔保、<lb/>
+                    從事物產轉運之人<lb/> 
+                    員、可免軍役、交<lb/> 
+                    通工具缺乏時、各<lb/> 
+                    銀行更可商請當地<lb/>
+                    軍事當局、予以便<lb/> 
+                    利、以便軍事力量<lb/> 
+                    與經濟力量、打成<lb/> 
+                    一片、關於調劑、<lb/>
                 </p>
-                <p> 各地物產<lb/>
+                <p> 
+                    各地物產<lb/>
                 </p>
-                <p> 防止躉積居奇、<lb/> 各銀行亦須設法運<lb/> 用金融力量爲之平<lb/> 衡、及運輸方法、<lb/>
-                    以通有無、物價高<lb/> 漲時、須考其所以<lb/> 然之原因、爲之調<lb/> 劑、各地方政府、<lb/>
-                    更須合同各地商會<lb/> 工會、設立物價平<lb/> 衡委員會、運用種<lb/> 種方法、以謀各地<lb/>
-                    物價之平衡、各省<lb/> 各地之銀行、皆有<lb/> 財部代表坐駐其間<lb/> 、就近指導、<lb/>
+                <p> 防止躉積居奇、<lb/> 
+                    各銀行亦須設法運<lb/> 
+                    用金融力量爲之平<lb/> 
+                    衡、及運輸方法、<lb/>
+                    以通有無、物價高<lb/> 
+                    漲時、須考其所以<lb/> 
+                    然之原因、爲之調<lb/> 
+                    劑、各地方政府、<lb/>
+                    更須合同各地商會<lb/> 
+                    工會、設立物價平<lb/> 
+                    衡委員會、運用種<lb/> 
+                    種方法、以謀各地<lb/>
+                    物價之平衡、各省<lb/> 
+                    各地之銀行、皆有<lb/> 
+                    財部代表坐駐其間<lb/> 
+                    、就近指導、<lb/>
                 </p>
-                <p> 各地銀行<lb/>
+                <p> 
+                    各地銀行<lb/>
                 </p>
-                <p> 皆負有爲四行搜<lb/> 集全國金銀之責任<lb/> 、此次金銀提交政<lb/> 府時、由政府作爲<lb/>
-                    某一銀行之現金準<lb/> 備、各行更負有推<lb/> 動「建國儲金」之<lb/> 使命、又各地方銀<lb/>
-                    行、更可以其所收<lb/> 買之原料、作爲發<lb/> 行副幣之基金、此<lb/> 種辦法推行之後、<lb/>
-                    全國各地之金融、<lb/> 皆可受中央之指揮<lb/> 、詢屬抗戰中之喜<lb/> 獻也、<lb/>
+                <p> 皆負有爲四行搜<lb/> 
+                    集全國金銀之責任<lb/> 
+                    、此次金銀提交政<lb/> 
+                    府時、由政府作爲<lb/>
+                    某一銀行之現金準<lb/> 
+                    備、各行更負有推<lb/> 
+                    動「建國儲金」之<lb/> 
+                    使命、又各地方銀<lb/>
+                    行、更可以其所收<lb/> 
+                    買之原料、作爲發<lb/> 
+                    行副幣之基金、此<lb/> 
+                    種辦法推行之後、<lb/>
+                    全國各地之金融、<lb/> 
+                    皆可受中央之指揮<lb/> 
+                    、詢屬抗戰中之喜<lb/> 
+                    獻也、<lb/>
                 </p>
             </div>
             
-            <div type="article">
+            <div type="article" itemid="667">
                 <p dir="rtl" mode="horizontal-tb"> 晉南血戰<lb/>
                 </p>
                 
@@ -197,14 +275,14 @@
                     
                 
             </div>
-            <div type="article">
+            <div type="article" itemid="47252">
                 <p> 國府命令<lb/>
                 </p>
                 <p> （重慶廿五日電<lb/> ）（一）任命李世<lb/> 軍爲甘肅省政府委<lb/> 員、此令、（二）<lb/>
                     任命李世軍兼甘肅<lb/> 省政府建設廳廳長<lb/> 、此令、<lb/>
                 </p>
             </div>
-            <div type="article">
+            <div type="article" itemid="668">
                 <p> 日機在太平建機場<lb/> 香港感受威脅<lb/> 兩處僅需十分鐘可達<lb/>
                 </p>
               
@@ -219,7 +297,7 @@
                 </p>
                 
             </div>
-            <div type="article">
+            <div type="article" itemid="669">
                 <p dir="rtl" mode="horizontal-tb"> 港當局勸民衆<lb/> 準備應付危機<lb/>
                 </p>
                 
@@ -229,7 +307,7 @@
                     </p>
                 
             </div>
-            <div type="article">
+            <div type="article" itemid="670">
                 <p> 法警吿日本<lb/> 反對日機越防<lb/>
                 </p>
                 <p> （重慶廿五日路<lb/> 透社電）華字報載<lb/> 稱、中國向法大使<lb/> 抗議、四月十三日<lb/>
@@ -245,10 +323,12 @@
     <!-- start verso page   -->
     <div type="page" page="verso" n="4" mode="vertical-rl" dir="rtl">
         <div type="other">
-            <div type="margin" mode="horizontal-tb" dir="rtl"><p>
-                中華民國二十八年四月廿六日　晶報　星期三　第四版<lb/>
-            </p></div>
-        <div type="article">
+            <div type="margin" mode="horizontal-tb" dir="rtl">
+                <p>
+                    中華民國二十八年四月廿六日　晶報　星期三　第四版<lb/>            
+                </p>
+            </div>
+        <div type="article" itemid="696">
             <p> 浙東形勢<lb/> 又趨緊張<lb/> 連日日機投彈日艦騷擾<lb/> 炮聲隆隆不絕<lb/>
             </p>
             <p> 浙東甯波海門温州沿海各地、形勢甚爲緊張、駐在華軍、<lb/> 嚴密戒備、枕戈待命、日軍如欲進犯、决難得逞、昨據甯波<lb/>
@@ -269,7 +349,7 @@
                 兩日、日機日向甌江温州轟炸後、現<lb/> 安寂無動、沿海人心尚安定云、<lb/>
             </p>
         </div>
-        <div type="article">
+        <div type="article" itemid="697">
             <p> 滬浙交通斷絕後<lb/> 各業均受影響<lb/> 堆積甬温土貨無法疏通<lb/>
             </p>
             <p> 滬市各業、如柴<lb/> 、炭、紙張、生漆<lb/> 、鮮蛋、木材、棉<lb/> 花、茶葉、桐油、<lb/>
@@ -280,7 +360,7 @@
                 通貨運、<lb/>
             </p>
         </div>
-        <div type="article">
+        <div type="article" itemid="698">
             <p> 國旗案<lb/>
             </p>
             <p> 昨已解决<lb/>
@@ -293,7 +373,7 @@
             </p>
         </div>
         
-        <div type="article">
+        <div type="article" itemid="700">
             <p> 英商輪於必要時<lb/> 請軍艦保護<lb/>
             </p>
             <p> 决心維持在華航線<lb/>
@@ -322,7 +402,7 @@
                 海門、永貞等輪、<lb/> 被迫停駛蘇北阜寗<lb/> 航線、南通天生港<lb/> 線、爲日商獨佔航<lb/> 行、<lb/>
             </p>
         </div>
-        <div type="article">
+        <div type="article" itemid="701">
             <p> 發揮華僑抗戰力量<lb/> 政府訂定推行計劃六大端<lb/>
             </p>
             
@@ -344,7 +424,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="699">
             <p dir="rtl" mode="horizontal-tb"> 猶太難民<lb/> 八千多名在滬<lb/>
             </p>
             <p> 猶太<lb/> 難民二<lb/> 百二十<lb/> 名、於<lb/> 昨日下<lb/> 午二時<lb/> 三十分<lb/>
@@ -352,7 +432,7 @@
                 太難民、截至現在<lb/> 止共八千四百名云<lb/>
             </p>
         </div>
-         <div type="article">
+         <div type="article" itemid="702">
             <p dir="rtl" mode="horizontal-tb"> 折回各輪<lb/>
             </p>
             <p> 退貨問題未解決<lb/> 惟有聽貨主自便<lb/> 恩德輪途中發生波折<lb/>
@@ -372,7 +452,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="703">
             <p> 往虹口<lb/> 須備防疫文件<lb/>
             </p>
             <p> 日方規定、自今<lb/> 日起、不論中外人<lb/> 士、如須通過虹口<lb/> 各區地帶、須添備<lb/>
@@ -380,7 +460,7 @@
                 下午六時止、對於<lb/> 行人、亦逐一加以<lb/> 檢查云、<lb/>
             </p>
         </div>
-        <div type="article">
+        <div type="article" itemid="704">
             <p dir="rtl" mode="horizontal-tb"> 一元還債<lb/> 已收百萬元<lb/>
             </p>
             <p> 據銀行界<lb/> 消息、本市<lb/> 各界一元還<lb/> 債運動、現<lb/> 仍在不<lb/> 斷捐助<lb/>
@@ -388,7 +468,7 @@
                 百萬元以上<lb/>
             </p>
         </div>
-        <div type="article">
+        <div type="article" itemid="705">
             <p> 褚民誼等<lb/> 宴法當局<lb/>
             </p>
             <p> 廿五日法文日報<lb/> 載、廿二日晚間、<lb/> 褚民誼及魏廷榮、<lb/> 在徐家灣路九九九<lb/>
@@ -401,7 +481,7 @@
             </p>
         </div>
        
-        <div type="article">
+        <div type="article" itemid="706">
             <p> 日少年兵<lb/> 幼稚膽怯<lb/> 每日操練<lb/>
             </p>
           
@@ -413,7 +493,7 @@
             
         </div>
 
-        <div type="article">
+        <div type="article" itemid="707">
             <p dir="rtl" mode="horizontal-tb"> 小說<lb/>
             </p>
             <p> 妹妹我愛你　卓呆<lb/>
@@ -448,7 +528,7 @@
                 </p>
             
         </div>
-        <div type="article">
+        <div type="article" itemid="708">
             <p> ◇小消息◇<lb/>
             </p>
          
@@ -457,57 +537,83 @@
                 </p>
             
         </div>
-        <div type="advert">
-            <p mode="horizontal-tb" dir="rtl"> 質香味效<lb/>
-            </p>
-<!--     see #128       -->
-<!--            <div type="image"/>-->
-            <p dir="ltr" mode="horizontal-tb"> BIOZYGEN<lb/>
-            </p>
-            <p> 上海新亞藥廠製造<lb/> 藥房均售<lb/>
-            </p>
-            <p> 寶靑春<lb/>
-            </p>
-            <!--too vague to tell the direction; given that it is numbers on the right, my guess it is left to right-->
-            <p dir="rtl" mode="horizontal-tb">
-                ，<lb/>
-            </p>
-            <p> 寶靑春爲眞正酵母精製，富含各<lb/>
-                種維他命，功能開胃强，治療腳氣，<lb/>
-                理胃腸，促進新陳代謝，出新活力，質<lb/> 香味效，無不越人一等。<lb/>
-            </p>
-          
-                <p dir="rtl" mode="horizontal-tb"> 質香味效<lb/>
+        <div type="advert" itemid="726">
+            <div type="other">   
+                <p>
+                    質香味效<lb/>
                 </p>
-                <p> 含量充足<lb/> 芬芳開胃<lb/> 鮮美可口<lb/> 靈驗偉大<lb/>
+            </div>
+            <div type="image" itemid="381"/>
+            <div type="other">  
+                <p dir="ltr" mode="horizontal-tb">
+                    BIOZYGEN<lb/>
                 </p>
-<!--      see #128      -->
-<!--                <div type="image"/>-->
+                <p>
+                    上海新亞藥廠製造<lb/>
+                </p>
+                <p>
+                    藥房均售<lb/>
+                </p>
+                <p>
+                    寶青春<lb/>
+                </p>
+                <p dir="ltr" mode="horizontal-tb">
+                    2L<lb/>
+                </p>
+                <p>
+                    寶青春爲眞正譽滿乾燥酵母精製。富含各<lb/>
+                    種惟他命。功能開胃强身。治療脚氣。整<lb/>
+                    理胃腸。促進新陳代謝。產生新活力。質<lb/>
+                    香味效。無不超人一等。<lb/>
+                </p>
+                <p dir="rtl" mode="horizontal-tb">
+                    質香味效<lb/>
+                </p>
+                <p>
+                    含量充足<lb/>
+                    芬芳開胃<lb/>
+                    鮮美可口<lb/>
+                    靈騐偉大<lb/>
+                </p>
+            </div>
+            <div type="image" itemid="382"/>
             
         </div>
-        <div type="advert">
-            <p> 痰敵<lb/>
-            </p>
-            <!--      see #128      -->
-<!--            <div type="image"/>-->
-            <p> 分片露<lb/>
-            </p>
-            <p> 除痰鎭咳<lb/> 平喘止嗆<lb/> 順氣祛風<lb/> 益肺防癆<lb/>
-            </p>
-            <p dir="rtl" mode="horizontal-tb"> 片露<lb/>
-            </p>
-            <p> 大瓶二元小瓶一元<lb/> 每瓶一元五角<lb/>
-            </p>
-            <p dir="rtl" mode="horizontal-tb"> 上海<lb/>
-            </p>
-            <p> 中西大藥房<lb/>
-            </p>
-            <p dir="rtl" mode="horizontal-tb"> 發行<lb/>
-            </p>
-            <!--      see #128      -->
-<!--            <div type="image"/>-->
+        <div type="advert" itemid="727">
+            <div type="other">
+                <p dir="rtl" mode="vertical-rl">
+                    痰敵<lb/>
+                </p>
+                <p>
+                    分片露<lb/>
+                </p>
+                <p>
+                    除痰鎭咳<lb/>
+                    平喘止嗆<lb/>
+                    順氣祛風<lb/>
+                    益肺防癆<lb/>
+                </p>
+                <p dir="rtl" mode="horizontal-tb">
+                    片露<lb/>
+                </p>
+                <p>
+                    大瓶二元小瓶一元<lb/>
+                    每瓶一元五角<lb/>
+                </p>
+                <p dir="rtl" mode="horizontal-tb">
+                    上海<lb/>
+                </p>
+                <p>
+                    中西大藥房<lb/>
+                </p>
+                <p dir="rtl" mode="horizontal-tb">
+                    發行<lb/>	
+                </p>
+            </div>
+            <div type="image" itemid="383"/>
+            <div type="image" itemid="384"/>
         </div>
-        <div type="advert">
+        <div type="advert" itemid="728">
             <p> 雜誌界巨擘：全書銅版紙彩紙精印每册兩角<lb/>
             </p>
             <p> 大觀園<lb/>
@@ -527,7 +633,7 @@
     </div>
     <!-- start middle of the fold -->
     <div type="margin" dir="rtl" mode="vertical-rl">
-        <div type="advert">
+        <div type="advert" itemid="555">
             <p> 褚民誼啓事<lb/>
             </p>
 	        <p> 民誼任中法國立工學院院長於今十有二年平素往返京滬每週兩次迨前年底國軍西撤卽常<lb/>
