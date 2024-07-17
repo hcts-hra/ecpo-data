@@ -15,7 +15,9 @@ We also published a number of related repositories:
 -   [ECPO segment](https://github.com/hcts-hra/ecpo-segment) - [dhSegment](https://github.com/dhlab-epfl/dhSegment) based tools to segmant ECPO data
 -   [ECPO full text](https://github.com/hcts-hra/ecpo-fulltext-experiments) - the OCR classification model 
 
-Instructions to editors:
+.
+
+_Instructions to editors_:
 
 For detailed information see the [ECPO Wiki](https://github.com/hcts-hra/ecpo-data/wiki)
 
