@@ -24,3 +24,6 @@ For detailed information see the [ECPO Wiki](https://github.com/hcts-hra/ecpo-da
 For more details about encoding special characters see the [Quick reference](https://github.com/exc-asia-and-europe/ecpo/wiki/Rare-Characters-and-Special-Glyphs#quickreference)
 
 To enter special characters use e.g. [BabelMap](http://www.babelstone.co.uk/Software/BabelMap.html) or [Babel Map Online](http://www.babelstone.co.uk/Unicode/babelmap.html)
+
+## License
+This project is licensed under the terms of the Creative Commons license Attribution 4.0 International (CC-BY).
