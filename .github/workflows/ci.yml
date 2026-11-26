@@ -6,8 +6,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v7
       - name: Install Test Dependencies
-        run: sudo apt-get install libxml2-utils 
+        run: sudo apt-get update && sudo apt-get install -y libxml2-utils
       - name: Validate XML Files
-        run: xmllint --noout --relaxng ecpo.rng jingbao/19**/**/*.xml
+        run: xmllint --noout --relaxng ecpo.rng jingbao-textGT/19*/*/*.xml
